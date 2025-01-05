@@ -2,7 +2,7 @@
 
 ## Giới thiệu
 
-Maestro's Cold War 2 (tạm dịch: [trò chơi] Chiến tranh Lạnh 2 của Maestro) là một trò chơi chiến lược theo lượt, nơi người chơi sẽ đảm nhận vai trò của một trong hai siêu cường lớn nhất thế giới: Liên Xô và Hoa Kỳ, trong thời kỳ Chiến tranh Lạnh (có thể sắp tới sẽ bổ sung cả Trung Quốc). Mục tiêu của người chơi là đạt được số điểm cao hơn đối thủ, thông qua các hành động như xây dựng quan hệ với các nước và phát triển công nghệ, cũng như "hạ bệ" đối thủ trên trường quốc tế (và đảm bảo rằng mình không bị "hạ bệ" trước).
+Maestro's Cold War 2 (tạm dịch: [trò chơi] Chiến tranh Lạnh 2 của Maestro) là một trò chơi chiến lược theo lượt, nơi người chơi sẽ đảm nhận vai trò của một trong hai siêu cường lớn nhất thế giới: Liên Xô và Hoa Kỳ, trong thời kỳ Chiến tranh Lạnh (có thể sắp tới sẽ bổ sung cả Trung Quốc và Pháp như [bản gốc trên web](https://cold-war2.com/en/index.php)). Mục tiêu của người chơi là đạt được số điểm cao hơn đối thủ, thông qua các hành động như xây dựng quan hệ với các nước và phát triển công nghệ, cũng như "hạ bệ" đối thủ trên trường quốc tế (và đảm bảo rằng mình không bị "hạ bệ" trước).
 
 Hiện tại (ngày 5 tháng 1 năm 2025), trò chơi đang được phát triển bởi Maestro Cinetik, với các phiên bản demo được chia sẻ miễn phí trên Steam. Dự kiến bản chính thức đầu tiên sẽ được phát hành vào ngày tháng 9 năm 2025.
 
