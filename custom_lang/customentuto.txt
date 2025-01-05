@@ -1,2 +1,2 @@
-info=Information
-Information=Information
+info=Thông tin
+Information=Thông tin
