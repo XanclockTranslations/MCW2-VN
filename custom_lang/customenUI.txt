@@ -1,0 +1,975 @@
+MauvaiseSphere=You need defence agreements to send troops in a country. To invade a country, your relations with the country must be execrable
+
+pts=pts
+
+Actions=Your Action
+etat=States of Country
+
+NoMoney=You need more money
+€=$
+
+accordsdefavec=Defence agreements with 
+accordseconomiquesavec=Economic treaties with 
+
+actionmilitaire=Military action
+
+actions=Actions
+activitesennemies=Enemy activities
+actualite=News
+
+adminmil=Military administration
+adminmilalliee=Allied military administration
+adminmilsov=Soviet military administration
+
+aidemilitaire=Military aid
+aidebudget=The monthly budget can only be raised through events. Expenses can be reduced by withdrawing troops, closing bases, or reducing R&D funding. Every  that is not spent is lost -- it is not saved up for next month.
+aidealachine=Aid to China
+
+
+contestsocial=Social Protests
+
+
+diminuerrechercher=Decrease research expenditures
+
+
+ecoguerre=War economy
+ecoguerredetail=Your monthly budget is overinflated, and your population will get tired of that...
+
+endeveloppement=developing
+
+ennemis=Enemy forces
+
+fanatisme=Fanaticism
+fanatismedetail= these fighters are fanatical, and getting rid of this guerrilla will be extremely difficult. Coalitions with other rebel groups or negotiations with the government are completely unthinkable things for this group.
+
+
+hommeespace=A human in space
+hommelune=A human on the Moon
+
+
+ids=Strategic Defence Initiative
+
+independantiste=Separatist
+independantistedetail=this guerrilla wants independence for its country.
+
+infiltree=Infiltrated
+infiltreedetail=this guerrilla has been infiltrated, which may jeopardise its military actions and weapon supplies
+infiltrerguerilla=Infiltrate this guerrilla
+
+
+infiltrepar=Infiltrated by 
+
+
+instructeurs=Military Advisors
+instructeursshort=Advisors
+
+
+invasionbdfautre=This country was invaded by a regional power.<br> We cannot tolerate this invasion!
+invasionbdfchine=Chinese troops swarmed into this country.<br> We cannot tolerate this invasion!
+invasionbdfusa=Imperialist troops swarmed into this country.<br>  We cannot tolerate this invasion!
+invasionbdfurss=Soviet troops swarmed into this country.<br> We cannot tolerate this invasion!
+
+
+invasionimpossibletroupes=A country occupied by a superpowers troops cannot be invaded
+invasionimpossibleenclave=We can not invade this country because it is too isolated
+
+islamique=Islamic
+islamiquedetail=this guerrilla will institute a religious state under Islamic law if it seizes power. It can only form lasting coalitions with other Islamic guerrillas
+
+jungle=jungle
+
+kimphilby=Kim Philby
+kimphilbydetail=The US has a significant penalty to subversion in Eastern Europe
+
+leader=Leader
+
+leadercharismatique=Charismatic leader
+leadercharismatiquedetail=this guerrilla is led by a true warrior and leader! It grows more quickly, and is more efficient in combat.
+
+lyssenkisme=Lysenkoism
+lyssenkismedetail=Ideology takes precedence over science within Soviet academia, hampering R&D progress.
+
+
+maffieuse=Mafia
+maffieusedetail=this guerrilla funds itself with massive international trafficking, and it uses the profits to equip itself with heavy weapons. A Mafia guerrilla seizing power will institute a corrupt government
+
+maoiste=Maoist
+maoistedetail=this movement is aligned with Maos views on China.
+
+
+marxiste=Marxist
+marxistedetail=this guerrilla takes its instructions directly from Moscow (as long at the USSR exists).
+
+mauvais=bad
+mediocre=poor
+mefiante=distrustful
+menacer=Threaten
+
+mic=Intercontinental Ballistic Missiles
+mictm=Multiple Independently Targeted Reentry Vehicles (MIRVs)
+basedemissiles=Nuclear ballistic missiles base
+manifestations=Destabilising protests
+
+missiles=Missiles
+
+monarchie=monarchy
+monarchieconstitutionnelle=constitutional monarchy
+montagne=mountain
+moyenne=average
+
+negociations=Negotiations
+negociationsdetail=this movement has initiated talks with the government. If the talks succeed, they will lay down their weapons and take part in regular political life
+
+
+neutre=Neutral
+
+neutretitle=It is impossible to sign defence agreements with this country
+nextturn=Next turn
+
+
+nonalign=Non aligned
+nonalignetitle=It is more difficult to sign agreements with this country
+nonbombeA=This power has yet to have an atomic bomb
+nondisponiblecolonie=This action is not available because this country is a colony.
+nondisponibleadmmin=This action is not available because this country is under military administration.
+
+nondisponibleaidefaite=Only one economic aid can be granted per turn
+normal=normal
+
+
+oppositionpro=opposition controlled by 
+
+orggehlendetail=Bonus to subversion actions in Eastern Europe and the Balkans
+orggehlen=Gehlen Organisation
+
+pacifistes=Pacifist protests
+pacifistesdetail=The higher this score is, the more active pacifist protests are, and the more they will reduce prestige
+xdroite=Segregationist protests
+xdroitedetail=The higher the score is, the more active segregationist protests are, and the more they will reduce prestige
+contestcivic=Civil rights protests
+contestcivicdetail=The higher the score is, the more active civil rights movements are, and the more they will reduce prestige
+
+
+
+paperclip=Operation Paperclip
+paperclipdetail=Plundering German intellectual resources by recycling numerous Nazi scientists boosts American R&D
+
+
+paranoia=Paranoia
+paranoiatitle=This country is particularly resistant to subversion attempts
+
+
+partisansbaltes=Baltic partisans
+partisansdetail=Partisans regularly wreck havoc in Soviet-controlled territory! They consistantly make you lose prestige. The higher their score, the more active they are
+partisansupa=Ukrainian partisans
+
+pasdebudget=Insufficient budget!
+
+planmarshall=Marshall Plan
+points=points
+politiqueindustrielle=Industrial Policy
+poussernegociation=Encourage negotiations
+poussercoalition=Form a coalition
+pousserdivision=Create dissent
+fox=FOX Infiltration
+
+progres=progresses
+
+protectorat=protectorate
+
+protoetat=Proto-State
+protoetatdetail=This guerrilla has carved out a territory for itself that runs like a nation, with its own administration, government, and currency. It is trying to gain official recognition from the international community.
+
+putch=Coup
+
+rappeltroupes=Recall troops
+rappeltoutestroupes=Recall all troops
+
+rapport=WORLD STATUS AND ENEMY ACTIVITIES
+
+ras=Nothing to report
+
+rechercher=Researching 
+rechercheterminee=This technology has been researched
+recherchedev=R&D
+
+relationsusa=relations with the USA
+relationsurss=relations with the USSR
+
+reste=Remaining
+
+regime=government
+republique=republic
+republiquepopulaire=peoples republic
+riche=wealthy
+richesse=wealth
+
+rurale=Rural guerrilla
+
+ruraledetail=this guerrilla has supporters among rural populations, which supply and inform the rebels. Fighting them will require displacing populations and extensive counterinsurgency operations. 
+
+sanctuaire=Sanctuary
+sanctuairedetail=the territorial base of this guerrilla is a remote territory that is difficult to access but easy to defend. Eradicating this movement will prove extremely difficult.
+satellite=Satellite
+sauvegardenotavailableyet=The save system is not yet available
+
+
+snle=Submarines with Ballistic Missiles
+
+
+soutienpopulaire=Popular support
+soutienpopulairedetail=this guerrilla enjoys strong support from the people. It can grow in power faster than other guerrillas.
+
+
+sphereusa=US sphere of influence 
+sphereurss=USSR sphere of influence 
+sphereautre=Sphere of influence 
+
+
+stabilite=stability
+
+stalinisme=Stalinism
+stalinismedetail=The higher a nations Stalinism score is, the more totalitarian its control over society will be. The lower its Stalinism score is, the more Eastern European countries will attempt to emancipate themselves from Soviet protection. A Stalinism score that is over +10 or below -10 risks sparking uncontrollable turmoil.
+
+station=Space station
+subversion=Subversion
+
+taupesmanathan=Projet Manhattan infiltrated
+taupesmanathandetail=Grants you a bonus in developing the A-bomb the higher the score, the higher the research bonus
+
+terrain=terrain
+txtprestige=Prestige 
+tiersmonde=third-world
+
+titleaccorddef=title=Defence agreements will increase your prestige and improve the efficiency of your military aid. You will be able to send troops to this country. A country that signs defence agreements with you goes to your side
+titleaccordeco=title=Economic treaties will increase your prestige and improve the efficiency of your economic aid
+
+titleactionmilitaire=These actions allow you to send troops (or to withdraw them)
+
+
+titleagirguerilla=title=Influence this guerrilla by infiltrating or funding it
+
+titlealigner=title=Will align this country with your positions and deteriorate its relations with your opponent
+titleaideeconomique=title=This action reinforces a country\s stability and wealth, and improves your relations with it
+titlearmeemax=title=This country\s armed forces are already at their full strength!
+titlebase=title=A base will cost you 5 per month, and will grant bonuses to fighting and actions taking place in this territory. A base will also give you a lot of prestige
+
+titlecampusa=This country stands by the USA
+titlecampurss=This country stands by the USSR
+
+titleconditionsmissilesinsuffisantes=title=Conditions to open a ballistic missiles base are not met
+
+titlefermerbase=title=Will close the base and make you lose prestige!
+titlefermermissiles=title=Will remove the monthly charge from your budget and lower tension
+
+titlecreerguerilla=title=will create a guerrilla that shares your ideas in this country
+
+titlediplomatie=title=Will reinforce your connection with this country, increase your relations, and make your other actions more efficient
+
+titleembargo=title=Will sharply deteriorate your relations with this country, and hamper economic or military aid actions in this country.
+
+titleenvoietroupes=Will dispatch troops to this country to defend it against invasions and insurgent movements
+
+
+titleinstructeurs=title=Will dispatch military advisers that cost 5 per month to drill and advise this country\s armed forces
+titlemanifestations=title=This action will decrease stability in this country
+titlemenacer=title=Threatening a country will deteriorate your relations, and could possibly Finlandise it
+
+titlemercenaires=title=Will fund a private army to defend this country without your direct involvement
+
+titlemissile=title=Will install a ballistic missiles base that will increase your chances to win a nuclear showdown
+
+titleaidemilitaire=title=This action reinforces this country\s military potential and increases your relations with it
+titlebudgetinsuffisant=title=Your budget is insufficient to take this action!
+
+
+titlespere=Any change of prestige points is doubled in your sphere of influence
+titlenondisponiblecolonie=title=Action not available in colonies
+
+titreactions=Your Actions
+
+titleinvasion=Will declare war against this country, which could provoke a nuclear showdown
+
+titleopposition=title=Will create an opposition that you control in this country which enables new actions
+titleoppositionnecessaire=title=You must control an opposition in this country to undertake this action
+titleputch=title=Will attempt to overthrow the current government
+
+
+titlerappeltroupes=title=Recall troops
+
+titlesubversion=title=These actions are used to destabilise a country
+
+traits=Traits
+traitsdupays=Traits, Bonuses, and Penalties
+
+tresbonne=very good
+tresfaible=very weak
+tresforte=very strong
+tresmauvais=very poor
+
+tribale=Ethnic
+tribaledetail=this guerrilla has an ethnic or tribal origin that limits its national resonance.
+
+tribalisme=Tribalism
+tribalismetitle=Creating guerrillas in this country is easier
+
+trouble=turmoil
+
+troupes=Troops
+
+troupesalliees=Allied troops
+
+troupesimpossibles=You need defence agreements to send troops in a country. To invade a country, your relations with the country must be execrable
+
+txtbdf=Threaten them with nuclear fire if they do not withdraw their troops!
+txtbdftitle=Triggers a nuclear showdown
+
+txtbdf2=Protest vigorously
+txtbdf2title=No effect
+
+urbaine=Urban guerrilla
+urbainedetail=This guerrilla has its roots in cities, particularly within civil society and academia. Negotiations with this type of guerrilla have a greater chance of success
+
+
+
+voiceof=Voice of America
+voiceofdetail=Grants a bonus in creating oppositions
+
+bonuscomecon=COMECON
+bonuscomecondetail=Aligning countries as the USSR that have a trade agreement with it is easier
+
+/// MAj 1950
+
+guerreindochine=Vietnam War
+titlenapalm=will reduce the strength of guerrillas and invaders, at the cost of prestige
+napalm=Napalm
+
+titlebombardement=will reduce the enemys armed forces and stability
+
+
+// Maj Chine
+
+// MOD CHINE
+
+
+titlevaguehumaine=Overwhelm your enemies with your numerical superiority
+
+maoisme=Maoism
+
+maoismedetail=The Maoism gauge represents Maos influence over the party: if it falls below zero, Mao will be removed from power. As long as Mao is in charge, all guerillas aligned with China may be Maoised. There is also no diplomatic disadvantage when negotiating with non-aligned countries
+
+superpuissance=Superpower
+superpuissancedetail=As long as the superpower gauge is less than 100%, the Chinese player can neither sign a defence agreement nor invade a country which is not in its sphere of China. In addition, R&D is much slower, and troops are much more ineffective. However, the Chinese player has a special action called Human Wave. superpuissanceacquisedetail=China is now a superpower like the USA or the USSR
+
+banditsdetail=Groups of bandits and nationalists are continuing the civil war: the higher their number is, the more they risk disturbing the Chinese economy
+banditssudouest=South-Western Bandits : 
+banditsnordouest=North-Western Bandits : 
+banditscentre=Central Bandits : 
+banditsest=Eastern Bandits : 
+banditsnordest=Northeastern Bandits : 
+
+relationschine=Relations with China
+
+$corruption=Corruption 
+
+maoisation=Maoisation
+
+// 1953 -1956
+
+//what??
+
+gainMaoisme_A=<br>This guerrilla gains the trait Maoism!
+gainMaoisme_B=<br>This guerrilla loses the trait Internal Dissent!
+gainMaoisme_C=<br>This guerrilla loses the trait Corrupted!
+gainMaoisme_D=<br>This guerrilla gains the trait Rural guerrilla!
+gainMaoisme_E=<br>This guerrilla gains the trait Popular support!
+gainMaoisme_F=<br>This guerrilla gains the trait Fanaticism!
+gainMaoisme_G=<br>Infiltrations by the USA and the USSR are eliminated!
+
+
+// 1953 -1956
+
+bananesdulles=Dulles Doctrine
+bananesdullesdetail=The USA have a major bonus to coups in their sphere of influence
+
+americanwayoflife=American way of life
+americanwayoflifedetail=Bonuses to creating oppositions and aligning actions
+pactvarsovie=Warsaw Pact
+pactvarsoviedetail=The Soviets have a bonus to their Threaten and Aligning actions in Europe
+
+
+// 1958
+
+nasseriste=Nasserite
+nasseristedetail= this guerrilla fights for an ideal Arab union centered on Nassers Egypt. The country will join the United Arab Republic if this guerrilla seizes power.
+
+politiqueagricole=Agricultural policy
+
+sousequipee=Underequipped
+sousequipeedetail= Modern firearms are rare in this guerrilla group, and most fighters have only machetes, agricultural tools, or old muskets.
+
+banditstibet=Tibetan bandits: 
+
+aidecuba=Cuban aid:
+
+// 1959
+
+allianceprogres=Alliance for Progress: 
+politiquessociales=Social policies: 
+
+
+panarabisme=Pan-Arabism
+panarabismedetail=Non-Arab nations have a penalty towards creating oppositions in this country
+
+doctrinelemay=Lemay Doctrine
+
+doctrinelemaydetail=Your nerves score in a nuclear showdown is strongly reinforced
+// 1963
+
+telephonerouge=Moscow-Washington hotline
+telephonerougedetail=The USA and the USSR can see the nerves gauge of their adversary during a showdown, unless the opponent is a Bluffer
+importations=Importations
+
+progouv=Pro-Government
+progouvdetail=This guerrill supports this government (... for now)
+
+bomblaos=Bombing of the Ho Chi Minh trail
+rollingthunder=Rolling Thunder 
+
+bonuschelepine=International Revolution
+bonuschelepinedetail=Bonus to supporting guerrillas\ actions
+
+bonusmikoyan=Soft Power
+bonusmikoyandetail=Bonus to relations when economic aid is provided
+
+baas=Baathism
+baastitle=This alternative to your ideology gives you a -1 penalty to creating oppositions
+
+freresmusulmans=Muslim Brotherhood
+freresmusulmanstitle=A formidable ideology that gives a penalty of 1 to the creation of oppositions
+
+nasserisme=Nasserism
+nasserismetitle=A formidable ideology that gives a penalty of 1 to the creation of oppositions
+
+islamisme=Rigorous Islam
+islamismetitle=A formidable ideology that gives a penalty of 1 to the creation of oppositions
+
+concurrencesideologiques=Ideological competitions
+
+// 1966
+
+theologieliberation=Liberation Theology
+theologieliberationtitle=Bonus to destabilising protests actions for the Soviets and coups for the USA
+livrerouge=The Little Red Book
+livrerougedetail=Bonus to creating oppositions
+
+ong=NGOs
+ongtitle=The NGOs grant bonuses to economic aid actions but hinder counter-insurgency operations. They also denounce human rights abuses performed by any stakeholder
+
+onu=UN
+
+onutitle=a UN contingent is deployed which decreases the intensity of fighting in this country... until they become targeted
+sinai=Israeli occupation of Sinai
+sinaititle=Egypt may attack Israel if it feels strong enough (and if Syria is ready to join in)
+
+golan=Israeli occupation of Golan heights
+golantitle=Syria may attack Israel if it feels strong enough (and if Egypt is ready to join in)
+
+// MODE FRANCE
+
+
+// I dont really understand what by group of 25% indicates here.
+// Fixed 
+
+influencepcf=PCF Influence
+influencepcfdetail=A PCF influence of zero or below will trigger frequent strikes, but a high score can generate more serious consequences if the PCF does not participate in the government
+
+empirefrancais=Colonial Power
+empirefrancaisdetail=You can recruit troops in your colonies, but you lose prestige when your colonies gain independence
+
+
+
+
+relationsfrance=French relations
+
+atlantisme=Atlanticism
+atlantismedetail=When this score is negative, you have a bonus to diplomatic actions with non-aligned countries. When it is positive, your armies and your colonial troops\ actions are more effective
+franceotan=NATO
+franceotandetail=You can use napalm!
+
+milicesviet=Create a militia
+titlemilicesviet=Will create an auxiliary militia
+
+
+bienetrebrejnev=Brezhnevian well being
+
+bienetrebrejnevdetail=Over time, the Stalinism score naturally returns to zero
+//MGS
+
+guerillafox=Infiltrated by FOX
+guerillafoxdetail=Agents from the FOX elite unit infiltrated this guerrilla, granting you a significant bonus to all your actions with it.
+
+guerillaboss=Boss
+guerillabossdetail=This organisation hosts an evil genius -- so efficient that the agents operating against it will have to overcome that individual before continuing their mission. (The risks of injury and/or capture are higher for your agents when they fight a boss.)
+
+snake=Deploy Snake 
+sigint=Sigint
+halo=HALO jump
+osp=OSP
+xof=XOF
+shagohod=Shagohod
+activesonar=Active Sonar
+snakeeater=Snake Eater
+fakedeathpill=Fake Death Pill
+
+foxko=Snake is injured! He can continue his mission but will be less efficient!
+
+snakecapture=Snake is imprisoned
+snakecapturedetail=Snake is currently unavailable for missions
+
+snakeblesse=Snake is injured
+snakeblessedetail=Snake is currently unavailable for missions
+
+sokolov=Sokolov
+sokolovdetail=You have a bonus to your Shagohod R&D
+
+contextmission=Analysis of the enemys strengths and weaknesses
+briefing=Briefing
+
+paramedic=Para-Medic
+
+txtfindelamission=Mission complete
+
+
+biosnake=Snake is an elite agent of the FOX Unit.<br>
+He will wreak havoc in any guerrilla group where you assign him.<br>
+However, he will only become extremely efficient if you develop FOX technology.<br>
+
+bonusdesnake=Snakes bonuses
+
+
+txtxof=Snake is assisted by a ghost team led by Skullface which will prepare the ground for him and remove any traces of his mission. Only Major Zero and a few other handpicked high-level officials are aware of the existence of this unit.<br>
+Snakes effiency: +1<br>
+Chances of being captured: -2 <br>
+
+
+txtsigint=Snake is supported by an expert on weapons, equipment, and cutting-edge sigint technology, which flies above the operational area at high altitude with the rest of the support team.<br>
+His advice is essential in numerous situations.<br>
+Snakes effiency: +1<br>
+Efficiency against Bosses: +4 <br>
+
+
+
+txthalo=Snake is airdropped directly above his mission objective from a high altitude, and the low altitude opening of his parachute effectively eases his infiltration by evading radar and anti-air defenses.<br>
+Snakes effiency: +1<br>
+Efficiency against Sanctuaries: +2 <br>
+
+
+txtparamedic=Snake is supported by the medical expert Para-Medic, who is capable of providing direct medical advice on how to treat his wounds and survive.<br>
+Chances of being injured: -4<br>
+Recovery time from injuries is significantly reduced<br>
+
+txtfakedeathpill=Thanks to this pill, Snake is able to simulate death and escape his enemies.<br>
+Chances of being captured: -3<br>
+
+
+
+txtactivesonar=This sonar allows Snake to detect potential enemies from afar, making him very efficient in infiltration missions.<br>
+Snakes effiency: +3 (this bonus becomes void past the 4th stage of a long mission)<br>
+
+
+
+txtosp=This training allows Snake to use any enemy weapon or equipment found in the operational area. He is thus airdropped without any distinctive equipment, to avoid the enemy associating him with us should he be captured.<br>
+Snakes effiency against groups with Heavy Weapons: +2<br>
+Snakes effiency against groups with the trait Mafia: +2<br>
+Snakes effiency against Underequipped groups: -1<br>
+snakezerobonus=Snake has no bonus for the moment
+
+//1981
+
+doctrinereagan=Reagan Doctrine
+doctrinereagandetail=Bonus of 2 for financing guerillas
+
+operationhelico=Airborne Operations
+
+// MODE FRANCE
+// Is this section a duplicate?
+// All changes I made were in the previous section
+
+reconstruction=Reconstruction: 
+reconstructiondetail=Indicates the progression of the national reconstruction. You gain 5 in your budget for each slice of 25% achieved
+
+
+
+tripartisme=Tripartite government
+tripartismedetail=Your nerves gauge is set to 1 at the beginning of a showdown
+
+titletroupescoloniales=You can use colonial troops in your empire.
+
+
+
+When this score is positive, your armies and your colonial troops actions are more efficient.
+
+
+quatriemerepublique=IVth Republic
+quatriemerepubliquedetail=Your political instability generates a disadvantage to your diplomatic actions
+
+
+
+escadronmort=Death squad
+
+escadronmortdetail=This guerrilla specialises in fighting dissidents and activists.<br>
+It uses torture, abductions, and targeted assassinations as part of its strategy of tension and terror.<br>
+
+
+// Display INFO about traits
+
+titretraits=Details of the Traits
+titreterrain=Terrain
+texteterrain=If the terrain is jungle or mountain, fighting guerrilla groups will be more difficult, and the country will defend itself better against invaders. The guerrilla groups that appear in these countries have a higher chance to spawn with certain Traits like \Rural guerrilla\ or \Sanctuary\
+
+titrefinlandisation=Finlandisation
+textefinlandisation=This country is in a situation of imposed neutrality (like Finland after WW2): it cannot sign defence agreements.
+
+titrenonalignement=Non-aligned
+textenonalignement=This country refuses to enter the logic of a bipolar world and distrusts both the USA and the USSR. Signing defence agreements with it is possible, but it is extremely difficult (in short, this trait is a less restrictive version of the \Neutral\ Trait. A neutral country can also be Non-aligned, showing a strong will to retain its absolute independence.
+
+titreneutralite=Neutral
+texteneutralite=This country will not sign defence agreements under any circumstances! It will also try to avoid appearing too close to one of the two blocs.
+
+titrepayscorrompu=Corruption
+textepayscorrompu=This Trait is a true nightmare. Economic aid actions are less efficient in developing and stabilising corrupted countries, but are more efficient at improving relations with their government. Corruption plagues the entire social body and generates discontent it is thus easier to destabilise a corrupted country. This Trait might disappear if the regime changes... but that is unlikely. 
+
+titrepuissancenucleaire=Nuclear bomb
+textepuissancenucleaire=Whether officially or in a secret manner, this country owns nuclear weapons. The nuclear arsenal of this country is quite modest when compared to those of the superpowers. However, a single atomic bomb on Moscow or Washington is all that it takes to force you to think twice -- this country cannot be invaded anymore!
+
+titrepaystribal=Tribalism
+
+textepaystribal=This country is comprised of several ethnic, tribal, linguistic, or religious groups.
+An ill-intentioned global power or irresponsible politicians can take advantage of this characteristic to provoke armed conflicts. Actions to create a guerrilla are easier in these countries, but encouraging violence can result in an endless cycle...
+
+
+titreparanoiaque=Paranoia
+texteparanoiaque=The government is so paranoid that creating an opposition or destabilising this country will be almost impossible.
+
+titreong=NGOs
+texteong=NGOs are actively operating in this area. They notably increase the effect of economic aid. They can warn the world about massacres and crimes against humanity in the countries where they operate -- possibly disturbing anti-guerrilla operations as a result.
+
+titreonu=Blue Berets
+texteonu=A contingent of Blue Berets has been deployed in this country. Its presence hampers the ongoing military operations in the country... until the fighting parties decide they are interesting targets. 
+
+titresinai=Occupation of the Sinai
+
+textesinai=The Israeli army occupies part of Egyptian national territory. Egypt is actively preparing its revenge. A new war will likely break out when the Egyptian armed forces are sufficiently prepared. If the Golan Heights are occupied as well, the Syrians will likely join the conflict.
+
+titregolan=Occupation of the Golan Heights
+
+textegolan=The Israeli army occupies part of Syrian national territory. Syria is actively preparing its revenge. A new war will likely break out when the Syrian armed forces are sufficiently prepared. If the Sinai is occupied as well, the Egyptians will likely join the conflict.
+
+titreideologies=Ideologies
+ideologiescommentaire=These ideologies are necessarily those embraced by the existing government, but they also have a significant weight in the political and intellectual life of this country.
+
+titrebaasisme=Baathism
+textebaasisme=Baathism is a secular Arab renaissance school of thought that combines Arab socialism and Pan-Arabism. Baathism is very critical toward both Marxism and Western imperialism. It is a serious ideological alternative that generates a disadvantage (-1) to the creation of oppositions.
+
+titrefreresmusulmans=Muslim Brotherhood
+textefreresmusulmans=The ideology of the Muslim Brotherhood is well-rooted in this country. This movement advocates an Islamic rebirth. Born in the 1920s, this school of thought spread across the Islamic world, where it is a staunch opponent of secular governments. This is a serious ideological alternative to liberalism and Marxism, resulting in a disadvantage (-1) to the creation of oppositions.
+
+titreislamrigoriste=Fundamentalist Islam
+
+texteislamrigoriste=This catch-all category hosts schools of thought, such as Wahhabism or Salafism, that push for a return to the origins of the Islamic faith.
+These ideologies do not get along with Marxism and political liberalism, resulting in a disadvantage (-1) to the creation of oppositions.
+
+
+titrenasserisme=Nasserism
+
+textenasserisme=The nationalist and Pan-Arab ideals of Gamal Abdel Nasser fired the imagination of the Arab world. Nasser envisioned a world where Arab nations could oppose the former colonial powers and work together against Israel. This is a serious ideological alternative to liberalism and Marxism, resulting in a disadvantage (-1) to the creation of oppositions.
+
+
+titretheologieliberation=Liberation theology
+
+textetheologieliberation=Beginning with Marxist statements and analysis, a theological school of thought emerged with a view of restoring dignity to the poor. This is a theology of action which agitates Latin American societies, and Washington considers this a serious threat. In nations with this Trait, the US gains a bonus to its coup actions, and the Soviets get a bonus to their protest march actions.
+
+
+titrepolitique=Socio-political information
+
+titrerepublique=Republic
+texterepublique=This type of regime is the most sensitive to subversion actions. Oppositions are easily created, and protest marches are less difficult to encourage. Social movements have a chance to be taken into account and addressed by the government.
+
+titremonarchieconsti=Constitutional monarchy
+
+textemonarchieconsti=In terms of gameplay effects, this type of regime is very similar to a republic.<br>
+ Disadvantage to organising protest marches: 1
+
+titremonarchie=Monarchy
+
+textemonarchie=This is a notably \tougher\ form of monarchy, and criticising the monarch can lead you to a grim jail cell. This type of regime is not easily destabilised. The population is often better controlled by the regime than by clans or the army this leaves the government vulnerable to palace revolutions or creations of guerrillas.<br>
+Disadvantage to creating opppositions: 2<br>
+Disadvantage to organising protest marches: 2
+
+titredictature=Dictatorship
+
+textedictature=This is the default regime type set by the US when they overthrow a government. Dictatorships are fairly resilient to subversion actions, and can even use these opportunites to destroy their opponents (crushing the oppositions you control in the process).<br>
+Disadvantage to creating opppositions: 2<br>
+Disadvantage to creating guerrillas: 2<br>
+Disadvantage to organising protest marches: 2<br>
+Disadvantage to coup actions: 2
+
+titrereppop=Peoples republic
+
+textereppop=This is the default regime type set by the USSR. Peoples republics are a bit like dictatorships, in terms of gameplay, but they are much harder to destabilise.<br>
+Disadvantage to creating opppositions: 4<br>
+Disadvantage to creating guerrillas: 4<br>
+Disadvantage to organising protest marches: 4<br>
+Disadvantage to coup actions: 4<br>
+
+titreetatislamique=Islamic State
+
+texteetatislamique=This regime type believes that you are the Great Satan himself, and regurlarly reminds you that they will not do business with their archenemies -- and that does not help another nation with keeping good diplomatic relations.<br>
+Disadvantage to creating opppositions: 4<br>
+Disadvantage to signing defence agreements: 2<br>
+Disadvantage to signing economic treaties: 2<br>
+Disadvantage to relations improvement via economic aid: 2<br>
+Disadvantage to Alignment actions: 4<br>
+Disadvantage to installing military bases: 4<br>
+Disadvantage to organising protest marches: 4<br>
+Disadvantage to \Threaten\ actions: 4<br>
+Disadvantage to coup actions: 4<br>
+
+
+titreadministrationmilitaire=Military administration
+
+texteadministrationmilitaire=This territory is controlled by an occupation force. Political life here has not yet returned to normal.<br>
+Bonus to economic aid (for the player administering the territory) +4<br>
+
+titrecolonie=Colonies and Protectorate
+textecolonie=This territory is administered by a colonial empire, capable of defending it by force. <br> It is not possible to conclude agreements with this country as long as it is not independent. <br>
+Most guerrillas in this country can lead to independence in case of victory.
+
+
+
+
+titrestabilite=Stability
+
+textestabilite=
+The higher a countrys stability is, the stronger it will be:<br>
+- Its troops will fight more effectively<br>
+- It will be more resistant to subversion actions<br>
+- Economic aid will be more efficient<br>
+When stability hits \chaos\, the government can fall at any time.
+However, a country with exceptional stability will feel so strong that it will be less inclined to sign defence agreements with a player (why would you need a protector when you are already powerful?)<br>
+
+titrerichesse=Wealth
+
+texterichesse=
+represents the level of economic development in the country. The poorer a country is, the more sensitive it is to your economic aid. The level of wealth also impacts the Traits of the guerrilla groups that are created in a country.<br>
+
+titreeconomie=Economy
+
+texteeconomie=
+Whether a national economy is market-based or collectivist, it is always affected by economic aid. However, collectivist economies benefit less from economic aid than their market counterparts. The USSR, thanks to the COMECON, has a bonus to Aligning actions in collectivist countries with which it has economic treaties.<br>
+
+creerstaybehind=Stay Behind
+titlecreerstaybehind=Create a secret army that will become active in case of a Communist regime
+
+guerillastaybehind=Stay Behind
+
+guerillastaybehinddetail=This guerrilla group is a secret army trained in underground warfare.<br>
+Its mission is to collect intelligence on Communist activities, engage in sabotage, and develop partisan networks. Due to its existence, the USA has a bonus toward the creation and funding of guerrillas. This army, because of its high level of compartmentalisation, is extremely difficult to eradicate.
+
+
+staybehind=Stay Behind
+staybehindtitle=A secret army is ready to go into action if Communists seize power
+
+titrestaybehind=Stay Behind
+textestaybehind=An anti-Communist secret army will go into action if Communists come to power.
+
+titleactiverstaybehind=Activating this group without an invasion is irresponsible
+activerstaybehind=Activate the Stay Behinds
+
+syndicalismelibre=Free Trade Unionism
+syndicalismelibretitle=Some would call it company unionism. This Trait generates a disadvantage to the Soviets when it comes to organising protest marches
+
+titresyndicalismelibre=\Free\ Trade Unionism
+textesyndicalismelibre=The World Federation of Trade Unions is dominated by the Communists. Their hegemony is challenged by trade unions seeking independence. This tendency led to the creation of an International Confederation of Free Trade Unions in 1949. Strongly influenced by American secret services at first, over time this movement will progressively become more independent and critical toward American policy. Divisions among the member trade unions generate a disadvantage for the USSR when it comes to organising protest marches.
+
+gaullisme=Gaullism
+// Original: gaullismetitle=Disadvantage to threaten and alignement actions
+gaullismetitle=Disadvantage to Threaten and Aligning actions
+
+titregaullisme=Gaullism
+
+textegaullisme=The influence of General Charles de Gaulle on French political life is such that there is a term to describe it: Gaullism.<br> Gaullism is a conservative pragmatic school of thought promoting national unity and social cohesion. In-game, Gaullism will mostly be visible in its staunch refusal to compromise on national sovereignty. This ideology comes with hefty disadvantages to your \Aligning\ and \Threaten\ actions.
+
+
+demochretienne=Christian democracy
+demochretiennetitle=The US has a bonus to its aligment actions
+
+titredemochretienne=Christian democracy
+textedemochretienne=Christian democracy draws its inspiration from the values of Christian humanism. Since the end of WW2, Christian democracy has had a central role in the political life of many European countries. The fear of Communism and the weakening of traditional right-wing parties (a side effect of the war) provided a fertile ground for its political growth and stability. Communism and its perceived daemons made these parties strongly Atlanticist. The US has a large bonus to its Aligning actions in countries where this ideology is present.
+
+// 1970
+
+guerillaattentiste=Wait-and-see
+guerillaattentistedetail=The situation is so confused and muddled in this country that this guerrilla chose to adopt a wait-and-see attitude to see which way the wind will be blowing (unless it is rebuilding its strengths for a new offensive.)
+
+// 1975 
+
+euromissiles=Euromissiles
+euromissilesdetail=Grants a bonus to nuclear showdowns and protest marches in Europe
+
+
+//VUES GUERRE DALGERIE
+// GUERRE DALGERIE
+
+titlesasalgerie=will reduce the influence of the FLN
+sasalgerie=Section Administrative Spécialisées
+
+contingentalgerie=Dispatch the contingent
+titlecontingentalgerie=Will significantly increase your military presence
+
+
+// MAJ MGS COTE URSS
+
+techinterrogatoire=ADVANCED INTERROGATION TECHNIQUES
+
+txttechinterrogatoire=Ocelot is capable of collecting key information on the enemy presence.<br>
+Ocelot efficiency: +1<br>
+Ignores the trait Extra-territorial Base and Sanctuary <br>
+
+equipmodulaire=MODULAR EQUIPEMENT
+txtequipmodulaire=The GRUs research facilities developed a wide array of modular equipments, enabling a quick adapation of weaponry to a variety of situation.<br>
+Ocelot efficiency: +1<br>
+Ocelot efficiency: +3 against bosses<br>
+
+
+formmediccbt=BATTLEFIELD MEDICINE TRAINING
+txtformmediccbt=Ocelot can treat his injuries on his own during missions.<br> Major Ocelot also recovers faster between two missions when injured.<br>==> Decreases the severity of Major Ocelots injuries<br>==> Major Ocelot recovers faster from his injuries.<br>
+
+milmi24=MODIFIED MIL-MI 24
+txtmilmi24=A specially modified combat helicopter lurks around and punctually supports Ocelot. Rather fuel-consuming, unfortunately equipped with small fuel tanks to save space, its autonomy is limited.<br>==> Major Ocelot is more efficient against an enemy with the traits Heavy Weapons or Mafia (+2 chaque)<br>==> Major Ocelot is less efficient against an enemy with the trait\Underequipped\
+
+krokodil=KROKODIL TEAM
+txtkrokodil=A second GRU intervention unit secretly supports Major Ocelot and his men.<br>==> Major Ocelot is more efficient (+1)<br>==> Major Ocelot has less chances to be captured and more chances to escape<br>
+
+gidolocator=GIDOLOKATOR
+txtgidolocator=With the Gidolokator technology, Ocelot will be able to spot enemy patrols and avoid them.<br>
+What a shame its battery is so limited! <br>==> Major Ocelot is more efficient (+3) but not beyond the first 3 stages of long missions<br>
+
+rationsirp=IRP RATIONS
+txtrationsirp=Going on mission with these rations enables a longer survival in hostile conditions, what Ocelot does not refuse.<br>==> Major Ocelot is more efficient in rural areas (+3)<br>
+
+bouclierhumain=HUMAN SHIELD
+txtbouclierhumain=Ocelot is afraid of dishonourable tactics to accomplish his mission and has been specifically trained.<br>==> Major Ocelot will be captured less often (-3)<br>
+
+ocelotzerobonus=Ocelot has no bonus for the time being
+
+
+bioocelot=Ocelot is an elite agent of the GRU.<br>
+He will wreak havoc in guerrilla groups yo which you assign him.<br>
+Ocelot however only becomes extremely efficient if you develop GRU technology.<br>
+ 
+bonusdeocelot=Ocelots bonuses
+
+ocelotcapturedetail=Ocelot is unavailable for missions
+
+ocelotblessedetail=Ocelot is unavailable for missions
+
+krokodile=Ocelot Unit infiltration
+ocelot=Send Major Revolver Ocelot
+
+guerillaocelot=Infiltrated by Ocelot Unit
+guerillaocelotdetail=Elite agents of the Ocelot Units infiltrated this guerrilla, donnant un très fort bonus à vos actions avec elle.
+
+ocelotko=Ocelot is injured! He can continue his mission but will be less efficient!
+agentcapture=Your agent has been captured! he can not continue the mission
+
+// FRANCE 1957+
+
+francecee=EEC
+
+franceceedetail=The country is a member of the European Economic Community, so its reconstruction goes faster
+tentationputchiste=Risk of a coup
+tentationputchistedetail=When this gauge reaches 100%, the French military may attempt to seize power at any time
+
+//1980 +
+
+roguestate=Rogue State
+roguestatetitle=This State is at the margins of the international community and surely funds terrorism
+
+titreroguestate=Rogue State
+texteroguestate=This State is at the margins of the international community: it regularly destabilised its neighbours and train terrorists groups on its national ground.<br>
+Forget about agreements or diplomacy to coax it: the power in this Stats in unpredictable and its agenda is too different from yours.
+As long as this regime is in power, your interests in the world will be threatened.<br>
+rss=Soviet Socialist Republic
+
+titrerss=Soviet Socialist Republic
+
+texterss=This Republic belongs to thr USSR.<br>
+If this republic appears on the maps, seperatist tensions are brewing.
+
+
+nationalismerss=Nationalism
+
+nationalismersstitle=This Republic is beginning to become destabilised by nationalist unrest. The higher the Nationalism gauge is, the more likely it is for troubles to spark.
+
+nondisponiblerss=This action is not available because this country is a Republic of the USSR.
+
+// Patch alt hist Elections US de 1964
+
+ciadistrust=CIA Discredit
+ciadistrustdetail=Penalty of -2 to subversion actions
+
+
+
+//1991 -1993
+
+southernwatch=Southern Watch
+
+sphererusse=Russian Sphere of influence
+
+transitionecorusse=Economic transition
+transitionecorussedetail=Once at 100%, you will gain prestige and your budget will increase over time
+
+chaosrusse=Political and economic chaos
+chaosrussedetail=The economic transition is slowed down and your diplomatic action have a penalty
+
+therapieeco=Shock therapy
+therapieecodetail=Your economic transition should be faster, but perhaps with unwanted effects.
+
+repYougo=Socialist Federal Republic of Yugoslavia
+
+titrerepYougo=Socialist Federal Republic of Yugoslavia
+texterepYougo=This territory is still part of the Federal Republic of Yugoslavia, probably not for a long time.
+
+//TRUMPS WORLD
+
+trumpsapprovaldetail=You will need that score to be above 50 to be reelected
+
+trumpsapproval=Political Approval
+
+magascoredetail=Are you acting like Trump would Have done? A too high or too low score will have consequences...
+magascore=Making America Great Again
+
+trumpstweeterdetail=This is the Twitter follower base of President Trump, the higher this score the more chances of an impacting presidential tweet.
+
+trumpstweeter=Twitter Followers : 
+
+millions=millions
+
+contestecolo=Ecological Protests
+contestecolodetail=The higher this score, the more frequent ecological protests will be, and the more they will reduce prestige
+
+operationdrone=Drone attack
+
+tweeter=Tweet something inspiring 
+titletweeter=Tweet something inspiring
+
+
+//CTHULHU MOD
+
+cthulhuawakens=Cthulhu Awakening Ritual: 
+cthulhuawakensdetail=When the ritual is complet, you lose the game. The more cultists around the world, the faster the ritual progresses
+
+guerillacultists=Cultists
+guerillacultistsdetail=These poor souls are trying to summon Chtulhu

@@ -1,0 +1,49 @@
+$nomAdjectifusa=the USA
+$nomAdjectifurss=the USSR
+$nomAdjectifchine=China
+
+$lesusa=the USA
+$lurss=the Soviets
+$lachine=China
+
+$nomusa=USA
+$nomurss=USSR
+
+$staline=Joseph Stalin
+$truman=Harry Truman
+
+
+// maj 1953
+
+$youwin=VICTORY !
+$youlose=You lose
+$prestigeusa=USA PRESTIGE:
+$prestigeurss=USSR PRESTIGE:
+$scoredebase=Base score (your prestige - your opponent's ) : 
+$malusdifficultefacile=Malus (Easy) : 
+$bonusdifficulte=Bonus (Difficult) : 
+$bonusdifficultehardcore=Bonus Hard Core : 
+$bonusdifficultegulag=Bonus Gulag : 
+$scorefinal=Final Score : 
+$bienvenuehalloffame=Enter the Hall of Fame
+$typeyourpseudo=Your Name 
+$sauvegarder=save score
+
+// MAJ CHINE
+
+$prestigechine=CHINA PRESTIGE: 
+
+// 1963
+
+$mortsubitevietnam=<b>Saigon fell!</b> \n While the North Vietnamese troops surrounds the city, the Westerners and their alliance are evacuated in panic by the helicopters of the U.S. Navy. \n 
+
+
+// FRANCE 
+
+$lafrance=France
+$prestigefrance=PRESTIGE FRANCE:
+
+$mortsubiteindochine=Indochina felt into Communist hands !
+
+$putchalgerie=The army seized the power : the French Republic is no more... \n You lost that game.
+$mortsubitealgerie=Algeria Felt !

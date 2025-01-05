@@ -1,0 +1,604 @@
+//New texts not in the web version
+
+$jungle=jungle
+$desert=desert
+$steppe=steppe
+$forest=forest
+$arctic=arctic
+
+$relationswith=Relations with
+$guerillarelationswith=Guerilla relations with
+
+$protestguerillamass=These countries believe that your irresponsible behaviour will destabilise the region
+
+
+$richessereussishort=The economy of this country is growing rapidly!
+
+$budgetleft=Budget left
+
+//In the sens of "maximum"
+$max=max
+
+$troopsfromcountrygohome=Troups from [land] go back home!
+
+$inquietuderetraitB= This country is worried about [power] withdrawal from the region (relations -1)
+
+$customguerillaname_islamicarmedjihad=Islamic armed Jihad
+$customguerillaname_qualifat=Coalition for the Qualifat
+$customguerillaname_warriorsofthefaith=Fighters for Faith
+$customguerillaname_mujahidins=Al-Mujahideen Brigade
+
+$texteterrainDesert=If the terrain is desert or steppe, armies and guerillas operating in the area will be more vulnarable to bombings and later to drone attacks. The guerrilla groups that appear in these countries have a higher chance to spawn with certain Traits like \"Rural guerrilla\" 
+
+$internationalrelationstooltiptitle=International Relations
+
+$relationtooltiptitle=Relations
+$relationtooltiptexte=the relation score spans 9 levels, from "execrable" to "exceptional." \nLosing or gaining a relation level alters the prestige score. The higher the relationship, the greater the bonus to diplomatic actions. \nYou cannot invade a country unless you have execrable relations with it.
+
+Trade_Agreement=Trade Agreement
+$tradeagreementstooltiptext=Signing a trade agreement with a country increases the prestige score. \n\nTrade agreements provide bonuses to the "economic aid" action. \n\nNo, signing trade agreements does not directly increase the budget of the CIA, the KGB or the Army; this action will have no impact on your budget.
+
+Defence_Treaty=Defence treaty
+$defencetreatiestooltiptext=Signing a defense treaty with a country increases the prestige score. \n\nA country with a defense agreement with you is considered a member of your political bloc: no other player will be able to sign a defense agreement with this country. \n\nDefense treaties provide bonuses to the "military aid" action and unlock additional actions like "military bases" and the possibility to send troops in the country.
+
+Opposition=Opposition
+$oppositiontooltiptitle=Oppositions
+$oppositiontooltiptext=Controlling the opposition is a prerequisite for using most subversion actions.
+
+Base=Military base
+$basestooltiptext=Bases give prestige points when you open them. \n\nBases also give bonuses to military aid actions and fightings in the country.\n\nThe use of Napalm in this country is also unlocked for the USA.\n\nBases have a 5$ upkeep cost
+
+Missiles=Nuclear missiles
+$missilestooltiptext=Missiles grant prestige points and provide a bonus in the event of a nuclear confrontation with neighboring superpowers.
+
+Align=Align
+$aligntooltiptext=You leverage your influence to compel a country to adopt your economic and political model. \n\nFor example, the USSR can employ this action to transform countries into people's republics with collectivist economies.\n\nBrutal political and economical changes may affect stability.
+
+Embargo=Embargo
+$embargoestooltiptitle=Embargoes
+$embargoestooltiptext=Embargoes impose penalties on Military and Economic Aid actions. \nOver the long term, they can affect a country's stability and economic development.
+
+Menacer=Threaten
+$menacertooltiptext=Threatening a country will significantly deteriorate your relationship (recall that a decrease in relationship level results in the loss of prestige points). \n\nThis action is beneficial if you aim to invade a country, as a player can only invade countries with which they have the lowest level of relationship. \n\nThreats may also "Finlandize" a country, effectively preventing your opponent from drawing that country into their bloc.
+
+Instructeurs=Military advisors
+$instructeurstooltiptexts=Military advisors enhance the country's capability to fight wars and guerrillas.\nMilitary advisors will also train the country's army in the use of new weapons, thereby granting a bonus to the military aid action.\nSending military advisors will not trigger a nuclear showdown.\nAdvisors have an upkeep cost.
+
+
+Military_Aid=Military aid
+$militaryaidtooltiptext=This action will directly bolster the country's armed forces.\n\nThe army score of a country considers not only the weaponry but also the training, maintenance, supply chain, and more. \n\nHence, the presence of your military advisors, military bases, and defense agreements all positively influence this metric.
+
+Mercenaires=Mercenaries
+$mercenariestooltiptext=Mercenaries will fight on behalf of the government. \n\nThis is a method to strengthen a country without directly involving your own military. \n\nHowever, if this action is utilized too frequently, its cost will quickly increase. \n\nIt's important to remember that mercenaries might have their own agendas, potentially leading to complications such as staging coups, seizing local resources, or brutalizing the population.
+
+Manifestations=Demonstrations
+$manifestationstooltiptexts=This action is used to reduce a country's stability.\n\nDemocracies and authoritarian regimes will respond to protests in very different ways: the outcomes of such actions can vary widely, and the stability of a country may even be strengthened, depending on the government's response.
+
+$spheresandblocstooltiptitle=Blocs and Spheres of Influence
+
+$spheretooltiptitle=Sphere of Influence
+$spheretooltiptexts=This indicates that the country is of special interest to a power and within its traditional sphere of influence. \nPrestige point gains and losses for a country in a player's sphere of influence are doubled. \nAdditionally, a power receives a bonus in the event of a nuclear showdown if the country is within its sphere of influence.
+
+$blocstooltiptitile=Blocs
+$blocstooltiptitxte=A country which signed a defence treaty with a player enters its political bloc.\nOther players won't be able to signe defence agreements with that country.
+
+$guerillastooltiptitle=Guerillas
+$guerillastooltiptexte=To interact with a guerilla, just click on its flag to display possibe actions.\n\nMost guerillas will try to overthrow the government, but some will simply carve their territory in an easy to defend area and exploit local resources.\n\nGuerillas will also interact with other guerillas, to fight or cooperate.
+
+Economic_Aid=Economic Aid
+$aideEcoWiki=Economic aid is an action primarily aimed at enhancing your relationship with a country.\n\n While it can also contribute to increasing its stability and developing its economy over time, these are considered secondary outcomes.\n\nHowever, channeling excessive aid into a fragile country may elevate its corruption level. Therefore, it's prudent to act judiciously to prevent adverse impacts on the local economy.\n\nThis action tends to be more effective if you have a trade agreement with the recipient country.
+
+$middlemouseclicktoinspect=\n\n(Clicking on the middle mouse button allows you to inspect the algorithm behind that action.)
+
+Coup=Coup
+$couptooltiptext=Coups are executed to change the government, installing a strongman in power with military backing.\n\nContrary to initial assumptions players might have, this action is primarily intended for use on allies. \n\nStrong ties with the local military are crucial for planning a successful coup: the presence of military bases, advisors, and defense agreements all provide bonuses to this action. \n\nIt is advisable to employ this strategy on low-stability allied countries that you fear losing.
+
+Create_Guerilla=Create guerilla
+$createguerillatooltiptext=Inspiring and financing a guerrilla movement is not the quickest path to power, but it is effective and will compel your opponent to allocate resources to defend the country.\n\nThe characteristics of guerrillas are heavily shaped by the socio-political and cultural background of the country where they operate.\n\nIf a guerrilla movement succeeds in overthrowing the government, it will establish a new government that is friendly to you.
+
+Stay_behind=Stay Behind
+$staybehindtooltiptexts=Stay behind groups are underground groups created to conduce secret sabotage and guerilla operations should this country fell under communist rule.\n\nThey can also be activated to conduce a "strategy of tension": opening a period marked by internal conflict, terrorism, and political manipulation, aimed at creating a state of fear and division within the population, often to justify authoritarian measures by the state or to discredit political opponents.
+
+Invade=Invade
+Send_troops=Send troops
+$sendtroopsinfobulletext=Troops will be deployed to defend a country if there is a defense treaty in place, or to invade it if relations are execrable.\n\nDeploying troops incurs an upkeep cost of $1 per troop point.\n\nSending and withdrawing troops sends a strong signal to other countries. \nThreatening the interests of other players may even trigger a nuclear showdown.
+
+Withdraw_troops_all=Withdraw troops (all)
+Withdraw_troops=Withdraw troops
+$withdrawtroopsinfobulletext=Deployed troops incur an upkeep cost of $1 per troop, so withdrawing them will positively impact your budget.\n\nHowever, this action may be perceived as a sign of weakness by your opponent, so carefully consider your decision.
+
+Bombardement=Bombing
+$bombinginfobulletext=Will destroy the target country's infrastructure, reducing its wealth and stability. \n\nUnderdeveloped countries are more resilient to strategic bombing.\n\nBombing campaigns may also impact the country's military forces and can result in significant destruction if the country has steppe or desert terrains.
+
+Napalm=Napalm
+$napalminfobulletext=Napalm is the ideal method for dislodging guerrillas entrenched in jungles or in otherwise inaccessible hideouts.\nBe prepared for some backlash in terms of prestige as your population discovers the use of such controversial weapons.
+
+activerstaybehind=Activate Stay Behind
+activerstaybehindinfobulletexte=Activating the stay-behind groups is politically irresponsible. It will open a period marked by internal conflict, terrorism, and political manipulation aimed at creating a state of fear and division within the population. This is often done to justify authoritarian measures by the state or to discredit political opponents.
+
+financerguerilla=Finance the guerrilla
+financerguerillainfobulletexte=This action will directly increase the strength of the guerrilla, and it will likely improve your relationship with this group, provided it is not politically too distant from you. You can expect diplomatic consequences from neighboring countries.
+
+infiltrerguerilla=Infiltrate guerrilla
+infiltrerguerillainfobulletexte=This action will unlock other actions to influence this guerilla.
+
+poussernegociation=Encourage to negotiate
+poussernegociationinfobulletexte=In case of success, the guerrilla will open negotiations with the government. \nHowever, it is a long road before it lays down its arms. \nDuring the negotiations, one can expect a truce in the fighting.
+
+poussercoalition=Form a coalition
+poussercoalitioninfobulletexte=You advocate for a coalition of guerillas.\nSuch negociations are not easy, and my not last, but in case of success, the different guerillas will unite their efforts to overthrow the government (or defend it if they are pro government)
+
+pousserdivision=Create dissent
+pousserdivisioninfobulletexte=If you can't get rid of the guerrilla, you may try to destroy it from the inside. \nThe effects of this action may vary widely, but it will certainly weaken the guerrilla.
+
+$txtenigmatic=Enigmatic
+
+$nonewsgoodnews=No news, good news!
+
+$actionsandevents=Actions and events
+
+$prestigefirsttoreach=First to reach prestige bonus
+$prestigereach=Prestige when reached
+
+$nulearShowsdownbonus=Nuclear showdown bonus: +
+$neededtechnotounlock=Technologies needed to unlock: 
+
+//Balance of Terror
+
+BalanceofTerror=Balance of terror
+MutualAssuredDestruction=Mutual destruction assured
+nonnuclearconfrontation=Uncertain outcome conventional world war
+technologicaledge=Technological edge:
+MutualLimitedDamages=Mutual limited damages
+
+tooltipapocalypsecounter=You destroyed the world [X] times!
+nuclearapocalypsetitle=Congratulations, you caused the end of the world!\n(yes that means you lost the game)
+youhadonejob=You had one job!...
+oooops=Ooooops!
+playagain=play again
+
+maestrotooltipdefcon=[b]Maestro's tooltips[/b]\n\nAvoid threatening when the Defcon is below 3, else the risk of a nuclear apocalyspe is too high.
+Wesaidnodrugs=We said no drug in the operation room!
+Wesaidnodrugsdetails=As the searing light envelops me, my body begins to dissolve, atom by atom, in the relentless energy of the thermonuclear explosion. \nThe pain, surprisingly, is fleeting—a mere whisper compared to the overwhelming surge of liberation that follows. \nI feel every boundary of my physical form disintegrating, my very essence merging with the universe. \nIn these final moments, there's an unexpected clarity, a profound enlightenment that dawns within the chaos. \nTime stretches infinitely, each second blooming into eternity. \nAs I transcend the mortal coil, the universe unfolds before me in all its unfathomable glory. \nHere, in this ultimate dissolution, I find an exquisite peace, connecting to a cosmic symphony that resonates through what was once me. \nThis is not the end, but a sublime beginning, a transcendence into a state where I am both nothing and everything—boundless and free.
+
+ManyAgesLater=Many ages later...
+chimpanzeeconference=[b]Lord Bono, dean of Arkhan University[/b]: (speaking to a gathering of fellow intelligent species)\n\n"Ladies and gentlemen of the council, today I address a topic of great mystery and misunderstanding: the long-ago disappearance of the mythical human race. It has been speculated by many that such a demise could have been wrought by a catastrophic nuclear war. But let us consider this logically, shall we?"\n\n(pauses and adjusts his goggles thoughtfully)\n"The humans, according to our archaeological reconstructions, were a species of considerable technological advancement. They crafted devices that could explore the depths of space and the intricacies of their own DNA. \nCould a civilization capable of such feats truly have been so stupid as to annihilate themselves with their own creations?"\n\n(murmurs of agreement and curiosity ripple through the audience)\n"I posit that this is highly unlikely. \nWe must look beyond simple explanations and consider more complex scenarios. Perhaps they ascended to a different plane of existence altogether."\n\n(gestures emphatically with a furry hand)\n"Let us not reduce their story to one of mere folly and destruction. \nThe humans were far more sophisticated than such a narrative would suggest. We must learn not only what happened to them but also what they can teach us about the evolution and potential pitfalls of civilization."
+
+$txtogre4telex=The army is entrusted with full authority to restore order
+
+$interventiontroupesautrescontreputch=The coup failed!\nForeign troops intervened to put an end to this adventure;
+
+ikhwan=Ikhwân
+houseofSaud=House of Saoud
+staybehindname=Stay behind saboteurs
+
+yourtroops=Your troops:
+
+fightingpatriots=National Patriotic Army
+
+
+January=January
+February=February
+March=March
+April=April
+May=May
+June=June
+July=July
+August=August
+September=September
+October=October
+November=November
+December=December
+
+close=Close
+choiceeffects=Choice effects
+historicalchoice=historical choice
+decisionhelpers=Decision helpers: click to access more datas for an informed choice
+viewinwikipedia=View in Wikipedia
+viewbudget=inspect your budget
+
+invadedby=invaded by
+
+protestguerillafinanceby=accuses [power] of financing guerilla in [pays]. (rel -1)
+protestguerillafinancebyB=accuses [power] of financing guerilla in [pays]. (rel -2)
+$guerillaforce=Guerilla strenght
+
+vietminh=Viet Minh
+
+ouf=The world is breathing again.
+Callous=callous
+$txtCallousdetail=This leader is unmoved by the prospect of millions of citizens dying if it serves his goals.
+
+negaraislamindonesia=Darul Islam
+
+tibetrebels=Tibet
+maluku=Republik Maluku Selatan
+sansonkosakutai=Sanson Kōsakutai
+
+$terrorist=Terrorist
+$terroristdetail=This group relies on terror attacks to weaken the government and create opportunities.
+
+$bare_foot=Bare foot guerilla
+$bare_footdetail=This guerrilla lacks any modern fighting and communication equipment. Arrows, spears, and swords are considered battle-worthy weapons.
+
+emeutesCaire52=Riots in Cairo
+emeutesCaire52detail=The population protests against the British tutelage (Stability decreases)
+
+agrupaciones=Agrupaciones guerrilleras
+
+BurmaCCP=Communist Party
+ArakanMujahidins=Arakan mujahideen
+
+hotspottooltip=[center]Show World hotspots[/center]
+alignementtooltip=[center]Show alignments[/center]
+sphereandblocstooltip=[center]Show spheres and blocs and events[/center]
+armedforcestooltip=[center]Show spheres and blocs and armed forces[/center]
+threatstooltip=[center]Intelligence agencies' assessed threat level[/center]
+
+
+neutralcountrylabel=Neutral and finlandized countries
+colonieslabel=Colonies
+nonalignedlabel=Non aligned countries
+bloclegendlabel=[power] bloc
+spherelegendlabel=[power] sphere of influence
+cutomviewslabel=Custom views
+customstability_label=Countries stability
+customrelationship_label=Countries relationship with you
+economy_label=Economy type
+wealth_label=Countries wealth
+
+
+$titretechnobombeA_PCversion=YOU EXPLODED AN A-BOMB!
+$textetechnobombeA_PCversion=You are now part of the small club of nuclear powers.
+
+$titretechnobombeA_Others_PCversion=[power] EXPLODED AN A-BOMB!
+$textetechnobombeA_Others_PCversion=How will the balance of terror be affected?
+
+$titretechnobombeH_PCversion=YOU EXPLODED AN H-BOMB!
+$textetechnobombeH_PCversion=You are now part of the small club of nuclear powers owning hydrogen bomb.
+
+$titretechnobombeH_Others_PCversion=[power] EXPLODED AN H-BOMB!
+$textetechnobombeH_Others_PCversion=How will the balance of terror be affected?
+
+$titretechnomic_PCversion=SUCCESSFUL LAUNCH OF YOUR FIRST INTERCONTINENTAL BALLISTIC MISSILE
+$textetechnomic_PCversion=You are now part of the small club of nuclear powers owning intercontinental ballistic missiles
+
+$titretechnomic_Others_PCversion=[power]: SUCCESSFUL LAUNCHE OF AN INTERCONTINENTAL BALLISTIC MISSILE
+$textetechnomic_Others_PCversion=How will the balance of terror be affected?
+
+$titretechno_satellite_PCversion=YOU PUT YOUR FIRST SATELLITE INTO ORBIT
+$textetechnomic_satellite_PCversion=The space race has been unleashed!
+
+$titretechno_Others_satellite_PCversion=[power] LAUNCHES THEIR FIRST SATELLITE
+$textetechnomic_Others_satellite_PCversion=The space race has been unleashed!
+
+$titretechno_snle_PCversion=SUCCESFUL TRIAL OF YOUR FIRST BALLISTIC MISSILE SUBMARINE
+$textetechnomic_snle_PCversion=You are now part of the small club of nuclear powers owning nuclear-powered ballistic missile submarines.
+
+$titretechno_snle_Others_PCversion=[power]: SUCCESFUL TRIAL OF A BALLISTIC MISSILE SUBMARINE
+$textetechnomic_snle_Others_PCversion=How will the balance of terror be affected?
+
+$titretechno_mirv_PCversion=SUCCESSFUL LAUNCH OF YOUR FIRST MULTIPLE INDEPENDENTLY TARGETED REENTRY VEHICLE (MIRV)
+$textetechnomic_mirv_PCversion=How will the balance of terror be affected?
+
+$titretechno_mirv_Others_PCversion=[power]: SUCCESSFUL LAUNCH OF A FIRST MULTIPLE INDEPENDENTLY TARGETED REENTRY VEHICLE (MIRV)
+$textetechnomic_mirv_Others_PCversion=How will the balance of terror be affected?
+
+$titretechno_sdi_PCversion=YOU DEPLOYED YOUR SPACE DEFENCE SYSTEM!
+$textetechnomic_sdi_PCversion=How will the balance of terror be affected?
+
+$titretechno_sdi_Others_PCversion=[power]: DEPLOYMENT OF A SPACE DEFENCE SYSTEM!
+$textetechnomic_sdi_Others_PCversion=How will the balance of terror be affected?
+
+$titretechno_man_in_space_PCversion=YOU SENT A MAN INTO SPACE
+$textetechnomic_man_in_space_PCversion=The space race rages!
+
+$titretechno_man_in_space_Others_PCversion=[power] SENT A MAN INTO SPACE! 
+$textetechnomic_man_in_space_Others_PCversion=The space race rages!
+
+$titretechno_man_on_moon_PCversion=A MAN ON THE MOON!
+$textetechnomic_man_on_moon_PCversion=One small step for him, one giant leap for humanity
+
+$titretechno_man_on_moon_Others_PCversion=[power] SENT A MAN ON THE MOON!
+$textetechnomic_man_on_moon_Others_PCversion=One small step for him, one giant leap for humanity
+
+
+$titretechno_station_PCversion=YOU DEPLOYED A SPACE STATION!
+$textetechnomic_station_PCversion=The space race rages!
+
+$titretechno_station_Others_PCversion=[power] DEPLOYED A SPACE STATION!
+$textetechnomic_station_Others_PCversion=The space race rages!
+
+prestigetooltiphead=This turn [power] prestige changes
+prestigetooltipbynuclearshowdowns=By nuclear showdowns:
+prestigetooltipbyconflicts=Lost in conflicts:
+prestigetooltipbyevents=By Events:
+prestigetooltipbytechno=By Technologies:
+prestigetooltipbytreatiessigned=By treaties signed:
+prestigetooltipbytreatiescancelled=By treaties cancelled:
+prestigetooltipbyrelationschanges=By relations changes:
+
+prestigetooltipcountriesinvolved=Countries involved:
+
+regimelabel_democracy=[center]Democracies[/center]
+regimelabel_dictatorship=[center]Dictatorships[/center]
+regimelabel_monarchies=[center]Monarchies[/center]
+regimelabel_peoplerep=[center]People's republics[/center]
+regimelabel_islamicRepublic=[center]Islamic republics[/center]
+regimelabel_militaryadm=[center]Military administrations[/center]
+regimelabel_colonies=[center]Colonies[/center]
+
+goldwateract=Goldwater–Nichols Act
+goldwateracttooltip=US troops are now more efficient at conventional warfare.
+
+muktibahini=Mukti Bahini
+unita=União Nacional para a Independência Total de Angola
+mplangola=Movimento Popular de Libertação de Angola
+fnlaangola=Frente Nacional de Libertação de Angola
+vietcong=Viet-Cong
+Fatah=Fatah
+fdlpalestine=Al-Jabha al-Dimuqratiya Li-Tahrir Filastin
+$nomseparatistes=Separatist rebels
+$goneunderground=has gone underground / this guerilla gained the wait and see trait
+$serieattentatsdejouee=A series of terror attacks has been foiled.
+$cornered=Cornered
+$cornereddetail=The authorities are hot on the group's Trail
+FranceLibre=France Libre
+
+m26=Movimiento del 26 de julio
+alnmaroc=Armée de libération nationale du Maroc
+nazis=Nazis
+
+$protestationaccordmil="This country's government strongly protests against this military treaty that could destabilise the entire region (relations -2)";
+$FuerzasArmadasRebeldes=Fuerzas Armadas Rebeldes
+
+$txtsuccescontreinsurrectiondetail=This group has lost a favorable trait or gained a negative trait
+$capitalundefended=The road to the capital is wide open and the regime is expected to fall soon.
+
+increasesRDspendings=increases its R&D spendings
+
+displayallreports=Display all Reports
+$volchinois=Chinese volunteers
+
+defcon5tooltiptitle=DEFCON 5: Normal
+defcon4tooltiptitle=DEFCON 4: Increased readiness
+defcon3tooltiptitle=DEFCON 3: Prepared readiness
+defcon2tooltiptitle=DEFCON 2: Immediate readiness
+defcon1tooltiptitle=DEFCON 1: Maximum readiness
+
+
+defcon5tooltip=\nThe world is at peace, and military forces are at their lowest level of preparedness.
+defcon4tooltip=\nThere is no immediate threat to the world order.\nThere is an increase in intelligence gathering and some heightened military readines, just in case...
+defcon3tooltip=\nDisruptions to the global order are likely.\nMilitary forces are placed on higher alert, with increased readiness to mobilize. \nAir Force units are ready to deploy within 15 minutes.
+defcon2tooltip=\nThe risk of war is high.\nForces are on the brink of military action.\nAll combat forces are ready to deploy and engage within hours
+defcon1tooltip=\nThe highest alert level, signaling that war is imminent or already underway.\nForces are fully deployed and ready for combat.
+
+
+
+btn_tutorial=Easy
+btn_normal=Normal
+btn_difficult=Difficult
+btn_hardcore=Hardcore
+btn_gulag=Gulag
+
+title_eventerms=ON EVEN TERMS 1949-1953
+description_eventerms=Now that the Soviets have the atomic bomb and the People's Republic of China has been proclaimed, the Cold War could turn hot. \n\nWill the USA be able to contain communism on several fronts?
+description_eventerms_longue=The Soviet bomb just exploded and the People's Liberation Army won the Chinese civil war.\nThe alliance of the Soviet atomic bomb and the Chinese immense reserves of soldiers could make the Cold War turn hot: will the USA be able to contain the communist flood on several fronts?\nIn this global duel, a direct confrontation is out of question. \nThis is a Cold War for the world leadership, made of propaganda and subversion actions, that begins.
+
+endscreen_youwon=You won!
+endscreen_youlost=You lost!
+endscreen_final_score=Your score
+
+
+
+welcome=Welcome! 
+eventerm_start_event1=Proclamation of the Chinese People Republic
+eventerm_start_event2=France: the prime minister resigns
+eventerm_start_event3=East Germany: promulgation of the Consitution
+eventerm_start_event4=Austria:  the Austrian People's Party won the elections to the National Council 
+eventerm_start_event5=USA: The New York Yankees defeated the Brooklyn Dodgers 10–6
+eventerm_start_event6=Gatemala: deadly flooding killed thousands of people
+eventerm_start_event7=Greece: surrendering of the Communist rebels
+eventerm_start_event8=Poland: Train disaster, killing 200
+eventerm_start_event9=Colombia: Liberal Party meeting stormed by a mob
+eventerm_start_event10=New York: The first cornerstone of the United Nation Headquarters is laid
+eventerm_start_event11=USA: President Truman signed the Fair Labor Standards Amendment
+
+
+unlimited_action=Unlimited actions
+unlimited_action_details=When active, removes the limit of one action per country per turn, for all actions.\n\nPerfect for fast paced, less realistic games.
+
+fast_track_RD=Fast-Track R&D
+fast_track_RD_details=Technologies have no progress penalties if they are ahead of their historical time.\n\n(And, yes you probaly just learned about that penalty by reading this tooltip).
+
+guerilla_supremacy=Guerilla Supremacy
+guerilla_supremacy_details=Guerrillas are more easily created and will have greater potential. \n\nPerfect for adding fun to a game with wild guerrilla forces springing up everywhere.
+
+murky_schemes=Murky plots
+murky_schemes_details=Subversion actions will have a higher chance of success. \n\nThis option is perfect to keep the game flowing: even the most stable countries can now become targets for subversive activities.
+
+steel_curtains=Steel curtains
+steel_curtains_details=Subversion actions will have a lower chance of success in countries that are part of a bloc (with defense agreements with a major power).\n\nThis option creates a more static game with stable blocs: it's for patient, strategic players only!
+
+Dr_Strangelove=Dr.Strangelove
+Dr_Strangelove_details=During Nuclear Showdowns, there is now a risk of nuclear apocalypse even at DEFCON 3, but the Prestige gained during Nuclear Showdowns is now uncapped.\n\nTo be honest, I can't see why anyone would play such an unpredictable game...
+
+Doomesady_clock=Doomsday clock
+Doomesady_clock_details=Your opponent is more likely to yield at DEFCON 1 & 2 if you picked the Threaten choice.\n\nThis is a double edged option as it will encourage you to take more risks. Real gamblers will want to combine it with the Dr Strangelove option.
+
+Doves_nuclear_threats=Dove's showdowns
+Doves_nuclear_threats_details=Whenever both sides engage in negotiations during a nuclear standoff, the prestige at stake in the conflict diminishes. \n\nThis game mode can transform most standoffs into more manageable and less dangerous situations.
+
+Imperialisms_united=Imperialisms united
+Imperialisms_united_details=Invading a country will no more trigger a nuclear Showdown.\n\nThis option is ideal to do some relaxing map painting
+
+Blossoming_economies=Blossoming economies
+Blossoming_economies_details=Economic aid has a greater chance of raising a country’s economy up to the average level. \n\nHowever, this process won’t happen overnight; \nsustained, patient investments over time are necessary to achieve this goal, a process that could take a decade.
+
+Clean_hands_politicians=Clean hands politicians
+Clean_hands_politicians_details=Carelessly distributed economic aid will not lead to corruption. \n\nUse this option to enable large-scale aid without negative consequences. \nIt also pairs well with the 'Blossoming Economies' and 'Unlimited actions' option.
+
+Juntas=Banana republics
+Juntas_details=Coup actions receive a bonus. \nWithout this option, coups are most useful for installing a strongman in charge of an allied country. \nWith the bonus, they become an effective tool against hostile countries with low stability.\nIt is very powerful combined with the 'Murky plots' option.
+
+ruptureaccordsdef=cancellation of military agreements with [power]
+ruptureaccordstrade=cancellation of trade agreements with [power]
+
+play_again_text=Play again
+show_map_text=Show map
+back_to_desktop=Back to desktop
+play=Play
+options=Options
+
+Appealingpowerscaualities=Appalling Casualties for the Army in the conflict in [pays] (Prestige -5)
+Appealingpowerscaualities_massive=Appalling Casualties for the Army in the conflict in [pays] (Prestige -10)
+
+backtoscore=Back to score screen
+
+yalurivercrossing=Many more Chinese "volunteers" crossed the Yalu river into Korea...
+yalurivercrossingdetails=The number of Chinese volunteers increased
+
+boogeyman=Boogeyman
+boogeyman_details=You can now threaten even countries with defense agreements with other powers. \n\nThis will unlock situations where blocs are too strong to be subverted.
+
+evtminorErythreesept1952=Eritrea joins Ethiopia in a federation
+
+//////////////////
+// Added Major Events
+//////////////////
+
+//US EVENT IF KOREA IS LOST AND REUNIFIED BY USSR
+USANorthKoreaLostText=The pitiful evacuation of U.S. troops from Korea spread a wave of anxiety and trauma across American public opinion. \nThat feeling is here to stay. At home, the Red Scare is escalating even further, with the defeat being attributed to the actions of traitors. \nThe "Greatest Generation," who won World War II, feels betrayed by the postwar leadership, and the president's administration is paralyzed by harsh (and perhaps deserved) criticism. \n\nWill the U.S. ever recover from this blow to its leadership?\n\n*Korea is reunited\n*USA loses 500 prestige points.\n*Contestation from all parts of the society increased\n*The president is discredited.
+$titreuntimedtPC2=THE FALL OF KOREA
+
+//USSR EVENT IF KOREA IS LOST AND REUNIFIED BY USA
+USSRNorthKoreaLostText=Korea is reunified and firmly entrenched in the imperialist bloc. \nNeedless to say, the Soviet General Staff is actively reworking the old anti-Japanese defence plans, now taking the U.S. Army and Navy positioned so close to Vladivostok into consideration. \nThe Soviet leadership over the Communist bloc is actively questioned by the more radical party groups. \nTo stabilise the status quo a new wave of purges is sweeping across all circles of Soviet society.\n\n*USSR loses 500 prestige points\n*USSR relations with China, Albania, and Yugoslavia decrease by 1\n*Stalinism increases by 5\n*Military spendings are increased by $5 to reinforce the Far East. 
+
+$UNO=UN
+giant_side_country_tooltips=Giant side country tooltip
+giant_side_country_tooltips_detail=Activate or desactivate those giant tooltip panels that appears on the side of the screen when you hover a country.\n\nSome players find them useful, others find them annoying: choose your side!
+
+realistic_sfx_tooltip=Realistic actions Sfx
+realistic_sfx_tooltip_detail=Actions will now have more realistic sound effects.\nWhenever you get tired of them, just turn off that option.
+
+socialist_kiss=The socialist fraternal kiss was a distinctive greeting exchanged between leaders of socialist states. \n\nIn rare instances, when the leaders shared an exceptionally close bond, the kiss was given on the mouth instead of on the cheeks.\n\nThis fraternal kiss between Soviet and East German leaders became iconic as a pop art painting on the Berlin Wall, subtitled "My God, Help Me to Survive This Deadly Love."
+
+gamesaved=Game saved!
+quicksave=Quick save
+
+multiplayerinfo=In multiplayer games, each turn is played simultaneously.\nWatch for icons appearing on the map to see what your opponent is doing.\n\nGet ready: The game will start as soon as a match is found!
+You_play_as=You play as
+
+multiplayersumupwarning=No enemy actions occur between turns, as all actions are simultaneous in multiplayer mode.
+
+
+//// UI Suite
+
+selectabloc=Select a bloc
+selectdifficulty=Select a difficulty level
+selectscenario=Select a scenario
+multiplayer=Multiplayer
+
+quit=Quit
+newgame=New game
+backtogame=Back to game
+quicksave=Quick save
+quickload=Quick load
+opengamefolder=Open game folder
+
+Show_nerves_bar_tooltip=Red phone
+Show_nerves_bar_detail=Select this option to display your opponent's nerve bar during nuclear showdowns.\nEnabling it makes showdowns easier to win by reducing much of the uncertainty in these confrontations.\nThis feature can be helpful while learning the game, but seasoned and serious players are advised to leave it turned off!
+
+Nerves_bar_tooltip=[b]Nerves[/b]: When the gauge reaches 0, the country yields
+
+Showdown_negociate=Negociate
+Showdown_concede=Concede
+Showdown_threaten=Threaten
+
+Showdown_concede_tooltip=You lose the showdown but your losses in prestige are halved.
+Showdown_threaten_tooltip=Harden your position to destabilise your opponent, may decrease DEFCON and provoke a nuclear threat.
+Showdown_negociate_tooltip=May ease tension and dispell the spectre of a nuclear war but could be interpreted as a sign of weakness.
+
+sound_off=Sound off
+sound_off_tooltip=Sound off!
+soundoffdetail=Now you can enjoy a relaxing game while at work or school.\nYou can also play while watching TV, listening to your own music, or chatting with friends.\n\n***Beware!***\nThere is no way to turn off the sound of nuclear apocalypses! \nSo, don't play with fire!
+
+
+///////////////////
+// DECEMBRE 2024
+////////////////////
+
+$txtmissilesmediumrangethreat=Enemy nuclear weapons in neighbouring countries
+
+$chinedienbienphuTitle=Chinese "Brotherly Volunteers" in Vietnam!
+$chinedienbienphudetail=The air raid is over, but the relief proves fleeting for the French.\n\nSensing an opportunity, Beijing escalates—sending waves of "volunteers" southward, transforming Vietnam into a proxy battleground.\nThe French Expeditionary Corps, stranded and undersupplied, becomes the focal point of a larger conflict, caught between a surging Việt Minh and direct Chinese intervention.\n\nThe war widens, and the stakes spiral beyond control.
+
+$rapprochwashington=this country draws closer to Washington
+$realignwashington=this country realigns its policy on Washington
+
+Howtoplay=How to play?
+
+$titrePolishOctober=Polish October
+$textePolishOctober=Public protests and destalinization led the USSR to accept a more liberal line in this country. \nThat change first happened in Poland, where Gomułka's nationalist reformer faction conduced (a short lived) liberalisation and the effective end of Stalinism in Poland. In the game, a country with this trait protected from the effects of high Stalinism scores, but is more vulnerable to low stalinism efects.\n'Align' action has less chances of success but may remove that trait.
+
+NuclearUmbrella=Nuclear Umbrella
+texteNuclearUmbrella=A recent nuclear showdown has been resolved in this country. It cannot be invaded again before six months have passed since the showdown. \nIt is also not possible to install missile bases in this country during that period.
+
+aswandam=Aswan High Dam
+texteaswandam=The dam is a symbol of Egypt's modernization efforts and national pride: it provides increased stability in the country's water supply, reduces the risk of floods, and generates hydroelectric power.\nThe country's economy will develop faster until it reaches the "developing" level.
+
+fnlalgerie54=Mouvement National Algérien
+eoka=Εθνική Οργάνωσις Κυπρίων Αγωνιστών
+upcameroun=Union des populations du Cameroun
+m26=Movimiento del 26 de julio
+tibet56=Chushi Gangdruk
+
+title_thaw=THAW 1953-1956
+description_thaw=Will the death of Stalin and the rise of Khrushchev mark the beginning of an era of Détente between the two blocs? \nThis decision is up to you!
+description_thaw_long=Will the death of Stalin and the rise of Khrushchev mark the beginning of a Détente era between the two blocs? The decision is up to you!\n\nWhile the USSR faces its first major contestations in the people's republics of Eastern Europe, a new world emerges and refuses to be aligned with any of the blocs. \nIn this global duel, no direct conflict is possible. \nThis is a Cold War for the world leadership, made of propagande and subversion, that begins.
+
+eventerm_start_event12=USSR: death of Joseph Stalin
+eventerm_start_event13=Soviet Union claims to have developed a hydrogen bomb
+eventerm_start_event14=Korea: the United Nations Command repatriates over 75,823 prisoners of war
+eventerm_start_event15=France: 4 millions workers on strike!
+
+hasaccordecowith=Has trade agreements with 
+hasaccorddefwith=Has defence treaty with
+hasbasein=Has a base in
+hasmissilesdeployed=Has missiles deployed in
+
+permesta=Piagam Perjuangan Semesta
+tmtchypres=Türk Mukavemet Teşkilatı
+
+Chypresviolenceintensify=Cyprus: violence escalates
+Chypresviolenceintensifydetails=A new guerilla! 
+$uaregypte=Union 
+
+title_mirages=MIRAGES 1955-1958
+description_mirages=Since the end of the Korean and Indochina Wars, the Cold War centre of tension has shifted to Middle-East.\nWhich earthquakes will the two superpowers cause with their simple ideas in this complicated region?
+description_mirages_long=Since the end of the Korean and Indochina wars, the tension of the Cold War has shifted to the Middle East.\nWhat seisms will provoke the two superpowers by intervening with their simple ideas in this complicated east ?
+
+regime_label=Political regimes
+trade_label=Trade agreements
+brigadaasalto=Brigada de Asalto 2506
+
+unleptmoonpromize=MOONSHOT DREAM DIMS
+unleptmoonpromizetext=In January 1970, the dream of landing on the Moon feels like a distant memory.\nKennedy's promise, once a rallying cry for a generation, has faded into the background. \nWith the space race stalling, the public's attention has shifted elsewhere.\nCivil rights movements continue to challenge the status quo, and the American people are more focused on the turmoil at home than the stars. \nThe Moon remains out of reach, and the promise of exploration is buried under the weight of everyday struggles.\n\n-->USA loses 500 prestige
+
+moondreamcometrue=A DREAM COME TRUE
+moondreamcometruedetail=On this day, America’s boldest promise was realized as Apollo 11 landed on the Moon. \nKennedy's vision of putting a man on the lunar surface by the end of the decade became a triumphant symbol of American innovation and resolve. \nThe world watched in awe as Neil Armstrong took his famous first step, cementing the U.S. as a leader in space exploration. \nThe achievement ignited a sense of national pride and inspired generations to come, fulfilling a dream that seemed impossible just a few short years earlier.\n\n-->The USA gains an additional 500 prestige bonus for fulfilling the president's promise.
+
+paigc=Partido Africano para a Independência da Guiné e Cabo Verde
+frontlibpalestine=Al-Jabha Li-Tahrir Filastin
+etabasque=Euskadi ta Askatasuna
+fuerzasarmadasrebeldes=Fuerzas Armadas Rebeldes
+mr13=Movimiento Revolucionario 13 de Noviembre
+
+kasai=Kasai
+oas=Organisation Armée Secrète
+sandinistes=Frente Sandinista de Liberación Nacional
+monarchistesyemen=لمملكة ‏المتوكلية اليمنية
+
+title_cubalibre=CUBA LIBRE 1959-1962
+description_cubalibre=The Cuban revolution has brought a government that is hostile to the USA just a few miles away from the coasts of Florida.\nThis revolution is already a source of inspiration for many movements in Latin America.\nWill the USA tolerate this socialist thorn in their flank?
+description_cubalibre_long=The Cuban Revolution brought a socialist regime a few miles from the coast of Florida.\nThis revolution is already a source of inspiration for many movements in Latin America. \nWill the United States tolerate this socialist thorn in their flank?

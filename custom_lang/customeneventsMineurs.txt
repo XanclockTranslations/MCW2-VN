@@ -1,0 +1,3472 @@
+
+$annee45evt1=The Chinese communists enter Manchuria
+$annee45evt1title=Manchuria disappears and the communist guerrilla is strengthened (+10)
+$annee45evt2=Democratic coup in Venezuela
+$annee45evt2title=Increase in stability, change to democratic government, relations with the USSR improve and relations with the USA deteriorate
+$annee45evt2b=A democratic coup in Venezuela fails
+$annee45evt2btitle=Increase in stability
+
+$annee45evt3=Brazil: government is overthrown
+$annee45evt3title=Decrease in stability
+
+$annee45evt4=Elections in Hungary: communists are a majority in the government
+$annee45evt4title=improving relations with: the USSR
+
+$annee45evt5=Elections in Bulgaria: communists gather 75% of the votes
+$annee45evt5title=improving relations with: the USSR
+
+$annee45evt6=Nuremberg Trials: Nazis judged for their crimes against humanity
+$annee45evt6title=The ordinariness of evil
+
+$annee45evt7=Czechoslovakia: the Beneš decrees
+$annee45evt7title=Increase in stability
+
+$annee45evt8=Iran-Iraq: Kurdish uprising
+$annee45evt8title=A new guerrilla in the country!
+
+$annee45evt9=Indonesia: battle of Surabaya between Britons and Indonesians
+$annee45evt9detail=Guerrilla fighting resumes
+
+$annee45evt10=Creation of the World Bank and the IMF (USA prestige +25)
+$annee45evt10detail=The liberal economic system is put in place
+
+
+
+
+$annee46evt1=Indochina: France returns
+$annee46evt1title=+10 French troops in Indochina
+
+
+$annee46evt2=Iran: British troops depart
+
+$annee46evt3=Syria: French troops depart
+
+$annee46evt4=Bolivia: democracy is reestablished
+$annee46evt5=Lebanon: French troops depart
+
+$annee46evt6=Turkey turns to the USA
+$annee46evt7=Soviet pressure on Turkey
+$annee46evt8=The Bulgarians put an end to their monarchy
+$annee46evt9=Greece: the civil war resumes
+$annee46evt9detail=The communist guerrilla take up arms!
+
+$annee46evt10=East European liberal oppositions denounce election frauds
+$annee46evt10detail=No immediate effect
+
+$annee46evt11=The war begins in Indochina
+$annee46evt11detail=The Viet Minh guerrilla gains +10 in maximum power
+
+
+$milicesgauche=DSE
+$milicesdroites=Rightist militias
+
+$annee46evt12=Iran: uprising of the Arab tribes of Khuzestan, the hand of London is suspected
+$annee46evt12detail=A new guerrilla in the country
+
+
+$annee46evt13=Iran: communist ministers ousted from the government (the message of London was received)
+$annee46evt13detail=Decrease in relations with the Soviets
+
+$annee46evt14=Iran: a compromis was found with the southern tribes
+$annee46evt14detail=Southern tribes guerrilla comes to an end
+
+$annee46evt15=Indonesia: the Netherlands regain a foothold in their colony
+$annee46evt15detail=+3 Dutch troops in Indonesia
+
+$annee46evt16=Indonesia: the fight for independence resumes
+$annee46evt16detail=Return of the separatist guerrilla
+
+$annee46evt17=USA: Democrats lose the mid-term elections and control of the Congress
+$annee46evt17detail=Is that important ?
+
+$annee46evt18=Proclamation of the Italian Republic
+$annee46evt18detail=This country is now a republic
+
+$annee46evt19=France: election of the second constituent assembly
+$annee46evt19detail=The MRP ahead of the communists and the socialists
+
+$annee46evt20=France: Speech by General de Gaulle in Bayeux, advocating two chambers and strong presidential power
+$annee46evt20detail=He will end up being heard
+
+$annee46evt21=Romania : gangs of bandits hidden since the end of the war unite
+$annee46evt21detail=They want to fight against communists
+
+
+
+
+
+$annee47evt1=Paraguay: civil war!
+
+$annee47evt2=China: the USA cut back their funding to the nationalists
+$annee47evt2b=China: the USA increase their help to the nationalists!
+$annee47evt2bdetail=The US monthly aid budget to China increases by $10
+
+$annee47evt3detail=The US monthly budget increases by $25
+$annee47evt3=USA: Truman wants to drive communism back!
+
+$annee47evt3bdetail=The USA gain a bonus to economic aids
+$annee47evt3b=USA: Truman defines his containment doctrine
+
+$annee47evt4=Burma: independence
+
+$annee47evt5=USA: European Recovery Plan (Marshall Plan)
+
+$annee47evt6detail=The USA sign economic treaties with this country.
+$annee47evt6=This country accepts the Marshall Plan
+
+$annee47evt7=USA: craation of the Central Intelligence Agency (CIA)
+$annee47evt7detail=Unfortunately, this will not give the US player any bonus
+
+$annee47evt8=USA: an unidentified flying object crashes in New Mexico
+$annee47evt8detail=The truth is elsewhere...
+
+$annee47evt9=India: independence!
+$annee47evt9detail=You may now sign agreements with this country
+
+$annee47evt10=War between India and Pakistan
+$annee47evt10detail=A new ingame country: Pakistan
+
+$annee47evt11=Massacres and exodus on both sides of the Indian-Pakistani border
+$annee47evt11detail=India and Pakistan both have their stability decreasing
+
+$annee47evt12=USSR: Zhdanov theorises a world divided between two irreconciliable camps
+$annee47evt12detail=The Soviets gain a bonus to their alignment actions
+
+$annee47evt13=USSR: proliferation of gestures and tokens of goodwill towards the West
+$annee47evt13detail=DEFCON decreases
+
+$annee47evt14=Thailand: coup
+$annee47evt14detail=This country becomes a dictatorship, its stability increases, its relations with the USA improve. Its relations with other States deteriorate.
+
+$annee47evt15=Palestine: the British troops are powerless to contain the multiple outbreaks of violence
+$annee47evt16=Palestine: influx of Arabian volunteers
+$annee47evt16detail=A new Arab guerrilla in Palestine
+
+$annee47evt17=Signing of the GATT (USA prestige +25)
+$annee47evt17detail=The liberal economic system develops
+
+$annee47evt18=Kenya: general strike
+$annee47evt18detail=decrease in stability
+
+$annee47evt19=Madagascar: popular uprising
+$annee47evt19detail=Decrease in stability and guerrilla
+$madagascar47=Malagasy Insurgents
+
+$annee47evt20=Tanzania: dockers strike in Dar-es-Salaam
+$annee47evt21=Niger: railways workers strike
+
+$annee47evt22=Chile: communists ousted from the government. The president accuses them of fomenting troubles.
+$annee47evt22detail=Decrease in stability and deterioration of Chilean relations with the USSR
+
+$annee47evt23=Brazil: ban on the communist party
+$annee47evt23detail=deterioration of relations with the USSR and the communist opposition disappears
+$annee47evt24=Ecuador: coup
+$annee47evt24detail=Decrease in stability, the country becomes a dictatorship and its relations with both the USA and the USSR deteriorate
+
+$annee47evt25=Indochina: Viet Minh attempts to negotiate
+$annee47evt25detail=This guerrilla gains the trait Negotiations
+
+$annee47evt26=USA: explosion of the inflation!
+$annee47evt26detail=Sharp increase in social contestation.
+
+$annee47evt27=USA: Congress secures general demobilisation (At last!)
+$annee47evt27detail=The USA switch to peace budget (-$25)
+
+// EVT FRANCE
+
+$annee47evt28=France: first fiver-year modernisation and equipment plan
+$annee47evt28detail=The reconstruction of France goes one
+
+$annee47evt29=France: the strike spreads! (-$5)
+$annee47evt29detail=-$5
+
+$annee47evt30=France: the strike spreads! (-$10)
+$annee47evt30detail=The high score of the influence of the PCF strikes your budget harder: -$10
+
+$annee47evt31=France: scission with the CGT
+$annee47evt31detail=Influence of the PCF: -2
+
+$annee47evt32=France: Vincent Auriol elected first President of the IVth Republic
+$annee47evt32detail=This does not change anything, the President of the Republic has almost no power in the IVth Republic
+
+$annee47evt33=France: Paul Ramadier forms his government
+$annee47evt33detail=Your new leader: please note that, as long as your have the Tripart trait, he will not come close to be efficient in showdowns
+
+$annee47evt34=Vietnam: fighters of the Hòa Hảo cult decide to serve France
+$annee47evt34detail=You gain new allies, they are a group of unreliable fanatics
+
+$annee47evt35=France: harsh winter and boom in coal importation (-$5)
+$annee47evt35detail=-14°C in Paris in January!
+
+$annee47evt36=France: harsh winter and boom in coal importation (-$10)
+$annee47evt36detail=Why do we not take more coal from the Germans?
+
+$annee48evt1=Costa Rica: elections are invalidated
+$annee48evt1detail=Decrease in stability
+
+$annee48evt2=Proclamation of the Democratic People's Republic of Korea
+$annee48evt2detail=This country becomes a people's republic
+
+$annee48evt3=North Korea: end of the Soviet military administration
+$annee48evt3detail=The Soviet troops depart
+
+$annee48evt4=Costa Rica: civil war!
+$annee48evt4detail=A guerrilla appears in the country
+
+$annee48evt5=Independence of Burma
+$annee48evt5detail=Independence of Burma
+
+$annee48evt6=Burma: civil war!
+$annee48evt6detail=Numerous guerrillas appear in the country
+
+$annee48evt7=Colombia: Violencia!
+$annee48evt7detail=A vicious civil war begins
+
+$annee48evt8=Proclamation of the State of Israel
+$annee48evt8detail=A Jewish State was created and a war begins with its Arab neighbours
+
+$annee48evt9=Israeli-Arab War
+$annee48evt9detail=A Jewish State was created and a war begins with its Arab neighbours
+
+$annee48evt10=Israel acquires heavy weapons
+$annee48evt10detail=armed forces +3
+
+$annee48evt11=Tito distances himself from Moscow
+$annee48evt11detail=Deterioration of Yugloslavian relations with the USSR (-2)
+
+$annee48evt12=Vietnam: the Emperor Bao Dai could come back in the country
+$annee48evt12detail=No effect
+
+$annee48evt13=Vietnam: a new provisory government is formed
+$annee48evt13detail=New flag and a republic
+
+$annee48evt14=Proclamation of the Republic of Korea
+$annee48evt14detail=The country becomes a republic
+
+$annee48evt15=South Korea: end of the American military administration
+$annee48evt15detail=the American troops depart
+
+$annee48evt16=Philippines: Huks fighters are back in the maquis
+$annee48evt16detail=A Hukbalahap guerrilla reappears
+
+$annee48evt17=China: the communists retake Yan'An
+$annee48evt17detail=The People's Liberation Army gains the trait Sanctuary and the Chinese stability decreases.
+
+$annee48evt18=China: the Soviets massively help the CCC
+$annee48evt18detail=The guerrilla gains the trait Heavy weapons
+
+$annee48evt19=Malaysia: communist uprising
+$annee48evt19detail=A new guerrilla in the country
+
+$annee48evt20=Israel: massive aid from the IIIrd Reich to Arab armies
+$annee48evt20detail=The Syrian and Egyptian forces are strengthened
+
+$israel=Israel
+
+$annee48evt21=France: the strike spreads! (-$10)
+$annee48evt21detail=The high score of the influence of the PCF strikes your budget harder: -$10
+
+$annee48evt22=France: the strike still has a sizeable base of strikers (-$5)
+$annee48evt22detail=Luckily for us, the influence of the PCF is not at its highest!
+
+$annee48evt23=France: beginning of the Marie goverment
+$annee48evt23detail=Change of government, business as usual!
+
+$annee48evt24=France: waves of strikes (budget -$5$)
+$annee48evt24detail=Fits the season
+
+$annee48evt25=France: waltz of the governments
+$annee48evt25detail=This IVth Republic seems fairly instable
+
+$annee48evt26=France: Bidault government
+$annee48evt26detail=This one seems to be able to outlast the previous one...
+
+
+
+
+$annee49evt2=Germany: proclamation of the Federal Republic of Germany
+$annee49evt2detail=The country becomes a republic
+
+$annee49evt3=Indonesia: Islamist insurgency
+$annee49evt3detail=A new guerrilla in Indonesia
+
+$annee49evt4=Costa Rica: the army is abolished
+$annee49evt4detail=This country's armed forces are set to 0
+
+$annee49evt5=East Germany: proclamation of the Democratic Republic of Germany
+$annee49evt5detail=This country becomes a people's republic
+
+$dewey=Thomas E. Dewey
+
+$annee49evt9=Somalia under italian administration
+$annee49evt9detail=All is said
+
+
+$annee49evt7=Laos joins the French Union
+$annee49evt7detail=Here we go!
+
+$annee49evt8=Cambodia joins the French Union
+$annee49evt8detail=Here we go!
+
+$annee49evt9b=Somalia becomes an Italian mandate
+$annee49evt9detailb=This says it all
+
+
+
+
+
+$annee50evt1=China: Sino-Soviet Treaty of Friendship and Alliance (USSR prestige +100)
+$annee50evt1detail=Soviet aid to China set to $10 per month, USSR +100 prestige
+
+
+$annee50evt2=Chinese land reform
+$annee50evt2detail=Decrease in stability (-2)
+
+$annee50evt3=South Korea: massacre of communist opponents
+$annee50evt3detail=the communist opposition disappears
+
+$annee50evt4=Tibet: Chinese invasion
+$annee50evt4detail=War between Tibet and China
+
+$annee50evt5=Tibet: Liberation of the country by the Chinese People's Liberation Army 
+$annee50evt5detail=War between Tibet and China
+
+$annee50evt6=China: campaign to eradicate counterrevolutionaries
+$annee50evt6detail=Oppositions in China disappear
+
+$annee50evt7=Korea: massive intervention of Chinese volunteers
+$annee50evt7detail=Significant Chinese reinforcements in Korea
+
+$annee50evt8=Indochina: battle of Cao Bang
+$annee50evt8detail=Viet Minh is now supplied from China and gains the traits Extraterritorial base and Heavy weapons
+
+$annee50evt9=Burma: installation of the remnants of the Chinese National Revolutionary Army
+$annee50evt9detail=An additional guerrilla in this country!
+
+$annee50evt10=China: Kuomintang rebels still hit China in Xinjiang and Yunnan (from Burma)
+$annee50evt10detail=A couple guerrillas appear in China
+
+$annee50evt11=Ivory Coast: riots and nationalist unrest
+$annee50evt11detail=Decrease in stability
+
+
+$annee50evt12=General strike in Guinea
+$annee50evt12detail=Decrease in stability
+
+$annee50evt13=General strike in Kenya
+$annee50evt13detail=Decrease in stability
+
+$annee50evt14=Nepal: palace revolution
+$annee50evt14detail=Decrease in stability
+
+$annee50evt15=Poland-GDR: Treaty of Görlitz (Agreement Concerning the Demarcation of the Established and the Existing Polish-German State Frontier)
+$annee50evt15detail=The stability of both GDR and Poland increases
+
+$annee50evt16=Indonesia : proclamation of an independent republic in the Moluccas
+$annee50evt16detail=Appearance of a proto-state
+
+
+$annee50evt17=France: Queuille government
+$annee50evt17detail=A new boss in town
+
+$annee50evt18=Indochina:  General de Lattre de Tassigny is nominated as High-Commissioner
+$annee50evt18detail=A new spirit already takes hold of our troops (stability +2)
+
+$annee50evt19=France: Pleven government
+$annee50evt19detail=A new boss in town
+
+
+
+
+$annee51evt1=Europe: formation of the European Community of Coal and Steel (ECSC)
+$annee51evt1detail=Stability increases in Belgium, GFR , France, Italy, Luxembourg and the Netherlands if they are not part of the East bloc
+
+$annee51evt2=Asia: creation of the ANZUS (Australia, New Zealand, United States Security Treaty)
+$annee51evt2detail=defence agreements between the USA and these two countries
+
+$annee51evt3=this country joins the ANZUS
+$annee51evt3detail=defence agreements with the USA 
+
+$annee51evt4=Libya: independence!
+$annee51evt4detail=This country is now independent
+
+$annee51evt5=Treaty of San Francisco
+$annee51evt5detail=Scheduled end of the Allied military administration in Japan
+
+
+$annee51evt6=France: new change of government
+$annee51evt6detail=One more... rush to your country screen to see its new characteristics
+
+$annee51evt7=France: change in government
+$annee51evt7detail=Does it really matter?
+
+$annee51evt8=France: the first Beaujolais nouveau arrived! Prestige +1000 (Nope, joke. Sorry.)
+$annee51evt8detail=In case of war we could still drink some all the same
+
+$annee51evt9=Japan: police stations attacked
+$annee51evt9detail=Some communists chose to fight with weapons
+
+
+
+
+
+
+$annee52evt1=The United Kingdom explodes its first atomic bomb!
+$annee52evt1detail=This country owns nuclear weapons and cannot be invaded anymore
+
+$annee52evt2=USSR: German scientists are authorised to return to GDR
+$annee52evt2detail=End of Department 7 and Soviet R&D bonuses 
+
+
+$annee52evt3=Bolivia: electoral crisis
+$annee52evt3detail=Decrease in stability
+
+$annee52evt4=Bolivia: land reform
+$annee52evt4detail=Relations with Moscow improve relations with Washington deteriorate
+
+$annee52evt5=End of the Marshall Plan
+$annee52evt5detail=End of the Marshall Plan
+
+$annee52evt6=Egypt: Revolution 
+$annee52evt6detail=The army deposes King Farouk I
+
+$annee52evt7=British troops evacuate the Suez Canal
+$annee52evt7detail=No more British troops in Egypt
+
+$annee52evt8=D. Eisenhower elected as US President !
+$annee52evt8detail=He will be sworn in in January
+
+$annee52evt9=Venezuela: major constitutional changes
+$annee52evt9detail=The country becomes a dictatorship
+
+$annee52evt10=Indochina: battle of Na San
+$annee52evt10detail=guerrillas lose strength
+
+$annee52evt11=Tunisia: riots in Bizerte
+$annee52evt11detail=Sharp decrease in stability, a guerrilla appears
+
+$annee52evt12=Kenya: Mau Mau revolt
+$annee52evt12detail=A tribal guerrilla appears in Kenya
+
+$annee52evt13=Morocco: riots in Casablanca
+$annee52evt13detail=Decrease in stability
+
+$annee52evt14=Japan: entry into force of the Treaty of San Francisco
+$annee52evt14detail=End of the Allied military administration in Japan
+
+$annee52evt15=Iraq: strikes and social unrest
+$annee52evt15detail=Decrease in stability
+
+ 
+$annee52evt16=France: Faure government
+$annee52evt16detail=Is it a plane? Is it a bird? No, it is a new government!
+
+$annee52evt17=France: Antoine Pinay forms his government
+$annee52evt17detail=Another one? Your must be kidding me!
+
+$annee52evt18=France: Antoine Pinay launches a great loan
+$annee52evt18detail=(So that he can plug the holes in the national budget resulting from his liberal policy) Reconstruction +2
+
+$annee52evt19=France: the inflation is harnessed
+$annee52evt19detail=Reconstruction +2
+
+
+
+
+
+
+
+$eisenhower=D. Eisenhower
+$kroutchev=Nikita Khrushchev
+
+$annee53evt1=USA: Execution of Julius and Ethel Rosenberg
+$annee53evt1detail=End of the Soviet spying bonuses for A-bomb and H-bomb research
+
+$annee53evt2=Czechoslovakia: popular riots
+$annee53evt2detail=Decrease in stability
+
+$annee53evt3=Bolivia: land reform
+$annee53evt3detail=Increase in stability and deterioration of its relations with the USA
+
+$annee53evt4=Bolivia: collectivisation of the economy
+$annee53evt4detail=the economy becomes collectivised
+
+$annee53evt5=USSR: end of the major works of nature transformation
+$annee53evt5detail=industrial policy budget reduced to $0
+
+$annee53evt6=USSR: death of Stalin
+$annee53evt6detail=Change of leader
+
+$annee53evt7=Egypt : prohibition of political parties
+$annee53evt7detail=Egypt is now a dictature
+
+
+
+$annee53evt8=France: new government
+$annee53evt8detail=This time led by the amazing René Mayer!
+
+$annee53evt9=France: Courant plan which foresees 240,000 new accomodations per year
+$annee53evt9detail=Reconstruction +2
+
+$annee53evt10=France: new government
+$annee53evt10detail=Guess what? The previous one did not last long. How long will this one be?
+
+$annee53evt11=France: huge waves of strikes in public service (-$5)
+$annee53evt11detail=Laniel government's policy is not admissible for the civil servants
+
+$annee53evt12=France: Pierre Poujade creates the Union de Défense des Commerçants et Artisans (UDCA Defense Union of Shopkeepers and Craftsmen)
+$annee53evt12detail=Oh little craftsman, the VAT will kill you...
+
+$annee53evt13=René Coty wins the French Presidential elections
+$annee53evt13detail=Not to be confused with the President of the Council of Ministers, who is really in charge of the national
+
+
+
+
+
+
+$annee54evt1=USSR: Virgin Lands campaign
+$annee54evt1detail=The Soviets begin to cultivate the less accessible and less fertile lands
+
+$annee54evt2=USSR: creation of the KGB
+$annee54evt2detail=No effect ^^, the Soviet secret services were already efficient
+
+$annee54evt3=Guatemala: land reform
+$annee54evt3detail=Relations with the USSR improve and relations with the USA deteriorate
+
+$annee54evt4=USA: Dulles Doctrine
+$annee54evt4detail=The USA gains a bonus to their coup actions
+
+$annee54evt5=USA: McCarthy retires ...
+$annee54evt5detail=End of the events linked with McCarthy
+
+$annee54evt6=Morocco: riots in favour of the return of the Sultan
+$annee54evt6detail=Decrease in stability
+
+$annee54evt7=Algeria: armed insurrection for independence
+$annee54evt7detail=A guerrilla appears in Algeria
+
+$annee54evt8=Egypt: bloody confrontations between the government and the Muslim Brothers.
+$annee54evt8detail=Decrease in stability
+
+$annee54evt9=Egypt: general strike and antidemocracy protests
+$annee54evt9detail=Decrease in stability
+
+$annee54evt10=Syria: violent protests against the regime
+$annee54evt10detail=Decrease in stability
+
+$annee54evt11=Egypt: exile of Muslim Brothers to Saudi Arabia
+$annee54evt11detail=Increase in stability
+
+$annee54evt12=Indochina: the French army escapes encirclement in Dien Bien Phû
+$annee54evt12detail=This war is far from being over!
+
+$annee54evt13=Taiwan Strait: shelling of Matsu Islands by the PLA (-$5)
+$annee54evt13detail=Much ado for nothing
+
+$annee54evt14=France: Pierre Mendès-France forms a new government
+$annee54evt14detail=How long will it last?
+
+$annee54evt15=Indochina: Dien Bien Phu still holds steady! (France prestige +25) 
+$annee54evt15detail=How heroics!
+
+
+
+
+
+
+
+$annee55evt1=FRG: creation of the Bundeswehr
+$annee55evt1detail=Increase in FRG armed forces (+10)
+
+$annee55evt2=Brazil: popular riots
+$annee55evt2detail=Decrease in stability
+
+$annee55evt3=NATO is equipped with nuclear weapons
+$annee55evt3detail=Increase in tension
+
+$annee55evt4=: this country joins the Baghdad Pact
+$annee55evt4detail=Defence agreements with the USA
+
+$annee55evt5=USA: beginning of the Civil Rights Movement
+$annee55evt5detail=Increase of contestation in the USA
+
+$annee55evt6=USA: boycott of Montgomery's busses
+$annee55evt6detail=Increase of contestation in the US
+
+$annee55evt7=Camerun: riots in Yaoundé
+$annee55evt7detail=Decrease in stability
+
+$annee55evt8=Sudan: uprising in the south of the country
+$annee55evt8detail=a guerrilla appears
+
+$annee55evt9=Ethiopia: Jubilee of emperor Hailé Sélassié's crowning
+$annee55evt9detail=Increase in stability
+
+$annee55evt10=France: reservists called for Algeria
+$annee55evt10detail=Increase of armed forces and the FLN loses the trait Groupuscule
+
+$annee55evt11=Austria: Austrian State Treaty
+$annee55evt11detail=Austrians are now again in charge of their destiny while the foreign troops depart from the country.
+
+
+$annee55evt12=: this country joined the Warsaw Pact
+$annee55evt12detail=max army strenght +5
+
+$annee55evt13=Cypriot nationalist insurrection
+$annee55evt13detail=Guerrilla appears
+
+$annee55evt14=France: Edgar Faure governement
+$annee55evt14detail=Will this government be capable of leading the country in such troubled times?
+
+
+
+
+
+$annee56evt1=USSR: death of Beria, Nikita Khrushchev succeeds to him
+$annee56evt1detail=Change of leader!
+
+
+$annee56evt2=Khrushchev denounces Stalin's crimes! 
+$annee56evt2detail=He opened a Pandora's box
+
+$annee56evt3=Khrushchev advocates for peaceful coexistence (Prestige +300) 
+$annee56evt3detail=USSR prestige +300, Stalinism greatly decreases
+
+$annee56evt4=Soviet-Yugoslav reconciliation
+$annee56evt4detail=Great improvement in Soviet-Yugoslav relations
+
+$annee56evt5=China: Hundred Flowers campaign
+$annee56evt5detail=Great decrease in stabiity
+
+$annee56evt6=Poland: riots in Poznań
+$annee56evt6detail=Decrease in stability
+
+$annee56evt7=Bolivia: risk of civil war
+$annee56evt7detail=Great decrease in stabiity
+
+$annee56evt8=Hungary: Insurrection in Budapest (USSR prestige -150)
+$annee56evt8detail=Insurrection harshly suppressed, increase in Stalinism
+
+$annee56evt9=Poland: Gomułka criticises Stalinism and promises democratic reforms!
+$annee56evt9detail=Stalinism -2
+
+
+$annee56evt10=USA: D.Eisenhower wins presidential elections
+$annee56evt10detail=D.Eisenhower president
+
+$annee56evt11=FRG: Organisation Gehlen joins the BND
+$annee56evt11detail=deactivates Organisation Gehlen
+
+$annee56evt12=Independence of Sudan
+$annee56evt12detail=A new country to court
+
+$annee56evt13=Camerun: opposition chooses armed struggle
+$annee56evt13detail=a guerrilla appears in Camerun
+
+$annee56evt14=Independence of Morocco!
+$annee56evt14detail=A future new ally?
+
+$annee56evt15=Independence of Tunision!
+$annee56evt15detail=A future new ally?
+
+$annee56evt16=Algeria: France mobilises the contingent
+$annee56evt16detail=Increase in French armed forces in Algeria
+
+$annee56evt17=Honduras: ban on the communist party
+$annee56evt17detail=The pro-USSR opposition disappears
+
+$annee56evt18=Cuba: a handful of rebels hides in Sierra Maestra
+$annee56evt18detail=They are no more than twenty, they will not last long
+
+$annee56evt19=Tibet: popular uprising
+$annee56evt19detail=a Tibetan guerrilla appears
+
+$annee56evt24a=Algeria: FLN summit at Soummam
+$annee56evt24detaila=The fln eventually lose some negative traits
+
+$annee56evt20=Morocco: the Rif sets on fire
+$annee56evt20detail=a guerrilla group appears
+
+$annee56evt21=Morocco: significant trade union unrest (stability -1)
+$annee56evt21detail=CIA seems to be behind this manoeuvre: a pro-US opposition appears
+
+$annee56evt22=France: Guy Mollet President of the Council
+$annee56evt22detail=A new President of the Council
+
+$annee56evt23=Algeria: Guy Mollet received in Algiers with tomato throwing
+$annee56evt23detail=Stability -1
+
+$annee56evt24b=Algeria: Soummam FLN Congress
+$annee56evt24detailb=FLN losts traits : negociations, awaitting and internal dissents
+
+
+
+$annee57evt1=: the USA consider this country to be vital for their interests
+$annee57evt1detail=this country enters the American sphere of influence
+
+$annee57evt2=Eisenhower defines his doctrine for Middle-East
+$annee57evt2detail=Some countries enter the American sphere of influence
+
+$annee57evt3=Algeria: battle of Algiers
+$annee57evt3detail=the guerrilla loses strength but gains the trait Terrorist
+
+$annee57evt4=Germany: the country protests against the brain drain by the USA
+$annee57evt4detail=End of Operation Paperclip
+
+$annee57evt5=USA: end of Operation Paperclip
+$annee57evt5detail=End of Operation Paperclip
+
+$annee57evt6=Colombia: political transition
+$annee57evt6detail=The country becomes a republic
+
+$annee57evt7=Cuba: Sierra Maestra Manifesto
+$annee57evt7detail=an obscure guerrilla loses the trait Groupuscule and gains the traits Rural and Popular support
+
+$annee57evt8=Haiti: fixed elections
+$annee57evt8detail=The country becomes or remains a dictatorship
+
+$annee57evt9=Algeria: Complot bleu by the French secret services
+$annee57evt9detail=The FLN gains the trait Internal dissentions
+
+$annee57evt10=Western Sahara: Ifni War
+$annee57evt10detail=The Moroccan Army of Liberation goes against the Spanish coloniser
+
+$annee57evt11=China: Hundred Flowers campaign
+$annee57evt11detail=Decrease in stability
+
+$annee57evt12=China: sudden stop of the Hundred Flowers campaign
+$annee57evt12detail=Sharp increase in stability
+
+$annee57evt13=Cambodia: proclamation of the country's neutrality
+$annee57evt13detail=Cambodia becomes neutral
+
+
+$annee57evt14=Jordan: political instability
+$annee57evt14detail=Sharp decrease in stability, a communist opposition appears
+
+$annee57evt15=Indonesia: Proclamation of the Permesta
+$annee57evt15detail=A new guerrilla!
+
+
+$annee57evt16=France: a new government, at last!
+$annee57evt16detail=Everything changes, nothing changes: the risk of a coup increases by 10%
+
+$annee57evt17=France: government instability: governments are waltzing! (prestige -5)
+$annee57evt17detail=The risk of a coup increases by 20%
+
+$annee57evt18=France: Félix Gaillard forms a new government
+$annee57evt18detail=This one looks like a serious and efficient lad: reconstruction +1%, the risk of a coup increases by 10%
+
+
+
+$annee58evt1=USRR: end of the Virgin Lands campaign
+$annee58evt1detail=$10 are now freed for your budget
+
+$annee58evt2=: this country join the European Economic Community
+$annee58evt2detail=Increase in stability
+
+$annee58evt3=Creation of the European Economic Community
+$annee58evt3detail=An era of stability of the involved countries
+
+$annee58evt4=Venezuela: a popular movement oust the junta
+$annee58evt4detail=The country becomes a republic
+
+$annee58evt5=Vietnam: infiltrations of Vietcong fighters in the south
+$annee58evt5detail=Vietnamese fighters resume their fight!
+
+$annee58evt6=Cuba: Cuban army humiliated in Santa Clara
+$annee58evt6detail=A myth was born that day: the guerrilla gains the trait Charismatic leader and the Cuban stability collapses
+
+$annee58evt7=North Yemen: this country joins the United Arab Republic
+$annee58evt7detail=North Yemen joins the UAR
+
+$annee58evt8=China: the Great Leap Forward!
+$annee58evt8detail=Brutal economic reforms decrease the Chinese stability
+
+$annee58evt9=Iraq-Jordan: union of the two countries under King Faisal II of Iraq
+$annee58evt9detail=The two kingdoms unite
+
+$annee58evt10=Iraq-Jordan: Iraq withdraws from the Arab federation
+$annee58evt10detail=Jordan exists again as an independent State
+
+$insurgentsirakiens=Iraqi insurgents
+
+$annee58evt11=USSR: agricultural reforms
+$annee58evt11detail=$10 of the monthly Soviet budget are allocated to agricultural policies
+
+$annee58evt12=Argentina: petrol workers strike
+$annee58evt12detail=Decrease in stability
+
+$annee58evt13=Indonesia: a rebel government is proclaimed in Sumatra
+$annee58evt13detail=A proto-State appears in Indonesia
+
+$annee58evt14=Tibet: armed uprising
+$annee58evt14detail=an armed guerrilla appears in China
+
+$annee58evt15=Burma: power is entrusted to the army
+$annee58evt15detail=An anticommunist dictatorship is set up in Burma
+
+$annee58evt16=Jordan: departure of the British troops
+$annee58evt16detail=British troops leave the country
+
+$annee58evt17=Cyprus: the Turkish nationalists take up arms
+$annee58evt17detail=A new guerrilla appears
+
+$annee58evt18=Lebanon: civil disorder and American intervention
+$annee58evt18detail=The American troops are deployed in Lebanon to prevent the country from imploding
+
+
+$annee58evt19=France: assassination of policemen by the FLN on mainland France
+$annee58evt19detail=The FLN strikes on national ground
+
+$annee58evt20=France: the policemen protest against the inaction of the government
+$annee58evt20detail=The risk of a coup increases
+
+$annee58evt21=France: the government fell once more...
+$annee58evt21detail=The risk of a coup increases
+
+
+
+$annee59evt1=Cuba: government collapses after President Fulgencio Batista flees the country
+$annee59evt1detail=Stability set to chaos and the Cuban military power is reduced by half
+
+$annee59evt2=Cuba: agrarian reform
+$annee59evt2detail=Increase in stability, deterioration of the relations with the USA, the regime becomes a dictatorship
+
+$annee59evt3=China: Tibetan uprising
+$annee59evt3detail=Appearance of reinforcement of the Tibetan guerrilla, which also gains the trait Popular support
+
+$annee59evt4=Iraq: following a military coup, the country joins the United Arab Republic
+$annee59evt4detail=Iraq unites with Egypt
+
+$annee59evt5=Cuba: Fidel Castro voted in in triumph!
+$annee59evt5detail=Sharp increase in stability
+
+$annee59evt6=Turkey: the USA deploy nuclear ballistic missiles
+$annee59evt6detail=Ballistic missiles are directed to the USSR from the Turkish soil
+
+$annee59evt7=Congo: bloody riots in Léopoldville
+$annee59evt7detail=Sharp decrease in stability
+
+$annee59evt8=Mali: creation of the Mali federation with Senegal
+$annee59evt8detail=This federation has many opponents
+
+$annee59evt8bis=Independence of Senegal
+$annee59evt8bisdetail=Here comes a new country!
+
+$annee59evt8ter=Independence of Mali
+$annee59evt8terdetail=Here comes a new country!
+
+$annee59evt9=Malawi: proclamation of a state of emergency against the separatist unrest
+$annee59evt9detail=Decrease in stability
+
+$annee59evt10=South Rhodesia: proclamation of a state of emergency
+$annee59evt10detail=Decrease in stability
+
+$annee59evt11=Angola: militants of the People's Movement for the Liberation of Angola are arrested
+$annee59evt11detail=Increase in stability and of armed forces
+
+$annee59evt12=Guinea-Bissau: bloody suppression of the dockers stike
+$annee59evt12detail=Decrease in stability
+
+$annee59evt13=Guinea-Bissau: the opposition takes up arms
+$annee59evt13detail=The fight for independence begins!
+
+$annee59evt14=Rwanda: ethnic massacres of Tutsis
+$annee59evt14detail=Decrease in stability
+
+$annee59evt15=Laos: civil war
+$annee59evt15detail=A guerrilla appears
+
+$annee59evt16=Vietnam: opening of the Ho Chi Minh trail
+$annee59evt16detail=The Vietcong gains the trait Extraterritorial base and the Pathet Lao gains +2 in maximum force if it exists
+
+$annee59evt17=Israel: creation of a Palestinian Liberation Front
+$annee59evt17detail=A new guerrilla appears
+
+$annee59evt18=Spain : Birth of ETA
+$annee59evt18detail=A new guerrilla appears
+
+
+
+
+
+
+$annee60evt1=France: this country equip itself with nuclear weapons!
+$annee60evt1detail=This country cannot be finlandised anymore
+
+$annee60evt2=USA: first sit-ins against segregation
+$annee60evt2detail=Civil contestation increases
+
+$annee60evt3=Guatemala: the country sinks into violence
+$annee60evt3detail=Two guerrillas appear
+
+$kennedy=John Fitzgerald Kennedy
+
+
+$annee60evt4=USA: election of John Fitzgerald Kennedy
+$annee60evt4detail=He will take up his post in January
+
+$annee60evt5=USSR: American spy aeroplanes fly over the USSR
+$annee60evt5detail=They fly at high altitude and the efficiency of our high-altitude surface-to-air missiles are at best limited: we are thinking about other tactics to shoot them down.
+
+$annee60evt6=Congo: a military coup ousts the pro-communist from power
+$annee60evt6detail=The country becomes a dictatorship
+
+$annee60evt7=Congo: South Kasai secedes
+$annee60evt7detail=A proto-State guerrilla appears, the Belgian troops withdraws
+
+$annee60evt8=Cuba: creation of Committees for the Defense of the Revolution
+$annee60evt8detail=Increase of armed forces and in stability
+
+$annee60evt9=Indonesia: opposition parties are banned
+$annee60evt9detail=Oppositions disappear
+
+$annee60evt10=Indonesia: parliament is dissolved
+$annee60evt10detail=The country becomes a dictatorship
+
+$annee60evt11=Foundation of the OPEC
+$annee60evt11detail=The Third-World petrol-producing countries organise themselves (no immediate effect)
+
+$annee60evt12=China: the drough ruins harvests (-$5)
+$annee60evt12detail=Agricultural incomes decrease (and a few million die of hunger)
+
+
+
+
+
+
+$annee61evt1=USA: Freedom Rides against discrimination
+$annee61evt1detail=Increase in civil contestation
+
+$annee61evt2=Ethiopia: Eritrean resistance movements
+$annee61evt2detail=A guerrilla appears
+
+$annee61evt3=Iraq: Kurdish uprising
+$annee61evt3detail=A guerrilla appears
+
+$annee61evt4=Dissolution of the United Arab Republic
+$annee61evt4detail=End of the UAR
+
+
+$annee61evt5=Angola: independence war
+$annee61evt5detail=3 guerrillas appear
+
+$annee61evt6=Angola: taking in hand and massacres by the Portuguese colonial army
+$annee61evt6detail=Increase in stability and of colonial troops, the guerrillas gain the trait Popular support
+
+$annee61evt7=North Rhodesia: large civil disobedience campaign
+$annee61evt7detail=Decrease in stability
+
+$annee61evt8=Algeria: apperance of an Organisation Armée Secrète (Secret Army Organisation)
+$annee61evt8detail=A new guerrilla appears
+
+$annee61evt9=India: the Indian army puts an end to Portuguese possessions in India.
+$annee61evt9detail=Sharp increase in Indian stability and decrease in Portuguese stability.
+
+
+
+
+$annee61evt10=USA: election of John Fitzgerald Kennedy
+$annee61evt10detail=and he has a very nice haircut
+
+
+
+
+
+
+
+$annee62evt1=USA: General Lemay's views are supported, the country prepares for the inevitable nuclear conflict
+$annee62evt1detail=Increase in R&D and bonus to nuclear showdowns
+
+$annee62evt2=USA: the Secretary of Defence implement a significant reinforcement of the American army
+$annee62evt2detail=Increase in the American budget and the arms race
+
+$annee62evt3=Nicaragua: Sandinista National Liberation Front
+$annee62evt3detail=A guerrilla appears
+
+$annee62evt4=Sino-Indian war
+$annee62evt4detail=China and India are now at war
+
+
+$annee62evt5=The university of Mississipi welcomes its first black student
+$annee62evt5detail=Welcome being a polite word for having to be escorted by Marshalls to attend his classes: civil rights opposition decreases while extreme right opposition increases
+
+$annee62evt6=Mozambique: creation of the Mozambique Liberation Front
+$annee62evt6detail=A guerrilla appears in Mozambique
+
+$annee62evt7=Ghana: state of emergency, the country shifts to dictatorship
+$annee62evt7detail=Increase in stability and the country becomes a dictatorship
+
+$annee62evt8=Algeria: Evian agreements
+$annee62evt8detail=Toward independence (July)
+
+$annee62evt9=Algeria: wave of violence
+$annee62evt9detail=Decrease in stability
+
+$annee62evt10=Algeria: the OAS lays weapons down
+$annee62evt10detail=End of the OAS guerrilla
+
+$annee62evt11=Yemen: the monarchy is overthrown by a socialist regime
+$annee62evt11detail=The monarchists become partisans
+
+$annee62evt12=Yemen: intervention of Egyptian troops
+$annee62evt12detail=An Egyptian contingent arrive in North Yemen, the Yemenite army reinforces itself
+
+
+
+
+
+
+
+
+
+$annee63evt1=Vietnam: battle of Ap Bac
+$annee63evt1detail=The ARVN struggles to fight the Vietcong
+$annee63evt2=Vietnam: failure of the strategic hamlets policy
+$annee63evt2detail=The communists score in the countrysides, the Vietcong gains the traits Rural guerrilla and Popular support
+$annee63evt3=Iran: the Shah launches the White Revolution!
+$annee63evt3detail=The country's wealth increases
+$annee63evt4=Iran: strong opposition from the clergy to the Shah's policy
+$annee63evt4detail=The country's stability decreases
+
+$annee63evt5=Iraq: the Ba'ath seizes power!
+$annee63evt5detail=The country becomes a dictatorship and its stability increases
+
+$annee63evt6=Iraq: harsh suppression of the oppositions
+$annee63evt6detail=The oppositions disappear
+
+$annee63evt7=Syria: the Ba'ath seizes power!
+$annee63evt7detail=The country becomes a dictatorship and its stability increases
+
+$annee63evt8=Syria: harsh suppression of the oppositions
+$annee63evt8detail=The oppositions disappear
+
+$annee63evt9=Syria: Nasserist coup
+$annee63evt9detail=The country joins the United Arab Republic with Egypt
+
+$annee63evt10=Morocco-Algeria: border conflict (Sand War)
+$annee63evt10detail=These two countries are at war, the Moroccan armed forces increase sharply
+
+$annee63evt11=Guatemala: return of anti-imperialist leading figures in the country
+$annee63evt11detail=An opposition controlled by the USSR appears
+
+$annee63evt12=Guatemala: civil war
+$annee63evt12detail=The rebel armed forces lose the trait Groupuscule and rise if they had disappeared previously
+
+$annee63evt13=Ivory Coast: suppression of the opposition
+$annee63evt13detail=Stability increases (+2)
+
+$annee63evt14=Portuguese Guinea: resumption of the fight for independence
+$annee63evt14detail=Guerrilla in Guinea
+
+$annee63evt15=Mali: Tuareg uprising
+$annee63evt15detail=Guerrilla in Mali
+
+$annee63evt16=Congo: riot days
+$annee63evt16detail=Stability decreases sharply
+
+$annee63evt17=Algeria: Kabylian maquis
+$annee63evt17detail=A guerrilla appears in Algeria
+
+$annee63evt18=Ethiopia: guerrilla in Ogaden
+$annee63evt18detail=Guerrilla in Ogaden
+
+$annee63evt19=Brazil: degradation of the economy and social reforms
+$annee63evt19detail=Stability decreases, relations with the USA slightly deteriorate and relations with the USSR slightly improve
+
+$annee63evt20=Borneo: Indonesian claims on the north of the island
+$annee63evt20detail=Konfrontasi between Indonesia and Malaysia
+
+$annee63evt21=Cambodia: this country reaffirms its neutrality
+$annee63evt21detail=This country becomes neutral
+
+$annee63evt22=Peru: a Guevarist movement take up arms
+$annee63evt22detail=Another bunch of urban intellectuals on their way to lead the peasant masses into revolution?
+
+$annee63evt23=Congo: a Marxist president
+$annee63evt23detail=The country draws closer to the USSR and gets away from the USA
+
+
+
+
+
+
+
+
+$annee64evt1=Congo: colonial Simba rebellion
+$annee64evt1detail=A hord of fanaticised warriors covered with talismans, supervised by Maoists floods into the north of Corngo
+
+$annee64evt2=Tanganyika: mutinies!
+$annee64evt2detail=Stability decreases (Tanzania)
+
+$annee64evt3=Ghana: the Convention People's Party becomes the single party
+$annee64evt3detail=Dictatorship, the oppposition controlled by the USA disappear, the relations with the USA deteriorate while the relations with the USSR improve
+
+$annee64evt4=Somalian-Ethiopian conflict for Ogaden
+$annee64evt4detail=These two contries are at war
+
+$annee64evt5=Mozambique: independence war
+$annee64evt5detail=Guerrilla in Mozambique
+
+$annee64evt6=Sudan: the prople overthrows the government
+$annee64evt6detail=Sudan becomes a republic and its stability decreases
+
+$annee64evt7=Panama: tragic anti-American protest marches, 21 deads
+$annee64evt7detail=In the canal area, the Marines had to shoot in the crow... Relations between the Panama and the USA deteriorate badly
+
+$annee64evt8=Brazil: economic crisis and popular demonstrations
+$annee64evt8detail=Stability decreases
+
+$annee64evt9=Brazil: nationalisations in agriculture and petroleum refineries
+$annee64evt9detail=Relations with the USA deteriorate
+
+$annee64evt10=Haiti: constitution amended to enable lifetime presidency
+$annee64evt10detail=The country becomes a dictatorship
+
+$annee64evt11=Burma: a Burmese way toward socialism
+$annee64evt11detail=The Burmese armed forces increase to their maxmium the country becomes neutral and its relations with the USA deteriorate
+
+$annee64evt12=Afghanistan: constitutional reform
+$annee64evt12detail=The country becomes a constitutional monarchy
+
+$annee64evt13=Frist Chinese atomic bomb!
+$annee64evt13detail=China now has the bomb
+
+$annee64evt14=Creation of Palestine Liberation Organisation
+$annee64evt14detail=A paramilitary organisation establishes in Jordan
+
+$annee64evt15=Laos: resumption of the civil war
+$annee64evt15detail=The Pathet Lao is back on the frontline
+
+
+$annee64evt16=USSR: Khrushchev deposed!
+$annee64evt16detail=Leonid Brezhnev replaces him
+
+
+
+
+
+
+
+
+
+
+$annee65evt1=Morocco: bloody riots
+$annee65evt1detail=Stability decreases
+
+$annee65evt2=Algeria: the new government runs a socialist policy
+$annee65evt2detail=Nationalisations and all that stuff, their relations with the USSR improve
+
+$annee65evt3=Chad: Toubou insurrection
+$annee65evt3detail=A tribal guerrilla appears
+
+$annee65evt4=Chad: union of the armed oppositions in the FROLINAT
+$annee65evt4detail=A tribal guerrilla appears
+
+$annee65evt4b=Congo: military coup, Mobutu seizes power
+$annee65evt4bdetail=Stability increases sharply while Congo adopts a pro-USA policy
+
+$annee65evt5=Bolivia: violent suppression of the miners movements
+$annee65evt5detail=Stability decreases
+
+$annee65evt6=Peru: organisation of rural guerrillas
+$annee65evt6detail=This time it is serious, the movement organised itself into several fronts
+
+$annee65evt7=Uruguay: the Tupamaros movement
+$annee65evt7detail=A Marxist groupuscule leads violent actions
+
+$annee65evt8=Conflict between India and Pakistan
+$annee65evt8detail=Roll on the days these two countries have the atomic bomb!
+
+$annee65evt9=Japan: strong economic growth
+$annee65evt9detail=Wealth and stability increase
+
+$annee65evt10=Korea: strong economic growth
+$annee65evt10detail=Wealth and stability increase
+
+$annee65evt11=Indonesia: the country is retaken in hands and communists are massacred
+$annee65evt11detail=Stability increases, relations with the USSR strongly deteriorate, communist oppositions disappear and a dictatorship is established
+
+$annee65evt12=Cambodia: breaking off of the diplomatic relations with the USA after its territory has been bombed
+$annee65evt12detail=The relations between Cambodia and the USA deteriorate badly
+
+
+
+
+
+
+
+$annee66evt1=Upper Volta: an uprising oust the government
+$annee66evt1detail=And a military seizes power
+
+$annee66evt2=Nigeria: massacre and exodus of the Igbo tribes
+$annee66evt2detail=Stability decreases
+
+$annee66evt3=Congo-Leopoldville: Mobutu establishes his authority by eliminating his opponents
+$annee66evt3detail=Stability increases
+
+$annee66evt4=Namibia: guerrilla against the South African administration
+$annee66evt4detail=A guerrilla appears
+
+$annee66evt5=Uruguay: democratic referendum
+$annee66evt5detail=If the country was not already a democracy, it becomes one
+
+$annee66evt6=Brazil: guerrilla in Araguaia
+$annee66evt6detail=One more guerrilla!
+
+$annee66evt7=Indonesia: general Soeharto is given full powers
+$annee66evt7detail=Stability increases significantly
+
+$annee66evt8=China: beginning of the Cultural Revolution
+$annee66evt8detail=Stability decreases
+
+$annee66evt9=China: public self-criticism by Liu Shaoqi
+$annee66evt9detail=The party executives tempted by capitalism and Mao's enemies will have to go through it!
+
+$annee66evt10=Taiwan: opening of an industrial free zone near Kaoshiung
+$annee66evt10detail=The country will start to develop
+
+$annee66evt11=China: 100,000 red guards shout down Liu Shaoqi and Deng Xiaoping
+$annee66evt11detail=The party executives tempted by capitalism and Mao's enemies will have to go through it!
+
+$annee66evt12=France leaves NATO integreated command
+$annee66evt12detail=France's relations with the USA deteriorate and it gains the trait Non-aligned
+
+$annee66evt13=General de Gaulle's trip to Moscow
+$annee66evt13detail=France's relations with the USSR improve
+
+
+
+
+
+
+$annee67evt1=Nigeria: the Biafra secedes
+$annee67evt1detail=A guerrilla appears
+
+$annee67evt2=Nicaragua: the political contestation degenerates into a massacre by the army
+$annee67evt2detail=Stability decreases
+
+$annee67evt3=Nicaragua: electoral fraud and seizure of power by Anastasio Somoza
+$annee67evt3detail=Stability increases and Nicaragua becomes a dictatorship
+
+$annee67evt4=Bolivia: Ernesto Che Guevara shot down by the Bolivian army
+$annee67evt4detail=The James Dean of Revolution enters the legend and the Soviet player loses his focos bonus
+
+$annee67evt5=India: Naxalite revolt
+$annee67evt5detail=The east ignites
+
+$annee67evt6=Cambodia: peasant revolt
+$annee67evt6detail=A rural guerrilla appears
+
+$annee67evt7=China: first Chinese H-bomb
+$annee67evt7detail=no particular effect
+
+$annee67evt8=Yemen: riots against the British occupier
+$annee67evt8detail=Stability decreases
+
+$annee67evt9=Middle-East: tension rises between Israel and its Arab neighbours
+$annee67evt9detail=A conflict seems imminent
+
+$annee67evt10=North Yemen: withdrawal of the Egyptian forces
+$annee67evt10detail=Toward the end of this conflict?
+
+$annee67evt11=The Karthoum Resolution: the Arab countries commit to continue the fight against Israel
+$annee67evt11detail=The Arab nations finally reconciled around a common goal?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$annee68evt1=Chad: unrest in the Tibesti
+$annee68evt1detail=The Toubou rebel movements ally
+
+$annee68evt2=Chad: intervention of the French Army
+$annee68evt2detail=to the government threatened by the rebels
+
+$annee68evt3=Mexico: bloody suppression of student protest marches
+$annee68evt3detail=Stability decreases sharply
+
+$annee68evt4=Japan: wave of student contestation
+$annee68evt4detail=Stability decreases sharply
+
+$annee68evt5=Iraq: suppresion of the opposition
+$annee68evt5detail=The oppositions disappear
+
+$annee68evt6=Lebanon: Israeli retaliation raid on the Beirut Airport
+$annee68evt6detail=Lebanon's stability decreases
+
+$annee68evt7=Israel accuses Lebanon of facilitating terrorism
+$annee68evt7detail=There will be a retaliation
+
+$annee68evt8=Czechoslovakia experiments « the Czechoslovak way to socialism »
+$annee68evt8detail=An experiment to monitor carefully
+
+$annee68evt9=Czechoslovakia: call from 70 leading figures to accelerate democratisation
+$annee68evt9detail=An experiment to monitor carefully
+
+$annee68evt10=France: the student contestation spills over
+$annee68evt10detail=Stability decreases
+
+$annee68evt11=France: the trade unions call to general strike
+$annee68evt11detail=Stability decreases
+
+$annee68evt12=USA: Richard Nixon elected President
+$annee68evt12detail=He will take up his functions next January
+
+$annee68evt13=Normalisation of Czechoslovakia by the Red Army (USSR prestige -150)
+$annee68evt13detail=The USSR loses prestige
+
+
+$annee68evt14=Malaysia: communist uprising
+$annee68evt14detail=A new guerrilla in the country
+
+
+
+
+
+
+
+
+$nixon=Richard Nixon
+$annee69evt1=USA: President Richard Nixon takes up his functions
+$annee69evt1detail=A new President
+
+$annee69evt2=Namibia: armed fight against the South African occupation
+$annee69evt2detail=An armed fight appears
+
+$annee69evt3=Mali: great student strike
+$annee69evt3detail=Stability decreases
+
+$annee69evt4=Senegal: great student strike
+$annee69evt4detail=Stability decreases
+
+$annee69evt5=Libya: setting up of Revolutionary Command Council
+$annee69evt5detail=Muammar Gaddafi comes to power: Libya's alignments change significantly.
+
+$annee69evt6=Somalia: the country engages in the way of Scientific Socialism
+$annee69evt6detail=This country realigns itself on the USSR
+
+$annee69evt7=Ethiopia: large student demonstrations
+$annee69evt7detail=Stability decreases
+
+$annee69evt8=Congo: proclamation of the Democratic Republic of Congo
+$annee69evt8detail=This country chooses the Socialist way
+
+$annee69evt9=Argentina: popular insurrection against dictatorship
+$annee69evt9detail=Stability decreases sharply
+
+$annee69evt10=100-hour between Honduras and El Salvador (or the Football War)
+$annee69evt10detail=This war will leaves its scars stability decreases in El Salvador
+
+$annee69evt11=Pakistan: the new government enacts martial law
+$annee69evt11detail=Stability increases significantly
+
+$annee69evt12=Malaysia: serious tensions between communities
+$annee69evt12detail=Stability decreases
+
+$annee69evt13=War of attrition between Egypt and Israel
+$annee69evt13detail=No immediate effect
+
+$annee69evt14=United Kingdom: fight between Catholics and Protestants in Northern Irland
+$annee69evt14detail=A part of the IRA takes up arms
+
+$annee69evt15=Cambodia: Khmer communist insurrection
+$annee69evt15detail=It seems that the communists are still alive in this country
+
+$annee69evt16=Israel: Maoist scission within a Palestinian group!
+$annee69evt16detail=The Democratic Front for the Liberation of Palestine was just born!
+
+$annee69evt17=Philippines: Maoist peasant movement!
+$annee69evt17detail=A rural guerrilla hits the Philippines
+
+$annee69evt18=Italy: bloody terrorist attack
+$annee69evt18detail=Who can be responsible for such savagery? Certainely a communist groupuscule!
+
+
+
+
+
+
+
+
+
+$annee70evt1=Argentina: a general has been kidnapped by an unknown movement
+$annee70evt1detail=An urban guerrilla appears
+
+$annee70evt2=Argentina: creation of a people's revolutionary army
+$annee70evt2detail=An urban guerrilla appears
+
+$annee70evt3=Argentina: the consul of Paraguay has been kidnapped by a new revolutionary movement
+$annee70evt3detail=An urban guerrilla appears
+
+$annee70evt4=Boliva: the new government implements a nationalisation policy
+$annee70evt4detail=The relations with the USA deteriorate sharply
+
+$annee70evt5=Chile: Salvador Allende elected President!
+$annee70evt5detail=The relations with the USA deteriorate, the relations with the USSR improve
+
+$annee70evt6=Cambodia: General Lon Nol seizes power
+$annee70evt6detail=The relations with the USA improve, the relations with the USSR deteriorate sharply
+
+$annee70evt7=Japan: bloody riots in Koza against the American presence
+$annee70evt7detail=The relations with the USA deteriorate, the Japanese stability decreases
+
+$annee70evt8=Iraq: the Kurdish rebels could lay their weapons down.
+$annee70evt8detail=The Iraqi stability increases and negotiations begins with the Kurdish rebels
+
+$annee70evt9=North Yemen: toward the end of the civil war?
+$annee70evt9detail=Begining of the negotiations between the various factions
+
+$annee70evt10=Syria: Hafez al-Assad seizes power
+$annee70evt10detail=The Syrian stability strongly increases
+
+$annee70evt11=Germany: « Erfurt handshake » between the two Germanies
+$annee70evt11detail=Begining of the Ostpolitik, the stability of each Germany increases
+
+$annee70evt12=Poland: violent workers' riots near the Baltic sea
+$annee70evt12detail=The Polish stability decreases sharply
+
+$annee70evt13=Portugal: the Revolutionary Army moves into action!
+$annee70evt13detail=And they are angry! (A groupuscule appears)
+
+$annee70evt14=Germany: escape of Andreas Baader
+$annee70evt14detail=He will be heard of again in the future: a far-left violent group now strikes in Germany
+
+$annee70evt15=Italy: far-left violence
+$annee70evt15detail=A new movement seeks to trigger an insurrection
+
+
+
+
+
+
+
+
+$annee71evt1=Uganda: Amin Dada seizes power
+$annee71evt1detail=The Foreign Office described the new strongman of Uganda as a splendid guy and a good rugbyman: this will likely be beneficial to this country.
+
+$annee71evt2=Madagascar: Rural insurrection
+$annee71evt2detail=This rebellion should be quelled soon enough by the police force
+
+$annee71evt3=Uganda: border war with Tanzania
+$annee71evt3detail=Uganda et Tanzania are at war
+
+$annee71evt4=Chile: nationalisations and expropriations
+$annee71evt4detail=The relations with the USA deteriorate
+
+$annee71evt5=Argentina: riots in Cordoba
+$annee71evt5detail=Stability decreases
+
+$annee71evt6=Argentina: Gran Acuerdo Nacional
+$annee71evt6detail=Stability increase
+
+$annee71evt7=Uruguay: massive escape of Tupamaros
+$annee71evt7detail=The guerrilla resumes with greater intensity!
+
+$annee71evt8=Guatemala: foundation of a new guerrilla movement
+$annee71evt8detail=A spin-off of the rebel armed forces
+
+$annee71evt9=Ceylan: uprising of the Marxist youth
+$annee71evt9detail=The governement is ready to quell this movement in blood
+
+$annee71evt10=Pakistan: general strike in Bengal
+$annee71evt10detail=Stability decreases
+
+$annee71evt11=Pakistan: secession of Bangladesh
+$annee71evt11detail=An important autonomist movement takes up arms
+
+$annee71evt12=Indo-Pakistani War
+$annee71evt12detail=The independence of Bangladesh is at stakes
+
+$annee71evt13=Egypt: Recovery revolution
+$annee71evt13detail=The Egyptian stability increase and the goverment is purged of some its elements that were the most favourable to Moscow (relations deteriorate)
+
+$annee71evt14=Iran: magnificent celebrations for the 2500th anniversary if the Iranian monarchy
+$annee71evt14detail=This kind of dynasty is rock-solid! (stability +2, even if certain sourpusses condemn the showcase of splendour!)
+
+$annee71evt15=United Kingdom: growth of violence in Northern Ireland
+$annee71evt15detail=Stability decreases
+
+$annee71evt16=United Kingdom: a true civil war grows in Ulster!
+$annee71evt16detail=Catholics, Protestants and the British Army in-between (well, not exactly in-between). 
+
+$annee71evt17=Yugoslavia: the Croatian Spring
+$annee71evt17detail=Stability decreases
+
+$annee71evt18=An American table tennis team welcomed in Beijing!
+$annee71evt18detail=The relations of China with the USA improve
+
+$annee71evt19=The Republic of China (Taiwan) loses its permanent seat at the UN Security Council
+$annee71evt19detail=The relations with the USA deteriorate, Taiwan's prestige points value decreases by 10 and its stability decreases by 1 level
+
+$annee71evt20=The People's Republic of China gains a permanent seat at the UN Security Council
+$annee71evt20detail=PRC's prestige points value increases by 10 and its stability increases by 1 level
+
+$annee71evt21=China: death of our beloved Chairman, Mao retakes the party in hand
+$annee71evt21detail=Mao comes back
+
+$zair=Zaïre
+
+
+
+
+
+
+
+
+
+
+
+$annee72evt1=Tunisia: student revolt
+$annee72evt1detail=Stability decreases
+
+$annee72evt2=Congo: the mutineers go into hiding
+$annee72evt2detail=A Marxist guerrilla appears in the country
+
+$annee72evt3=Sudan: toward a negotiated end of the civil war?
+$annee72evt3detail=The guerrillas gain the trait Negotiations, the country gains a level in stability
+
+$annee72evt4=Madagascar: general strike
+$annee72evt4detail=Stability decreases
+
+$annee72evt5=Sahelian droughr
+$annee72evt5detail=Stability decreases in the Sahelian countries
+
+$annee72evt6=Proclamation of the Republic of Southern Rhodesia
+$annee72evt6detail=All ties are broken with the United Kingdom, sharp increase of stability
+
+$annee72evt7=Southern Rhodesia: Bush War
+$annee72evt7detail=Black Marxist groups fight the white government
+
+$annee72evt8=Guatemala: an endless civil war?
+$annee72evt8detail=A new group sets in the Guatemalan jungle
+
+$annee72evt9=USA: suspicious plumbers caught in the Democratic Party HQ
+$annee72evt9detail=A short news item, nothing more.
+
+$annee72evt10=Chile: unlimited general strike of the carriers trade union
+$annee72evt10detail=The country will be paralysed
+
+$annee72evt11=Panama: new constitution
+$annee72evt11detail=When dictatorship becomes institutionalised
+
+$annee72evt12=Nicaragua: Managua destroyed by an eathquake, international aid flocking
+$annee72evt12detail=This aid will surely disappear into cupid hands: stability decreases while the country becomes corrupted
+
+$annee72evt13=Union of Arab Republics between Libya and Egypt
+$annee72evt13detail=This looks nice from where we stand but has absolutely no effect!
+
+$annee72evt14=United Kingdom: Bloody Sunday
+$annee72evt14detail=Stability decreases
+
+$annee72evt15=United Kingdom: dockers strike
+$annee72evt15detail=Stability decreases
+
+$annee72evt16=Assassination of Israeli athletes during the Munich Olympic Games
+$annee72evt16detail=The Israeli stability increases sharply
+
+
+
+
+
+
+
+
+
+$annee73evt1=Libya: Launching of a people's revolution.
+$annee73evt1detail=Stability decreases and the country gains the trait Paranoid
+
+$annee73evt2=Western Sahara: creation of the Polisario Front.
+$annee73evt2detail=A guerrilla appears
+
+$annee73evt3=Ethiopia: hunger is made public.
+$annee73evt3detail=Television allows to unveil some dramas
+
+$annee73evt4=Zaire: zairianisation of the country.
+$annee73evt4detail=The relations with the USA decreases (with France too if you play as this country
+
+$annee73evt5=Syria:  violent popular riots
+$annee73evt5detail=Stability decreases
+
+$annee73evt6=Lebanon:  violence between factions
+$annee73evt6detail=Stability decreases
+
+$annee73evt7=Oman:  Iranian intervention in the civil war
+$annee73evt7detail=2 Iranian troops are dispatched
+
+$annee73evt8=The United Kingdom joins the European Economic Community
+$annee73evt8detail=Stability increases
+
+$annee73evt9=Ireland joins the European Economic Community
+$annee73evt9detail=Stability increases
+
+$annee73evt10=Denmark joins the European Economic Community
+$annee73evt10detail=Stability increases
+
+$annee73evt11=United Kingdom: miners strike
+$annee73evt11detail=Stability decreases
+
+$annee73evt12=USA: begining of the House Judiciary Committee hearings in the Watergate scandal
+$annee73evt12detail=Nixon gains the trait Discredited
+
+$annee73evt13=Kippur War
+$annee73evt13detail=Hostilities resumed in the Middle-East
+
+
+
+
+
+
+
+
+
+$annee74evt1=Mali: end of the drought
+$annee74evt1detail=Stability increases
+
+$annee74evt2=Ethiopia: the Derg seizes power
+$annee74evt2detail=The country becomes a paranoid people's republic where the pro-USA opposition are eliminated
+
+$annee74evt3=Dahomey makes Marxism-Leninism its official doctrine
+$annee74evt3detail=This country realigns itself strongly on the USSR and adopts a collectivist economy
+
+$annee74evt4=Border incidents between Mali and Upper Volta
+$annee74evt4detail=The stabibility of Upper Volta decreases
+
+$annee74evt5=Argentina: between inflation and political violence, an uncertain future
+$annee74evt5detail=Stability decreases and death squads appear
+
+$annee74evt6=India: the student and worker contestation shakes the western part of the country
+$annee74evt6detail=Stability decreases
+
+$annee74evt7=Burma: the oil workers strike spreads to other economic sectors
+$annee74evt7detail=Stability decreases
+
+$annee74evt8=Detonation of the first Indian nuclear bomb
+$annee74evt8detail=Stability increases and this country now has the nuclear bomb
+
+$annee74evt9=Iraq: Kurdish insurrection
+$annee74evt9detail=This one will be quelled like the other ones...
+
+$annee74evt10=Portugal: Carnation Revolution
+$annee74evt10detail=The country becomes a republic and both communist and pro-USA oppositions appear
+
+$annee74evt11=Portugal: failure of a popular revolution, harsh suppression
+$annee74evt11detail=Portugal gains the trait Paranoid, extremist groupuscules wreck havoc in the streets of Lisbon
+
+$annee74evt12=Portugal: political violence is at its highest
+$annee74evt12detail=Portugal gains the trait Paranoid, extremist groupuscules wreck havoc in the streets of Lisbon
+
+$annee74evt13=Cyprus: Turkish soldiers land in Cyprus to defend the Trukish minority
+$annee74evt13detail=Cyprus is now split into two zones!
+
+$annee74evt14=Greece: the Regime of the Colonels collapses
+$annee74evt14detail=Greece becomes a republic
+
+$annee74evt15=Greece: republic confirmed through referendum
+$annee74evt15detail=The Greek stability increases sharply
+
+$annee74evt16=China: death of our beloved Chairman, Mao retakes the party in hand
+$annee74evt16detail=Mao comes back
+
+$annee74evt17=Colombia: Simon Bolivar's sword has been stolen!
+$annee74evt17detail=A new guerrillas is responsible for this infamy
+
+
+
+
+
+
+
+
+$annee75evt1=Western Sahara: Green March of 350,000 Moroccans
+$annee75evt1detail=Western Sahara becomes a Maroccan territory and Morocco's stability increases sharply
+
+$annee75evt2=Proclamation of the Democratic Republic of Madagascar
+$annee75evt2detail=Madagascar wants to joint the African socialist camp, becomes a people's republic and improve its relations with the USSR
+
+$annee75evt3=Angola: the civil war resumes with greater intensity
+$annee75evt3detail=This war could last for long
+
+$annee75evt4=Angola: intervention of the South African army
+$annee75evt4detail=Operation Zulu
+
+$annee75evt5=Angola: independence and proclamation of the People's Republic of Angola
+$annee75evt5detail=This country could be Africa's powder keg
+
+$annee75evt6=Angola: Cubans came to fight in this country
+$annee75evt6detail=2 Cuban troops arrive in Angola
+
+$annee75evt7=Honduras: financial scandal
+$annee75evt7detail=Stability decreases
+
+$annee75evt8=India: political turmoil
+$annee75evt8detail=Stability decreases
+
+$annee75evt9=Australia: constitutional crisis
+$annee75evt9detail=Stability decreases
+
+$annee75evt10=Indonesia: the country reacts with force to the independence of Eastern Timor
+$annee75evt10detail=The Timor guerrilla goes into hiding
+
+$annee75evt11=Iraqi-Iranian agreement on boundary delineation
+$annee75evt11detail=The Kurdish guerrilla negotiates and Iraq and Iran's stability increases
+
+$annee75evt12=Lebanon: bloody conflict between Christian militians and Palestinians
+$annee75evt12detail=Stability decreases
+
+$annee75evt13=Explosion of the Lebanese powder keg
+$annee75evt13detail=The civil war is in full swing
+
+$annee75evt14=Spain: assassitions of police officers by extreme left groups
+$annee75evt14detail=A Marxist groupuscule begins armed struggle
+
+$annee75evt15=China: death of our beloved helmsman, Mao takes the party in hand
+$annee75evt15detail=Mao comes back
+
+$annee75evt16=Ethiopia: foundation of a Tigray People's Liberation Front
+$annee75evt16detail=A new guerrilla appears
+
+$annee75evt17=Taiwan: legislative elections
+$annee75evt17detail=Taiwan is a republic
+
+
+
+
+
+
+
+
+
+
+
+
+$annee76evt1=Border frictions in Western Sahara
+$annee76evt1detail=Soon a war between Morocco and Algeria?
+
+$annee76evt2=Algeria arms the Front Polisario fighters
+$annee76evt2detail=The Western Sahara guerrilla's strength increase by 2 and it gains the Trait 'Popular Support'
+
+$annee76evt3=South Africa: riots in Soweto
+$annee76evt3detail=Stability decreases
+
+$annee76evt4=Central African Republic: imperial coronoation of Jean-Bedel Bokassa
+$annee76evt4detail=The country becomes a monarchy
+
+$annee76evt5=Eartquake in Guatemala: over 20,000 dead and 70,000 casualties
+$annee76evt5detail=The country's economy is gravely destabilised by the flood of unecessary food aid: stability -1 and NGO appears
+
+$annee76evt6=Argentina: General Videla's pronunciamiento
+$annee76evt6detail=The country is a dictatorship and its stability increases by 2
+
+$annee76evt7=USA: election of Jimmy Carter
+$annee76evt7detail=He will take up his post next January
+
+$annee76evt8=Cambodia: the Khmer Rouge power is consolidated
+$annee76evt8detail=The country becomes Paranoid
+
+$annee76evt9=Thailand: student contestation is suppressed in blood
+$annee76evt9detail=Stability decreases
+
+$annee76evt10=Lebanon: interfaith violence is at its highest
+$annee76evt10detail=Stability decreases
+
+$annee76evt11=Lebanon: the Lebanese army implodes
+$annee76evt11detail=The max armed forces collapses to 2 and three new groups are formed out of the Lebanese army
+
+$annee76evt12=Lebanon: Syria pushes a ceasefire
+$annee76evt12detail=Most factions gains the Trait 'Negotiations'
+
+$annee76evt13=Lebanon: the Syrian army sets up in the country
+$annee76evt13detail=Not good for anybody
+
+$annee76evt14=Lebanon: a new president supported by Syria
+$annee76evt14detail=The Lebanese relations with the USA and USSR are aligned on Syria's, stability increases by 1 and the country becomes a republic
+
+$annee76evt15=Lebanon: diplomatic rupture between Egypt and Syria
+$annee76evt15detail=In Lebanon, the Progressive Socialist Party goes back to work against the Syrians
+
+$annee76evt16=Lebanon: the Arab summit in Riyadh institutes a ceasefire
+$annee76evt16detail=The various factions gains the Trait 'Negotiations' and the stability of Lebanon increases (+2)
+
+$annee76evt17=Poland: large strikes and workers riots
+$annee76evt17detail=Stability -1
+
+$annee76evt18=United Kingdom: serious monetary crisis
+$annee76evt18detail=Stability -1
+
+$annee76evt19=Spain: democratic transition
+$annee76evt19detail=The coutry becomes a constitutional monarchy
+
+$annee76evt20=China: death of our beloved Chairman, Mao retakes power in hand
+$annee76evt20detail=Mao said he would be back
+
+
+$annee76evt21=Syria: Islamist insurrection
+$annee76evt21detail=A violent guerrilla is responsible of terrorist attacks
+
+
+
+
+
+
+
+
+
+$annee77evt1=Congo: rebels from Angola enters the Shaba province
+$annee77evt1detail=A new war for Katanga - renamed Shaba - has just started
+
+$annee77evt2=Congo: Morocco dispatches troops to the Shaba
+$annee77evt2detail=A Moroccan contingent lends a hand to the regime
+
+$annee77evt3=Ethiopia: Red Terror
+$annee77evt3detail=Local militas are on the hunt!
+
+$annee77evt4=Civil war in Mozambique
+$annee77evt4detail=Rebels armed by South Africa entered the country
+
+$flso=Western Somali Liberation Front
+$oromolf=Oromo Liberation Front
+
+$annee77evt4b=Ethiopia: the railways between Djibouti and Addis-Abeba is cut by rebels
+$annee77evt4bdetail=A guerrilla group proclaimes the independence of Western Somalia
+
+$annee77evt5=Border incidents between Egypte and Libya
+$annee77evt5detail=No effect: combat rapidly stopped
+
+$annee77evt6=Peru: social unrest grows
+$annee77evt6detail=Stability decreases (-1)
+
+$annee77evt7=Vietnamese-Cambodian conflict
+$annee77evt7detail=The Khmers Rouges troops entered Vietnam!
+
+$annee77evt8=Violent riots in Egypt
+$annee77evt8detail=Stability decreases sharply (-2)
+
+$annee77evt9=Peace in Middle East: Egypt majes a step toward Israel
+$annee77evt9detail=The Egyptian stability decreases (-1), the Israeli stability increases (+1)
+
+$annee77evt10=Czechoslovakia: intellectuals criticise the regime (Charter 77 manifesto)
+$annee77evt10detail=Stability decreases (-1) and Stalinism too! (-1)
+
+$annee77evt11=War between Ethiopia and Somalia over Ogaden
+$annee77evt11detail=Just a sand strip, is it not?
+
+$annee77evt12=USA: Jimmy Carter President
+$annee77evt12detail=The leader you always dreamt of when it comes to nuclear showdowns!
+
+
+
+
+
+
+
+$annee78evt1=Tunisia: Black Thursday, 51 dead in the suppression of the general strike
+$annee78evt1detail=Stability decreases (-1)
+
+$annee78evt2=Border war between Angola and South Africa
+$annee78evt2detail=A South African expeditionary corps entered Angola
+
+$annee78evt3=In Congo, the Sabha War resumes
+$annee78evt3detail=An independentist guerrilla group appears in Congo
+
+$annee78evt4=Chad: France dispatches a contingent
+$annee78evt4detail=French troops in Chad +1
+
+$annee78evt5=Congo: Belgian and French paratroopers jump on Kolwesi
+$annee78evt5detail=Belgian and French troops in  +1
+
+$annee78evt6=War between Uganda and Tanzania
+$annee78evt6detail=The Tanzanians want to depose Amin Dada
+
+$tribusrebelles=Rebel Tribes
+
+$annee78evt7=Afghanistan: Saur revolution
+$annee78evt7detail=Afghanistan becomes communist!
+
+$annee78evt8=Vietnamo-Cambodian war
+$annee78evt8detail=The Vietnamese will end the hostile Khmer Rouge regilme
+
+$annee78evt9=Deployment of Blue Berets in Lebanon
+$annee78evt9detail=They should be able to pacify the situation
+
+$annee78evt10=Lebanon: union of Christian factions within the Lebanese forces (القوات اللبنانية)
+$annee78evt10detail=Most of the troops are Phalangists
+
+$annee78evt11=Iran: Black Friday! The army shot protesters.
+$annee78evt11detail=Stability decreases
+
+$annee78evt12=Lebanon: Tsahal intervenes against the Palestinian fighters in south Lebanon l'armée israélienne intervient contre les combattants palestiniens au Sud liban
+$annee78evt12detail=The PLO adopts a defensive stance (gains the trait 'Wait-and-see')
+
+$annee78evt13=Iran: tough protest marches in Qom
+$annee78evt13detail=Imam Khomeini's supporters are growing agitated: no effect.
+
+$annee78evt14=Iran: demonstrations grow larger after each suppression action
+$annee78evt14detail=Iranian stability: -1
+
+$annee78evt15=Iran: government decrees a wage freeze, contestation resumes with greater intensity.
+$annee78evt15detail=Iranian stability: -1
+
+$annee78evt16=Iran: over 2 millions demonstrators in Teheran! The regime is on its knees.
+$annee78evt16detail=Iranian stability: -1
+
+$annee78evt17=Camp David Accords, soon peace in Middle East?
+$annee78evt17detail=Nasserism takes a hit
+
+
+
+
+
+
+
+
+
+$annee79evt1=Chad: civil war resumes with greater intensity!
+$annee79evt1detail=The Prime Minister's North Armed Forces are fighting the President's Chadian armed forces
+
+$annee79evt2=Uganda: Libya dispatches troops to save the regime
+$annee79evt2detail=1 Libyan troop is dispatched to Uganda
+
+$annee79evt3=Chad: Conference on National Reconciliation
+$annee79evt3detail=Stability increases by 2 and the guerrilla groups gain the trait 'Negotiations'
+
+$annee79evt4=Chad: N'Djamena ablazed
+$annee79evt4detail=One group (the Popular Movement for the Liberation of Chad) felt unfairly forgotten at the negotiations' tables
+
+$annee79evt5=Chad: the Lybian troops intervene in Tibesti
+$annee79evt5detail=It is war! 
+
+$annee79evt6=Chad: great Conference on National Reconciliation in Lagos
+$annee79evt6detail=Stability increases by 2 and the guerrilla groups gain the trait 'Negotiations'
+
+$annee79evt7=Indian Ocean: the double flash of light detected by a satellite could be a nuclear test
+$annee79evt7detail=Who is trying to get the bomb?
+
+$annee79evt8=Second Republic in Nigeria
+$annee79evt8detail=A civilian government? Blimey! 
+
+$annee79evt9=The anti-monarchy contestation shakes the regime in Nepal
+$annee79evt9detail=Stability decreases and local councils will be elected: the regime becomes a parliamentary monarchy (which is a bit of a leap, apologies for this...) 
+
+$annee79evt10=Food aid flocks to Cambodia
+$annee79evt10detail=There are now NGOs in Cambodia
+
+$annee79evt11=South Korea: popular protest marches against the dictatorship
+$annee79evt11detail=Stability -1
+
+$annee79evt12=Thailand: the country is destabilised by waves of Laotian and Cambodian refugees
+$annee79evt12detail=Stability -1 and NGOs arrive in the country
+
+$annee79evt13=Soviet military intervention in Afghanistan
+$annee79evt13detail=Stability +2: the Soviets put a better candidate in power
+
+$annee79evt14=Afghanistan: a part of the army goes underground!
+$annee79evt14detail=The situation in Afghanistan could very well become more complicated: guerrillas appear and the strength of Soviet troops is divided by 2
+
+$annee79evt15=Proclamation of the Free Lebanon State in the south of the country
+$annee79evt15detail=The South Lebanon Army had its Traits modifiedr
+
+$annee79evt16=Iran: the Shah flees the country
+$annee79evt16detail=He will return when the situation will calm down
+
+$guerillakhouzistan=Arab Tribes of Khuzestan
+
+$annee79evt17=Iran: revolt of the Khuzestan tribes
+$annee79evt17detail=It will soon be crushed
+
+$annee79evt17b=Iran: the Kurds take advantage of the chaos
+$annee79evt17bdetail=Another Kurdish revolt.
+
+$annee79evt18=United Kingdom: Winter of Discontent, the country is paralysed by strikes
+$annee79evt18detail=Stability decreases
+
+$annee79evt19=United Kingdom: Margaret Thatcher, the new Prime Minister, wants to break the trade unions.
+$annee79evt19detail=Stabilité +3 (ben oui, c'est la dame de fer: tu ne vas quand même pas la faire tomber avec tes banales actions de subvertion ! )
+
+
+$annee79evt20=During his visit in Mexico, the Pope severely criticised the political commitment of the priests
+$annee79evt20detail=End of the Liberation Theology bonuses
+
+$annee79evt21=Iran: creation of the Pasdarans
+$annee79evt21detail=The regime now has its own armed forces
+
+$annee79evt22=Iran: major purges within the army
+$annee79evt22detail=The country's military capacity is reduced by 30%
+
+$guerillabaloutche=Balochi Guerrilla
+$guerillaazeris=Azeri Independentists
+
+$flnpkhmer=Khmer People's National Liberation Front
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$annee80evt1=Tunisia: an armed commando attempts to trigger an insurrection in Gafsa
+$annee80evt1detail=The stability of Tunisia decreases, one will have to monitor Libya which is behind this hostile action.
+
+$zimbabwe=Zimbabwe
+
+$annee80evt2=Zimbabwe: free elections and end of the apartheid
+$annee80evt2detail=End of the guerrillas, the relations of the country are aligned on the ZANU relations
+
+$annee80evt3=Algeria: Berber Spring
+$annee80evt3detail=Stability decreases
+
+$annee80evt4=Mali: student protests
+$annee80evt4detail=Stability decreases
+
+$annee80evt5=Chad: the civil war resumes with greater intensity
+$annee80evt5detail=The North Armed Forces are flying solo and attempt to seize power
+
+$annee80evt6=Liberia: massacre of members of the former government
+$annee80evt6detail=The regime becomes Paranoid and Corrupt
+
+$annee80evt7=Liberia: the new president praises the US African policy
+$annee80evt7detail=Sharp realignment on the USA
+
+$annee80evt8=Chad: Libyans come rescue the regime
+$annee80evt8detail=Libyans comme to support the regime
+
+$milicesdada=Dadaist Militias
+
+$annee80evt9=Uganda: new terror campaign after disputed elections
+$annee80evt9detail=The oppositions disappear but the countryside is infested with armed groupuscules
+
+$annee80evt10=Iraq: Shia protest tide! 
+$annee80evt10detail=Stability decreases by 2
+$annee80evt11=Iraq: bloody suppression of Shia protesters
+$annee80evt11detail=Stability decreases by 2
+
+$partisanschiites=Shia revolutionaries
+$annee80evt12=Iraq: Shia uprising
+$annee80evt12detail=A worrying civil war just started
+
+$annee80evt13=Salvador: union of Marxist guerillas 
+$annee80evt13detail=A Frente Farabundo Martí para la Liberación Nacional now fights the governement
+
+$annee80evt14=Peru: revolutionary unrest
+$annee80evt14detail=The Shining Path takes action!
+
+$annee80evt15=Bolivia: collusion between the bourgeoisie, traffickers and paramilitaries
+$annee80evt15detail=In all cases this country will end banned by nations (Corrupted country + relations with the USA and the USSR deteriorate + Phalange groups appear)
+
+$annee80evt16=South Korea: insurrection in Gwangju
+$annee80evt16detail=Stability decreases by 2
+
+$rebelsvanuatu=Vanuatu Separatists
+
+$annee80evt17=Papua-New Guinea: insurrection in Vanuatu
+$annee80evt17detail=An independentist movement appeared in Papua - New Guinea.
+
+$fulnl=United Lao National Liberation Front
+
+$annee80evt18=Laos: creation of the United Lao National Liberation Front
+$annee80evt18detail=A new guerrilla in Laos
+
+$annee80evt19=Syria: uprising in Alep
+$annee80evt19detail=Stability decreases by 2
+
+$annee80evt20=Turkey: pogroms against the Alevi minority
+$annee80evt20detail=Stability decreases by 2
+
+$annee80evt21=Syria: elimination and ban of the Islamic opposition
+$annee80evt21detail=Stability increases by 3
+
+
+
+
+
+
+
+
+$annee81evt1=Senegal: establishment of a multi-party system
+$annee81evt1detail=This country is a republic
+
+$annee81evt2=Egypt: interfaith confrontations
+$annee81evt2detail=Stability decreases by 1
+
+$annee81evt3=Morocco: bread riots
+$annee81evt3detail=Stability decreases by 2
+
+$annee81evt4=Gambia: proclamation of the People's Republic of Gambia
+$annee81evt4detail=Gambia becomes a people's republic
+
+$annee81evt5=Argentina: workers in the streets! They demand Peace, Bread and Work
+$annee81evt5detail=Stability decreases by 1
+
+$annee81evt6=Nicaragua: beginning of a Contras guerrilla war
+$annee81evt6detail=A new guerrilla group
+
+$annee81evt7=Iran: the People's Mujahedin of Iran take action
+$annee81evt7detail=A new guerrilla group
+
+$annee81evt8=Egypt: assassination of the president!
+$annee81evt8detail=Stability decreases by 1
+
+$annee81evt9=USA: President Reagan step in office
+$annee81evt9detail=He is a fierce anticommunist
+
+
+
+
+
+
+$annee82evt1=Senegal: conflict in Casamance
+$annee82evt1detail=A new guerrilla group appears
+
+$annee82evt2=Guatemala: fusion of the leftist guerilla groups
+$annee82evt2detail=The new entity will be known as the Unidad Revolucionaria Nacional Guatemalteca
+
+$annee82evt3=Argentina: liberation of the Malouine Islands
+$annee82evt3detail=A war with Great Britain begun
+
+$annee82evt4=Malouine Islands: war between Argentina and the United Kingdom
+$annee82evt4detail=Well tempted but the Iron Lady, you know... she deserves her nickname
+
+$annee82evt5=Bolivia: democratic transition
+$annee82evt5detail=The regime becomes a democracy
+
+$annee82evt6=Lebanon: Israeli intervention
+$annee82evt6detail=An Israeli expeditionary corps enters Lebanon
+
+$annee82evt7=Lebanon: a Lebanese Resistance Front rises against the Israeli intervention
+$annee82evt7detail=Their numbers are low but their motivation is high
+
+$andropov=Yuri Andropov
+
+$annee82evt8=USSR: Yuri Andropov comes to power
+$annee82evt8detail=What will his policy be?
+
+$annee82evt9=Lebanon: an Multinational Force in Lebanon is deployed following the request of Lebanon at the UNO
+$annee82evt9detail=This should help easing tension...
+
+$annee82evt10=Algeria: Islamist unrest
+$annee82evt10detail=A groupuscule wants to establish an Islamic Capliphate
+
+
+
+
+
+
+
+
+$annee83evt1=Sudan: the civil war resumes
+$annee83evt1detail=Guerilla groups appear
+
+$annee83evt2=Upper Volta: burkinabè revolution
+$annee83evt2detail=The country changes its name
+
+$annee83evt3=Chad: France militarily intervenes in the conflict
+$annee83evt3detail=2 French troops arrive in Chad
+
+$annee83evt4=Tunisia: bread riots
+$annee83evt4detail=Stability decreases by 1
+
+$annee83evt5=India: electoral manipulations plunge the country into violence
+$annee83evt5detail=Stability decreases by 1
+
+$annee83evt6=Sri Lanka: civil war
+$annee83evt6detail=The Tamil factions take up arms
+
+$annee83evt7=India: unrest and violence in Punjab
+$annee83evt7detail=Stability decreases by 1
+
+$annee83evt8=USSR: deterioration of the health of First Secretary Andropov
+$annee83evt8detail=Andropov gains the trait Impotent
+
+
+
+
+
+
+
+
+
+
+
+$annee84evt1=Mozambique: major drought
+$annee84evt1detail=Stability decreases by 1
+
+$annee84evt2=Chad: departure of foreign troops
+$annee84evt2detail=Frenchmen and Lybians leave the country
+
+$annee84evt3=Famine in Ethiopia
+$annee84evt3detail=The entire world is mobilising
+
+$annee84evt4=Brazil: the people demonstrate to demand democracy
+$annee84evt4detail=Stability decreases by 1
+
+$annee84evt5=India: attack on the Amritsar golden temple
+$annee84evt5detail=Stability decreases by 1
+
+$annee84evt6=India: assassination of Indira Gandhi
+$annee84evt6detail=Stability decreases by 1
+
+$annee84evt7=India: petrochemical disaster Bhopal
+$annee84evt7detail=Stability decreases by 1
+
+$annee84evt8=Persian Gulf: begining of the Oil War
+$annee84evt8detail=We must monitor the situation closely
+
+$annee84evt9=Death of Yuri Andropov: he is succeeded by Konstantin Chernenko
+$annee84evt9detail=Who is not in his prime youth anymore too
+
+$annee84evt10=Poland: the death of Father Popieluszko, tortured by the regime, triggers a serious crisis
+$annee84evt10detail=Stability decreases by 1
+
+$annee84evt11=United Kingdom: miners' strike
+$annee84evt11detail=Stability decreases by 1
+
+$tchernenko=Konstantin Chernenko
+
+
+
+
+
+
+
+
+
+
+$annee85evt1=Guinea: riots and looting
+$annee85evt1detail=Stability decreases by 1
+
+$annee85evt2=South Africa: the black ghettos rise
+$annee85evt2detail=Stability decreases by 1
+
+$annee85evt3=A border problem between Mali and Burkina Faso degenerates into a war
+$annee85evt3detail=None of the two countries has the means for a war: both lose 1 in stability
+
+$annee85evt4=Brazil: people protests impose the return to democracy
+$annee85evt4detail=Change of regime
+
+$annee85evt5=Uruguay: democratic transition
+$annee85evt5detail=Change of regime
+
+$annee85evt6=Guatemala: democratic transition
+$annee85evt6detail=Change of regime
+
+$annee85evt7=Lebanon: we are finally discussing!
+$annee85evt7detail=Toward peace?
+
+$annee85evt8=USSR: Gorbachev comes to power
+$annee85evt8detail=Make way for the young
+
+$gorbatchev=Mikhail Gorbachev
+
+$annee85evt9=Czechoslovakia: believers demonstrate against the regime
+$annee85evt9detail=Stability decreases by 1
+
+$annee85evt10=United Kingdom: end of the miners' strike
+$annee85evt10detail=The Iron Lady won: Stability increases by 2
+
+$annee85evt11=United Kingdom: a series of riots shake the country
+$annee85evt11detail=Stability decreases by 1
+
+
+
+
+
+
+$annee86evt1=Chad : Libyan incursions and french army deployment
+$annee86evt1detail=An ongoing conflict in Chad
+
+$annee86evt2=Zambia : food riots
+$annee86evt2detail=stability decreases
+
+$annee86evt3=Haïti : the people overthrow the dictator ! »
+$annee86evt3detail=The regime becomes a republic
+
+$annee86evt4=Bolivia : The workers protest and the state of siege is decreed 
+$annee86evt4detail=stability decreases
+
+$annee86evt5=Earthquake in El Salvador
+$annee86evt5detail=Stability decreases and NGOs come to the country
+
+$annee86evt6=Yemen: coup attempt degenerates into civil war
+$annee86evt6detail=The fighting is centered on Aden and should soon stop
+
+$annee86evt7=India: rising social, economic and religious challenges
+$annee86evt7detail=Stability is declining: is this country governable?
+
+$annee86evt8=Philippines : the people overthrow the dictator !
+$annee86evt8detail=The regime becomes a republic and stability increases
+
+$annee86evt9=Spain : the country joins the european economic community
+$annee86evt9detail=Stability +1
+
+$annee86evt10=Portugal : the country joins the european economic community
+$annee86evt10detail=Stability +1
+
+$annee86evt11=United Kingdom : Big Bang at the London Stock Exchange
+$annee86evt11detail=Stability +2, relations with the US +2, relations with the USSR-2
+
+
+
+
+
+
+
+
+
+
+
+$annee87evt1=Burkina Faso : government aligns with Moscow
+$annee87evt1detail=relations US -1, relations USSR +3
+
+$annee87evt2=Earthquake in Ecuador
+$annee87evt2detail=Stability -1 and arrival of NGOs
+
+$annee87evt3=Argentine : military mutiny
+$annee87evt3detail=Stability -1
+
+$annee87evt4=Social violence and political protest in Haiti
+$annee87evt4detail=Stability -2
+
+$annee87evt5=El Salvador : peace negotiations
+$annee87evt5detail=The guerrillas wins the negotiation trait
+
+$annee87evt6=Haïti : elections turn into political frauds and massacres
+$annee87evt6detail=The country is a dictatorship and stability decreases by 1
+
+$annee87evt7=India : corruption scandal hits government
+$annee87evt7detail=Stability -1
+
+$annee87evt8=Sri Lanka : peace negotiations
+$annee87evt8detail=The guerrillas wins the negotiation trait
+
+$annee87evt9=Tibet : violent protests against central government
+$annee87evt9detail=Stability -1
+
+$annee87evt10=China : violent student protest
+$annee87evt10detail=Stability -1
+
+$annee87evt11=Malaysia : wave of arrests among opponents to end inter-ethnic violence 
+$annee87evt11detail=Yes, it is a pretext: disappearance of opposition and NGOs in Malaysia + the stability of the country increases by 2
+
+$annee87evt12=Cambodia : towards a political solution ?
+$annee87evt12detail=The guerrillas wins the negotiation trait
+
+$annee87evt13=Lebanon : Syrian intervention
+$annee87evt13detail=How long will this civil war last? The Syrian presence forces the actors to negotiate
+
+$annee87evt14=Israel : start of the first Intifada
+$annee87evt14detail=Stability -1
+
+$annee87evt15=Moscow: a young German has just landed by plane on Red Square!(USSR prestige -50)
+$annee87evt15detail=Generals will lose their jobs
+
+
+
+
+
+
+
+
+
+$annee88evt1=Angola : towards a political solution ?
+$annee88evt1detail=South Africa and Cuba withdraw from the country. The guerrillas discuss the end of the civil war
+
+$annee88evt2=Algeria : riots
+$annee88evt2detail=Stability -1
+
+$annee88evt3=Algeria : the army, overwhelmed, shoots in the crowd
+$annee88evt3detail=Stability -1
+
+$annee88evt4=Algeria : protests extends to the whole country and the state of siege is proclaimed 
+$annee88evt4detail=Stability -1
+
+$annee88evt5=Algeria : thousands of Islamists parade through the streets
+$annee88evt5detail=Stability -1
+
+$annee88evt6=Caribbean: a cyclone ravages Jamaica and the Yucatan
+$annee88evt6detail=Jamaica : Stability-1 et NGOs
+
+$annee88evt7=Argentina : a new military mutiny forces government to concessions
+$annee88evt7detail=Stability -1
+
+$annee88evt8=Burma : violent protests against government
+$annee88evt8detail=Stability -1
+
+$annee88evt9=Burma : the protest provokes a change of head at the top of the state 
+$annee88evt9detail=Stability -1
+
+$annee88evt10=India : armed independence struggle in Kashmir
+$annee88evt10detail=A new guerilla emerges !
+
+$annee88evt11=Burma : Aung San Suu Kyi is establishing the National League for Democracy
+$annee88evt11detail=Stability-1 and a pro-US opposition
+
+$annee88evt12=Burma : protests are crushed by the regime!
+$annee88evt12detail=Stability +3
+
+$annee88evt13=Papua New Guinea : uprising in Bougainville island
+$annee88evt13detail=A new guerilla emerges !
+
+$annee88evt14=Israel : the intifada does not weaken ... on the contrary!
+$annee88evt14detail=Stability -1, Hamas emerges
+
+$annee88evt15=Iran-Irak War : end of hostilities
+$annee88evt15detail=war is over
+
+$annee88evt16=Poland : vast strike movement 
+$annee88evt16detail=Stability -1
+
+$annee88evt17=Yugoslavia : large workers' demonstrations
+$annee88evt17detail=Stability -1
+
+$annee88evt18=Estonia : 250,000 people in Tallinn for a Singing Revolution
+$annee88evt18detail=Peaceful, but nationalism increases by 2 in Estonia 
+
+$annee88evt19=Poland : Silesian miners strike
+$annee88evt19detail=Stability -1
+
+$annee88evt20=Estonia : the local soviet proclaims the sovereignty of the Republic
+$annee88evt20detail=Moscow says no, but nationalism increases by 2 in Estonia
+
+$annee88evt21=Somalia : a tribal group pushes back national army
+$annee88evt21detail=A new guerilla emerges !
+
+
+
+
+
+
+
+
+
+
+$annee89evt1=Chad : rebels are establishing the Patriotic Movement for salvation 
+$annee89evt1detail=This armed political group he will take power someday?
+
+$annee89evt2=Ethnic clashes and sporadic fighting between Senegal and Mauritania
+$annee89evt2detail=Stability -1 for Senegal and Mauritania
+
+
+$annee89evt3=Benin: general strike
+$annee89evt3detail=Stability -1
+
+$annee89evt4=Benin : a democratic transition process is underway  
+$annee89evt4detail=Stability +1
+
+$annee89evt5=Madagascar : a democratic transition process is underway  
+$annee89evt5detail=Madagascar is now a republic and new opposition groups have emerged
+
+$annee89evt6=Charles Taylor take the lead of an armed group in Libéria  
+$annee89evt6detail=A new guerilla emerges !
+
+
+$annee89evt7=Algeria : creation of an Islamic Salvation Front
+$annee89evt7detail=A new political movement, so what?
+
+$annee89evt8=George Bush is elected President of the USA
+$annee89evt8detail=Will it end the Cold War?
+
+$annee89evt9=Venezuela : riots and protests
+$annee89evt9detail=Stability -1
+
+$annee89evt10=Honduras : peace negociations about the ongoing conflit in central America
+$annee89evt10detail=Local guerrillas sit at the negotiating table
+
+$annee89evt11=Mexico : peace negociations about the ongoing conflit in central America
+$annee89evt11detail=Local guerrillas sit at the negotiating table
+
+$annee89evt12=Chile : peace negociations about the ongoing conflit in central America
+$annee89evt12detail=Local guerrillas sit at the negotiating table
+
+$annee89evt13=El Salvador : the civil war is starting again 
+$annee89evt13detail=The guerrillas are getting stronger and breaking off negotiations
+
+$annee89evt14=Colombia : Medellin cartel threatens state stability 
+$annee89evt14detail=Stability -1 and corruption risk
+
+$annee89evt15=China : violents riots in Tibet
+$annee89evt15detail=Stability -1
+
+$annee89evt16=Bangladesh : a tornado hit Daulatpur-Saturia province 
+$annee89evt16detail=Stability -1
+
+$annee89evt17=China : Tiananmen Square protests 
+$annee89evt17detail=Stability -2
+
+$annee89evt18=Chine : Tiananmen Square Massacre 
+$annee89evt18detail=Stability +3, Relations with the USA -2 
+
+$annee89evt19=Indian military intervention in Sri Lanka
+$annee89evt19detail=5 Indian troops in Sri Lanka
+
+$annee89evt20=India : Islamic separatism in Kashmir
+$annee89evt20detail=A new guerilla emerges !
+
+$annee89evt21=Jordan : massive protests
+$annee89evt21detail=Stability -1
+
+$annee89evt22=Lebanon : street fighting against Syrian forces
+$annee89evt22detail=war never changes
+
+$annee89evt23=Czechoslovakia: demonstrations in favor of democracy
+$annee89evt23detail=Stability -1
+
+$annee89evt24=Yugoslavia : state of emergency following the Kosovo miners strike
+$annee89evt24detail=Stability -1
+
+$annee89evt25=Poland : power gives in to civil society
+$annee89evt25detail=Stability +1, Stalinism -1, pro US opposition
+
+$annee89evt26=Lithuania and Latvia: Supreme Soviets proclaim the sovereignty of these republics
+$annee89evt26detail=Nationalism +2
+
+$annee89evt27=Hongrie : réhabilitation de Imre Nagy
+$annee89evt27detail=Stability +1, Stalinism -1, pro US opposition
+
+$annee89evt28=Poland : parliament has decided on a rapid economic and political transition
+$annee89evt28detail=Stability +1, pro US opposition, Poland becomes a market republic, relations with USSR -2
+
+
+
+
+
+
+
+
+
+$annee90evt1=Gabon : workers and students protest
+$annee90evt1detail=Decrease in stability (-1)
+
+$annee90evt2=Benin : democratic transition
+$annee90evt2detail=The regime becomes a Republic
+
+$annee90evt3=Zaire : towards multiparty politics
+$annee90evt3detail=The regime becomes a Republic
+
+$annee90evt4=Ivory Coast : towards multiparty politics
+$annee90evt4detail=The regime becomes a Republic
+
+$annee90evt5=Gabon : towards multiparty politics
+$annee90evt5detail=The regime becomes a Republic
+
+$annee90evt6=Ivory Coast : violent repression of student movements
+$annee90evt6detail=Decrease in stability
+
+$annee90evt7=Liberia : rebel force repels government forces
+$annee90evt7detail=A guerrilla group appears
+
+$annee90evt8=South Africa : End of Apartheid!
+$annee90evt8detail=Stability increases as well as relations with the USA and the USSR
+
+$annee90evt9=Liberia : President murdered!
+$annee90evt9detail=Stability -2
+
+$annee90evt10=Liberia : an African intervention force is deployed
+$annee90evt10detail=Arrival of ECOMOG in the country and gain of the wait-and-see trait for all the guerrillas in the country
+
+$annee90evt11=Liberia : split among the rebel group
+$annee90evt11detail=The National Patriotic Front of Liberia loses the dissension trait, gains the charismatic leader trait and a new guerrilla appears
+
+$annee90evt12=Congo : towards multiparty politics
+$annee90evt12detail=The regime becomes a Republic
+
+$annee90evt13=Rwanda : civil war
+$annee90evt13detail=A rebel force has just entered the country!
+
+$annee90evt14=Rwanda : France sends troops to protect its nationals
+$annee90evt14detail=French troops arrive in the country
+
+$annee90evt15=Mozambique : towards multiparty politics
+$annee90evt15detail=The regime becomes a Republic
+
+$annee90evt16=Niger : towards multiparty politics
+$annee90evt16detail=The regime becomes a Republic
+
+$annee90evt17=Cameroon : towards multiparty politics
+$annee90evt17detail=The regime becomes a Republic
+
+$annee90evt18=Gambia : towards multiparty politics
+$annee90evt18detail=The regime becomes a Republic
+
+$annee90evt19=Zambia : towards multiparty politics
+$annee90evt19detail=The regime becomes a Republic
+
+$annee90evt20=Algeria : important Islamist protests
+$annee90evt20detail=Stability decreases by 1
+
+$annee90evt21=Algeria : major protests against Islamists
+$annee90evt21detail=Stability decreases by 1
+
+$annee90evt22=Nicaragua : free elections
+$annee90evt22detail=The regime becomes a Republic, stability increases by 1 and the guerrillas negotiate
+
+$annee90evt23=Salvador : Towards the end of the civil war?
+$annee90evt23detail=The guerrillas are negotiating
+
+$rebelscachemiris=Islamist rebels
+
+$annee90evt24=India-Pakistan : renewed tension in Kashmir and infiltration of Islamist fighters
+$annee90evt24detail=appearance of an Islamist group
+
+$annee90evt25=Nepal : demonstrations for democracy shake the country
+$annee90evt25detail=Stability -1
+
+$annee90evt26=Papua New Guinea : rebels have proclaimed the independence of the island of Bougainville!
+$annee90evt26detail=A guerrilla war has appeared
+
+$annee90evt27=Cambodia : towards peace?
+$annee90evt27detail=The guerrillas negotiate, the UN arbitrates the process, NGOs set up in the country
+
+$annee90evt28=Mongolia : democratic revolution
+$annee90evt28detail=The government and the economic system are changing
+
+$annee90evt29=Somalia : the country collapses into a clan war
+$annee90evt29detail=A new rebel group appears
+
+$annee90evt30=Iraq : the regime is putting pressure on its Kuwaiti neighbor
+$annee90evt30detail=Bluffing or imminent invasion?
+
+$annee90evt31=Kuwait : a well-isolated monarchy
+$annee90evt31detail=The US does not seem to want to intervene
+
+$annee90evt32=Kuwait invaded by Iraq!
+$annee90evt32detail=The world is surprised by this aggression
+
+$annee90evt33=The US military deploys to Saudi Arabia
+$annee90evt33detail=They want to put an end to the tyranny of Baghdad
+
+
+
+
+
+
+
+
+
+
+
+$annee91evt1=Sierra Leone : rebels defeat government armies
+$annee91evt1detail=But where do they come from?
+
+$annee91evt2=Mali : riots
+$annee91evt2detail=Stability -1
+
+$annee91evt3=Togo : towards multiparty politics ?
+$annee91evt3detail=The regime becomes a Republic
+
+$annee91evt4=Central African Republic : towards multiparty politics ?
+$annee91evt4detail=The regime becomes a Republic
+
+$annee91evt5=Guinée-Bissau : towards multiparty politics ?
+$annee91evt5detail=The regime becomes a Republic
+
+$annee91evt6=Somalia : civil war begins again
+$annee91evt6detail=The SNM has seceded!
+
+$annee91evt7=Rwanda : towards multiparty politics ?
+$annee91evt7detail=The regime becomes a Republic
+
+$annee91evt8=Angola : peace negotiations
+$annee91evt8detail=towards the end of the war?
+
+$annee91evt9=Burkina Faso : towards multiparty politics
+$annee91evt9detail=The regime becomes a Republic
+
+$annee91evt10=Mauritania : towards multiparty politics ?
+$annee91evt10detail=The regime becomes a Republic
+
+$annee91evt11=Zaire : violent riots and looting
+$annee91evt11detail=Stability -1
+
+$annee91evt12=Kenya : towards multiparty politics
+$annee91evt12detail=The regime becomes a Republic
+
+$annee91evt13=Djibouti : Afar rebels have appeared
+$annee91evt13detail=they want to be considered
+
+$annee91evt14=Mali : peace negotiations
+$annee91evt14detail=towards the end of the war
+
+$annee91evt15=Algeria : general strike
+$annee91evt15detail=The Islamists want to gain strength: stability -1
+
+$annee91evt16=Salvador : peace negotiations
+$annee91evt16detail=Will the rebels lay down their weapons ?
+
+$annee91evt17=Papua New Guinea : peace negotiations
+$annee91evt17detail=Will the rebels lay down their weapons ?
+
+$annee91evt18=Bangladesh : Cyclone Gorky ravages the country
+$annee91evt18detail=There are more than 100,000 dead, stability is declining and NGOs are arriving in the country
+
+$annee91evt19=India : candidate Rajiv Gandhi is murdered
+$annee91evt19detail=Stability decreases
+
+$annee91evt20=Indonesia : violence worsens in East Timor
+$annee91evt20detail=the struggle with the Timorese separatists will be bloody
+
+$annee91evt21=Egypt : Islamist unrest in Upper Egypt
+$annee91evt21detail=Stability -1
+
+$annee91evt22=Persian Gulf : start of Operation Desert Storm
+$annee91evt22detail=Don't miss this war on all TV channels!
+
+$annee91evt23=Liberation of Kuwait by American troops
+$annee91evt23detail=Kuwaiti relations with the USA: +6
+
+$annee91evt24=Iraq : the regime still exists after the ceasefire
+$annee91evt24detail=The Iraqi regime will be able to devote itself to the fight against the rebels
+
+$annee91evt25=Somalia : Somaliland separates itself
+$annee91evt25detail=A new country on the map
+
+$annee91evt26=Macedonia : the country proclaims its independence
+$annee91evt26detail=A new country on the map
+
+
+
+
+
+
+
+
+
+
+$annee92evt1=Mali : democratic transition
+$annee92evt1detail=The country is now a republic, stability +1
+
+$annee92evt2=Burundi : democratic transition
+$annee92evt2detail=The country is now a republic, stability +1
+
+$annee92evt3=Congo : democratic transition
+$annee92evt3detail=The country is now a republic, stability +1
+
+$annee92evt4=South Africa: successful referendum on black participation in political life
+$annee92evt4detail=Improved relations with all countries +2
+
+$annee92evt5=Guinea : democratic transition
+$annee92evt5detail=The country is now a republic, stability +1
+
+$annee92evt6=Mali : National Pact
+$annee92evt6detail=Guerrillas negotiate and stability increases by +1
+
+$annee92evt7=Algeria: President Boudiaf is assassinated!
+$annee92evt7detail=This case is unclear and responsibilities difficult to establish ... Stability -1
+
+$annee92evt8=Ghana : democratic transition
+$annee92evt8detail=The country is now a republic, stability +1
+
+$annee92evt9=Centrafrique : democratic transition
+$annee92evt9detail=The country is now a republic, stability +1
+
+$annee92evt10=Madagascar : democratic transition
+$annee92evt10detail=The country is now a republic, stability +1
+
+$annee92evt11=Djibouti: democratic transition
+$annee92evt11detail=The country is now a republic, stability +1
+
+$annee92evt12=Mozambique: peace talks
+$annee92evt12detail=Guerrillas negotiate and stability increases by +1
+
+$annee92evt13=Cameroun: democratic transition
+$annee92evt13detail=The country is now a republic, stability +1
+
+$annee92evt14=Angola: resumption of civil war
+$annee92evt14detail=Civil war again in this country
+
+$annee92evt15=Algeria: the president announces his resignation and the dissolution of parliament
+$annee92evt15detail=Stability -1
+
+$annee92evt16=Algeria: Islamists take up arms
+$annee92evt16detail=Stability -1, the GIA appears
+
+$annee92evt17=Algeria: in the face of unrest, a state of emergency is declared
+$annee92evt17detail=Stability +2
+
+$annee92evt18=Brazil: President accused of corruption risks impeachment
+$annee92evt18detail=Stability -1
+
+$annee92evt19=Thailand: demonstrations in favor of democracy
+$annee92evt19detail=Stability -1
+
+$annee92evt20=India: serious religious unrest
+$annee92evt20detail=Stability -1
+
+$annee92evt21=Vietnam: timid evolution towards a market economy
+$annee92evt21detail=Stability +1/ Richess +1
+
+$annee92evt22=Georgia: political chaos
+$annee92evt22detail=Stability -1
+
+$annee92evt23=Tajikistan: civil war
+$annee92evt23detail=Armed groups appear
+
+$annee92evt24=Georgia: Abkhazia is on fire
+$annee92evt24detail=Armed groups appear
+
+$annee92evt25=Egypt: Islamist attacks against tourists
+$annee92evt25detail=That won't help to improve the economy of the country: Stability -1
+
+$annee92evt26=Bosnia and Herzegovina: Proclamation of its independence
+$annee92evt26detail=A new country on the map, ans a new mess to manage
+
+$annee92evt27=Bosnia and Herzegovina: civil war
+$annee92evt27detail=Armed groups appear
+
+$annee92evt28=Bosnia and Herzegovina: the country joins the UN
+$annee92evt28detail=Stability +2
+
+$annee92evt29=Croatia : the country joins the UN
+$annee92evt29detail=Stability +2
+
+$annee92evt30=Slovenia : the country joins the UN
+$annee92evt30detail=Stability +2
+
+$annee92evt31=Dissolution de la Tchécoslovaquie
+$annee92evt31detail=2 new countries on the map!
+
+$reptchek=Czech republic
+
+$annee92evt32=Somalia: Operation Restore Hope
+$annee92evt32detail=USA and UNO try to save that country from chaos
+
+
+
+
+
+
+
+$annee93evt1=Ethiopia : independence of Eritrea
+$annee93evt1detail=A new country on the map!
+
+$annee93evt2=Malawi: towards a multiparty system
+$annee93evt2detail=The country is now a republic
+
+$annee93evt3=Senegal : peace talks in Casamance
+$annee93evt3detail=The rebels are negotiating
+
+$annee93evt4=Sierra Leone: dispatch of UN peacekeepers
+$annee93evt4detail=Will this calm down the ardor of the belligerents?
+
+$annee93evt5=Sri Lanka: the president dies in a suicide bombing!
+$annee93evt5detail=Stability -1
+
+$annee93evt6=North Korea: Did this country have the atomic bomb?
+$annee93evt6detail=Yes !
+
+$annee93evt7=Great Britain: Downing Street Declaration in favor of peace
+$annee93evt7detail=The country's guerrillas are negotiating
+
+$annee93evt8=Macedonia : the country joins the UNO
+$annee93evt8detail=+1 Stability
+
+$annee93evt9=Mongolia : democratic elections
+$annee93evt9detail=The country become a Republic
+
+$annee93evt10=USA : Bill Clinton enters the White House
+$annee93evt10detail=A new president
+
+
+
+
+
+
+$annee17evt1=Gambia: ECOWAS intervention in the country
+$annee17evt1detail=The nation becomes a republic again and stability is increasing
+
+$annee17evt2=South Korea: protests continue against the president!
+$annee17evt2detail=Stability decreases once more
+
+$annee17evt3=Sudan: US sanctions lifted!
+$annee17evt3detail=The American embargo is removed and relations are back to normal
+
+$annee17evt4=USA: Donald Trump takes on his functions
+$annee17evt4detail=A new president for the USA, how will he fare?
+
+$annee17evt5=USA: Demonstrations against president Trump
+$annee17evt5detail=No effect yet
+
+
+$annee17evt6=USA: Temporary refugee bans
+$annee17evt6detail=Reduces American relations with many Middle Eastern countries
+
+
+$annee17evt7=North Korea: another missile fired!
+$annee17evt7detail=DEFCON -1, Relationship with USA -1
+
+
+$annee17evt8=UK: terrorist attack in London
+$annee17evt8detail=Stability decreases
+
+
+$annee17evt9=South Korea: the president is impeached!
+$annee17evt9detail=Things will go back to normal after a new election, stability -1
+
+
+$annee17evt10=Turkey: transition toward a presidential regime
+$annee17evt10detail=For the president's opponents, the country is slowly sliding towards dictatorship, stability +1, there is no more oppositions 
+
+
+$annee17evt11=Sweden: terrorist attack in Stockholm
+$annee17evt11detail=Stability decreases
+
+
+
+$annee17evt14=Yemen: Southern separatists rise up
+$annee17evt14detail=A new contender in the civil war enters the fray
+
+
+$annee17evt15=Pakistan-Afghanistan: border clashes
+$annee17evt15detail=Players having Defence agreements with only one of these two countries lose relationship with the other
+
+$annee17evt16=Saudia Arabia: conflicts between Sunnis and Shias
+$annee17evt16detail=More religious conflict in the Middle East, stability -1
+
+$annee17evt17=France: Macron elected
+$annee17evt17detail=A victory for the status quo, relations US +1, stability +1
+
+
+$annee17evt18=UK: a hung parliament
+$annee17evt18detail=Brexit is taking its toll on this country, stability -1
+
+$annee17evt19=Montenegro: This country joins NATO
+$annee17evt19detail=The alliance expands and defense treaties are signed with the USA
+
+$annee17evt20=Middle East: various Arab countries cut ties with Qatar
+$annee17evt20detail=Things are not looking good for this country, stability -1 and Qatar is now non-aligned
+
+$annee17evt21=Panama: official recognization of the Peoples Republic of China
+$annee17evt21detail=Yet more countries are switching, relations PRC +3
+
+$annee17evt22=Iran: major terrorist attack
+$annee17evt22detail=ISIL claims responsibility, Iran will get more involved in Syria
+
+$annee17evt23=Spain: terrorist attack in Barcelona
+$annee17evt23detail=Will they ever end? Decrease in stability
+
+$annee17evt24=North Korea/USA: increased tensions
+$annee17evt24detail=North Korean armed forces increase
+
+$annee17evt25=USA: Unite the Right Rally
+$annee17evt25detail=The far-right s power is growing, increase in far-right contestation
+
+$annee17evt26=Kenya: violence after elections
+$annee17evt26detail=Voter fraud is claimed, several deaths occur, stability -1
+
+$annee17evt27=Bhutan: tensions with China
+$annee17evt27detail=India is also getting involved, relations -1 with China for india and Bhutan
+
+$annee17evt28=North Korea: another nuclear test
+$annee17evt28detail=DEFCON decreases as relationship with USA do (-1)
+
+$annee17evt29=Iraq: Kurdistan votes for independence
+$annee17evt29detail=The government does not recognize it, stability -1
+
+$annee17evt30=Cameroon: conflict in Ambazonia
+$annee17evt30detail=A separatist guerrilla appears
+
+$annee17evt31=Spain: Catalonian crisis
+$annee17evt31detail=Independence is declared for a brief time, stability -2
+
+$annee17evt32=Somalia: massive bombing in Mogadishu!
+$annee17evt32detail=The country gets even more destabilized
+
+$annee17evt33=Mozambique: Islamist insurgency in the north of the country
+$annee17evt33detail=A new guerrilla, with ties to ISIL, appears in Mozambique
+
+
+$annee17evt34=Kenya, fresh elections
+$annee17evt34detail=A clear victory for the incumbent and a blow to the opposition, stability +1
+
+
+$annee17evt35=Zimbabwe: Mugabe is deposed
+$annee17evt35detail=Switch to democracy and market economics, increase in stability and US relations, and loss of the Paranoia trait
+
+
+$annee17evt36=USA: Recognition of Jerusalem as Israel's capital
+$annee17evt36detail=The pro-Israel lobby is doing its job well, increase in Israeli relations with US, but decrease of relations with several Middle Eastern countries
+
+
+
+
+
+
+$collectif=The civil society and the intelligentsia wake up
+$collectifdetail=Creation of a pro-US opposition and decrease in stability
+
+
+$partisansursstitle=Nationalists fool our troops and lead bold coups de main.
+$partisansurss=coup de main of nationalist partisans (prestige -10)
+$partisansurss2=USSR: coups de main of nationalist partisans (USSR prestige -10)
+
+$partisansurss3=USSR: harsh suppression of the nationalists (USSR prestige -10)
+$partisansursstitle4=Decrease in power of nationalist partisans
+$partisansurss4=Harsh suppression of the nationalists (USSR prestige -10)
+
+$effetaideusachine=American surpluses benefit to the Chinese National Revolutionary Army.
+$effetaideusachinedetail=The Chinese armed forces increase
+
+$finaideusachine=China: end of the American aid
+$finaideusachinedetail=China: end of the American aid
+
+$effetaideelas=Greece: Yugoslavia funds partisans! 
+
+$effetembargo=Protests against shortages generated by the embargo placed by 
+$effetembargodetail=Relations with the responsible superpower deteriorate and stability decreases
+
+$effetmarshall=Production outputs increase thanks to the Marshall Plan!
+$effetmarshalldetail=Increase in stability and relations with the USA improve
+
+$boomeconomique=Economic boom! The opposition lacks arguments.
+$boomeconomiquedetail=Increase in wealth and disappearance of non pro-US oppositions
+
+$manifsveteranschomeurs=Huge protests marches of unemployed veterans (Prestige USA -5)
+$manifsveteranschomeursdetail=Prestige -5
+
+$manifspenurie=Huge protests marches against shortages (Prestige USA -10)
+$manifspenuriedetail=Prestige -10
+
+$manifpacifiste=Huge pacifist protests marches (Prestige USA -5)
+$manifpacifistedetail=Prestige -5
+
+$manifspopulaires=Popular protests in favour of freedom of speech
+$manifspopulairesdetail=Decrease in stability: this event happens when the stalinism score is too low
+
+$passageouestatlete=An athlete crosses the Iron Curtain (USSR Prestige -5)
+$passageouestatletedetail=Loss in prestige: this event happens when the stalinism score is too high
+
+$passageouestintello=A famed intellectual crosses the Iron Curtain (USSR Prestige -15)
+$passageouestintellodetail=Loss in prestige: this event happens when the stalinism score is too high
+
+$passageouestscience=An eminent scientist crosses the Iron Curtain (USSR Prestige -5)
+$passageouestsciencedetail=Loss in prestige and technology transfer to the USA if they are lagging behind in terms of military research: this event happens when the stalinism score is too high
+
+$purgesmassives=Massive purges within the party (USSR prestige -10)
+$purgesmassivesdetail=Increase in stability relations with Moscow improve and relations with Washington deteriorate:  this event happens when the stalinism score is high
+
+$grevemineursusa=General strike in the steel industry (USA Prestige -15)
+$grevemineursusadetail=Prestige -15
+
+$manifsinflation=Social movements against the high costs of living (USA Prestige -10)
+$manifsinflationdetail=Prestige -10
+
+$demandedemobilisation=Protest marches of mothers and wives for the return of their men (Prestige -10)
+$demandedemobilisationdetail=Prestige -10
+
+$versleneolithique=Deterioration of living conditions (USSR Prestige -10)
+$versleneolithiquedetail=Decrease in stability and wealth 
+
+
+$aidevnusa=Indochina: American aid to the French contingent
+$aidevnusadetail=French troops in Vietnam are reinforced and the stability of Vietnam increases if it is very weak
+
+$aidevmchine=Indochina: Chinese aid to the Viet Minh (+2)
+$aidevmchinedetail=Viet Minh grows stronger (+2)
+
+$aidekpchine=North Korea: massive Chinese material aid (armed forces +2)
+$aidekpchinedetail=North Korean armed forces +2
+
+$aideursschine=China: the Soviet aid supports the rebuilding of the country
+$aideursschinedetail=Increase in stability
+
+$aideursschinemil=China: reinforcement of the country's military capability (+3)
+$aideursschinemildetail=This is made possible by the Soviet aid
+
+$mccarthyhollywood=The Senate Permanent Subcommittee on Investigations accuses Hollywood ! (prestige -25)
+$mccarthyhollywooddetail=McCarthy strikes again! USA: loss of 25 prestige
+
+$mccarthyarmee=The Senate Permanent Subcommittee on Investigations accuses a general! (prestige -10)
+$mccarthyarmeedetail=McCarthy strikes again! USA: loss of 10 prestige
+
+$mccarthycitoyens=The Senate Permanent Subcommittee on Investigations accuses an eminant scientist! (prestige -5)
+$mccarthycitoyensdetail=McCarthy strikes again! USA: loss of 5 prestige
+
+$mccarthyretd=Leak of top secret US research files
+$mccarthyretddetail=The Soviets progress in their research on A/H bombs or on satellites
+
+$renffrvietnam=Indochina: France reinforces its contingent
+$renffrvietnamdetail=Increase in French armed forces in Vietnam
+
+$renffr=France: reinforcement of its military capacity
+$renffrdetail=Armed forces +2
+
+
+
+$assistancesovietiquechinecoree=China: Soviet military and industrial aid
+$assistancesovietiquechinecoreedetail=As part of the Korean war, you gain 1% in military superpower score!
+$assistancesovietiquechinecoreedeux=China: Soviet help +$5
+$assistancesovietiquechinecoreetrois=China: Soviet help +$10
+$assistancesovietiquechinecoreedeuxdetail=As part of the Korean war, China benefits from a material aid from the Soviets
+
+$attaquebanditschine=China: bandits attack! (Prestige -5, -$5)
+$attaquebanditschinedetail=Bandits are ruining the country!
+
+$suppressionbanditschine=China: bandits have been punished! bandits: -
+$suppressionbanditschinedetail=The number of bandits diminshes
+
+$raidlimi=China: raid from Burma by Li Mi's irregulars (Prestige -5, -$5)
+$raidlimidetail=We will have to solve this problem!
+
+
+
+$finterrevierge=USSR: end of the Virgin Lands campaign
+$finterreviergedetail=End of the campaign
+
+$recolteabondante=USSR: plentiful harvest (Prestige +10)
+$recolteabondantedetail=Prestige +10
+
+$recolteexceptionnelle=USSR: plentiful harvest (Prestige +25)
+$recolteexceptionnelledetail=Prestige +25
+
+$kashmirprincess=China: technology trade with Western companies
+$kashmirprincessdetail=Superpower score +1%
+
+$reconstructionusa=USA: transition to peace economy
+$reconstructionusadetail=USA monthly budget increased by 5
+
+$deveconomiqueusa=USA: developpement of the economy
+$deveconomiqueusadetail=USA monthly budget increased by 5
+
+$egypterevolte5355=Egypte : Revolution !
+$egypterevolte5355detail=Army overthrow monarchy
+
+$aidefln=Algeria : FLN helped by arabic countries
+$aideflndetail=+2 armed forces for this guerilla
+
+$aideflnestdetaila=+2 armed forces for this guerilla
+
+
+$dazibao1=China: massive workers strikes(prestige -5 / budget -$5)
+$dazibao1detail=Budget -$5, prestige -5
+
+$dazibao2=China: armed revolts in the countrysides (prestige -5 / budget -$10)
+$dazibao2detail=Budget -$10, prestige -5, increase in bandits strength
+
+$dazibao3=China: proliferation of mutiny in the army (prestige -5)
+$dazibao3detail=Very sharp increase in bandits strength
+
+$banditstibet=Tibet: the fight against counterrevolutionaries goes on (-5$)
+$banditstibetdetail=Tibetan bandits strength decreases by 1
+
+$grandbondbandits=China: starving bandits!
+$grandbondbanditsdetail=The regrouping of the Chinese population in people's communes cut the bandits from their supplies: their strength decreases
+
+// 1959-1962
+
+$cornfrenzy=USRR: record corn production! (prestige USSR +10)
+$cornfrenzydetail=USRR prestige +10
+
+$passageouest=Berlin: significant volume of defections to the West (USSR prestige -25)
+$passageouestdetail=USSR prestige -25
+
+$tensionsinovov=USSR: tensions between the USSR and China
+$tensionsinovovdetail=Deterioration of the Soviet relations with China
+
+$tensionsinovov2=USSR: China gathers troops at its border with the USSR
+$tensionsinovov2detail=Very sharp deterioration of the Soviet relations with China
+
+$tensionsinovov3=USSR: relations at a standstill between Moscow and Beijing
+$tensionsinovov3detail=Sharp deterioration of the Soviet relations with China
+
+$survolu2=A U2 flies over the USSR: exceptional harvest of intel! (prestige USA +10)
+$survolu2ru=Gain in prestige
+$survolu2detail=USSR: American spy aeroplanes fly recklessly over our territory (Prestige URSS -10)
+$survolu2rudetail=Loss of prestige
+
+$emeutesraciales=USA: race riots (prestige -10)
+$emeutesracialesdetail=Loss of prestige
+
+$emeutesraciales2=USA: violent police suppression of a civil rights demonstration (prestige -15)
+$emeutesraciales2detail=Loss of prestige and increase of the civil rights contestation
+
+$kkk=USA: the Ku Klux Klan kills! (prestige -5)
+$kkkdetail=We live in the 20th century, how can such things still happen?
+
+$allianceprogresmineur=: this country's economy is developing
+$allianceprogresdetailmineur=This thanks to the Alliance for Progress: stability increases and the relations with the USA improve
+
+
+// 1963
+
+$crisebonzes=Vietnam: demonstrations and Buddhist immolations
+$crisebonzesdetail=Stability decreases
+
+$konfrontasi=Borneo: increase of Indonesian commando infiltrations
+$konfrontasidetail=Indonesian armed forces +2
+
+$pistehochimin=Vietnam: Vietcong reinforcements
+$pistehochimindetail=Via the Ho Chi Minh trail: +
+$pistehochimindetail2=The Vietcong is active again in South Vietnam
+
+$dragonasiatique=: economic growth
+$dragonasiatiquedetail=Wealth increases by 1 and stability by 2!
+
+$aidechineVM=Vietnam: important Chinese military aid
+$aidechineVMdetail=Armed forces +
+
+$rollingmarche=North Vietnam: the bombings are disorganising the country
+$rollingmarchedetail=Who said Operation Rolling Thunder was useless? Stability and wealth decrease in North Vietnam
+
+$brejnev1=The economists notice the convergence between the Soviet and Western economies (prestige +10)
+$brejnev1detail=Well, a number of them do
+
+$brejnev2=USSR: increase in households consumption (prestige +5)
+$brejnev2detail=The time between order and delivery of a car is of 8 years: a proof that demand is booming!
+
+$brejnev3=USSR: increase in living standards in cities (prestige +5)
+$brejnev3detail=The time between order and delivery of a car is now above 10 years: will Moscow have traffic jams like in the West?!
+
+$brejnev4=Brezhnevian Cult: Brezhnev honoured again with the Order of Lenin (prestige -5)
+$brejnev4detail=The entire world is having au laugh
+
+$brejnev5=USSR: What would happen to a crocodile which swallow Brezhnev ?
+$brejnev5detail=He would shit medals for two weeks
+
+$brejnev6=Brezhnevian Cult: Brezhnev publishes his War Memoirs (prestige -5)
+$brejnev6detail=You see, he knows how to write!
+
+$brejnev7=Brezhnevian Cult: Brezhnev honoured with the Order of Victory (prestige -5)
+$brejnev7detail=Did he not already have this one?
+
+$brejnev8=Brezhnevian Cult: Brezhnev honoured with the Karl Marx gold medal (prestige -5)
+$brejnev8detail=Did he not already have this one?
+
+$brejnev9=Brezhnevian Cult: Brezhnev made Hero of the Soviet Union (prestige -5)
+$brejnev9detail=The entire world is having au laugh
+
+$liberman1=: economic growth
+$liberman1detail=Wealth and stability increase, Stalinism decreases (-2)
+$liberman2=: economic catch-up
+$liberman2detail=Stability increases, Stalinism decreases (-1)
+$liberman3=: is experimenting socialism with a human face
+$liberman3detail=Stalinism decreases (-1)
+$liberman4=: failure of the economic reforms
+$liberman4detail=Stability decreases
+
+$repriseoffensiveVM=Vietnam: North Vietnam is on the offensive anew
+$repriseoffensiveVMdetail=The war resumes
+
+// 1966
+
+$detournallianceprogres=: developement of a kleptocracy around the American aid
+$detournallianceprogresdetail=Stability decreases and the country gains the trait Corrupted
+
+// MODE FRANCE
+
+$grevesfrance=France: the CGT call to strike had a high turnout (-$5)
+$grevesfrancedetail=The PCF, feeling power slipping away of its hands, pressures the goverment
+
+$lareconstructionavance=France: the reconstruction of the country progresses!
+$lareconstructionavancedetail=+1% to your reconstruction score
+
+$hoahaoveste=Vietnam: alliance turnaround for the Hoa Hao
+$hoahaovestedetail=These lads are unpredictable
+
+$rebellesnationalistes=Nationalist rebels
+
+$pcempire=: the Communist party gathers the discontents
+$pcempiredetail=An opposition controlled by the USSR appears
+
+$rebellionempire=: rebels took up arms!
+$rebellionempiredetail=A nationalist guerrilla appears
+
+$greveempire=: railway workers strike
+$greveempiredetail=Stability decreases
+
+$grevesmineursfrance=France: an endless miners strike (-$5)
+$grevesmineursfrancedetail=They will grow tired... will they not?
+
+$caodaiveste=Vietnam: alliance turnaround for the Cao Dai
+$caodaivestedetail=These lads are unpredictable
+
+$binhxuyenveste=Vietnam: alliance turnaround for the Bình Xuyên militia
+$binhxuyenvestedetail=These lads are unpredictable
+
+$rc4a=End of the battle of Route Colonial 4: French victory!
+$rc4adetail=The Vietminh did not succeed in percing through the French lines
+
+$rc4b=End of the battle of Route Colonial 4: French tactical successes (Vietminh -1)(-$5)
+$rc4bdetail=The guerrilla strength decreases
+
+$rc4c=End of the battle of Route Colonial 4: French defeat (-25 prestige, -$5)
+$rc4cdetail=The Vietminh gains the trait Extraterritorial base
+
+$rc4d=End of the battle of Route Colonial 4: the fight is raging and its outcom is unpredictable (-$5)
+$rc4ddetail=Can France win?
+
+$aidechinoisevietminh=Indochina: Chinese aid to the Vietminh (+1)
+$aidechinoisevietminhdetail=The Vietminh gains +1 in strength
+
+$aidechinoisevietminhb=Indochina: Chinese aid to the Vietminh (+2 / Heavy weapons)
+$aidechinoisevietminhbdetail=The Vietminh gains +2 in strength
+
+$aideusindochine=American aid for the Indochina War (budget +$10)
+$aideusindochinedetail=We will use it to balance the national accounts
+
+//pertes débouchés commerciaux
+
+$pertedebouchescommericaux=USA : the economy suffers from the lack of commercial opportunities in Western Europe
+$pertedebouchescommericauxdetail=US monthly budget -5$
+
+$pertedebouchescommericauxB=: Cheap US products are flooding the market, ruining local economy (Stability -1)
+$pertedebouchescommericauxBdetail=This is pure Dumping!
+
+$pertedebouchescommericauxC=USA : the economy suffers from the lack of commercial opportunities in Asia
+$pertedebouchescommericauxCdetail=US monthly budget -5$
+
+// Guerre d'algérie
+
+$aideflnusadetaila=+1 armed forces for this guerilla
+
+
+//  année 70
+$bombcambodgeusa=Cambodia: protest against American bombing on its territory.
+$bombcambodgeusadetail=Decrease in relations between the USA and Cambodia
+
+$eventostpol=: increased trade with the West.
+$eventostpoldetail=Stability increases but Stalinism decreases 1
+
+$inflationetcrise=: galloping inflation and economic crisis
+$inflationetcrisedetail=Decrease in stability, or even in wealth
+
+// 1976
+
+$aidearabesarawi=Western Sahara: the Polisario front helped by an Arab country.
+$aidearabesarawidetail=The Libyans, or the Algerians, financed this guerrilla warfare (+1) 
+
+//1980
+
+$creanciers=: the country announces it cannot no longer reimburse its creditors!
+$creanciersdetail=Stability (and sometimes even wealth) decreases
+
+$aidearabesiraq=Iraq: important financial support from the Gulf States
+$aidearabesiraqdetail=Stability +1 and armed forces +1
+
+$enleveliban=Lebanon: abduction of American citizens (USA prestige -5)
+$enlevelibandetail=They are said to be detained by a Shia militia
+
+$aidsaafghanistan=Aid from the Gulf monarchies to the Afghan guerrilla
+$aidsaafghanistandetail=Their champion (Hezb-e-Islami Gulbuddin) gains +1 in strength
+
+$aidpkafghanistan=Aid from Pakistan to the Afghan guerrilla
+$aidpkafghanistandetail=Its champion (Hezb-e-Islami Gulbuddin) gains +1 in strength
+
+$aidirafghanistan=Aid from Iran to the Afghan guerrilla
+$aidirafghanistandetail=Its champions (the Teheran's 8) gain +1 in strength
+
+$desertionafghanistan=Afghanistan: desertions are multiplying in the regular army
+$desertionafghanistandetail=Armed forces -1
+
+$basidjis=Iran: mass levy of Bassidjis
+$basidjisdetail=Armed forces +10, stability +1
+
+$fortifiraq=Iraq: military engineers build formidable defences
+$fortifiraqdetail=Stability +2
+
+$armesmodernesirak=Iraq: the country builds up its stock of modern weapons.
+$armesmodernesirakdetail=Armed forces +3
+
+// Guerre d'algérie
+
+$aideflnusa=Algeria: the FLN is helped by the USA
+$aideflnusadetail=The guerrilla group strength is increased by 2
+
+$flnattaquesas=Algeria: violent FLN attacks against the Specialised Administrative Sections
+$flnattaquesasdetail=The number of SAS decreases by 1
+
+$aideflnest=Algeria: the FLN is helped by socialist States
+$aideflnestdetail=The guerrilla group strength is increased by 2
+
+$denoncetorturealgerie=Intellectuals denounce the use of torture in Algeria (prestige -5)
+$denoncetorturealgeriedetail=France loses 5 prestige points
+
+$pertedebouchescommericauxD=USA: the economy suffers from the lack of outlets in Western Europe
+$pertedebouchescommericauxDdetail=USA monthly budget -5
+
+$bataillefrontieres=Algeria: France has the upper hand in the battle of borders
+$bataillefrontieresdetail=The maxium strength of the FLN decreases by 1
+
+$instabilitegouvfrance=The French government collapsed once more...
+$instabilitegouvfrancedetail=This country is ungovernable, the risk of a coup has increased
+
+$ungroupesereconstitue=Afghanistan: a group of Mujahideen rebuilt its forces
+$ungroupesereconstituedetail=A guerrilla group that disappeared just reappeared: this can happen as long as Peshawar is used as a rear base by the Mujahideen
+$ungroupesereconstituedetailb=A guerrilla group that disappeared just reappeared: this can happen as long as Iran is used as a rear base by the Mujahideen
+
+$querellesmujahidins=Afghanistan: the Mujahideen groups are quareling between themselves
+$querellesmujahidinsdetail=One group decided to expend its territory at the expense of other Mujahideen.
+
+$mujahidinsattentistes=Afghanistan a group of Mujahideen rebuilds its forces
+$mujahidinsattentistesdetail=A group gains the trait Wait-and-see and gains +1 in strength
+
+$attentatnonattribueinteretsamericains=World: violent terrorist attack against American intrerests (USA prestige -5)
+$attentatnonattribueinteretsamericainsdetail=No group claimed to be responsible for this attack
+
+$attentatnonattribueinteretsamericainsattribue=World: violent terrorist attack against American intrerests  (USA prestige -5), surely funded by 
+$attentatnonattribueinteretsamericainsattribuedetail=This Rogue State denies but the array of clues speaks for itself: the relations of this country with the USA deteriorate by 3
+
+$emeutesnationalistescaucase=: nationalist riots
+$emeutesnationalistescaucasedetail=Stability -1, nationalism +1
+
+$reveilislamcaucase=: awakening of Islam
+$reveilislamcaucasedetail=Nationalism +1 , Stalinism -1
+
+$massacrepopulationsrussescaucase=: massacre of Russian people!
+$massacrepopulationsrussescaucasedetail=Stability -2
+
+$massacreinterethniquecaucase=: inter-ethnic massacres
+$massacreinterethniquecaucasedetail=Stability -2, nationalism +2
+
+$reveilcitoyencaucase=: a nationalist party gathers supporters
+$reveilcitoyencaucasedetail=Nationalism +1 , Stalinism -1
+
+$manifnationalistepacifiquerss=: large pacific nationalist demonstration
+$manifnationalistepacifiquerssdetail=Nationalism +2
+
+$terrorattackA=: terror attack, the country stands united against terror
+$terrorattackdetailA=Never that again ! : The people are standing together against terror (Stability +1)
+
+$terrorattackB=: a terror attack fuels violence between communities
+$terrorattackdetailB=The country stands divided (Stability -1)
+
+$terrorattackC=: terror attack
+$terrorattackdetailC=people are resigned, they know they have to live with these attacks...
+
+//TRUMP's WORLD
+
+$antifa=USA: Violent agression against peacefull Proud Boys protesters by a mob of antifas and looters. The national guard had to open the fire!  (The President warned them! prestige -10)
+$antifadetail=Why such a hate...
+
+$blm=USA: BLM riots (prestige -10)
+$blmdetaildetail=Loss of prestige
+
+$blm2=USA: violent police suppression of a BLM demonstration (prestige -15)
+$blm2detail=Loss of prestige and increase of the civil rights contestation
+
+$protestsecolo=USA: Impressive protests against the government environmental policies (prestige -5)
+$protestsecolodetail=The protests are peaceful so far
+
+
+//CTHULHU
+
+$unhollycult=an unholly cult is growing...
+$unhollycultdetail=The awakening ritual will be speed up

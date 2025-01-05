@@ -1,0 +1,575 @@
+
+$Base=Military base 25
+$Menacer=Menacer 5
+
+$aideEco= an economic aid was granted by 
+$aideeconomique5=Economic aid 5
+$aideeconomique10=Economic aid 10
+$aideeconomique25=Economic aid 25
+$aideeconomique50=Economic aid 50
+
+$aidemili5=Military aid 5
+$aidemili10=Military aid 10
+$aidemili25=Military aid 25
+$aidemili50=Military aid 50
+
+$Envoiedetroupe5= Send Troops5
+$Envoiedetroupe10= Send Troops10
+$Envoiedetroupe25= Send Troops25
+
+
+$accordecosignes=This country has agreed to sign economic treaties with you!\n A new era of prosperity and profitable relations has begun for our two nations.
+$accorddefsignes=This country has agreed to sign defence agreements with you! \nOur duty is now to protect our new allies.
+$accorddeffensifs=Defence agreements
+$accordecononsignes=Negotiations are stalling...
+$accorddefnonsignes=Negotiations are stalling...
+$accordbasenonsignes=Negotiations are stalling...
+$accordbasesignes=This country has agreed to host a major military base
+$accordbasemissilessignes=This country has agreed to be protected by your nuclear umbrella
+$accordeconomique=Economic treaties
+$accorddef=Defence agreements
+$accordeco=Economic treaties
+$accusationputch=This government has accused you of participating in the attempted coup
+$aideeconomique=Economic aid
+$aidemil=Military aid
+$aidemilvenduerebelles=Widespread corruption or gross incompetence? Part of the weapons and ammunition you have sent has ended up in the rebels' hands! 
+$aligner=Diplomatic alignment
+$armeeinsurectionnellede=Insurrectional Army of 
+$apparitioncorruption=The large influx of capital generated greed, and government groups have organised to embezzle this godsend for their own profit.
+$apres=After
+$armeepatriotiquelibre=Free Patriotic Army
+$armeepopulaire=People's Army
+$armeepopulaireliberation=People's Liberation Army
+$armeenationaleclandestine=Underground National Army
+$armeerouge=Red Army
+$armeerougemaoiste=Maoist Red Army
+$armeesecrete=Secret Army
+$avant=Before
+$basemilitaire=Military Base
+$basemissiles=Nuclear Missiles
+$capacitemilitairemax=This country's military has reached its maximum strength.
+$capacitemilitaireguerillamax=This guerilla's strength has reached its maximum level.
+
+$coalitionformee=The guerrilla groups have just united! Together, they will overthrow the illegitimate government!
+$coalitionguerilla=Creation of a coalition
+$coalitionratee=Uniting with other groups is inconceivable... (for the time being)
+
+$concessionsmanifestations=Facing unprecedented unrest, the government has organised negotiations that have resulted in a new social pact. The majority of the population is satisfied with this new deal.
+
+// These don't really seem like battles
+$contremanifestation=Extremist factions of all persuasions have taken to the streets to fight. There are heated skirmishes happening across the country, and the government stands powerless to stop them! 
+
+$coupetat=Coup 
+$creationguerilla=Guerrilla
+
+$creationdissention=Your agents have done their job well -- internal fights are paralysing the leadership of this movement!
+
+$creationgroupedissident=This movement has just split into two separate groups!
+
+$desertionguerilla=Multiple desertions are crippling this guerrilla's ranks!
+
+$dissention=Generate dissent
+
+$echecdissention=Your attempts have failed this group stands united and remains focused on its objectives.
+
+$envoitroupescoloniales=This colony's metropole has reinforced its contingent to maintain law and order.
+
+$envoidetroupes=Your troops have arrived in this country!
+$envoitroupes=Sending troops
+
+$equilibrerelation=This country, concerned about its independence and the global balance of power, has focused on initiatives to draw nearer to the other bloc.
+
+$equiparmeslourdes=This guerrilla is now armed with heavy weapons.
+
+$factionarmeemarxiste=Marxist Armed Faction
+
+$fermeturebase=Your military base is now closed
+$fermeturebasemissile=You have removed your ballistic missiles from this country
+
+$fondationopposition=Create an opposition
+
+
+$frontpatriotique=Patriotic Front
+
+$gouvernementrenverse=The country has fallen into chaos as its government collapsed!
+$guerillareussi=Your efforts have paid off -- an armed group is ready to violently overthrow the government
+
+$guerillarate=The opposition in this country prefers the political route...
+$infiltration=Infiltration
+
+$ingerenceinterne= This country's government condemns foreign subversive interference
+
+$inquietuderetrait= This country is worried about your withdrawal from the region (relations -1)
+
+$instructeursarrivent=Your military advisors have arrived in this country, where they will manage the training of its army and support its general staff
+$instructeurspartent=Your military advisors have been sent back home -- their mission is complete!
+
+// replaced putch with coup
+$interventiontroupesursscontreputch=The coup failed!\nRussian troops intervened to put an end to this adventure
+$interventiontroupesusacontreputch=Thus coup failed!\nAmerican troops intervened to put an end to this adventure
+
+$invasionpays=Your troops have invaded this country!
+
+// This variable is about the Congress of the USA, correct?
+//I think just congress will suffice
+$lecongresditnon=Congress says No!
+
+
+$knicenom=Korean National Defense Corps
+$lacharite=This country has refused your aid! \nIts rulers pretend that they do not need your charity, and claim that your proposal is part of a hidden imperialist agenda to control their national economy...
+$lacorruption=Corruption
+$larichesse=Wealth
+$lesopposition=Number of opposition groups
+
+$manifsantibase=The announcement of your planned installation of a military base in this country has triggered massive and violent popular protests!
+
+$manifsantibasemissiles=The announcement of your intention to deploy nuclear missiles in this country has triggered massive and violent popular protests!
+
+$manifsantibasedegenere=Protests are worsening and spreading out across the country -- the regime is tottering!
+$manifsantibasemate=Suppression of the protest marches has been merciless. The army has shot the protesters, and all leaders of the opposition have been arrested!
+$manifestationreprimee=The protests were harshly suppressed, and the main leaders of the opposition have been arrested
+menace=Threat
+
+$milicespatriotiques=Patriotic Militias
+
+$negodissentions=The issue of whether to negotiate has caused major dissensions within the movement.
+$negoguerilla=Push to negotiate
+
+$negoreussie=The guerrilla has agreed to open negotiations with the incumbent government. We cannot predict whether the regime will take advantage of this historical opportunity.
+$negoratee=The guerrilla is not yet ready to have discussions with the regime.
+
+$nomrelation=relations
+$nomrichesse=wealth
+$nomfinlandisation=Finlandisation
+$nomnonfinlandise=not subject to Finlandisation
+
+$nomsplitusa=True National Front
+$nomspliturss=Socialist Revolutionary Army
+$nomsplitautre=New Patriotic Front
+
+$nwyanom=Northwest Youth Association
+$oppositionreussi=opposition starts to organise itself
+$oppositionratedictature=The national secret police keeps a watchful eye on the population, and any attempt to organise the opposition is nipped in the bud.
+$oppositionrate=It would be easier to herd cats than to organise the dissidents of this country.
+
+$patriotesde=Patriots of 
+
+$particommunistecombattant=Fighting Communist Party
+$partimaoistecombattant=Fighting Maoist Party
+$pccnom=Korean Communist Party
+
+$prosperitesupprimeopposition=The newfound prosperity has stripped the opposition of its economic arguments.
+
+$protestationaidemil=This country's government strongly protests against this military aid that could destabilise the entire region (relations -1)
+
+
+$putchmercenaire=War hawks have overthrown the government! \n A young captain from the Presidential Guard has taken power.\n Counselled by his unpredictable foreign friends, he promises to lead the country out of its current turmoil.
+$putchreussi=\n\n This country's government was overthrown by a few ambitious young generals! \n They intend to put the nation back on track.
+
+$rejointcoalition=this group joins the coalition!
+
+$relationadversaires=relations with 
+$remaniementetatmajor=This country's leeadership has been thoroughly reorganised
+
+$retraitkoree=Our withdrawal from Korea has left it in turmoil, where various factions have immediately organised to seize power by force.
+
+$retraitarmeerougeeurope=While we were withdrawing from the country, its population rose against the government!\n This revolt has rapidly reached major cities, and has even gained support from units in the army.
+
+$retraitpologne=While our troops were leaving Poland, anti-communist soldiers  since the end of World War II have suddenly put an end to their concealment and rallied a crowd of patriots.\nThis crowd of supporters has grown to the size of a formidable army determined to turn our retreat into a opportunity to overthrow the government.
+
+$stability=stability
+
+$radicalisation=This group has now been reduced to a handful of uncontrollable fanatics
+
+$rappelneutralite=This country keeps a strict neutrality
+$rappelnonalign=This country claims to remain non-aligned
+$relation=relation
+$stabiliterate=Your economic aid will help this country to develop
+$stabilitereussi=Your economic aid has helped this country to develop -- its stability rises!
+
+$aidemilreussie=Your military aid has reinforced the armed forces of this country
+
+$aidemilrate=Your military assistance made no significant difference.
+$aideguerillareussie=Your aid has reinforced the guerrilla 
+
+$gainparanoia=Suppression has reached unexpected heights as this country's leader sinks into paranoia
+
+
+$manifestationdestabilisatrices=Destabilising Protests
+$manifestationreussie=Major popular protests shake the government!
+$manifestationrate=The opposition has major difficulties rallying its supporters, and cannot find more than a hundred militants across the entire country to demonstrate...
+$manifestationratedictature=The crazy protestor was sent to a mental hospital...
+
+$protestguerilla=This country believes that your irresponsible behaviour will destabilise the region
+
+$protestputch= This country protests against your interference in the internal affairs of a sovereign state
+$protestretrait= This country is worried about your withdrawal from the region.
+
+$protestinvasion=This country vigorously protests your invasion!
+
+$putchrate=The planned coup failed miserably, and those involved were arrested.
+$putchraterepression=The coup failed, and merciless suppression struck the political opposition. The government intends to take charge of the country again!
+
+$reequilibrage= diplomatic rapprochement with 
+$relationreussi=Your relations with this country have improved
+
+$retraitdetroupes=Our children are heading back home!
+$retraittroupes=Withdrawing troops
+
+$retraitarmeerougeeuropeindependence=This country's government has taken advantage of our departure to announce its first timid steps toward liberalisation and initiate a political opening to the West (Stalinism -1)
+
+$retraitinquietretraiteurope=This country is terribly worried about our withdrawal from Europe (relations -1)
+
+$richessereussi=This country has been blessed with a period of strong economic growth its wealth has increased!
+$rapportanalystes=Intelligence report from our secret services
+$rappelinstructeurs=Call back your Military Advisors
+$lastabilite=Stability
+$txtaccordeco=signs economic treaties with 
+$txtaccorddef=signs military agreements with 
+$txtaccordbase=installation of a major military base by
+$txtaccordbasemissiles= installation of nuclear ballistic missiles facilities by
+
+$txtactionfinembargo=This embargo has been lifted, and relations between our two countries should begin on a good footing!
+$txtactiondebutembargo=This nation is now under an embargo -- its economy should slowly sink...
+
+$txtaideeco= an economic aid was granted by 
+$txtaidemil= a military aid was granted by 
+$txtaidemilguerilla= guerrilla was financed by 
+
+$txtalignement= alignment of diplomatic positions on 
+$txtalignementrate=Our interference in this country's political life has sparked its national pride, and relations between our two nations have considerably soured....
+$txtalignementsanseffet=Our two nations are cooperating and discussing in a constructive manner...
+$txtappelaide=This government seeks support from the other superpower -- will its call be heard?
+
+
+$txtdesunion=The country has fallen into disagreement about what attitude it should adopt in response to your threats
+
+$txtenvoidetroupes=Sending of troops by 
+
+
+$txtalignementreussi=The understanding of our two nations on world affairs is more convergent than ever.
+$txtalignementservile=This country's government has aligned itself towards your positions with such haste and servility that your diplomats are surprised. 
+
+$txtconcessionsmanifestations= government reacts to social unrest with a new social covenant (+ stability)
+
+$txtcontremanifestation= extremist groups are fighting in the streets!
+$txtenvoitroupescoloniales=reinforcement of the colonial contingent
+
+$txtquittecoalition=Following heated internal debates, this group has abandoned the anti-government coalition
+
+$txtguerillareussi=Creation of an armed movement by 
+$txtguerillareussi2=Creation of an armed movement by 
+$txtguerillarate=Attempted creation of an armed movement by 
+$txtguerillarate2=Attempted creation of an armed movement by 
+
+$infiltrationratee=You failed to infiltrate this group
+$infiltrationreussie=Your agents have infiltrated this group
+
+$txtinvasion=The country has been invaded by 
+
+$txtmanifestationrate= opposition struggles to exist
+$txtmanifestationrate2= opposition struggles to exist
+$txtmanifestationreprimee= a harsh suppression strikes a popular protest movement
+$txtmanifestationreprimee2=a harsh suppression strikes a popular protest movement
+$txtoppositionsorganise=opposition organises itself
+$txtoppositionsorganise2=political opposition organises itself
+
+$txtoppositionsorganisepas=attempted organisation of the opposition by 
+$txtoppositionsorganisepas2=attempted organisation of the opposition by 
+
+$txtprotestationfinancementguerilla=Your relations with this country's government are deteriorating (if they could be even worse)
+$txtprotestationautresguerillas=this movement disagrees with your financial support towards a competing group
+
+$txtputchrate=attempted coup
+$txtputchrate2= attempted coup
+
+$txtdialogueconstructif= intense diplomatic activity with 
+
+
+$txttransfococo=This country has decided to completely reform its institutions and economy! Power is now held by the people, and large chunks of the economy have been collectivised!
+$txttransfocapitaliste=This country has decided to completely reform its institutions! The market has been opened to foreign trade, and the economy is now privatised!
+$txttransfocapitalisteetat=This country has decided to undertake controlled liberalisation of its economy
+
+$txtinstructeurs=military advisors sent by 
+$txtmenace=Your threatening declarations have caused a serious deplomatic crisis with this country.
+$txtmenacetelex=Country is threatened by 
+
+$txtrappelinstructeurs= military advisors are recalled by 
+
+$txtretraitdetroupes= withdrawn their troops from the country
+
+$txttentativeaccordeco= unsuccessful trade negotiations with 
+$txttentativeaccordbase= unsuccessful negotiations on the installation of a military base with 
+$txttentativeaccordbasemissiles= unsuccessful negotiations on the deployment of ballistic missiles in
+$txtfermeturebase= closure of a military base 
+$txtfermeturebasemissile= withdrawal of nuclear ballistic missiles
+
+$txtfinlandisation=This country has now been Finlandised! (You cannot sign military agreements with this nation.)
+
+$txtalignementratetelex= tensions in the alliance with  
+$txtalignementratetelex2= tensions in the alliance with 
+$txttentativeaccorddef= unsuccessful diplomatic negotiations with 
+$textecorruption=Corruption plagues this country's economy. Our aid will not be very efficient unless this situation comes to an end
+$txtfinembargo=end of the embargo by 
+$txtdebutembargo=proclamation of an embargo by 
+
+$texteholdup=The ruling elites have embezzled your aid with such voracity that riots have broken out in several cities! 
+
+$txtmanifestations=massive popular protests (- stability)
+
+$txtmercenaires=Mercenaries arrive in this country (+1)
+$txtmobilisation=This country has issued a general mobilisation order, and its armed forces are now at a high state of readiness!
+
+$txtputchreussi=government overthrown by a coup
+$txtputchreussi2=government overthrown by a coup
+$txtputchraterepression=opposition has been suppressed after an attempted coup
+$textestabilitechaos=This country is in complete chaos -- its government should fall soon
+$textestabilitefaible=This country is very unstable, which hampers its economic development and makes it vulnerable to subversion activities
+$textestabiliteforte=This country is very stable, and government authority is respected
+$texteaccordeco=Our economic treaties with this country have boosted the impact of our action
+
+$texteabsenceaccordeco=We shoud negotiate some economic treaties with this country
+
+$txtsoutiencause=this group appreciates your support to its cause -- your relations improve
+
+$txtunitenationale=Facing your threat, a sacrosanct unity is forming around the government
+
+$txtverslecommunisme=collectivisation of the economy
+$txtverslecommunisme2=collectivisation of the economy
+$txtverslecapitalisme=privatisation of the economy
+$txtverslecapitalisme2=privatisation of the economy
+$txtverslecapitalismeetat=government-supervised privatisation of the economy
+$txtverslecapitalismeetat2=government-supervised privatisation of the economy
+
+$vosrelations=Your relations
+$votreprestige=Your prestige
+
+
+// ACTIONS
+
+
+$textenapalm=The extensive use of this terrible weapon has moved the fainthearted (prestige -5)\n Enemy casualties are as follows:\n
+
+$napalminefficace=Your bombings were ineffective
+
+$txtbombardaviation=Napalm bombing by 
+
+$bombnapalm=Napalm!
+
+$txtbombardstrategique=Strategic bombing by 
+$textebombstrategique=The enemy's territory has suffered from terrible bombings! 
+
+$diminutionstabilitebomb=The enemy's infrastructure was hit hard (stability -1)
+$diminutionrichessebomb=The enemy's economy has collapsed! (wealth -1)
+
+$diminutionforcearmee= casualties 
+
+$migalley=enemy MiGs dominate the sky and have inflicted high losses! (prestige -5)
+
+
+//MAJ CHINE
+
+$vaguehumaine=Renhai Zhanshu!
+$textevaguehumaine=Our gallant troops throw themselves into the enemy lines, ready to overwhelm them with their number and valour!\n Chinese Volunteers 
+$txtvaguehumaine=massive sending of troops by 
+
+$projectionforcesimpossibles=Our force projection capabilities show that we cannot invade this country!\n
+ 
+
+// 1963
+ 
+$interventionchinoise=300,000 Chinese Volunteers have just crossed the border to defend their neighbor!
+
+// 1968
+
+$maisoixantehuit=The students have occupied a major university and have installed barricades!\n Workers and intellectuals have joined them in a general strike across the country.\nThe situation seems to be getting out of the authorities' control, and they have sent the army to drive the students out of the university. \n(Stability decreases significantly)
+ 
+
+// MAJ FRANCE
+
+
+$txtpaxamericana=For this country, collective European security is guaranteed through strategic alliances with the USA and thr USSR.\n You need to face reality -- you are no longer seen as capable of guaranteeing the defence of your European neighbors.
+
+$occupartionrhur=Evacuating our occupation zone in Germany is out of the question! \n Our privilege was taken from the Allies and the USSR after a long struggle, and we must maintain our position.
+
+
+
+$txtcreationmilice=A militia has been created --> 
+
+
+// MOD MGS
+
+
+$infiltrationreussiefox=A FOX agent has successfully infiltrated this group!\nAll subversion actions with this guerrilla group will be more efficient
+
+$agentsnake=Snake
+
+$infiltrationreussiefoxboss=Snake's mission has scored a few points against the enemy organisation -- one of their most prominent henchmen has been eliminated. \n(A boss has been liquidated)
+
+$infiltrationreussiefoxmaffieux=Snake has managed to disrupt the trafficking that supplies this organisation. \n(Loss of the trait Mafia)
+ 
+
+
+$infiltrationreussiefoxarmeslourdes=Snake has destroyed the enemy's heavy weapons -- this is a great success! \n(Loss of the trait Heavy Weapons)
+
+$infiltrationreussiefoxsanctuaire=Snake has blown up the enemy secret base! \n Deprived of its lair, the enemy's room for manoeuvring will be dramatically reduced.\n(Loss of the trait Sanctuary)
+
+
+$infiltrationreussiefoxleadercharismatique=Snake killed the charismatic enemy leader, dealing a severe blow to this organisation. \n(Loss of the trait Charismatic Leader)
+
+$infiltrationreussiefoxdiminueforce=Snake has inflicted casualties in the enemy ranks! \n(Guerilla strength -1)
+
+
+$infiltrationfoxratee=Snake's mission went wrong...\n He was expected!\n ... Is there a traitor in our organisation?
+
+$foxcapture=\n Unfortunately, there is even worse news: Snake has been captured, and is in the hands of the enemy!
+
+$foxblesse=\n Agent Snake has sustained numerous injuries, and his state of health is of major concern -- he cannot be deployed into operation anytime soon.
+$agentparamedic=Para-Medic
+
+$actionparamedic=Thanks to Para-Medic's medical training, Snake has treated his injuries by himself!\n Despite still being in a bad way, he is operational once again.
+
+$etapemission=Mission stage
+
+
+// MAJ FRANCE
+// Some of these seem to be duplicates of earlier variables
+
+
+$troupescoloniales=The colonial contingent has just been reinforced! Armed forces +
+$troupescol=Colonial troops
+
+$txttroupescoloniales= reinforcement of the colonial contingent by 
+
+???
+This victor's privilege was taken from the Allies and the USSR after a long struggle, and we must maintain our position.
+
+$logistiqueus= \n The logistics provided by the Americans have enabled us to transport more equipment.
+
+$milicesok=A new militia joins our struggle: 
+
+$milicesechec=Influenced by Communist propaganda, the people are hesitant to join us.
+
+//1970
+
+
+$casuffitlesconneries=As a senator accurately summarised it: Enough stupidity!\\n It seems that Congress has become allergic to dispatching American soldiers abroad.\n
+
+
+//STAY BEHIND
+
+$creationstaybehind=Stay Behind Network
+
+$textereseaustaybehind=A group of anti-Communist patriots have been gathered in a highly compartmentalised secret network.\n They will form the vanguard of a secret army that will become active in case of Communist invasion or takeover.\n They will receive the best commando training in sabotage and communications.\n To guarantee maximum protection of its members, not even the national government should be aware of the existence of this network.
+
+
+$texteactiverreseaustaybehind=The activation of the secret army without a severe Communist threat has caused debate within our secret services -- but can we really remain idle when the Communists are gaining influence every day? \n We have begun preparing the list of dangerous citizens who must be dealt with let's move into action!
+
+
+//1980
+
+$raidheliporte=Helicopter raid
+
+$hiversafghan=The weather conditions were terrible and interfered considerably with our operations.
+
+
+$txtsuccesraid=Our forces managed to capture several strongpoints held by the rebels.\n The enemy has proven itself incapable of fighting off our well-planned attack, supported by shock troopers.\n Rebel forces: -1
+
+$txtsuccesraiddestructionarmeslourdes=Our Spetsnaz forays have enabled the destruction of many caches of weapons and artillery guns.\n The rebels lose the Trait Heavy Weapons
+$txtnulraid=Our high-impact operations were nothing but a show of force signifying nothing -- the enemy remains elusive... 
+
+
+$txtechecraid=Resistance was fierce, and our troops have fallen into a major ambush!\n The Afghans have obviously benefited from leaked intelligence concerning our troops. \nCasualties and material losses are significant.\n Prestige -5
+
+$txtsuccesraidattentisme=Our strikes have disorganised the enemy, and we are setting the pace! \n- This guerrilla group adopts a Wait-and-See attitude
+
+
+
+$telexactivationstaybehind=Violence and political assassinationsthe government does all it can to identify the responsible parties
+
+$telexactivationstaybehind2=The oppposition accuses the government of covering up fascist cells (stability -1)
+
+
+//Guerre Algérie
+$creationsas=Development of Sections Administratives Spécialisées +1
+
+
+$saspertesoutienpop=The healthcare and social progress achieved by the Sections Administratives Spécialisées (SAS) palpably demonstrate the benefits of the French presence to the local populations, who are becoming more and more reluctant to support the FLN's bloody actions.\n==> The FLN loses the Trait 'Popular support'	
+
+	
+
+$sasperterurale=Our soldiers and civil servants are winning the hearts and minds of the local populations by protecting them from the FLN rebels. The villagers are no longer coerced into helping the terrorists, and the Algerian countryside is no longer a safe haven for those murderers.\n==> The FLN loses the Trait Rural
+
+$sasrenseignement=The trust we are building with the population has led people to talk without fear of punishment. The intelligence gathered through these conversations has allowed us to neutralise a significant number of terrorists.\n==> FLN strength -1
+
+$sasstabilite=\n The SAS have now been implemented over the majority of Algerian territory, and their work has begun to bear spectacular fruit.\n==> Stability +1
+
+
+$sasras=\n This little seed sown in the Algerian countryside will need time and lots of effort to develop and eventually bear fruit.
+
+$sastextedebase=A new Section Administrative Spécialisée (SAS) has been implemented on a fortified farm. This organisation will help the local populations gain access to education, healthcare, and advice from our agronomists.\n Protected by valiant Moghaznis, it will be an important asset in fighting the terrorists.\n
+
+telexsas=Development of SAS (+1)
+
+$nomsas=Section Administrative Spécialisée
+
+$contingent=Dispatch the contingent
+
+$txtcontingentalgerie=Dispatch the contingent
+
+
+$contingentalgeriedetail=A national draft, extending current deployments, bringing retired troops back into active service -- the military is using every method it can to send young Frenchmen to Algeria.\n They will help hold ground while the paratroopers hunt down terrorists.\n
+Armed forces + 
+
+
+$oppositioncontingent=\n\nHowever, these departures for Algeria have generated growing resistance. Many conscripts are refusing to embark for what appears to be a dirty colonial war. They must often be coerced into obedience through force or judicial proceedings.\n ==> Prestige -5
+
+
+$economiecontingent=\n\nThe Ministry of Labour is very concerned about the departure of many specialised workers for Algeria. Their absence will undoubtedly strongly impact the French economy.\n==> Reconstruction -3%
+
+$numberofsas=Number of active SAS:
+
+//MGS SOVIET
+
+$infiltrationreussiekrokodile=Ocelot Unit is at work!\n All actions are more efficient.
+
+$actionparamedicurss=Thanks to his medical knowledge, Ocelot managed to treat his injuries on his own!\n Although still unwell, he is operational once again.
+
+$agentparamedicurss=Battlefield medicine
+
+$ocelotblesse2=\n Agent Ocelot sustained numerous injuries and his state of health is preoccupying: he will not be able to be deployed in operation anytime soon..
+$ocelotcapture=\nEven worse: agent Ocelot has been captured by the enemy!
+$infiltrationreussieocelotdiminueforce=Ocelot inflicts casualties in the enemy ranks! \n(Guerrilla -1)
+$infiltrationreussieocelotboss=Ocelot's mission scored a few points against the enemy organisation: one of their prominent henchmen has been eliminated. \n(A boss has been liquidated)
+
+$infiltrationreussieocelotmaffieux=Ocelot managed to disorganise the traffickings supplying this organisation. \n(Loss of the trait Mafia)
+
+
+$infiltrationreussieocelotarmeslourdes=Ocelot destroyed the enemy heavy weapons: this is a great success! \n(Loss of the trait Heavy Weapons)
+
+
+$infiltrationreussieocelotsanctuaire=Ocelot blew up the enemy secret base!\n Deprived of its lair, the enemy room for manoeuvre will be dramatically reduced.\n(Loss of the trait Sanctuary)\n
+
+
+
+$infiltrationreussieocelotleadercharismatique=Ocelot killed the charismatic enemy leader, dealing a severe blow to this organisation. \n(Loss of the trait Charismatic Leader)
+
+$infiltrationocelotratee=Ocelot's mission went wrong...\n He was expected! \n Would there be a traitor in our organisation?
+
+
+
+$agentocelot=Revolver Ocelot
+
+
+//1986
+
+$txtechecraidstingers=The Stinger missiles delivered by the CIA to the Mujaheddin are wreaking havoc.\n Our attack helicopters can no longer support our raids without risking being shot down. We lost many of them during this raid: obviously, the Mujaheddin expected us... \nPrestige -10 \n(Nda: the picture shows a SA-7, not a Stinger)
+
+$nousquittonsafghanistan=We decided to leave this country: we cannot dispatch new troops there
+$noushesitonsafghanistan=The Politburo is considering our withdrawal from Afghanistan: reinforcing our presence there is out of the question for now.
+
+
+// 1990
+
+$batirecoalition=Build a coalition
+$batirecoalitiontexte=The State Department is in the process of assembling an international coalition to give greater legitimacy to our military action. \n Patience, we will soon be ready to act. In the meantime, we must train our troops to fight the combat gases that the Iraqis will not fail to use.
