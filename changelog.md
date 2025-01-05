@@ -2,7 +2,7 @@
 
 ## v0.1 (ngày 5 tháng 1 năm 2025)
 
-Bản dịch đầu tiên, hiện đã xong 5/15 file dịch được trò chơi cung cấp.
+Bản dịch đầu tiên, hiện đã xong 6/15 file dịch được trò chơi cung cấp.
 
 Đánh giá của người dịch: Có thể sẽ có thay đổi lớn trong tương lai, nhưng hiện tại, việc dịch các file dữ liệu cơ bản của trò chơi không quá khó khăn.
 
@@ -18,3 +18,5 @@ Bản dịch đầu tiên, hiện đã xong 5/15 file dịch được trò chơi
 - [x] `customenMois` (các tháng trong năm).
 - [x] `customencitations` (???).
     - Ghi chú 1: File này hiện tại không có gì để dịch. #TODO: Cần theo dõi thêm.
+- [x] `customenGuerillas` (tên một số nhóm du kích).
+    - Ghi chú 1: Các nhóm du kích khác được đặt ở các file khác (sẽ dịch dần). Hi vọng sau này sẽ thống nhất lại cách tổ chức file. #TODO: Cần theo dõi thêm.

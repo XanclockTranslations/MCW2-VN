@@ -1,81 +1,81 @@
 
-$apli=People's Liberation Army
+$apli=Quân đội Giải phóng Nhân dân
 
-$commitealbanielibre=Free Albania National Committee
+$commitealbanielibre=Ủy ban Quốc gia Albania Tự do
 
-$drapeaublanc=White Flag Communists
-$elas=ELAS
-$elas2=Democratic Army of Greece
-$huks=Huks
+$drapeaublanc=Cộng sản Cờ Trắng
+$elas=Quân đội Giải phóng Dân tộc Hy Lạp (ELAS)
+$elas2=Quân đội Dân chủ Hy Lạp
+$huks=Lực lượng Huks
 
-$karen=Karen National Liberation Army
-$kachin=Kachin Independence Army
-$kokang=Kokang Army
-$pathet=Pathet Lao
+$karen=Quân đội Giải phóng Quốc gia Karen
+$kachin=Quân đội Độc lập Kachin
+$kokang=Quân đội Kokang
+$pathet=Pathet Lào
 
-$insurgentskurdes=Kurdish insurgents
-$partidocomunistaparaguayo=Partido Comunista Paraguayo
-$partidoliberalcolumbiano=Partido Liberal Colombiano
-$partidocommunistacolumbiano=Partido Comunista Colombiano
-$paramilitairesxdroitecolombie=Paramilitary militias
+$insurgentskurdes=Những người Kurd nổi dậy
+$partidocomunistaparaguayo=Đảng Cộng sản Paraguay
+$partidoliberalcolumbiano=Đảng Tự do Colombia
+$partidocommunistacolumbiano=Đảng Cộng sản Colombia
+$paramilitairesxdroitecolombie=Lực lượng bán quân sự cánh hữu Colombia
 $pemuda=Pemuda
-$pcbirmanie=Burmese Communist Party
-$febreristes=Febreristas
+$pcbirmanie=Đảng Cộng sản Miến Điện
+$febreristes=Nhóm Febrerista
 
 $irgoun=Irgun
 $lehi=Lehi
 $haganah=Haganah
-$mnla=Tentera Pembebasan Rakyat Malaya
-$muqaddas=Jaysh al-Jihad al-Muqaddas
-$ala=aysh al-Inqadh al-Arabi
-$legionarabe=Arab Legion
-$partisanspalestiniens=Palestinian fighters
-$seigneurguerrebirman=Mutineers and brigands
+$mnla=Quân đội Giải phóng Nhân dân Malaya
+$muqaddas=Quân đội Jihad al-Muqaddas
+$ala=Quân đội Giải phóng Ả Rập
+$legionarabe=Lính Lê dương Ả Rập
+$partisanspalestiniens=Chiến sĩ Palestine
+$seigneurguerrebirman=Quân phiệt Miến Điện
 $soldatsmaudits=Armia Krajowa
-$volontairescoreens=Korean Volunteers
+$volontairescoreens=Lính tình nguyện Triều Tiên
 
 
-$kmtbirmanie=Li Mis irregulars
-$kmtxinjiang=KMT XInjiang bandits
+$kmtbirmanie=Tàn quân Trung Hoa Quốc dân Đảng ở Miến Điện
+$kmtxinjiang=Tàn quân Trung Hoa Quốc dân Đảng ở Tân Cương
 
 $fellagas=Fellagas
-$maumau=Mau Mau Revolt
+$maumau=Cuộc nổi dậy Mau Mau
 
 // 1953
 
-$flnalgerien=Front de Libération Nationale
+$flnalgerien=Mặt trận Giải phóng Dân tộc Algeria
 $Anyanya=Anyanya
 
 
 // 1958
 
-$pspliban=Socialist Progressist Party
+$pspliban=Đảng Tiến bộ Xã hội chủ nghĩa
 $almourabitoun=Al-Mourabitoun
 $katateb=Katateb
-$prri=Pemerintah Revolusioner Republik Indonesia
+$prri=Chính phủ Cách mạng Cộng hòa Indonesia
 
 
 // 1959
 
-$frontliberitree=Eritrean Liberation Front
+$frontliberitree=Mặt trận Giải phóng Eritrea
 
 // 1963
-$touaregs=touaregs
-$kabyle=Kabyle fighters
-$somalisogaden=Ogaden guerilla
-$hmongs=Hmongs
+$touaregs=Người Touareg
+$kabyle=Chiến sĩ Kabyle
+$somalisogaden=Quân du kích Ogaden
+$hmongs=Người H'Mông
 $simba=Simba
-$olp=Palestine Liberation Organization
+$olp=Tổ chức Giải phóng Palestine
 
 
-//1966
+// 1966
 
-$samlaut=Samlaut Revolt
+$samlaut=Bạo loạn Samlaut
 
 // MODE FRANCE
 
 $hoahao=Hòa Hảo
-$kebele='kebele militia';
+$kebele=Lực lượng dân quân Kebele
 
-//1979
+// 1979
 $theraneight=Hazara Mujahideen
