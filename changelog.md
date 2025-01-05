@@ -2,7 +2,7 @@
 
 ## v0.1 (ngày 5 tháng 1 năm 2025)
 
-Bản dịch đầu tiên, hiện đã xong 4/15 file dịch được trò chơi cung cấp.
+Bản dịch đầu tiên, hiện đã xong 5/15 file dịch được trò chơi cung cấp.
 
 Đánh giá của người dịch: Có thể sẽ có thay đổi lớn trong tương lai, nhưng hiện tại, việc dịch các file dữ liệu cơ bản của trò chơi không quá khó khăn.
 
@@ -14,5 +14,7 @@ Bản dịch đầu tiên, hiện đã xong 4/15 file dịch được trò chơi
 - [x] `customentuto` (???).
     - Ghi chú 1: File này hiện tại chỉ có 2 string `Information` (thông tin).
 - [x] `customenPays` (???).
-    - Ghi chú 1: File này hiện tại có tên các quốc gia (giống `customen_countries` 99%) với chừng 1-2 string khác. Không rõ mục đích của file này.
+    - Ghi chú 1: File này hiện tại có tên các quốc gia (giống `customen_countries` 99%) với chừng 1-2 string khác. Không rõ mục đích của file này (theo dev, đây là file dùng để thực hiện một số thử nghiệm).
 - [x] `customenMois` (các tháng trong năm).
+- [x] `customencitations` (???).
+    - Ghi chú 1: File này hiện tại không có gì để dịch. #TODO: Cần theo dõi thêm.
