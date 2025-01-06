@@ -1,5 +1,12 @@
 # Lịch sử cập nhật bản dịch
 
+## v0.2 (ngày 6 tháng 1 năm 2025)
+
+### Đã dịch
+
+- `customenInfo` (chứa một số string về một số từ khóa, VD: `Hoa Kỳ`, `Liên Xô`, ...).
+    - Ghi chú 1: Một số string có thể tối nghĩa hoặc không phù hợp ngữ cảnh. #TODO: Cần sửa đổi lại cho hợp.
+
 ## v0.1 (ngày 5 tháng 1 năm 2025)
 
 Bản dịch đầu tiên, hiện đã xong 6/15 file dịch được trò chơi cung cấp.

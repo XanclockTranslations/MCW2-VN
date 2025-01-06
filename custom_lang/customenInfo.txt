@@ -1,13 +1,13 @@
-$nomAdjectifusa=the USA
-$nomAdjectifurss=the USSR
-$nomAdjectifchine=China
+$nomAdjectifusa=Hoa Kỳ
+$nomAdjectifurss=Liên Xô
+$nomAdjectifchine=Trung Quốc
 
-$lesusa=the USA
-$lurss=the Soviets
-$lachine=China
+$lesusa=Hoa Kỳ
+$lurss=Liên Xô
+$lachine=Trung Quốc
 
-$nomusa=USA
-$nomurss=USSR
+$nomusa=Hoa Kỳ
+$nomurss=Liên Xô
 
 $staline=Joseph Stalin
 $truman=Harry Truman
@@ -15,35 +15,35 @@ $truman=Harry Truman
 
 // maj 1953
 
-$youwin=VICTORY !
-$youlose=You lose
-$prestigeusa=USA PRESTIGE:
-$prestigeurss=USSR PRESTIGE:
-$scoredebase=Base score (your prestige - your opponent's ) : 
-$malusdifficultefacile=Malus (Easy) : 
-$bonusdifficulte=Bonus (Difficult) : 
-$bonusdifficultehardcore=Bonus Hard Core : 
-$bonusdifficultegulag=Bonus Gulag : 
-$scorefinal=Final Score : 
-$bienvenuehalloffame=Enter the Hall of Fame
-$typeyourpseudo=Your Name 
-$sauvegarder=save score
+$youwin=CHIẾN THẮNG!
+$youlose=Bạn đã thua
+$prestigeusa=UY THẾ CỦA HOA KỲ:
+$prestigeurss=UY THẾ CỦA LIÊN XÔ:
+$scoredebase=Điểm gốc (uy thế của bạn - uy thế của đối thủ) :
+$malusdifficultefacile=Phạt (Dễ):
+$bonusdifficulte=Thưởng thêm (Khó):
+$bonusdifficultehardcore=Thưởng thêm (Siêu Khó):
+$bonusdifficultegulag=Thưởng thêm (Gulag):
+$scorefinal=Điểm cuối cùng:
+$bienvenuehalloffame=Gia nhập Sảnh Danh Vọng!
+$typeyourpseudo=Tên của bạn
+$sauvegarder=lưu điểm
 
 // MAJ CHINE
 
-$prestigechine=CHINA PRESTIGE: 
+$prestigechine=UY THẾ CỦA TRUNG QUỐC:
 
 // 1963
 
-$mortsubitevietnam=<b>Saigon fell!</b> \n While the North Vietnamese troops surrounds the city, the Westerners and their alliance are evacuated in panic by the helicopters of the U.S. Navy. \n 
+$mortsubitevietnam=<b>Sài Gòn đã thất thủ!</b> \n Trong khi quân Bắc Việt bao vây thành phố, những người phương Tây và đồng minh của họ đã thực hiện sơ tán trong hoảng loạn bằng các trực thăng của Hải quân Hoa Kỳ. \n
 
 
 // FRANCE 
 
-$lafrance=France
-$prestigefrance=PRESTIGE FRANCE:
+$lafrance=Pháp
+$prestigefrance=UY THẾ CỦA PHÁP:
 
-$mortsubiteindochine=Indochina felt into Communist hands !
+$mortsubiteindochine=Đông Dương đã rơi vào tay Cộng sản!
 
-$putchalgerie=The army seized the power : the French Republic is no more... \n You lost that game.
-$mortsubitealgerie=Algeria Felt !
+$putchalgerie=Quân đội đã nắm quyền lực: Cộng hòa Pháp không còn nữa... \n Bạn đã thua.
+$mortsubitealgerie=Algeria đã thất thủ!
