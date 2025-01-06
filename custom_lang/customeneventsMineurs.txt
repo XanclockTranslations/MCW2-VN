@@ -3221,7 +3221,9 @@ $dragonasiatique=: economic growth
 $dragonasiatiquedetail=Wealth increases by 1 and stability by 2!
 
 $aidechineVM=Vietnam: important Chinese military aid
-$aidechineVMdetail=Armed forces +
+$aidechineVMdetail=Armed forces +2
+$aidechineVMdetailB=Armed forces +3
+$aidechineVMdetailC=Armed forces +4
 
 $rollingmarche=North Vietnam: the bombings are disorganising the country
 $rollingmarchedetail=Who said Operation Rolling Thunder was useless? Stability and wealth decrease in North Vietnam

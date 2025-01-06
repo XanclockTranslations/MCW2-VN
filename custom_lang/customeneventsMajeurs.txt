@@ -5890,13 +5890,13 @@ $choix31964htitle=Let us see which one establishes himself
 $titre1964h1=ALEXEI KOSYGIN
 
 
-$texte1964h1=The new Secretary General is willin to reform the Soviet economy, taking inspiration from the work of the economist Evsei Liberman. \nIf he succeeds on his ambitions, the economy would shift toward light industry and consumer goods production. \nSome of his projects would give the Soviet firms an increased managerial autonomy and they already worry the most conservative fringes of the party.
+$texte1964h1=[b]Alexei Kosygin[/b]\nThe new Secretary General is willin to reform the Soviet economy, taking inspiration from the work of the economist Evsei Liberman. \nIf he succeeds on his ambitions, the economy would shift toward light industry and consumer goods production. \nSome of his projects would give the Soviet firms an increased managerial autonomy and they already worry the most conservative fringes of the party.
 
 
 $titre1964h2=LEONID Brezhnev
 
 
-$texte1964h2=On 14th October 1964, while Khrushchev was on holidays, a troika comprised of Mikoyan, Kosygin and Brezhnev convoke the Central Committee and overthrow Khrushchev. \nHe will hear about his "resignation" from his holiday location. \nThis is a bureaucratic and hushed coup that justed happened. \nA personality rapidly imposes: Leonid Brezhnev. What will his policy be?
+$texte1964h2=[b]Leonid Brezhnev[/b]\nOn 14th October 1964, while Khrushchev was on holidays, a troika comprised of Mikoyan, Kosygin and Brezhnev convoke the Central Committee and overthrow Khrushchev. \nHe will hear about his "resignation" from his holiday location. \nThis is a bureaucratic and hushed coup that justed happened. \nA personality rapidly imposes: Leonid Brezhnev. What will his policy be?
 
 
 
@@ -5916,15 +5916,12 @@ $shelepinetexte=<b>Alexander Shelepin</b> \nIf there was still a true Stalinian 
 
 
 
-$mikoyantexte=<b>Anastas Mikoyan</b> \nOne of the last early Bolshevik, Anastas Mokoyan is a political animal able to keep himself at the top of the hierarchy no matter the circumstances. \nHe is well-known outside the USSR and much appreciated --> Sharp decrease in tension \n
---> Bonus to relations when using economic aid actions \n
+$mikoyantexte=<b>Anastas Mikoyan</b> \nOne of the last early Bolshevik, Anastas Mokoyan is a political animal able to keep himself at the top of the hierarchy no matter the circumstances. \nHe is well-known outside the USSR and much appreciated \n--> Sharp decrease in tension \n--> Bonus to relations when using economic aid actions \n
 
-$podgornytexte=
-<b>Nikolai Podgorny</b> \nLongtime Secretary of the Communist Party of Ukraine, Nikolai Podgorny is knowledgeable about the agricultural issues and food industry. \nProtected by Nikita Khrushchev, he is unfortunately blessed with the gift of making enemies. The conservative wing of the CPUS is already trying to trip him up. \n--> Small decrease in wheat importations (-$5)
+$podgornytexte=<b>Nikolai Podgorny</b> \nLongtime Secretary of the Communist Party of Ukraine, Nikolai Podgorny is knowledgeable about the agricultural issues and food industry. \nProtected by Nikita Khrushchev, he is unfortunately blessed with the gift of making enemies. The conservative wing of the CPUS is already trying to trip him up. \n--> Small decrease in wheat importations (-$5)
 
 
-$souslovtexte=
-<b>Mikhail Suslov</b> \nIndomitable shield of the communist orthodoxy, Suslov was part of all significant nasty tricks, from deportation of Chechen people to purges of entire villages in Lithuania. \nMikhail Suslov intends to contain with an iron grip any ideological drift in the party. \n--> Sharp increase in Stalinism \n--> Tension rises sharply \n
+$souslovtexte=<b>Mikhail Suslov</b> \nIndomitable shield of the communist orthodoxy, Suslov was part of all significant nasty tricks, from deportation of Chechen people to purges of entire villages in Lithuania. \nMikhail Suslov intends to contain with an iron grip any ideological drift in the party. \n--> Sharp increase in Stalinism \n--> Tension rises sharply \n
 
 
 

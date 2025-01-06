@@ -602,3 +602,9 @@ monarchistesyemen=لمملكة ‏المتوكلية اليمنية
 title_cubalibre=CUBA LIBRE 1959-1962
 description_cubalibre=The Cuban revolution has brought a government that is hostile to the USA just a few miles away from the coasts of Florida.\nThis revolution is already a source of inspiration for many movements in Latin America.\nWill the USA tolerate this socialist thorn in their flank?
 description_cubalibre_long=The Cuban Revolution brought a socialist regime a few miles from the coast of Florida.\nThis revolution is already a source of inspiration for many movements in Latin America. \nWill the United States tolerate this socialist thorn in their flank?
+
+RelationalBuilder=Relations builder
+RelationalBuildertooltip=That leader's diplomatic talent for peacefully strengthening diplomatic ties gives him a bonus to economic aid actions.
+
+RevolutionaryAdvocate=Global Revolutionary
+RevolutionaryAdvocatetooltip=That leader's commitment to world Revolution grants him a bonus to actions supporting guerillas
