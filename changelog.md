@@ -1,11 +1,18 @@
 # Lịch sử cập nhật bản dịch
 
-## v0.2 (ngày 6 tháng 1 năm 2025)
+## v0.2 (ngày 7 tháng 1 năm 2025)
+
+Sửa một chút nội dung trong `customenGuerillas`. Hiện đã xong 7/15 file dịch được trò chơi cung cấp.
 
 ### Đã dịch
 
 - `customenInfo` (chứa một số string về một số từ khóa, VD: `Hoa Kỳ`, `Liên Xô`, ...).
     - Ghi chú 1: Một số string có thể tối nghĩa hoặc không phù hợp ngữ cảnh. #TODO: Cần sửa đổi lại cho hợp.
+
+### Đang dịch
+
+- `customenactions` (tổng hợp nhiều loại string trong trò chơi). 
+    - Ghi chú 1: Hiện tại dịch đến dòng `$lecongresditnon=Quốc hội nói không!`. #TODO: Cần dịch tiếp.
 
 ## v0.1 (ngày 5 tháng 1 năm 2025)
 

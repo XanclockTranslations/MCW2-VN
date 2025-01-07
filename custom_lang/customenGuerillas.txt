@@ -29,14 +29,14 @@ $mnla=Quân đội Giải phóng Nhân dân Malaya
 $muqaddas=Quân đội Jihad al-Muqaddas
 $ala=Quân đội Giải phóng Ả Rập
 $legionarabe=Lính Lê dương Ả Rập
-$partisanspalestiniens=Chiến sĩ Palestine
+$partisanspalestiniens=Lực lượng dân quân Palestine
 $seigneurguerrebirman=Quân phiệt Miến Điện
 $soldatsmaudits=Armia Krajowa
 $volontairescoreens=Lính tình nguyện Triều Tiên
 
 
-$kmtbirmanie=Tàn quân Trung Hoa Quốc dân Đảng ở Miến Điện
-$kmtxinjiang=Tàn quân Trung Hoa Quốc dân Đảng ở Tân Cương
+$kmtbirmanie=Tàn quân Trung Hoa QDĐ ở Miến Điện
+$kmtxinjiang=Tàn quân Trung Hoa QDĐ ở Tân Cương
 
 $fellagas=Fellagas
 $maumau=Cuộc nổi dậy Mau Mau
@@ -61,7 +61,7 @@ $frontliberitree=Mặt trận Giải phóng Eritrea
 
 // 1963
 $touaregs=Người Touareg
-$kabyle=Chiến sĩ Kabyle
+$kabyle=Lực lượng dân quân Kabyle
 $somalisogaden=Quân du kích Ogaden
 $hmongs=Người H'Mông
 $simba=Simba

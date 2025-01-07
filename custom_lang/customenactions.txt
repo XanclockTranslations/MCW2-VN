@@ -1,118 +1,118 @@
 
-$Base=Military base 25
-$Menacer=Menacer 5
+$Base=Căn cứ quân sự 25
+$Menacer=Đe dọa 5
 
-$aideEco= an economic aid was granted by 
-$aideeconomique5=Economic aid 5
-$aideeconomique10=Economic aid 10
-$aideeconomique25=Economic aid 25
-$aideeconomique50=Economic aid 50
+$aideEco=Một gói viện trợ kinh tế đã được cấp bởi 
+$aideeconomique5=Viện trợ kinh tế 5
+$aideeconomique10=Viện trợ kinh tế 10
+$aideeconomique25=Viện trợ kinh tế 25
+$aideeconomique50=Viện trợ kinh tế 50
 
-$aidemili5=Military aid 5
-$aidemili10=Military aid 10
-$aidemili25=Military aid 25
-$aidemili50=Military aid 50
+$aidemili5=Viện trợ quân sự 5
+$aidemili10=Viện trợ quân sự 10
+$aidemili25=Viện trợ quân sự 25
+$aidemili50=Viện trợ quân sự 50
 
-$Envoiedetroupe5= Send Troops5
-$Envoiedetroupe10= Send Troops10
-$Envoiedetroupe25= Send Troops25
+$Envoiedetroupe5=Gửi quân 5
+$Envoiedetroupe10=Gửi quân 10
+$Envoiedetroupe25=Gửi quân 25
 
 
-$accordecosignes=This country has agreed to sign economic treaties with you!\n A new era of prosperity and profitable relations has begun for our two nations.
-$accorddefsignes=This country has agreed to sign defence agreements with you! \nOur duty is now to protect our new allies.
-$accorddeffensifs=Defence agreements
-$accordecononsignes=Negotiations are stalling...
-$accorddefnonsignes=Negotiations are stalling...
-$accordbasenonsignes=Negotiations are stalling...
-$accordbasesignes=This country has agreed to host a major military base
-$accordbasemissilessignes=This country has agreed to be protected by your nuclear umbrella
-$accordeconomique=Economic treaties
-$accorddef=Defence agreements
-$accordeco=Economic treaties
-$accusationputch=This government has accused you of participating in the attempted coup
-$aideeconomique=Economic aid
-$aidemil=Military aid
-$aidemilvenduerebelles=Widespread corruption or gross incompetence? Part of the weapons and ammunition you have sent has ended up in the rebels' hands! 
-$aligner=Diplomatic alignment
-$armeeinsurectionnellede=Insurrectional Army of 
-$apparitioncorruption=The large influx of capital generated greed, and government groups have organised to embezzle this godsend for their own profit.
-$apres=After
-$armeepatriotiquelibre=Free Patriotic Army
-$armeepopulaire=People's Army
-$armeepopulaireliberation=People's Liberation Army
-$armeenationaleclandestine=Underground National Army
-$armeerouge=Red Army
-$armeerougemaoiste=Maoist Red Army
-$armeesecrete=Secret Army
-$avant=Before
-$basemilitaire=Military Base
-$basemissiles=Nuclear Missiles
-$capacitemilitairemax=This country's military has reached its maximum strength.
-$capacitemilitaireguerillamax=This guerilla's strength has reached its maximum level.
+$accordecosignes=Quốc gia này đã đồng ý ký kết các hiệp ước kinh tế với chúng ta!\n Một kỷ nguyên mới của sự phồn thịnh và phát triển đã bắt đầu.
+$accorddefsignes=Quốc gia này đã đồng ý ký kết các hiệp ước quốc phòng với chúng ta!\n Nhiệm vụ của chúng ta bây giờ là bảo vệ đồng minh mới này.
+$accorddeffensifs=Hiệp ước quốc phòng
+$accordecononsignes=Chưa tìm được tiếng nói chung...
+$accorddefnonsignes=Chưa tìm được tiếng nói chung...
+$accordbasenonsignes=Chưa tìm được tiếng nói chung...
+$accordbasesignes=Quốc gia này đã đồng ý cho chúng ta xây dựng một căn cứ quân sự lớn
+$accordbasemissilessignes=Quốc gia này đã đồng ý được bảo vệ bởi "chiếc ô hạt nhân" của chúng ta
+$accordeconomique=Hiệp ước kinh tế
+$accorddef=Hiệp ước quốc phòng
+$accordeco=Hiệp ước kinh tế
+$accusationputch=Chính phủ này đã buộc tội chúng ta tham gia vào cuộc đảo chính
+$aideeconomique=Viện trợ kinh tế
+$aidemil=Viện trợ quân sự
+$aidemilvenduerebelles=Tham nhũng tràn lan hay bất tài nghiêm trọng? Một phần vũ khí và đạn dược chúng ta gửi đã rơi vào tay phe nổi dậy!
+$aligner=Định hướng ngoại giao
+$armeeinsurectionnellede=Quân nổi dậy của
+$apparitioncorruption=Lượng vốn lớn tràn vào đã tạo ra sự tham lam, từ đó một số nhóm trong chính phủ đã lợi dụng cơ hội này cho riêng họ.
+$apres=Sau
+$armeepatriotiquelibre=Quân đội Ái quốc Tự do
+$armeepopulaire=Quân đội Nhân dân
+$armeepopulaireliberation=Quân đội Giải phóng Nhân dân
+$armeenationaleclandestine=Quân đội Quốc gia bí mật 
+$armeerouge=Hồng quân
+$armeerougemaoiste=Hồng quân Maoist
+$armeesecrete=Quân đội bí mật
+$avant=Trước
+$basemilitaire=Căn cứ quân sự
+$basemissiles=Tên lửa hạt nhân
+$capacitemilitairemax=Quân đội nước này đã đạt đến sức mạnh tối đa.
+$capacitemilitaireguerillamax=Lực lượng du kích này đã đạt đến sức mạnh tối đa.
 
-$coalitionformee=The guerrilla groups have just united! Together, they will overthrow the illegitimate government!
-$coalitionguerilla=Creation of a coalition
-$coalitionratee=Uniting with other groups is inconceivable... (for the time being)
+$coalitionformee=Các nhóm du kích đã liên kết lại với nhau! Cùng nhau, họ sẽ lật đổ chính quyền phi pháp này!
+$coalitionguerilla=Tạo ra liên minh
+$coalitionratee=Tạm thời không thể liên kết với các nhóm khác...
 
-$concessionsmanifestations=Facing unprecedented unrest, the government has organised negotiations that have resulted in a new social pact. The majority of the population is satisfied with this new deal.
+$concessionsmanifestations=Đối diện với sự bất ổn chưa từng có, chính phủ đã tổ chức đàm phán và thu được kết quả là một hiệp ước xã hội mới. Đa số dân chúng hài lòng với thỏa thuận mới này.
 
 // These don't really seem like battles
-$contremanifestation=Extremist factions of all persuasions have taken to the streets to fight. There are heated skirmishes happening across the country, and the government stands powerless to stop them! 
+$contremanifestation=Các nhóm cực đoan đang thực hiện cuộc chiến trên đường phố! Khắp cả nước đều đang diễn ra những cuộc xung đột, và chính phủ không thể ngăn chặn chúng!
 
-$coupetat=Coup 
-$creationguerilla=Guerrilla
+$coupetat=Đảo chính
+$creationguerilla=Du kích
 
-$creationdissention=Your agents have done their job well -- internal fights are paralysing the leadership of this movement!
+$creationdissention=Các đặc vụ của chúng ta đã làm rất tốt — phong trào này đang bị tê liệt bởi những cuộc đấu tranh nội bộ!
 
-$creationgroupedissident=This movement has just split into two separate groups!
+$creationgroupedissident=Phong trào này đã chia thành hai nhóm riêng biệt!
 
-$desertionguerilla=Multiple desertions are crippling this guerrilla's ranks!
+$desertionguerilla=Nhiều người đào ngũ đã làm suy yếu lực lượng du kích này!
 
-$dissention=Generate dissent
+$dissention=Kích động bất mãn
 
-$echecdissention=Your attempts have failed this group stands united and remains focused on its objectives.
+$echecdissention=Tổ chức này vẫn vững vàng và tập trung vào mục tiêu của mình, không bị ảnh hưởng bởi sự kích động từ phía chúng ta.
 
-$envoitroupescoloniales=This colony's metropole has reinforced its contingent to maintain law and order.
+$envoitroupescoloniales=Thủ phủ của thuộc địa này đã tăng cường lực lượng để duy trì an ninh trật tự.
 
-$envoidetroupes=Your troops have arrived in this country!
-$envoitroupes=Sending troops
+$envoidetroupes=Quân đội của chúng ta đã đến quốc gia này!
+$envoitroupes=Gửi quân
 
 $equilibrerelation=This country, concerned about its independence and the global balance of power, has focused on initiatives to draw nearer to the other bloc.
 
-$equiparmeslourdes=This guerrilla is now armed with heavy weapons.
+$equiparmeslourdes=Nhóm du kích này đã được trang bị vũ khí hạng nặng!
 
-$factionarmeemarxiste=Marxist Armed Faction
+$factionarmeemarxiste=Lực lượng Vũ trang Marxist
 
-$fermeturebase=Your military base is now closed
-$fermeturebasemissile=You have removed your ballistic missiles from this country
+$fermeturebase=Căn cứ quân sự của chúng ta đã bị đóng cửa 
+$fermeturebasemissile=Tên lửa đạn đạo của chúng ta đã bị rút khỏi quốc gia này
 
-$fondationopposition=Create an opposition
+$fondationopposition=Tạo phe đối lập
 
 
-$frontpatriotique=Patriotic Front
+$frontpatriotique=Mặt trận Ái quốc
 
-$gouvernementrenverse=The country has fallen into chaos as its government collapsed!
-$guerillareussi=Your efforts have paid off -- an armed group is ready to violently overthrow the government
+$gouvernementrenverse=Quốc gia đã rơi vào hỗn loạn khi chính phủ của nó sụp đổ!
+$guerillareussi=Nỗ lực của chúng ta đã được đền đáp — đã xuất hiện một nhóm vũ trang đã sẵn sàng lật đổ chính quyền.
 
-$guerillarate=The opposition in this country prefers the political route...
-$infiltration=Infiltration
+$guerillarate=Phe đối lập tại quốc gia này ưu tiên con đường chính trị...
+$infiltration=Thâm nhập
 
-$ingerenceinterne= This country's government condemns foreign subversive interference
+$ingerenceinterne=Chính phủ quốc gia này lên án sự can thiệp phá hoại của nước ngoài
 
-$inquietuderetrait= This country is worried about your withdrawal from the region (relations -1)
+$inquietuderetrait=Quốc gia này lo lắng về việc rút quân của chúng ta (quan hệ -1)
 
-$instructeursarrivent=Your military advisors have arrived in this country, where they will manage the training of its army and support its general staff
-$instructeurspartent=Your military advisors have been sent back home -- their mission is complete!
+$instructeursarrivent=Cố vấn quân sự của chúng ta đã đến quốc gia này để quản lý việc huấn luyện quân đội và hỗ trợ các công tác quân sự khác.
+$instructeurspartent=Cố vấn quân sự của chúng ta đã trở về nước sau khi hoàn thành nhiệm vụ!
 
 // replaced putch with coup
-$interventiontroupesursscontreputch=The coup failed!\nRussian troops intervened to put an end to this adventure
-$interventiontroupesusacontreputch=Thus coup failed!\nAmerican troops intervened to put an end to this adventure
+$interventiontroupesursscontreputch=Đảo chính thất bại!\n Quân đội Liên Xô đã can thiệp để chấm dứt âm mưu này
+$interventiontroupesusacontreputch=Đảo chính thất bại!\n Quân đội Hoa Kỳ đã can thiệp để chấm dứt âm mưu này
 
-$invasionpays=Your troops have invaded this country!
+$invasionpays=Quân đội của chúng ta đã xâm lược quốc gia này!
 
 // This variable is about the Congress of the USA, correct?
-//I think just congress will suffice
-$lecongresditnon=Congress says No!
+// I think just congress will suffice
+$lecongresditnon=Quốc hội nói không!
 
 
 $knicenom=Korean National Defense Corps
