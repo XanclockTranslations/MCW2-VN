@@ -1,8 +1,19 @@
 # Lịch sử cập nhật bản dịch
 
+## Ghi chú chung
+
+- Viết tắt:
+    - `dev`: Nhà phát triển trò chơi (developer).
+
 ## v0.2 (ngày 7 tháng 1 năm 2025)
 
-Sửa một chút nội dung trong `customenGuerillas`. Hiện đã xong 7/15 file dịch được trò chơi cung cấp.
+Hiện đã xong 7/15 file dịch được trò chơi cung cấp.
+
+### Sửa đổi
+
+- Sửa một một vài nội dung trong `customenGuerillas` (`Lực lượng dân quân Palenstine`, `Lực lượng dân quân Kabyle`, viết tắt `Quốc dân Đảng` -> `QĐĐ`).
+
+- Sửa lại tên của Việt Nam (`Bắc Việt Nam` -> `Việt Nam DCCH`, `Bắc/Nam Triều Tiên` -> `CHDCND Triều Tiên` và `Đại Hàn Dân Quốc`). #TODO: Vấn đề về tên quốc gia vẫn chưa hoàn toàn được giải quyết (do dev chưa sửa), ví dụ: `Nam Việt Nam` (hoặc `Việt Nam CH`) chưa xuất hiện, mà hiện tại được gọi là `Việt Nam`. Cần theo dõi thêm. 
 
 ### Đã dịch
 
