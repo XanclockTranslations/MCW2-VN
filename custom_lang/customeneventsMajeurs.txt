@@ -6069,7 +6069,7 @@ $choix11965d=Let make the military-industrial complex our priority (Prestige +10
 $choix11965dtitle=Increases tension, grants bonueses to military aid actions and increases the strength of allied European armed forces; importation expenses decrease by $5
 
 $choix21965d=Let us make consumption our priorty ($15/month)
-$choix21965dtitle=Increases tension and Stalinism, importation expenses decrease by $10
+$choix21965dtitle=Decreases tension and Stalinism, importation expenses decrease by $10
 
 $titre1965d1=OUR ECONOMIC POLICY
 
@@ -6135,8 +6135,7 @@ We will carefully monitor the changing situation in Vietnam.
 
 $titre1965g=THE VIETNAM WAR
 
-$texte1965g=North Vietnam just proclaimed conscription! \nRegular units from the North are now leading forays in the South. \n
-				The American army is now fully involved in land operations. \n\nCertain analysts, citing the Indochina and Korean wars, already predict the worst for the U.S. Army.
+$texte1965g=North Vietnam just proclaimed conscription! \nRegular units from the North are now leading forays in the South. \nThe American army is now fully involved in land operations. \n\nCertain analysts, citing the Indochina and Korean wars, already predict the worst for the U.S. Army.
 
 
 $choix11965g=C'est la guerre! (USA prestige +150)
@@ -6181,7 +6180,7 @@ $texte1965i=In Santo Domingo, a violent and totally unforeseen civil war broke. 
 
 
 $choix11965i=Let us launch operation Power pack ! ($5 / Prestige -25) 
-$choix11965ititle=This should calm everybody=> will dispatch 5 troops in the Dominican Republic
+$choix11965ititle=This should calm everybody -> will dispatch 5 troops in the Dominican Republic
 
 $choix21965i=Let us simply evacuate our nationals
 $choix21965ititle=We are not the watchdog of the Caribbean.

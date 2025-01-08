@@ -1,2 +1,5 @@
 # Folder `.ignore` chuyên chứa các file mang tính chất tạm thời, không cần đẩy lên git.
 .ignore
+
+# Các file `.bak` được tạo ra bởi WinMerge nhằm backup file gốc.
+*.bak

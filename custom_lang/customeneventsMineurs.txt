@@ -3235,7 +3235,7 @@ $brejnev2=USSR: increase in households consumption (prestige +5)
 $brejnev2detail=The time between order and delivery of a car is of 8 years: a proof that demand is booming!
 
 $brejnev3=USSR: increase in living standards in cities (prestige +5)
-$brejnev3detail=The time between order and delivery of a car is now above 10 years: will Moscow have traffic jams like in the West?!
+$brejnev3detail=The time between order and delivery of a car is now below 10 years: will Moscow have traffic jams like in the West?!
 
 $brejnev4=Brezhnevian Cult: Brezhnev honoured again with the Order of Lenin (prestige -5)
 $brejnev4detail=The entire world is having au laugh
