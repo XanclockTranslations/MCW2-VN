@@ -115,11 +115,11 @@ $invasionpays=Quân đội của chúng ta đã xâm lược quốc gia này!
 $lecongresditnon=Quốc hội nói không!
 
 
-$knicenom=Korean National Defense Corps
-$lacharite=This country has refused your aid! \nIts rulers pretend that they do not need your charity, and claim that your proposal is part of a hidden imperialist agenda to control their national economy...
-$lacorruption=Corruption
-$larichesse=Wealth
-$lesopposition=Number of opposition groups
+$knicenom=Quốc quân Đại Hàn Dân Quốc
+$lacharite=Quốc gia này từ chối viện trợ từ phía chúng ta! \n Chính quyền của họ cho rằng họ không cần chúng ta giúp đỡ, và cho rằng đề xuất này chỉ là một phần của âm mưu đế quốc nhằm bí mật thao túng nền kinh tế của họ...
+$lacorruption=Tham nhũng
+$larichesse=Wealth (?TODO)
+$lesopposition=Số lượng nhóm đối lập
 
 $manifsantibase=The announcement of your planned installation of a military base in this country has triggered massive and violent popular protests!
 
@@ -128,9 +128,9 @@ $manifsantibasemissiles=The announcement of your intention to deploy nuclear mis
 $manifsantibasedegenere=Protests are worsening and spreading out across the country -- the regime is tottering!
 $manifsantibasemate=Suppression of the protest marches has been merciless. The army has shot the protesters, and all leaders of the opposition have been arrested!
 $manifestationreprimee=The protests were harshly suppressed, and the main leaders of the opposition have been arrested
-menace=Threat
+menace=Đe dọa
 
-$milicespatriotiques=Patriotic Militias
+$milicespatriotiques=Dân quân Ái quốc
 
 $negodissentions=The issue of whether to negotiate has caused major dissensions within the movement.
 $negoguerilla=Push to negotiate
