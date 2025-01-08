@@ -25,7 +25,9 @@ Hiện đã xong 7/15 file dịch được trò chơi cung cấp.
 ### Đang dịch
 
 - `customenactions` (tổng hợp nhiều loại string trong trò chơi). 
-    - Ghi chú 1: `$larichesse=Tài sản` là phần sẽ phải xem lại (vì chưa kiểm tra được ngữ cảnh).
+    - Ghi chú 1: Nhiều ngôi `you` (bạn) được dịch thành `chúng ta` (we) để phù hợp hơn với ngữ cảnh. 
+    - Ghi chú 2: Một số string có thể tối nghĩa hoặc không phù hợp ngữ cảnh. Ví dụ: `$larichesse=Tài sản` là phần sẽ phải xem lại (vì chưa kiểm tra được ngữ cảnh).
+    - Ghi chú 3: Đã dịch đến `$pccnom=Đảng Cộng sản Triều Tiên`. #TODO: Dịch tiếp.
 
 ## v0.1 (ngày 5 tháng 1 năm 2025)
 

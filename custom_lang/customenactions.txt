@@ -118,45 +118,45 @@ $lecongresditnon=Quốc hội nói không!
 $knicenom=Quốc quân Đại Hàn Dân Quốc
 $lacharite=Quốc gia này từ chối viện trợ từ phía chúng ta! \n Chính quyền của họ cho rằng họ không cần chúng ta giúp đỡ, và cho rằng đề xuất này chỉ là một phần của âm mưu đế quốc nhằm bí mật thao túng nền kinh tế của họ...
 $lacorruption=Tham nhũng
-$larichesse=Wealth (?TODO)
+$larichesse=Tài sản
 $lesopposition=Số lượng nhóm đối lập
 
-$manifsantibase=The announcement of your planned installation of a military base in this country has triggered massive and violent popular protests!
+$manifsantibase=Việc thông báo kế hoạch xây dựng căn cứ quân sự tại quốc gia này đã châm ngòi cho những cuộc biểu tình lớn và đầy bạo lực!
 
-$manifsantibasemissiles=The announcement of your intention to deploy nuclear missiles in this country has triggered massive and violent popular protests!
+$manifsantibasemissiles=Việc thông báo kế hoạch triển khai tên lửa hạt nhân tại quốc gia này đã châm ngòi cho những cuộc biểu tình lớn và đầy bạo lực!
 
-$manifsantibasedegenere=Protests are worsening and spreading out across the country -- the regime is tottering!
-$manifsantibasemate=Suppression of the protest marches has been merciless. The army has shot the protesters, and all leaders of the opposition have been arrested!
-$manifestationreprimee=The protests were harshly suppressed, and the main leaders of the opposition have been arrested
+$manifsantibasedegenere=Các cuộc biểu tình đang ngày càng trầm trọng và lan rộng khắp cả nước, khiến chính quyền lung lay!
+$manifsantibasemate=Các cuộc biểu tình đã bị đàn áp không thương tiếc. Quân đội xả súng vào những người biểu tình, và tất cả các nhà lãnh đạo của phe đối lập đã bị bắt giữ!
+$manifestationreprimee=Các cuộc biểu tình đã bị đàn áp không thương tiếc. Tất cả các nhà lãnh đạo của phe đối lập đã bị bắt giữ!
 menace=Đe dọa
 
 $milicespatriotiques=Dân quân Ái quốc
 
-$negodissentions=The issue of whether to negotiate has caused major dissensions within the movement.
-$negoguerilla=Push to negotiate
+$negodissentions=Vấn đề có nên thương lượng với chính quyền hay không đã gây ra tranh cãi trong nhóm du kích này 
+$negoguerilla=Xúc tiến việc thương lượng
 
-$negoreussie=The guerrilla has agreed to open negotiations with the incumbent government. We cannot predict whether the regime will take advantage of this historical opportunity.
-$negoratee=The guerrilla is not yet ready to have discussions with the regime.
+$negoreussie=Nhóm du kích đã đồng ý mở cuộc đàm phán với chính quyền sở tại. Chúng ta không thể dự đoán được liệu chính quyền có tận dụng cơ hội lịch sử này hay không.
+$negoratee=Nhóm du kích chưa sẵn sàng đàm phán với chính quyền.
 
-$nomrelation=relations
-$nomrichesse=wealth
-$nomfinlandisation=Finlandisation
-$nomnonfinlandise=not subject to Finlandisation
+$nomrelation=quan hệ
+$nomrichesse=tài sản
+$nomfinlandisation=Phần Lan hóa
+$nomnonfinlandise=Không phải chịu hiệu ứng Phần Lan hóa
 
-$nomsplitusa=True National Front
-$nomspliturss=Socialist Revolutionary Army
-$nomsplitautre=New Patriotic Front
+$nomsplitusa=Mặt trận Quốc gia Đích thực
+$nomspliturss=Quân đội Cách mạng XHCN
+$nomsplitautre=Tân Mặt trận Ái quốc
 
-$nwyanom=Northwest Youth Association
-$oppositionreussi=opposition starts to organise itself
-$oppositionratedictature=The national secret police keeps a watchful eye on the population, and any attempt to organise the opposition is nipped in the bud.
-$oppositionrate=It would be easier to herd cats than to organise the dissidents of this country.
+$nwyanom=Đoàn Thanh niên Tây Bắc
+$oppositionreussi=Phe đối lập đã thành lập tổ chức
+$oppositionratedictature=Lực lượng cảnh sát mật quốc gia luôn theo dõi dân chúng, và mọi nỗ lực tổ chức phe đối lập đều bị ngăn chặn từ đầu.
+$oppositionrate=Bắc thang leo lên trời còn dễ hơn việc tổ chức phe đối lập ở quốc gia này.
 
-$patriotesde=Patriots of 
+$patriotesde=Những người yêu nước 
 
-$particommunistecombattant=Fighting Communist Party
-$partimaoistecombattant=Fighting Maoist Party
-$pccnom=Korean Communist Party
+$particommunistecombattant=Đảng Cộng sản Chiến đấu
+$partimaoistecombattant=Đảng Maoist Chiến đấu
+$pccnom=Đảng Cộng sản Triều Tiên
 
 $prosperitesupprimeopposition=The newfound prosperity has stripped the opposition of its economic arguments.
 
