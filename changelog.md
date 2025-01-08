@@ -13,6 +13,8 @@ Hiện đã xong 7/15 file dịch được trò chơi cung cấp.
 
 - Sửa một một vài nội dung trong `customenGuerillas` (`Lực lượng dân quân Palenstine`, `Lực lượng dân quân Kabyle`, viết tắt `Quốc dân Đảng` -> `QĐĐ`).
 
+- Sửa lại tên `Các tiểu vương quốc Ả Rập Thống nhất` thành `CTVQ Ả Rập TN` để đỡ dài.
+
 - Sửa lại tên của Việt Nam (`Bắc Việt Nam` -> `Việt Nam DCCH`, `Bắc/Nam Triều Tiên` -> `CHDCND Triều Tiên` và `Đại Hàn Dân Quốc`). #TODO: Vấn đề về tên quốc gia vẫn chưa hoàn toàn được giải quyết (do dev chưa sửa), ví dụ: `Nam Việt Nam` (hoặc `Việt Nam CH`) chưa xuất hiện, mà hiện tại được gọi là `Việt Nam`. Cần theo dõi thêm. 
 
 ### Đã dịch
@@ -23,7 +25,7 @@ Hiện đã xong 7/15 file dịch được trò chơi cung cấp.
 ### Đang dịch
 
 - `customenactions` (tổng hợp nhiều loại string trong trò chơi). 
-    - Ghi chú 1: Hiện tại dịch đến dòng `$lecongresditnon=Quốc hội nói không!`. #TODO: Cần dịch tiếp.
+    - Ghi chú 1: `$larichesse=Tài sản` là phần sẽ phải xem lại (vì chưa kiểm tra được ngữ cảnh).
 
 ## v0.1 (ngày 5 tháng 1 năm 2025)
 

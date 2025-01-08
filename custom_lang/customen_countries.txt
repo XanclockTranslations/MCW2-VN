@@ -106,8 +106,8 @@ $DM=Dominica
 
 $Egypte=Ai Cập
 $EG=Ai Cập
-$EmiratsArabesUnis=Các tiểu vương quốc Ả Rập Thống nhất
-$AE=Các tiểu vương quốc Ả Rập Thống nhất
+$EmiratsArabesUnis=CTVQ Ả Rập TN
+$AE=CTVQ Ả Rập TN
 $Equateur=Ecuador
 $EC=Ecuador
 $Erythee=Eritrea
