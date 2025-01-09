@@ -5,7 +5,7 @@
 - Viết tắt:
     - `dev`: Nhà phát triển trò chơi (developer).
 
-## v0.2 (ngày 8 tháng 1 năm 2025)
+## v0.2 (ngày 9 tháng 1 năm 2025)
 
 Hiện đã xong 7/15 file dịch được trò chơi cung cấp.
 

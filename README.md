@@ -4,13 +4,13 @@
 
 Maestro's Cold War 2 (tạm dịch: [trò chơi] Chiến tranh Lạnh 2 của Maestro) là một trò chơi chiến lược theo lượt, nơi người chơi sẽ đảm nhận vai trò của một trong hai siêu cường lớn nhất thế giới: Liên Xô và Hoa Kỳ, trong thời kỳ Chiến tranh Lạnh (có thể sắp tới sẽ bổ sung cả Trung Quốc và Pháp như [bản gốc trên web](https://cold-war2.com/en/index.php)). Mục tiêu của người chơi là đạt được số điểm cao hơn đối thủ, thông qua các hành động như xây dựng quan hệ với các nước và phát triển công nghệ, cũng như "hạ bệ" đối thủ trên trường quốc tế (và đảm bảo rằng mình không bị "hạ bệ" trước).
 
-Hiện tại (ngày 8 tháng 1 năm 2025), trò chơi đang được phát triển bởi Maestro Cinetik, với các phiên bản demo được chia sẻ miễn phí trên Steam. Dự kiến bản chính thức đầu tiên sẽ được phát hành vào ngày tháng 9 năm 2025.
+Hiện tại (ngày 9 tháng 1 năm 2025), trò chơi đang được phát triển bởi Maestro Cinetik, với các phiên bản demo được chia sẻ miễn phí trên Steam. Dự kiến bản chính thức đầu tiên sẽ được phát hành vào ngày tháng 9 năm 2025.
 
 Truy cập trang chính thức của nhà phát triển tại: [maestrocinetik.com](https://maestrocinetik.com/)
 
 Tải trò chơi trên Steam: [Maestro's Cold War 2](https://store.steampowered.com/app/3204120/Maestros_Cold_War_2/).
 
-Repo này chứa bản dịch tiếng Việt cho trò chơi, được thực hiện bởi nhóm dịch [XanclockTranslations](https://github.com/XanclockTranslations/) (gọi là nhóm dịch nhưng đang hoạt động bởi một mình [ichxorya](https://github.com/ichxorya)). Hiện tại, bản dịch đang được thực hiện cho phiên bản demo mới nhất ([Phát hành ngày 8/1/2025 - Chưa có update log, nhưng bản trước đó là 4/1/2025 thì có](https://store.steampowered.com/news/app/3204120/view/527583114757669308?l=english)).
+Repo này chứa bản dịch tiếng Việt cho trò chơi, được thực hiện bởi nhóm dịch [XanclockTranslations](https://github.com/XanclockTranslations/) (gọi là nhóm dịch nhưng đang hoạt động bởi một mình [ichxorya](https://github.com/ichxorya)). Hiện tại, bản dịch đang được thực hiện cho phiên bản demo mới nhất ([Phát hành ngày 9/1/2025 - Chưa có update log, nhưng bản trước đó là 4/1/2025 thì có](https://store.steampowered.com/news/app/3204120/view/527583114757669308?l=english)).
 
 ## Hướng dẫn sử dụng
 

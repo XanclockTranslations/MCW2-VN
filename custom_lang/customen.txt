@@ -613,3 +613,8 @@ Revolutionarymagnet=REVOLUTIONARY BEACON
 Revolutionarymagnettext=Young idealists and students are flocking to Havana from every corner of South and Central America to be part of the Revolution. \nThe Revolution is something new in Cuba: a whole new class of revolutionary administrators is emerging. \nThey are young, and they are men and women in a hurry. \nAmong them are many rising stars, including Ernesto "Che" Guevara, Camilo Cienfuegos and Fidel Castro. \nNeedless to say, U.S. stakes in Cuba are threatened by Communist reforms, and it is doubtful that Washington will cut its losses without a strong reaction.\n\n-->Cuban relations with USA: -2\n-->Cuban stability +1
 
 althist= (Alt-History)
+elnp=Ejército de Liberación Nacional (Peruviano)
+
+Lift_Embargo=Lift Embargo
+
+AppealingpowerscaualitiesMinor=Appalling Casualties for the Army in the conflict in [pays] (Stability -1)
