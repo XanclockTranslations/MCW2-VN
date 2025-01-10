@@ -10,7 +10,7 @@ Truy cập trang chính thức của nhà phát triển tại: [maestrocinetik.c
 
 Tải trò chơi trên Steam: [Maestro's Cold War 2](https://store.steampowered.com/app/3204120/Maestros_Cold_War_2/).
 
-Repo này chứa bản dịch tiếng Việt cho trò chơi, được thực hiện bởi nhóm dịch [XanclockTranslations](https://github.com/XanclockTranslations/) (gọi là nhóm dịch nhưng đang hoạt động bởi một mình [ichxorya](https://github.com/ichxorya)). Hiện tại, bản dịch đang được thực hiện cho phiên bản demo mới nhất ([Phát hành ngày 10/1/2025 - Chưa có update log, nhưng bản trước đó là 4/1/2025 thì có](https://store.steampowered.com/news/app/3204120/view/527583114757669308?l=english)).
+Repo này chứa bản dịch tiếng Việt cho trò chơi, được thực hiện bởi nhóm dịch [XanclockTranslations](https://github.com/XanclockTranslations/) (gọi là nhóm dịch nhưng đang hoạt động bởi một mình [ichxorya](https://github.com/ichxorya)). Hiện tại, bản dịch đang được thực hiện cho phiên bản demo mới nhất ([Phát hành ngày 10/1/2025](https://store.steampowered.com/news/app/3204120/view/527583567913419224)).
 
 ## Hướng dẫn sử dụng
 
