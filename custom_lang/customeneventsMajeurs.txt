@@ -5418,8 +5418,7 @@ $texte1962i3=What is the point of fighting for some lost rocks at 5,000m hight a
 $titre1963a=A MOSCOW-WASHINGTON HOTLINE
 
 
-$texte1963a=This issue has been debated for years: time has now come to restrict via a treaty nuclear testing in the atmosphere and under water. \nThe other Bloc agrees to sign such a treaty; only France and China are expected to give this historical opportunity a cold shoulder. \nThere are also plans to establish a "hotline" between Washington and Moscow, which will be a direct communications link enabling the forestalling of any misunderstanding in case of serious crisis. Should we sign this treaty?
-
+$texte1963a=This issue has been debated for years, and the time has now come to restrict nuclear testing in the atmosphere and underwater through a treaty. \nThe other bloc has agreed to sign such a treaty; only France and China are expected to turn a cold shoulder to this historic opportunity. \nThere are also plans to establish a "hotline" between Washington and Moscow, which would be a direct communications link to help prevent any misunderstandings in the event of a serious crisis. \nShould we sign this treaty?
 
 $choix11963a=Yes to the treaty and the Moscow-Washington hotline
 $choix11963atitle=Détente + potential end of the the LeMay doctrine + nuclear showdowns have less risks to trigger the Apocalypse
@@ -5432,7 +5431,7 @@ $choix31963atitle=The pacifist contestation increases in the USA (for the US pla
 
 $titre1963a1=AN EASING OF TENSION
 
-$texte1963a1=The spectre of a nuclear end of the world draws away. \n--> DEFCON +3 \n--> Moscow-Washington hotline  \n(The nerves gauge of your opponent will be visible if he is not a "bluffer".) \n
+$texte1963a1=The spectre of a nuclear end of the world fades away. \n--> DEFCON +3 \n--> Moscow-Washington hotline  \n(The nerves gauge of your opponent will be visible if he is not a "bluffer".) \n
 
 
 
@@ -5441,13 +5440,12 @@ $finlemay=--> End of the LeMay doctrine
 
 $titre1963a2=A MOSCOW-WASHINGTON HOTLINE
 
-$texte1963a2=This kind of treaties is terribly difficult to negotiate and discussions may be going on for years and years. \n	The most important is that these negotiations continue. \nMeanwhile, we agreed to establish a direct communications link between Washington and Moscow aimed at forestalling conflicts between our two nations. \nThis ordinary colour teleprinter will be popularised under the name "Moscow-Washington hotline". \n--> DEFCON +1 \n--> Moscow-Washington hotline  \n(The nerves gauge of your opponent will be visible if he is not a "bluffer".) \n
-
+$texte1963a2=This kind of treaty is extremely difficult to negotiate, and discussions may go on for years. \nThe most important thing is that these negotiations continue. \nMeanwhile, we have agreed to establish a direct communications link between Washington and Moscow aimed at preventing conflicts between our two nations. This standard color teleprinter will be popularized under the name "Moscow-Washington hotline."\n\n--> DEFCON +1\n--> Moscow-Washington hotline (The nerve gauge of your opponent will be visible if they are not a "bluffer.")
 
 
 $titre1963a3=A HARD RAIN'S A-GONNA FALL
 
-$texte1963a3=This kind of treaties is obviously a stratagem from our enemies to disarm us!  \nFortunately, we are no fools and will not be blinded by their false promises. \nThe international public opinion does not understand our position and accuses us of missing a historical opportunity.
+$texte1963a3=This kind of treaty is obviously a stratagem from our enemies to disarm us! \nFortunately, we are no fools and will not be blinded by their false promises. \nInternational public opinion does not understand our position and accuses us of missing a historical opportunity.
 
 
 
@@ -5456,8 +5454,7 @@ $texte1963a3=This kind of treaties is obviously a stratagem from our enemies to 
 $titre1963b=THE ORGANISATION OF AFRICAN UNITY
 
 
-$texte1963b=The African States just created an Organisation of the African Unity (OAU).  \nThis organisation should enable a better cooperation between African countries. Its principles encompass the respect of borders inherited from the decolonisation and an absolute non-interference in other nations' internal affairs. \nThis event was also the right moment to reaffirm the non-alignment policy of the African countries.
-
+$texte1963b=The African states have just created an Organization of African Unity (OAU). \nThis organization should enable better cooperation between African countries. Its principles encompass the respect of borders inherited from decolonization and an absolute non-interference in other nations' internal affairs. \nThis event was also the right moment to reaffirm the non-alignment policy of the African countries.
 
 
 
@@ -5466,7 +5463,7 @@ $choix11963btitle=The OAU will be a source of stability for the entire continent
 
 $titre1963b1=THE ORGANISATION OF AFRICAN UNITY
 
-$texte1963b1=The most cynical diplomats believe that the real reason behinf this non-alignement stance is to up the antes between the various great powers... \n
+$texte1963b1=The most cynical diplomats believe that the real reason behind this non-alignment stance is to up the ante between the various great powers... \n
 
 $txtoua=: this country claims to be non-aligned. \n
 $txtouadetail=This country is non-aligned and may have adjust downward its relations with the two Blocs.
@@ -5477,8 +5474,7 @@ $txtouadetail=This country is non-aligned and may have adjust downward its relat
 $titre1963c=ICH BIN EIN BERLINER!
 
 
-$texte1963c=President Kennedy is in Berlin to support the people of West-Berlin, which is completely enclosed in East Germany. \nThe construction of the wall fuelled the anxiety of the population which fears a communist invasion. \nThis speech will remain famous! \n« There are many people in the world who really don't understand, or say they don't, what is the great issue between the free world and the Communist world.\nLet them come to Berlin! [...] \nAnd there are some who say, in Europe and elsewhere, we can work with the Communists.  \nLet them come to Berlin! \n[…] All -- All free men, wherever they may live, are citizens of Berlin. And, therefore, as a free man, I take pride in the words -- Ich bin ein Berliner! » \n--><strong>+ 100 Prestige!</strong>
-
+$texte1963c=President Kennedy is in Berlin to support the people of West Berlin, which is completely enclosed by East Germany. \nThe construction of the wall fueled the anxiety of the population, which fears a communist invasion. \nThis speech will remain famous! \n« There are many people in the world who really don't understand, or say they don't, what is the great issue between the free world and the Communist world. \nLet them come to Berlin! [...] \nAnd there are some who say, in Europe and elsewhere, we can work with the Communists. \nLet them come to Berlin! \n[…] All -- all free men, wherever they may live, are citizens of Berlin. And, therefore, as a free man, I take pride in the words -- Ich bin ein Berliner! » \n-->+ 100 Prestige!
 
 
 // EVT D
@@ -5491,29 +5487,26 @@ $texte1963d=A drought was enough to force the people to queue again for bread. \
 		
 
 
-$texte1963db=The cultivated virgin lands are way out of the centre and expensive to cultivate. \nTheir intensive cultivation additionally degraded the thankless soil of these lands, nullifying our efforts. \n	
-	
-$texte1963dc=Our advisor, Lyssenko, did not succeed in anything and his agronomic experiments are a source of mockery and despair among the scientific community. \n	
+$texte1963db=The cultivated virgin lands are far from the center and expensive to cultivate. \nTheir intensive cultivation has further degraded the thankless soil of these lands, nullifying our efforts. \n
 
-$texte1963dd=Our last agricultural reform did not deliver the intended results: \n- the people in kolkhozes preferred to slaughter their animal rather than collectivising them, \n- the tractors operators preferred to move to the cities rather than being integrated to the cooperatives, \n- the collective farms and cooperatives became financially fragile and their equipment is in bad condition… \n
-			
+$texte1963dc=Our advisor, Lyssenko, did not succeed in anything, and his agronomic experiments are a source of mockery and despair among the scientific community. \n
 
-
-$texte1963de=There is a good chance we are forced to reestablish rationing in peace time… \n	Unless we buy wheat abroad. \nIn the days and age of Joseph Stalin, it is needless to say that the second option would have been considered as a supreme shame. \nAn appalling fact remains nonetheless: our agriculture could not catch up with the West's. \n
+$texte1963dd=Our last agricultural reform did not deliver the intended results: \n- The people in kolkhozes preferred to slaughter their animals rather than collectivize them. \n- The tractor operators preferred to move to the cities rather than being integrated into the cooperatives. \n- The collective farms and cooperatives became financially fragile, and their equipment is in bad condition… \n
 
 
-$texte1963df=There has occurred a drought that caused severe crop harvesting failure. There is not enough food to fully stock the stores throughout the Soviet Union.
-}
+$texte1963de=There is a good chance we will be forced to reestablish rationing in peacetime… \nUnless we buy wheat abroad. \nIn the days of Joseph Stalin, it is needless to say that the second option would have been considered a supreme shame. \nAn appalling fact remains nonetheless: our agriculture could not catch up with the West's. \n
+
+$texte1963df=A drought has occurred that caused a severe crop harvest failure. There is not enough food to fully stock the stores throughout the Soviet Union.
 
 
-$choix11963d=Let us buy wheat (Budget-X)
-$choix11963dtitle=We will pay for our misguided ways: price will vary between $5 and $25 per month depending on your previous decisions but the agricultural policy budget is set to $0
+$choix11963d=Buy wheat (Budget-X)
+$choix11963dtitle=We will pay for our misguided ways: prices will vary between $5 and $25 per month depending on your previous decisions, but the agricultural policy budget is set to $0.
 
-$choix21963d=Let us impose rationaning and suppress (budget -$5)
-$choix21963dtitle=Stalinism increases more or less depending on your previous decisions; corruption and black market grow
+$choix21963d=Impose rationaning and suppress protests(budget -$5)
+$choix21963dtitle=Stalinism increases more or less depending on your previous decisions; corruption and the black market grow.
 
-$texte1963d1=There has occurred a drought that caused severe crop harvesting failure. There is not enough food to fully stock the stores throughout the Soviet Union.
-$choix11963d2=Let's give people reserved food (and refill our stock)
+$texte1963d1=A drought has occurred that caused a severe crop harvest failure. There is not enough food to fully stock the stores throughout the Soviet Union.
+$choix11963d2=Give people reserved food (and refill our stock)
 
 
 
@@ -5523,52 +5516,45 @@ $titre1963d1=THE END OF RATIONING
 $texte1963d1b=We will pay with other kind of raw materials, like petroleum or minerals... \n
 		
 $titre1963d2=GULAG DIET
-$texte1963d2=The people is on the brink of riot. Fortunately, the Chinese example proved us it is possible to control a country despite hunger without the rest of the world knowing about it. \nBlack market is growing and various traffickings are being structured into organised gangs, sometimes with the blessing of local Party officials. \nA taking in hand is necessary! \n		
-
+$texte1963d2=The people are on the brink of riot. Fortunately, the Chinese example has proven to us that it is possible to control a country despite hunger without the rest of the world knowing about it. \nThe black market is growing, and various trafficking operations are being structured into organized gangs, sometimes with the blessing of local Party officials. \nA firm hand is necessary!
 
 // EVT E
 
 $titre1963e=THE BATTLE OF AP BAC
 
 
-$texte1963e=Last month, the Army of the Republic of Vietnam (ARVN) was humiliated in clash with Viet-Cong. \nThe operation aimed at neutralising a Viet-Cong outpost near the village of Ap Bac demonstrated the rebels determination faced with an ennemy aquipped with armoured vehicles and helicopters. \nSouth Vietnam will not survive without our help… \nBut can this country still be saved?
+$texte1963e=Last month, the Army of the Republic of Vietnam (ARVN) was humiliated in a clash with the Viet Cong. \nThe operation aimed at neutralizing a Viet Cong outpost near the village of Ap Bac demonstrated the rebels' determination in the face of an enemy equipped with armored vehicles and helicopters. \nSouth Vietnam will not survive without our help… \nBut can this country still be saved?
 
-
-$choix11963e=Let us dispatch troops! ($5)
+$choix11963e=Dispatch troops! ($5)
 $choix11963etitle=Dispatch 5 troops, increase the value of South Vietnam in prestige points et sharply increase the stability of South Vietnam
 
-$choix21963e=Let us dispatch more military advisors ($5)
+$choix21963e=Dispatch more military advisors ($5)
 $choix21963etitle=Dispatch military advisors (or mercenaries if military advisors were already present) and increase the stability of South Vietnam
 
-$choix31963e=Let us not rush into this
+$choix31963e=Let us not rush into this trap
 $choix31963etitle=Deteriorate your relations with South Vietnam
 
 $titre1963e1=THE BATTLE OF AP BAC
 
 
-$texte1963e1=The U.S. General Paul D. Harkins declared in his report that the battle of Ap Bac was a victory as the enemy position had been captured. No one is fooled by this declaration. \nLet us hope that the reinforcements disptached to South Vietnam will enable the containment of the Viet-Cong threat.
-
-
+$texte1963e1=U.S. General Paul D. Harkins declared in his report that the battle of Ap Bac was a victory, as the enemy position had been captured. No one is fooled by this declaration. \nLet us hope that the reinforcements dispatched to South Vietnam will enable the containment of the Viet Cong threat.
 
 $titre1963e2=THE BATTLE OF AP BAC
 
 
-$texte1963e2=The U.S. General Paul D. Harkins declared in his report that the battle of Ap Bac was a victory as the enemy position had been captured. No one is fooled by this declaration. \nLet us hope that the reinforcements disptached to South Vietnam will enable the containment of the Viet-Cong threat.
-
+$texte1963e2=U.S. General Paul D. Harkins declared in his report that the battle of Ap Bac was a victory, as the enemy position had been captured. No one is fooled by this declaration. \nLet us hope that the reinforcements dispatched to South Vietnam will enable the containment of the Viet Cong threat.
 
 
 $titre1963e3=THE BATTLE OF AP BAC
 
 
-$texte1963e3=The U.S. General Paul D. Harkins declared in his report that the battle of Ap Bac was a victory as the enemy position had been captured. No one is fooled by this declaration. \nThe South Vietnamese troops should train harder in combined operations, that is it!
-
+$texte1963e3=U.S. General Paul D. Harkins declared in his report that the battle of Ap Bac was a victory, as the enemy position had been captured. No one is fooled by this declaration. \nThe South Vietnamese troops should train harder in combined operations. That is all!
 
 //EVT F
 $titre1963f=BODHISATTVA
 
 
-$texte1963f=In South Vietnam, Buddhists peacefully demonstrate against the systematic bullying by the authorities. \nThese demonstrations are sometimes quelled by police shooting: the ban on the Buddhist flag during the Vesak festivities resulted in the death of 9 persons. \nOn 11th June 1963, a monk, Thích Quảng Đức, publicly burned himself to death in protest against the government-led persecutions. \nHe immediately became a popular hero and his heart is being kept as a relic inside a temple. \nIt will take more than that to move the government and the president's brother own wife even declared that she would "clap hands at seeing another monk barbecue show.". The split is confirmed between the ruling Christian family and the country's Buddhists.
-
+$texte1963f=In South Vietnam, Buddhists peacefully demonstrate against the systematic bullying by the authorities. \nThese demonstrations are sometimes quelled by police gunfire: the ban on the Buddhist flag during the Vesak festivities resulted in the death of 9 people. \nOn June 11th, 1963, a monk, Thích Quảng Đức, publicly burned himself to death in protest against the government-led persecutions. \nHe immediately became a popular hero, and his heart is being kept as a relic inside a temple. \nIt will take more than that to move the government, and the president's brother’s own wife even declared that she would "clap her hands at seeing another monk barbecue show." The split is confirmed between the ruling Christian family and the country's Buddhists.
 
 
 $choix11963f=Revolt is brewing in Vietnam
@@ -5578,43 +5564,38 @@ $choix11963ftitle=The country becomes Corrupted if it was not already and its st
 $titre1963f1=BODHISATTVA
 
 
-$texte1963f1=The monk's deadly gesture moved the international community which pressured the government to ease the situation. However, reforms do not come into existence or too late and raids on pagodas carry on. \nOther monks, inspired by Thích Quảng Đức, immolate themselves. \nThe popular contestation is steadily growing and could actually take the government. \nIn the U.S. Department of State and in the CIA, many experts think that President Ngô Đình Diệm is a problem that will have to be dealt with...
-
+$texte1963f1=The monk's fatal gesture moved the international community, which pressured the government to ease the situation. However, reforms either do not come into existence or come too late, and raids on pagodas continue. \nOther monks, inspired by Thích Quảng Đức, immolate themselves. \nThe popular discontent is steadily growing and could actually overthrow the government. \nIn the U.S. Department of State and in the CIA, many experts think that President Ngô Đình Diệm is a problem that will have to be dealt with...
 
 // EVT G
 
 $titre1963g=LET US CHANGE COLOURS
 
 
-$texte1963g=The ruling clique in South Vietnam is so corrupted and inept that coup projects are multiplying. \nGeneral Dương Văn Minh seems to be ready to overthrow President Diem. \nWe could warn him... or just let the coup happen. Should we ask our Ambassador in South Vietnam,  Henry Cabot Lodge, to warn Diem?
-
+$texte1963g=The ruling clique in South Vietnam is so corrupt and inept that coup plots are multiplying. \nGeneral Dương Văn Minh seems to be ready to overthrow President Diệm. \nWe could warn him... or just let the coup happen. Should we ask our Ambassador in South Vietnam, Henry Cabot Lodge, to warn Diệm?
 
 
 $choix11963g=This coup has our blessing (-25 Prestige)
 $choix11963gtitle=Power switches hands, the new government will be a dictatorship while stability will increase by 3 levels
 
-$choix21963g=Let us warn to President! (+5 Prestige)
+$choix21963g=Warn the President! (+5 Prestige)
 $choix21963gtitle=Your relations with South Vietnam will increase and the country will have the trait Paranoia
 
 
 $titre1963g1=A COUP!
 
-$texte1963g1=Early morning on 2nd November, President Ngô Đình Diệm and his brother Ngô Đình Nhu are arrested. Their demise marks the end of a corrupted and impopular regime. \nThey are assassinated later during their transfer to the Tân Sơn Nhất airbase from where they were to be expulsed from the country. \nGeneral Dương Văn Minh looks like the perfect candidate for leading South Vietnam and we already started working with him to build the future of Vietnam. \nOur reputation was however tarnished in this dire business and some of our allies distrust us.
-
+$texte1963g1=In the early morning of November 2nd, President Ngô Đình Diệm and his brother Ngô Đình Nhu are arrested. Their demise marks the end of a corrupt and unpopular regime. \nThey are assassinated later during their transfer to Tân Sơn Nhất Airbase, from where they were to be expelled from the country. \nGeneral Dương Văn Minh seems to be the perfect candidate to lead South Vietnam, and we have already started working with him to build the future of Vietnam. \nOur reputation was, however, tarnished in this dire business, and some of our allies now distrust us.
 
 
 $titre1963g2=A FAILED COUP
 
-$texte1963g2=The USA do not backstab their allies (that would be known)! \nNgô Đình Nhu, the President's brother, is busy purging the army: General Dương Văn Minh is arrested with many other schemer. \nThe extent of the suppression is destabilising the ARVN in an hour where it is in dire need for experienced leadership but this was a necessity. \nOur relations with the South Vietnamese government are at their highest.
-
+$texte1963g2=The USA does not backstab its allies (that would be known)! \nNgô Đình Nhu, the President's brother, is busy purging the army: General Dương Văn Minh is arrested along with many other schemers. \nThe extent of the suppression is destabilizing the ARVN at a time when it is in dire need of experienced leadership, but this was a necessity. \nOur relations with the South Vietnamese government are at their highest.
 
 // EVT H
 
 $titre1963h=I HAVE A DREAM
 
 
-$texte1963h=On 28th August, a spectacular march on Washington for jobs and freedom took place. \nIts organisers are civil rights champions, trade unions and religious organisations: they claim the march gathered over 300,000 people. \nThis event, which received large coverage by medias from around the world, could demonstrate the scale of the movement. \nA speaker particularly stood out during the day: Martin Luther King, whose speech full of flights of lyricism will certainly pass into history.
-
+$texte1963h=On August 28th, a spectacular march on Washington for jobs and freedom took place. \nIts organizers were civil rights champions, trade unions, and religious organizations: they claim the march gathered over 300,000 people. \nThis event, which received extensive coverage from media outlets around the world, demonstrated the scale of the movement. \nA speaker who particularly stood out during the day was Martin Luther King, whose speech, full of flights of lyricism, will certainly go down in history.
 
 
 
@@ -5624,8 +5605,7 @@ $choix11963htitle=The civil rights contestation skyrockets in the USA
 $titre1963h1=I HAVE A DREAM
 
 
-$texte1963h1="I have a dream that one day on the red hills of Georgia the sons of former slaves and the sons of former slave owners will be able to sit down together at the table of brotherhood.. \n\nI have a dream that one day even the state of Mississippi, a state sweltering with the heat of injustice, sweltering with the heat of oppression, will be transformed into an oasis of freedom and justice. \n\nI have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character. I have a dream today!" \n\n--> Civil rights contestation +3
-
+$texte1963h1="I have a dream that one day on the red hills of Georgia, the sons of former slaves and the sons of former slave owners will be able to sit down together at the table of brotherhood. \n\nI have a dream that one day even the state of Mississippi, a state sweltering with the heat of injustice, sweltering with the heat of oppression, will be transformed into an oasis of freedom and justice. \n\nI have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character. I have a dream today!" \n\n--> Civil rights movement +3
 
 
 // EVT I
@@ -5633,16 +5613,14 @@ $texte1963h1="I have a dream that one day on the red hills of Georgia the sons o
 $titre1963i=KENNEDY MURDERED!
 
 
-$texte1963i=On Friday 22nd November, at 12:30am, the US President John Fitzgerald Kennedy was mortally wounded by a gunshot while the presidential saloon was slowly driving through the city centre of Dallas, Texas. \nThe shooter, a man called Lee Harvey Oswald, was arrested but was himself murdered two days later. \nThe mystery over the reasons for assassinating President Kennedy remains. \nIn the United States of America, people weep in the streets and gather around TV sets at shops' front windows... \nAmerica is in mourning.
-
+$texte1963i=On Friday, November 22nd, at 12:30 p.m., U.S. President John Fitzgerald Kennedy was mortally wounded by a gunshot while the presidential motorcade was slowly driving through the city center of Dallas, Texas. \nThe shooter, a man named Lee Harvey Oswald, was arrested but was himself murdered two days later. \nThe mystery surrounding the reasons for assassinating President Kennedy remains. \nIn the United States of America, people weep in the streets and gather around TV sets in shop windows... \nAmerica is in mourning.
  
 
 $choix11963i=The world is dumbstruck!
 $choix11963ititle=I do know who killed Kennedy but I can say nothing: they hold my League of Legend characters as hostages!
 
 $titre1963i1=KENNEDY MURDERED!
-$texte1963i1=Vice-President Lyndon B. Johnson ensures continuity of the State. He took the oath of office on the same day on board the Air Force One aeroplane which was taking back President Kennedy's body. \n--> Lyndon B.Johnson, new President of the USA
-
+$texte1963i1=Vice President Lyndon B. Johnson ensures the continuity of the state. He took the oath of office on the same day aboard the Air Force One aircraft, which was carrying President Kennedy's body back. \n--> Lyndon B. Johnson, new President of the USA
 
  
 
@@ -5654,8 +5632,7 @@ $lbj=Lyndon B. Johnson
 $titre1963j=A CLOSED CLUB
 
 
-$texte1963j=President Kennedy declared in a press conference that a nuclear China would be the most serious threat to America since the end of World War 2. \nHe added that his government is considering taking measures in order for this not to happen... \nOur facilities of Lanzhou, Baotou and even those of Lop Nor -- though well isolated in the middle of the Gobi Desert -- are vulnerables to an american air raid. \nA partial nuclear test ban treaty is being negotiated by the USA, the USSR and the United Kingdom and we have been invited with France to participate. The USA clearly do not want us in the closed club of nuclear powers. \nWe should hasten our preparations to outpace them!
- 
+$texte1963j=President Kennedy declared in a press conference that a nuclear China would be the most serious threat to America since the end of World War II. \nHe added that his government is considering taking measures to prevent this from happening... \nOur facilities in Lanzhou, Baotou, and even those at Lop Nor—though well isolated in the middle of the Gobi Desert—are vulnerable to an American air raid. \nA partial nuclear test ban treaty is being negotiated by the USA, the USSR, and the United Kingdom, and we have been invited, along with France, to participate. The USA clearly does not want us in the exclusive club of nuclear powers. \nWe should hasten our preparations to outpace them!
 
 $choix11963j=Let us finish this bomb in 2 years! (-$5/month)
 $choix11963jtitle=This should be faster (increases Maoism)
@@ -5702,26 +5679,23 @@ _________________________________________________________
 $titre1964a=FOR A "GREAT SOCIETY"
 
 
-$texte1964a=We must continue Kennedy's programme and push through the "Revenue Act" which foresees significant tax cuts. \nWe can even go further in this direction and increase medical cover of the poorest, promote education and fight racism. \nThe President already has a name for his policy: the "Great Society"! \nCertain killjoys are nonetheless pointing out the fact that the era is not really favourable for increasing public expenses while the State's revenue is diminishing…
+$texte1964a=We must continue Kennedy's program and push through the "Revenue Act," which foresees significant tax cuts. \nWe can even go further in this direction by increasing medical coverage for the poorest, promoting education, and fighting racism. \nThe President already has a name for his policy: the "Great Society!" \nCertain killjoys, nonetheless, are pointing out that the era is not really favorable for increasing public spending while the state’s revenue is diminishing…
 
-
-$choix11964a=Let us declare war to poverty! ($10/month and prestige +75)
+$choix11964a=Declare war to poverty! ($10/month and prestige +75)
 $choix11964atitle=Increases your social expenses and decreases contesation
 
-$choix21964a=Let us do nothing
+$choix21964a=Do nothing
 $choix21964atitle=Increases contestation
 
 $titre1964a1=FOR A "GREAT SOCIETY"
 
 
-$texte1964a1=This is a huge leap forward but will this prevent the development of radical movements? \nOnly the future will tell while the American social body seems close to the boiling point.
-
+$texte1964a1=This is a huge leap forward, but will it prevent the development of radical movements? \nOnly the future will tell, as the American social fabric seems close to the boiling point.
 
 $titre1964a2=FOR A "GREAT SOCIETY"
 
 
-$texte1964a2=The American social body seems close to the boiling point. \nThese social measures would have at best a limited effect on the multiplication and radicalisation of protest movements. \n
-
+$texte1964a2=The American social fabric seems close to the boiling point. \nThese social measures would have, at best, a limited effect on the multiplication and radicalization of protest movements.
 
 
 // EVT B
@@ -5729,37 +5703,34 @@ $texte1964a2=The American social body seems close to the boiling point. \nThese 
 $titre1964b=THE HÔ CHI MINH TRAIL
 
 
-$texte1964b=There is a vast communications network crossing jungles and mountains through Laos and Cambodia that enables the supplying and infiltration of Viet-Cong fighters in South-Vietnam. \nThe North-Vietnamese are now interfering in Laos' internal affairs by supporting the Laotian communists. \nWe cannot let communist maquis take roots in Laos and destabilise the entire region! \nWe could lean on Hmong fighters who already fought by the Frenchmen's side. 	We could also swamp this trail with carpet bombing!
+$texte1964b=There is a vast communications network crossing jungles and mountains through Laos and Cambodia that enables the supply and infiltration of Viet Cong fighters into South Vietnam. \nThe North Vietnamese are now interfering in Laos' internal affairs by supporting the Laotian communists. \nWe cannot let communist maquis take root in Laos and destabilize the entire region! \nWe could lean on Hmong fighters who already fought by the French side. We could also bomb this trail with carpet bombing!
 
 
-
-$choix11964b=Let us arm the Hmongs ($5)
+$choix11964b=Arm the Hmongs ($5)
 $choix11964btitle=Will decrease Viet-Cong reinforcements
 
-$choix21964b=Let us arm the Hmongs and bomb the trail! ($5 and then $5 per month)
+$choix21964b=Arm the Hmongs and bomb the trail! ($5 and then $5 per month)
 $choix21964btitle=Will sharply decrease Viet-Cong reinforcements
 
 
-$choix31964b=Let us bomb this trail! ($5 per month)
+$choix31964b=Bomb this trail! ($5 per month)
 $choix31964btitle=Will sharply decrease Viet-Cong reinforcements
 
 $titre1964b1=THE HÔ CHI MINH TRAIL
 
 
-$texte1964b1=A Laotian general, Vang Pao, from the Hmong ethnic group will be our man! \nSupervised and backed by Ggreen berets, he will harass the communist supply lines.
-
+$texte1964b1=A Laotian general, Vang Pao, from the Hmong ethnic group, will be our man! \nSupervised and backed by Green Berets, he will harass the communist supply lines.
 
 $titre1964b2=THE HÔ CHI MINH TRAIL
 
 
-$texte1964b2=A Laotian general, Vang Pao, from the Hmong ethnic group will be our man! \nSupervised and backed by Ggreen berets, he will harass the communist supply lines. \nOur aviation started bombing but that is not an easy task: how to spot enemy supply columns beneath the thick foliage of jungle? \n
-
+$texte1964b2=A Laotian general, Vang Pao, from the Hmong ethnic group, will be our man! \nSupervised and backed by Green Berets, he will harass the communist supply lines. \nOur aviation has started bombing, but that is not an easy task: how can we spot enemy supply columns beneath the thick foliage of the jungle?
 
 
 $titre1964b3=THE HÔ CHI MINH TRAIL
 
 
-$texte1964b3=Our aviation started bombing but that is not an easy task: how to spot enemy supply columns beneath the thick foliage of jungle? \n
+$texte1964b3=Our aviation has started bombing, but that is not an easy task: how can we spot enemy supply columns beneath the thick foliage of the jungle?
 
 
 
@@ -5768,8 +5739,7 @@ $texte1964b3=Our aviation started bombing but that is not an easy task: how to s
 $titre1964c=THE HÔ CHI MINH TRAIL
 
 
-$texte1964c=There is a vast communications network crossing jungles and mountains through Laos and Cambodia that enables the supplying and infiltration of Viet-Cong fighters in South-Vietnam. \nLarge areas of Laos are held by the communist Pathet Lao. These are essential elements of the Hô Chi Minh trail but they are now put in jeopardy by the American military operations. \nShould we help the Pathet Lao to keep the trail open?
-
+$texte1964c=There is a vast communications network crossing jungles and mountains through Laos and Cambodia that enables the supply and infiltration of Viet Cong fighters into South Vietnam. \nLarge areas of Laos are held by the communist Pathet Lao. These are essential elements of the Ho Chi Minh trail, but they are now put in jeopardy by the American military operations. \nShould we help the Pathet Lao keep the trail open?
 
 $choix11964c=This conflict is growing
 $choix11964ctitle=the conflict is growing and now reaches Laos
@@ -5778,8 +5748,7 @@ $choix11964ctitle=the conflict is growing and now reaches Laos
 $titre1964c1=THE HÔ CHI MINH TRAIL
 
 
-$texte1964c1=The conflict is brimmming over Laos as the US-armed Hmongs and the Pathet Lao get into the swing of things. \nAeroplanes are now bombarding the Hô Chi Minh trail, targetting sensible sections, but it will take more than that to cut the road.
-
+$texte1964c1=The conflict is brimming over Laos as the U.S.-armed Hmongs and the Pathet Lao get into the swing of things. \nAircraft are now bombarding the Ho Chi Minh trail, targeting critical sections, but it will take more than that to cut the road.
 
 
 //EVT D
@@ -5787,25 +5756,22 @@ $texte1964c1=The conflict is brimmming over Laos as the US-armed Hmongs and the 
 $titre1964d=AIR AMERICA
 
 
-$texte1964d=Our secret services are utilising the Air America company as a screen to operate in Laos and supply our Hmong allies. \nThe Hmongs are a poor people, living on the cultivation of opium. \nDo the Air America aeroplanes really have to come back with their baggage holds empty? \nWe could help our friends selling their production and thus finance their war effort. \nOf course, there will always be a killjoy to imagine that the heroin produced in this region will make its way to ours soldiers' veins. \nWhy not in the USA while you are at it!
-
+$texte1964d=Our secret services are using the Air America company as a cover to operate in Laos and supply our Hmong allies. \nThe Hmongs are a poor people, living off the cultivation of opium. \nDo the Air America aircraft really have to come back with their cargo holds empty? \nWe could help our friends by selling their production and thus finance their war effort. \nOf course, there will always be a killjoy who imagines that the heroin produced in this region will make its way into our soldiers' veins. \nWhy not in the USA while you're at it!
 
 $choix11964d=Let us charge a fee! (+$5/month)
-$choix11964dtitle=Your budget increase by $5 as well as the contestation in the USA, the Hmong guerrilla loses the trait Underequipped, gains the trait Mafia and +2 in maximal power
-
+$choix11964dtitle=Your budget increases by $5, as does the contestation in the USA. The Hmong guerrilla loses the trait Underequipped, gains the trait Mafia, and +2 in maximal power.
 $choix21964d=Never ever!
 $choix21964dtitle=no effect
 
 $titre1964d1=AIR AMERICA
 
 
-$texte1964d1=We set up an impressive organisation: the Hmong forces could grow from thousands to tenth of thousands men in a few years. \nSupervised by Thai military advisors and green berets, our friends make a fearsome force.
-
+$texte1964d1=We set up an impressive organization: the Hmong forces could grow from thousands to tens of thousands of men in a few years. \nSupervised by Thai military advisors and Green Berets, our friends make a fearsome force.
 
 $titre1964d2=AIR AMERICA
 
 
-$texte1964d2=We will carefully control the activities of this company to avoid any misdemeanour.
+$texte1964d2=We will carefully control the activities of this company to avoid any misdemeanors.
 
 
 // EVT E
@@ -5813,36 +5779,32 @@ $texte1964d2=We will carefully control the activities of this company to avoid a
 $titre1964e=THE CIVIL RIGHT ACT
 
 
-$texte1964e=It is time to declare illegal any discrimination based on race, coulour, origin and gender in our great nation. \nThe racial segregation and racist 'Jim Crow' laws in the Southern United States must be abolished. \nThe far-right and the Ku Klux Klan will not appreciate this.
+$texte1964e=It is time to declare illegal any discrimination based on race, color, origin, and gender in our great nation. \nThe racial segregation and racist 'Jim Crow' laws in the Southern United States must be abolished. \nThe far-right and the Ku Klux Klan will not appreciate this.
 
-
-$choix11964e=Let us abolsih segregation!
+$choix11964e=Abolsih segregation!
 $choix11964etitle=Decreases civil rights contestation, increases far-right contestation
 
-$choix21964e=Let us temporise...(Prestige -10)
+$choix21964e=Temporise...(Prestige -10)
 $choix21964etitle=Increases contestation
 
 $titre1964e1=THE CIVIL RIGHT ACT
 
-$texte1964e1=The Jim Crow laws in the Southern United State are abolished along with segregation in schools and other public places. Initially specifically intended for the Afro-american communinity, le Civil Right Act will in the end embrase all men and all women no matter their race, colour, religion, gender or national origin.
-
+$texte1964e1=The Jim Crow laws in the Southern United States are abolished, along with segregation in schools and other public places. Initially specifically intended for the African American community, the Civil Rights Act will, in the end, embrace all men and all women, no matter their race, color, religion, gender, or national origin.
 
 $titre1964e2=THE CIVIL RIGHT ACT
 
-$texte1964e2=The government seems to dilly-dally about the civil rights issue but what could you expect from a Southerner become president? \nThe redicalisation of protest mouvements is steadily progressing...
-
+$texte1964e2=The government seems to dilly-dally about the civil rights issue, but what could you expect from a Southerner who became president? \nThe radicalization of protest movements is steadily progressing...
 
 // EVT F
 
 $titre1964f=THE TONKIN GULF INCIDENT
 
-$texte1964f=Two destroyers of ours endured North-Vietnamese shots in the Tonkin gulf! \nWe must react to this aggression! \nThis comes at the right moment: we had already prepared a resolution to request from the Congress full authority to attack the Democratic Republic of North Vietnam. \n
+$texte1964f=Two of our destroyers endured North Vietnamese fire in the Tonkin Gulf! \nWe must react to this aggression! \nThis comes at the right moment: we had already prepared a resolution to request from Congress full authority to attack the Democratic Republic of North Vietnam.
 
-
-$choix11964f=Let us adopt this resolution
+$choix11964f=Adopt this resolution
 $choix11964ftitle=Vietnam enters your sphere of influence and you gain a military base and defence agreements with South Vietnam
 
-$choix21964f=Let us do nothing
+$choix21964f=Do nothing
 $choix21964ftitle=Nothing happens
 
 $titre1964f1=THE TONKIN GULF INCIDENT
@@ -5859,26 +5821,23 @@ $texte1964f2=Our executive is fortunately keeping a cool head under fire...
 
 $titre1964g=THE TONKIN GULF INCIDENT
 
-$texte1964g=The American imperialists made up a sham of North Vietnamese attack on their fleet in the Tonkin gulf! \n\nThey used this poor pretext to venture further into Vietnam. \n
-
+$texte1964g=The American imperialists fabricated a sham of a North Vietnamese attack on their fleet in the Tonkin Gulf! \n\nThey used this flimsy pretext to venture further into Vietnam.
 
 $choix11964g=This is a frame-up!
 $choix11964gtitle=Vietnam enters the US sphere of influence and they gain a military base and defence agreements with South Vietnam
 
 $titre1964g1=THE TONKIN GULF INCIDENT
 
-$texte1964g1=The ignited U.S. Congress just adopted the resolution on the Tonkin Gulf! \nLyndon .B Jonhson now has free rein to increase the American presence in Vietnam!
-
+$texte1964g1=The U.S. Congress has just adopted the resolution on the Tonkin Gulf! \nLyndon B. Johnson now has free rein to increase the American presence in Vietnam!
 
 
 // EVT H
 
 $titre1964h=PRAESIDIUM
 
-$texte1964h=We are greatly worried about Nikita Khrushchev: he talks nonsense and his economic track record is weak. \nHis foreign policy and agricultural reform turned out particularly disastrous.	To replace him, we could call on Leonid Brezhnev or even Alexei Kosygin. \nThe first one had a career as political commissar before dealing with heavy industry and the Soviet space programme. \nThe second one is specialised in fabric and consumer goods industry, he would like to reform the Soviet economy. Who should be our new Secretary General?
+$texte1964h=We are greatly worried about Nikita Khrushchev: he talks nonsense, and his economic track record is weak. \nHis foreign policy and agricultural reforms turned out to be particularly disastrous. To replace him, we could call on Leonid Brezhnev or even Alexei Kosygin. \nThe first one had a career as a political commissar before dealing with heavy industry and the Soviet space program. \nThe second one specializes in the fabric and consumer goods industry; he would like to reform the Soviet economy. \n\nWho should be our new Secretary General?
 
-
-$choix11964h=Let us promote Kosygin
+$choix11964h=Promote Kosygin
 $choix11964htitle=Decreases tension and Stalinism
 
 $choix21964h=Brezhnev is the one we need!
@@ -5890,14 +5849,12 @@ $choix31964htitle=Let us see which one establishes himself
 $titre1964h1=ALEXEI KOSYGIN
 
 
-$texte1964h1=[b]Alexei Kosygin[/b]\nThe new Secretary General is willin to reform the Soviet economy, taking inspiration from the work of the economist Evsei Liberman. \nIf he succeeds on his ambitions, the economy would shift toward light industry and consumer goods production. \nSome of his projects would give the Soviet firms an increased managerial autonomy and they already worry the most conservative fringes of the party.
-
+$texte1964h1=[b]Alexei Kosygin[/b]\nThe new Secretary General is willing to reform the Soviet economy, taking inspiration from the work of economist Evsei Liberman. \nIf he succeeds in his ambitions, the economy will shift toward light industry and consumer goods production. \nSome of his projects would give Soviet firms increased managerial autonomy, and they already worry the most conservative fringes of the party.
 
 $titre1964h2=LEONID Brezhnev
 
 
-$texte1964h2=[b]Leonid Brezhnev[/b]\nOn 14th October 1964, while Khrushchev was on holidays, a troika comprised of Mikoyan, Kosygin and Brezhnev convoke the Central Committee and overthrow Khrushchev. \nHe will hear about his "resignation" from his holiday location. \nThis is a bureaucratic and hushed coup that justed happened. \nA personality rapidly imposes: Leonid Brezhnev. What will his policy be?
-
+$texte1964h2=[b]Leonid Brezhnev[/b]On October 14th, 1964, while Khrushchev was on holiday, a troika comprised of Mikoyan, Kosygin, and Brezhnev convened the Central Committee and overthrew Khrushchev. \nHe will hear about his "resignation" from his holiday location. \nThis is a bureaucratic and quiet coup that just happened. \nA personality rapidly imposes itself: Leonid Brezhnev. What will his policy be?
 
 
 $titre1964h3=THE WINNER IS...
@@ -5910,19 +5867,14 @@ $podgorny=Nikolai Podgorny
 $souslov=Mikhail Suslov
 
 $nikitatitre=LE VAINQUEUR EST ...
-$nikitatexte=<b>Nikita Krushchev</b> Despite his inept policies and his equally unpredictable and embarassing speeches, Khrushchev's position is still very solid in the Politburo. Brezhnev, Kosygin and the others know very well all what they owe to him. \nHe nonetheless made some minor concessions on his agricultural policy and some of his protégés were firmly invited to retire. \nThe USSR indeed has a colourful leader but who knows to surround himself with efficient collaborators. \n
-
-$shelepinetexte=<b>Alexander Shelepin</b> \nIf there was still a true Stalinian in the Party's ruling circles, that definitely is Alexander Shelepin! \nDisciple of the hardline and head of the KGB for awhile, he firmly intends to spread the revolution by supporting the guerrilla movements in America and Africa. \n--> Sharp increase in Stalinism \n--> Tension rises \n--> Bonus to guerrillas support actions
-
+$nikitatexte=[b]Nikita Krushchev[/b] \nDespite his inept policies and his equally unpredictable and embarrassing speeches, Khrushchev's position is still very solid in the Politburo. Brezhnev, Kosygin, and the others know very well what they owe to him. \nHe nonetheless made some minor concessions on his agricultural policy, and some of his protégés were firmly invited to retire. \nThe USSR indeed has a colorful leader who knows how to surround himself with efficient collaborators.
+$shelepinetexte=[b]Alexander Shelepin[/b] \nIf there were still a true Stalinist in the Party's ruling circles, it would definitely be Alexander Shelepin! \nA disciple of the hardline and head of the KGB for a while, he firmly intends to spread the revolution by supporting guerrilla movements in America and Africa. \n--> Sharp increase in Stalinism \n--> Tension rises \n--> Bonus to guerrilla support actions
 
 
-$mikoyantexte=<b>Anastas Mikoyan</b> \nOne of the last early Bolshevik, Anastas Mokoyan is a political animal able to keep himself at the top of the hierarchy no matter the circumstances. \nHe is well-known outside the USSR and much appreciated \n--> Sharp decrease in tension \n--> Bonus to relations when using economic aid actions \n
+$mikoyantexte=[b]Anastas Mikoyan[/b] \nOne of the last early Bolsheviks, Anastas Mikoyan is a political animal able to keep himself at the top of the hierarchy no matter the circumstances. \nHe is well-known outside the USSR and much appreciated. \n--> Sharp decrease in tension \n--> Bonus to relations when using economic aid actions
+$podgornytexte=[b]Nikolai Podgorny[/b] \nLongtime Secretary of the Communist Party of Ukraine, Nikolai Podgorny, is knowledgeable about agricultural issues and the food industry. \nProtected by Nikita Khrushchev, he is unfortunately blessed with the gift of making enemies. The conservative wing of the CPUS is already trying to trip him up. \n--> Small decrease in wheat imports (-$5)
 
-$podgornytexte=<b>Nikolai Podgorny</b> \nLongtime Secretary of the Communist Party of Ukraine, Nikolai Podgorny is knowledgeable about the agricultural issues and food industry. \nProtected by Nikita Khrushchev, he is unfortunately blessed with the gift of making enemies. The conservative wing of the CPUS is already trying to trip him up. \n--> Small decrease in wheat importations (-$5)
-
-
-$souslovtexte=<b>Mikhail Suslov</b> \nIndomitable shield of the communist orthodoxy, Suslov was part of all significant nasty tricks, from deportation of Chechen people to purges of entire villages in Lithuania. \nMikhail Suslov intends to contain with an iron grip any ideological drift in the party. \n--> Sharp increase in Stalinism \n--> Tension rises sharply \n
-
+$souslovtexte=[b]Mikhail Suslov[/b]\nIndomitable shield of communist orthodoxy, Suslov was involved in all significant dirty tricks, from the deportation of the Chechen people to the purges of entire villages in Lithuania. \nMikhail Suslov intends to contain any ideological drift in the party with an iron grip. \n--> Sharp increase in Stalinism \n--> Tension rises sharply
 
 
 // EVT I
@@ -5930,8 +5882,7 @@ $souslovtexte=<b>Mikhail Suslov</b> \nIndomitable shield of the communist orthod
 $titre1964i=THE THIRD FRONT
 
 
-$texte1964i=There is a debate within the Central Committee regarding the right economic policy to implement. \nZhou Enlai and some others believe we must now define as core priorities agriculture and production of consumer goods like clothes - heavy industry being not more than a secondary concern. \nMao is against this vision: war is looming and he is convinced that heavy industry not only must be in focus, but also that it has to be relocated deep inside our country outside the reach of the enemy: this will be the "third front"! \n
-
+$texte1964i=There is a debate within the Central Committee regarding the right economic policy to implement. \nZhou Enlai and some others believe we must now define agriculture and the production of consumer goods, like clothes, as core priorities—heavy industry being no more than a secondary concern. \nMao is against this vision: war is looming, and he is convinced that heavy industry not only must be the focus but also that it must be relocated deep inside our country, outside the reach of the enemy. This will be the "third front"!
  
 
 $choix11964i=Let make agriculture and consumer goods our first choice
@@ -5943,12 +5894,11 @@ $choix21964ititle=Will increase Maoism and superpower score (+5%))
 $titre1964i1=THE THIRD FRONT
 
 
-$texte1964i1=The Central Committee decided to make the people's well-being its priority. \nThe entire society is breathing anew.
+$texte1964i1=The Central Committee decided to make the people's well-being its priority. \nThe entire society is breathing new life.
  
 
 $titre1964i2=THE THIRD FRONT
-$texte1964i2="In the mountains, dispersed and hidden": these were the watchwords guiding the localisation of future factories. \nThis project is carried out with haste and the best engineers and workers in the country are mobilised for its achievement: over 1,000 facturies are disassembled to be transported in remote provinces. \nTo power these factories on-site, facilities will have to be built to generate electricity and produce steel. \nIn order to enable the continuation of our nuclear programmes, vast underground facilities are dug beneath the mountains and the most sensitive ones will be duplicated.
-
+$texte1964i2="In the mountains, dispersed and hidden": these were the watchwords guiding the relocation of future factories. \nThis project is carried out with haste, and the best engineers and workers in the country are mobilized for its achievement: over 1,000 factories are disassembled to be transported to remote provinces. \nTo power these factories on-site, facilities will have to be built to generate electricity and produce steel. \nIn order to enable the continuation of our nuclear programs, vast underground facilities are being dug beneath the mountains, and the most sensitive ones will be duplicated.
 
  
 
@@ -5988,10 +5938,9 @@ $texte1964j2=Our nuclear strike force will be ready long before such a defence l
 $titre1965a=ROLLING THUNDER
 
 
-$texte1965a=We will never get rid of Viet-Cong as long as it enjoys support from North-Vietnam and China. \n	We could bomb the North until it abandons its support to the insurgency. \nThis would be the largest bombing campaign of all times!  \nThere may of course be civilian casualties but their deaths will make the communists think. \nShould we trigger operation "Rolling Thunder"?
+$texte1965a=We will never get rid of the Viet Cong as long as it enjoys support from North Vietnam and China. \nWe could bomb the North until it abandons its support for the insurgency. \nThis would be the largest bombing campaign of all time! \nThere may, of course, be civilian casualties, but their deaths will make the communists think. \nShould we trigger Operation "Rolling Thunder"?
 
-
-$choix11965a=Let us open the gates of Hell! ($10/month)
+$choix11965a=Open the gates of Hell! ($10/month)
 $choix11965atitle=Will crush the North under a deluge of bombs
 
 $choix21965a=Let us no do it
@@ -6000,23 +5949,20 @@ $choix21965atitle=No effect
 $titre1965a1=ROLLING THUNDER
 
 
-$texte1965a1=The formidable destructive power we are now endlessly unleashing over North-Vietnam has reassured our Vietnamese ally; the enemy logistics and infrastructures should be sent back to the Stone Age.
-
+$texte1965a1=The formidable destructive power we are now endlessly unleashing over North Vietnam has reassured our Vietnamese ally; the enemy's logistics and infrastructure should be sent back to the Stone Age.
 
 $titre1965a2=ROLLING THUNDER
 
-$texte1965a2=The U.S. Air Force general staff, nostalgic for the World War 2 days, is dying to move into action and does not understand some political decisions. \nWhat is the point of having the most powerful air force in the world if it is not being use what that is necessary? \nThey should understand that this kind of war is settled with vicious close combat in an impenetrable jungle and that Viet-Cong's logistic is so rustic that no massive bombardment could actually impede it.
-
+$texte1965a2=The U.S. Air Force general staff, nostalgic for the World War II days, is eager to move into action and does not understand some political decisions. \nWhat is the point of having the most powerful air force in the world if it is not being used when necessary? \nThey should understand that this kind of war is settled with vicious close combat in an impenetrable jungle and that the Viet Cong's logistics are so rustic that no massive bombardment could actually impede it.
 
 // EVT B
 
 $titre1965b=THE GOOD OLD DAYS!
 
 
-$texte1965b=The 1945 victory was made possible thanks to the people's efforts! \n	We now must celebrate the 20 years anniversary of our victory in the "Great patriotic war". \nSome people consider this as the only "memory" capable of unifying the country. \nThese festivities are also a wonderful opportunity to clear Comrade Stalin. \nThis era was not only made up of bad things and Khrushchev went too far in his criticisms.
+$texte1965b=The 1945 victory was made possible thanks to the people's efforts! \nWe now must celebrate the 20th anniversary of our victory in the "Great Patriotic War." \nSome people consider this the only "memory" capable of unifying the country. \nThese festivities are also a wonderful opportunity to clear Comrade Stalin's name. \nThis era was not only made up of bad things, and Khrushchev went too far in his criticisms.
 
-
-$choix11965b=Let us organise a spectacular parade!
+$choix11965b=Organise a spectacular parade!
 $choix11965btitle=Increases Stalinism
 
 $choix21965b=We need a critical memory of this war
@@ -6025,96 +5971,85 @@ $choix21965btitle=Decreases Stalinism
 $titre1965b1=THE GOOD OLD DAYS!
 
 
-$texte1965b1=Stalin was not perfect but it thanks to his informed leadership that the Soviet people was able to win the Great patriotic war! \nThe commemoration of this war became a central piece of our propaganda, the parade was a rousing success and the people more united than ever.
-
+$texte1965b1=Stalin was not perfect, but it was thanks to his informed leadership that the Soviet people were able to win the Great Patriotic War! \nThe commemoration of this war became a central piece of our propaganda, the parade was a rousing success, and the people were more united than ever.
 
 $titre1965b2=THE GOOD OLD DAYS!
 
 
-$texte1965b2=Stalin made so many mistakes that one still wonders how we won this war... \nSocialisme truly is a superior political system!
+$texte1965b2=Stalin made so many mistakes that one still wonders how we won this war... \nSocialism truly is a superior political system!
 
 
 // EVT C
 
 $titre1965c=THE BREZHNEVIAN WELL-BEING
 
-$texte1965c=Leonid Brezhnev comes from the people and understands what they need: \n« Under Stalin, people were afraid of suppression; under Khrushchev, of reorganisations and restructurations… The Soviet people should live in peace in order to work quietly. » \nIt is time to stop reforming in every direction. People know how to handle things:  \n« I remember when I was young [...] we worked to unload wagons. And how did we do? \nThree bags – or three boxes – to the State and one for us. In this way, everybody lives in this country » \nTo decide to do nothing is still deciding!
-
+$texte1965c=Leonid Brezhnev comes from the people and understands what they need:\n« Under Stalin, people were afraid of repression; under Khrushchev, of reorganizations and restructurings… The Soviet people should live in peace in order to work quietly. »\nIt is time to stop reforming in every direction. People know how to handle things:\n« I remember when I was young [...] we worked to unload wagons. And how did we do?\nThree bags – or three boxes – to the State and one for us. In this way, everybody lives in this country. »\n\nTo decide to do nothing is still deciding!
 
 $choix11965c=Doing nothing, that is the solution!
 $choix11965ctitle=Decreases Stalinism and tension
 
-$choix21965c=Let us solves problems on a case by case basis($5/month)
+$choix21965c=Solve problems on a case by case basis($5/month)
 $choix21965ctitle=Sets Stalinism to 0, costs $5/month, decreases tension and triggers random events.
 
 $titre1965c1=THE BREZHNEVIAN WELL-BEING
 
-$texte1965c1=The Politburo decided to deal with current business with no increase in the budget. \nWe are done with great spectacular programmes with uncertain results! \nThe country deserves a 10-year rest.
-
+$texte1965c1=The Politburo decided to deal with current business with no increase in the budget. \nWe are done with grand, spectacular programs with uncertain results! \nThe country deserves a 10-year rest.
 
 
 $titre1965c2=THE BREZHNEVIAN WELL-BEING
 
-$texte1965c2=Governing a socialist economy is not that complicated in the end: \na problem appears? You commit funds! \nThe people live a better life, consumption per head slightly increases and cars and TVs sets are becoming common - even if the production is not yet capable to meet demand. \nThe Soviet households travel more and weekly working time should progressively decrease from 48 to 40 hours in the coming years. \nOh, what a sweet life in our socialist motherland!
-
+$texte1965c2=Governing a socialist economy is not that complicated in the end:\nA problem appears? You commit funds!\nThe people live a better life, consumption per capita slightly increases, and cars and TVs are becoming common — even if production is not yet capable of meeting demand.\nSoviet households travel more, and weekly working hours should progressively decrease from 48 to 40 hours in the coming years.\nOh, what a sweet life in our socialist motherland!
 
 // EVT D
 
 $titre1965d=OUR ECONOMIC POLICY
 
-$texte1965d=Two great plenums will decide our ecomomic agricultural and industrial policy. \nRegarding agriculture, everybody agrees to abandon Khrushchev's policies: we must modernise our agriculture and employ more pesticides. \nThe case of industry is being debated. \nFor some, the military-industrial complex must concentrate our attention so that the Americans take us seriously and accept our superpower rank. \n\nOthers, around Kosygin and Liberman, want to favour light industry. \nWhich direction should we choose?
+$texte1965d=Two great plenums will decide our economic, agricultural, and industrial policy. \nRegarding agriculture, everybody agrees to abandon Khrushchev's policies: we must modernize our agriculture and employ more pesticides. \nThe case of industry is still being debated. \nFor some, the military-industrial complex must concentrate our attention so that the Americans take us seriously and accept our superpower status. \n\nOthers, around Kosygin and Liberman, want to favor light industry. \nWhich direction should we choose?
 
-
-$choix11965d=Let make the military-industrial complex our priority (Prestige +100 / 20$/month)
+$choix11965d=Make the military-industrial complex our priority (Prestige +100 / 20$/month)
 $choix11965dtitle=Increases tension, grants bonueses to military aid actions and increases the strength of allied European armed forces; importation expenses decrease by $5
 
-$choix21965d=Let us make consumption our priorty ($15/month)
+$choix21965d=Make consumption our priorty ($15/month)
 $choix21965dtitle=Decreases tension and Stalinism, importation expenses decrease by $10
 
 $titre1965d1=OUR ECONOMIC POLICY
 
-$texte1965d1=Priority was given to heavy industry. \nThe might of the Red Army frightens the Americans, and our heavy industry makes us a superpower: we did not give away the shop to make a sixpence.
-
+$texte1965d1=Priority was given to heavy industry. \nThe might of the Red Army frightens the Americans, and our heavy industry makes us a superpower: we did not give away the store to make a sixpence.
 
 $titre1965d2=OUR ECONOMIC POLICY
 
-$texte1965d2=Priority was given to light industry. \nConsumption is increasing and we must meet the people's demand. \nIn the era of atomic bomb, what is the practical interest of the Red Army stockpiling ridiculous amounts of conventional armament?
-
+$texte1965d2=Priority was given to light industry. \nConsumption is increasing, and we must meet the people's demand. \nIn the era of the atomic bomb, what is the practical interest of the Red Army stockpiling ridiculous amounts of conventional armament?
 
 // EVT E
 
 $titre1965e=THE LIBERMAN REFORM
 
-$texte1965e=Our economy must now be reformed and priority must be given to consumer goods factories. \nEvsei Liberman, an economist, has a project at hand ready for implementation: \ncontrolled freedom of prices; production according to the orders received, and not according to the directives of the Plan; freedom to order from freely chosen suppliers under conditions of freely negotiated price, quantity and quality; freedom of hiring according to the needs and wage setting. This project bothers the old guard within the party, gathered around Brezhnev. \nThey promised themselves to put a spoke in our wheel. \n
+$texte1965e=Our economy must now be reformed, and priority must be given to consumer goods factories. \nEvsei Liberman, an economist, has a project at hand ready for implementation: \ncontrolled freedom of prices; production according to the orders received, and not according to the directives of the Plan; freedom to order from freely chosen suppliers under conditions of freely negotiated price, quantity, and quality; freedom of hiring according to the needs and wage setting. This project bothers the old guard within the party, gathered around Brezhnev. \nThey have promised themselves to put a spoke in our wheel.
 
 
-
-$choix11965e=Let us adjourn this controversial project
+$choix11965e=Adjourn this controversial project
 $choix11965etitle=Leonid Brezhnev takes over
 
-$choix21965e=Let us launch these reforms! ($10/month)
+$choix21965e=Launch these reforms! ($10/month)
 $choix21965etitle=The Eastern countries will experiment, Stalinism decreases
 
 
 $titre1965e1=THE LIBERMAN REFORM
 
-$texte1965e1=The debate around the Liberman proposed reform changed the balance of power within the Politburo and led to the rise of Leonid Brezhnev and his friends. \nThe economic issue remains outstanding as no clear direction emerged: the USSR is flown by the seat of its trousers...
-
+$texte1965e1=The debate around the Liberman-proposed reform changed the balance of power within the Politburo and led to the rise of Leonid Brezhnev and his allies. \nThe economic issue remains unresolved, as no clear direction has emerged: the USSR is being flown by the seat of its trousers...
 
 $titre1965e2=THE LIBERMAN REFORM
 
-$texte1965e2=This is a complete and radical change in habits that has been initiated in the USSR. \nLet us hope this will generate more good than disorder...
-
+$texte1965e2=This is a complete and radical change in habits that has been initiated in the USSR. \nLet us hope this will generate more good than disorder.
 
 
 // EVT F
 
 $titre1965f=THE VIETNAM WAR
 
-$texte1965f=North Vietnam just proclaimed conscription! \nRegular units from the North are now leading forays in the South. \nWe must now formally and effectively engage our country in a land war. \nSouth Vietnam is where communism will be stopped in Asia!
+$texte1965f=North Vietnam has just proclaimed conscription! \nRegular units from the North are now leading forays into the South. \nWe must now formally and effectively engage our country in a land war. \nSouth Vietnam is where communism will be stopped in Asia!
 
-
-$choix11965f=Let us send the army! ($10 / prestige +150)
+$choix11965f=Send the army! ($10 / prestige +150)
 $choix11965ftitle=The armed forces of North Vietnam increase sharply; you dispatch 10 troops in Vietnam; prestige points of both Vietnams increase
 
 $choix21965f=It's a trap!
@@ -6122,36 +6057,31 @@ $choix21965ftitle=The armed forces of North Vietnam increase sharply
 
 $titre1965f1=THE VIETNAM WAR
 
-$texte1965f1=Our troops immediately set to work: Free-fire zones have been marked out and our men carry out Search and Destroy operations - sometimes deep in enemy territory. \nThe communists will soon understand they can find no shelter to our wrath!
-
+$texte1965f1=Our troops immediately set to work: free-fire zones have been marked out, and our men are carrying out Search and Destroy operations — sometimes deep in enemy territory. \nThe communists will soon understand that they can find no shelter from our wrath!
 
 $titre1965f2=THE VIETNAM WAR
 
-$texte1965f2=Strong pressure is put on the ARVN butthis is now a modern army now, capable of containing this Northern offensive on its own. \n
-We will carefully monitor the changing situation in Vietnam.
+$texte1965f2=Strong pressure is being put on the ARVN, but this is now a modern army, capable of containing this northern offensive on its own. \nWe will carefully monitor the changing situation in Vietnam.
 
 
 // EVT G
 
 $titre1965g=THE VIETNAM WAR
 
-$texte1965g=North Vietnam just proclaimed conscription! \nRegular units from the North are now leading forays in the South. \nThe American army is now fully involved in land operations. \n\nCertain analysts, citing the Indochina and Korean wars, already predict the worst for the U.S. Army.
+$texte1965g=North Vietnam has just proclaimed conscription! \nRegular units from the North are now leading forays into the South. \nThe American army is now fully involved in land operations. \n\nCertain analysts, citing the Indochina and Korean wars, already predict the worst for the U.S. Army.
 
-
-$choix11965g=C'est la guerre! (USA prestige +150)
+$choix11965g=It's war! (USA prestige +150)
 $choix11965gtitle=The armed forces of North Vietnam increase sharply; the USA dispatch 10 troops in Vietnam; prestige points of both Vietnams increase
 
 $titre1965g1=THE VIETNAM WAR
 
-$texte1965g1=The American troops immediately set to work: Free-fire zones have been marked out and our men carry out Search and Destroy operations - sometimes deep in enemy territory. \nThis is a long war that just started; these methods could actually lead the Vietnamese people to throw itself into the Viet Minh's protective arms.
-
+$texte1965g1=The American troops immediately set to work: free-fire zones have been marked out, and our men are carrying out Search and Destroy operations — sometimes deep in enemy territory. \nThis is a long war that has just started; these methods could actually lead the Vietnamese people to throw themselves into the Viet Minh's protective arms.
 
 // EVT H
 
 $titre1965h=ALABAMA
 
-$texte1965h=Tension is at its highest in Alabama: \nThe local authorities are deploying a wealth of bad faith to stop the black people from participating to the votes. \nIn this troubled context, Jimmie Lee Jackson, a black militant was shot by the police. \nA series of great protest marches took place between Selma and Montgomery. \nThe least one can say is that they did not go without conflict: \n- the first protest march was welcomed with coshing and tear-inducing gas \n- the second one was forced to turn around, blocked by the police and subject to violences from the KKK \n
-
+$texte1965h=Tension is at its highest in Alabama: \nThe local authorities are deploying a wealth of bad faith to stop black people from participating in the vote. \nIn this troubled context, Jimmie Lee Jackson, a black militant, was shot by the police. \nA series of great protest marches took place between Selma and Montgomery. \nThe least one can say is that they did not go without conflict: \n- The first protest march was met with beatings and tear gas. \n- The second one was forced to turn around, blocked by the police, and subjected to violence from the KKK.
 
 
 $choix11965h=How intolerable! Let the army protect the demonstrators!
@@ -6162,46 +6092,40 @@ $choix21965htitle=Will increase the civil rights contestation
 
 $titre1965h1=WE SHALL OVERCOME
 
-$texte1965h1=Escorted by the army and a national guard of Alabama under federal control, the demonstrors begin a protest march of several days. \nOver 50,000 people, black people as well as white people, wait for them at Montgomery in front of the capitol. \n"No wave of racism can stop us!" declared the minister Martin Luther King on the steps of the monument. \nThe President declared that federal laws will be passed to protect the right throughout the United States of America. \nThe effective equality of the rights of all citizens will be a long struggle.
-
+$texte1965h1=Escorted by the army and the Alabama National Guard under federal control, the demonstrators begin a protest march of several days. \nOver 50,000 people, both black and white, are waiting for them in Montgomery in front of the Capitol. \n"No wave of racism can stop us!" declared the minister Martin Luther King on the steps of the monument. \nThe President declared that federal laws would be passed to protect the right to vote throughout the United States of America. \nThe effective equality of the rights of all citizens will be a long struggle.
 
 
 $titre1965h2=ALABAMA'S BURNING
 
-$texte1965h2=A third protest march ends in blood and tears as the national guard of Alabama is deployed to separate policemen, civil rights militants and Klan activists. \nThe situation returned to normal after a week of riots and an intervention of the army. \nAll sides must understand that these issues will not be solved in the street but in the law.
-
+$texte1965h2=A third protest march ends in blood and tears as the Alabama National Guard is deployed to separate policemen, civil rights militants, and Klan activists. \nThe situation returned to normal after a week of riots and an intervention by the army. \nAll sides must understand that these issues will not be solved in the street, but in the law.
 
 // EVT I
 
 $titre1965i=THE SHORES OF SANTO DOMINGO
 
-$texte1965i=In Santo Domingo, a violent and totally unforeseen civil war broke. \nThe capital city is controlled by left-wing officers and civil rioters; the number of casualties is already above a thousand... \nThe situation is so confused and violent that our ambassador there named it a collective hysteria and advised an armed intervention, not only to protect our own citizens, but also to prevent communist groups to rise to power. \nThe President Juan Bosch managed to flee and the loyalist army is well-equipped; however, it is too early to say whether or not it will be capable of suppressing this insurrection. \nOur military general staff believes the Dominican crisis is a golden opportunity to test its new operational concepts of rapid deployment of flexible forces. \nThere will be nations to condemn this intervention as intolerable interference in Dominican internal affairs, without a shade of a doubt. Never mind, we know our duty!
+$texte1965i=In Santo Domingo, a violent and totally unforeseen civil war broke out. \nThe capital city is controlled by left-wing officers and civil rioters; the number of casualties is already above a thousand... \nThe situation is so confused and violent that our ambassador there described it as a collective hysteria and advised an armed intervention, not only to protect our own citizens but also to prevent communist groups from rising to power. \nPresident Juan Bosch managed to flee, and the loyalist army is well-equipped; however, it is too early to say whether or not it will be capable of suppressing this insurrection. \nOur military general staff believes the Dominican crisis is a golden opportunity to test its new operational concepts of rapid deployment of flexible forces. \nThere will be nations that condemn this intervention as intolerable interference in Dominican internal affairs, without a shadow of a doubt. Never mind, we know our duty!
 
 
-
-$choix11965i=Let us launch operation Power pack ! ($5 / Prestige -25) 
+$choix11965i=Launch operation Power pack ! ($5 / Prestige -25) 
 $choix11965ititle=This should calm everybody -> will dispatch 5 troops in the Dominican Republic
 
-$choix21965i=Let us simply evacuate our nationals
+$choix21965i=Simply evacuate our nationals
 $choix21965ititle=We are not the watchdog of the Caribbean.
 
 $titre1965i1=POWER PACK
 
-$texte1965i1=<iThe marines have landed on the shores of Santo Domingo.[/i] \nOperation Power Pack to evacuate US and foreign nationals went well and our forces are now helping the loyalists to retake the city centre. \nFight is ongoing in this urban context, notably around the Duarte bridge that connects the two parts of the city. \nThe operations are made complicated because of both camps sometimes wearing the same uniform. \nWe will soon have more than 10,000 marines and et parachutists deployed in Santo Domingo: the end of this insurrection is a matter of days. A multinational American force will then take over from us. \nThis intervention has been diversely appreciated by the internaionl opinion: many governments deem it was disproportionate. They also consider Power Pack as a blatant case of interference in the internal affairs of a sovereign State. They also note that situation is so confused that telling which camp is the legitimate one is difficult. \nHistory will tell whether our intervention was right or not.
-
+$texte1965i1=The marines have landed on the shores of Santo Domingo. \nOperation Power Pack to evacuate U.S. and foreign nationals went well, and our forces are now helping the loyalists retake the city center. \nFighting is ongoing in this urban context, notably around the Duarte Bridge that connects the two parts of the city. \nThe operations are complicated because both camps sometimes wear the same uniform. \nWe will soon have more than 10,000 marines and parachutists deployed in Santo Domingo: the end of this insurrection is a matter of days. A multinational American force will then take over from us. \nThis intervention has been viewed diversely by international opinion: many governments deem it disproportionate. They also consider Power Pack a blatant case of interference in the internal affairs of a sovereign state. They also note that the situation is so confused that telling which camp is the legitimate one is difficult. \nHistory will tell whether our intervention was right or not.
 
 
 $titre1965i2=THE SHORES OF SANTO DOMINGO
 
-$texte1965i2=Operation Power Pack to evacuate US and foreign nationals went well. \nFights are still ongoing on the island and it is hard to say who will win this civil war.
-
+$texte1965i2=Operation Power Pack to evacuate U.S. and foreign nationals went well. \nFighting is still ongoing on the island, and it is hard to say who will win this civil war.
 
 // EVT J
 
 $titre1965j=BURN, BABY BURN
 
-$texte1965j=An incident in Watts, a suburb of Los Angeles, degenerated into six days of full-scale riots. \nThis chaos originated from a row between a black driver and LA policemen that escalated quickly. \nHow could a banal police control worsen into racial riots and a suburb looking like a war zone? \nThe track record of this week of madness is heavy: 34 casualties, thousands of people injured, more than 900 buildings destroyed and billions of dollars in damages. \nThe entire world, stupefied, spectated an America on the brink of civil war...
-
+$texte1965j=An incident in Watts, a suburb of Los Angeles, degenerated into six days of full-scale riots. \nThis chaos originated from a confrontation between a black driver and LA policemen that escalated quickly. \nHow could a banal police stop escalate into racial riots and a suburb looking like a war zone? \nThe toll from this week of madness is heavy: 34 casualties, thousands of people injured, more than 900 buildings destroyed, and billions of dollars in damages. \nThe entire world, stupefied, watched as America teetered on the brink of civil war...
 
 
 $choix11965j=Burn, baby burn! (prestige -100)
@@ -6209,8 +6133,7 @@ $choix11965jtitle=You should monitor your contestation gauges with more care!
 
 $titre1965j1=BURN, BABY BURN
 
-$texte1965j1=The McCone commission, tasked to clear these events up, concluded the Watts riots are rooted in the living conditions of the Afro-American community living in the neighbourhood: high unemployment rate, poor school facilities and equipment as well as miserable living conditions. \nIt is about time to set voluntarist policies to fight this misery.
-
+$texte1965j1=The McCone Commission, tasked with clearing up these events, concluded that the Watts riots were rooted in the living conditions of the African American community in the neighborhood: high unemployment, poor school facilities and equipment, and miserable living conditions. \nIt is about time to set proactive policies to fight this misery.
 
 
 // EVT K
@@ -6240,10 +6163,6 @@ $aucunrelignement=\n... But we did not succeed in convincing anybody to actively
 
 $titre1965k2=THE LEADER OF THE THIRD WORLD
 $texte1965k2=We let a golden opportunity pass... \nThe momentum will not present itself again. 
-
-
-
-
 
 
 $titre1966a=GUERRILLA PRIESTS

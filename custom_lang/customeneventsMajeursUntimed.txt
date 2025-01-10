@@ -326,7 +326,7 @@ $choix3untimedl=Let us reassess the quinquennial plan downwards (prestige -50)
 $choix3untimedltitle=Decreases stalinism
 
 $titreuntimedl1=THE PLAN WILL BE EXCEEDED!
-$texteuntimedl1=The concept of exceeding is the core principle of Soviet planification!\nMore tractors leave our factories every day while our mines produce always more tons of coal.\nPeople in gulags are put to word and major organisation works are undertaken.\nWar shortages will soon be behind us!
+$texteuntimedl1=The concept of exceeding is the core principle of Soviet planification!\nMore tractors leave our factories every day while our mines produce always more tons of coal.\nPeople in gulags are put to work and major organisation works are undertaken.\nWar shortages will soon be behind us!
 
 
 $titreuntimedl2=THE PLAN WILL BE ACHIEVED!
@@ -1120,26 +1120,14 @@ The relations between Mexico and the US -- which has been accused of supporting 
 
 // EVT BA
 
-$titreuntimedba="CHINA REUNITED!";
-$texteuntimedba="
-The return of Taiwan to the motherland marks the definitive end of the civil war. <br> Are these good news? <br>
-China is becoming a major regional power and its influence is now spreading to the China Seas. <br>
-The neighbours of this awakening giant are monitoring the evolution of this situation with close attention.
-";
+$titreuntimedba=CHINA REUNITED!
+$texteuntimedba=The return of Taiwan to the motherland marks the definitive end of the civil war. \nAre these good news?\nChina is becoming a major regional power and its influence is now spreading to the China Seas.\nThe neighbours of this awakening giant are monitoring the evolution of this situation with close attention.
 
-$choix1untimedba="Make China Great Again !";
-$choix1untimedbatitle="Things will change a lot for us";
+$choix1untimedba=Make China Great Again !
+$choix1untimedbatitle=Things will change a lot for us
 
-$titreuntimedba1="<strong>CHINA REUNITED!</strong>";
-$texteuntimedba1="
-<span style=\"font-style:italic;\">
-
-	--> China is united !<br>
-	--> You gain no prestige points!<br>
-	--> The prestige value of China increase<br>
-	--> The stability of China improves
-
-</span>";
+$titreuntimedba1=CHINA REUNITED!
+$texteuntimedba1=--> China is united !\n--> You gain no prestige points! (hey, you helped a rival emerge! What did you expect?)\n--> The prestige value of China increase\n--> The stability of China improves
 
 
 // EVT AU

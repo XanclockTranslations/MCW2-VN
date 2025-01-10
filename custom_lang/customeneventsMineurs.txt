@@ -1096,7 +1096,7 @@ $annee63evt23detail=The country draws closer to the USSR and gets away from the 
 
 
 $annee64evt1=Congo: colonial Simba rebellion
-$annee64evt1detail=A hord of fanaticised warriors covered with talismans, supervised by Maoists floods into the north of Corngo
+$annee64evt1detail=A hord of fanaticised warriors covered with talismans, supervised by Maoists floods into the north of Congo
 
 $annee64evt2=Tanganyika: mutinies!
 $annee64evt2detail=Stability decreases (Tanzania)
@@ -1114,7 +1114,7 @@ $annee64evt6=Sudan: the prople overthrows the government
 $annee64evt6detail=Sudan becomes a republic and its stability decreases
 
 $annee64evt7=Panama: tragic anti-American protest marches, 21 deads
-$annee64evt7detail=In the canal area, the Marines had to shoot in the crow... Relations between the Panama and the USA deteriorate badly
+$annee64evt7detail=In the canal area, the Marines had to shoot in the crowd... Relations between the Panama and the USA deteriorate badly
 
 $annee64evt8=Brazil: economic crisis and popular demonstrations
 $annee64evt8detail=Stability decreases
@@ -1131,7 +1131,7 @@ $annee64evt11detail=The Burmese armed forces increase to their maxmium the count
 $annee64evt12=Afghanistan: constitutional reform
 $annee64evt12detail=The country becomes a constitutional monarchy
 
-$annee64evt13=Frist Chinese atomic bomb!
+$annee64evt13=First Chinese atomic bomb!
 $annee64evt13detail=China now has the bomb
 
 $annee64evt14=Creation of Palestine Liberation Organisation

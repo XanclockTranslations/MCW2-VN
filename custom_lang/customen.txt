@@ -618,3 +618,23 @@ elnp=Ejército de Liberación Nacional (Peruviano)
 Lift_Embargo=Lift Embargo
 
 AppealingpowerscaualitiesMinor=Appalling Casualties for the Army in the conflict in [pays] (Stability -1)
+
+frontlibmozambique=Frente de Libertação de Moçambique
+eln=Ejército de Liberación Nacional
+blocsud=Bloque Sur
+fldhofar=Dhofar Liberation Front
+toubou=Toubou rebellion
+mirperu=Movimiento de Izquierda Revolucionaria
+tupamaros=Movimiento de Liberación Nacional-Tupamaros
+
+title_misterk=MISTER K 1953-1964
+description_misterk=Khrushchev left his mark on USSR policy from the death of Stalin until his elimination, around 10 years! \nWhich direction will the former Stalingrad political commissar choose for the socialist bloc?\nIf you play as the USSR, you have the choice between 'Détente' and 'terror' and between 'Destalinisation' and 'hardline': more than enough to leave your own mark on History. 
+description_misterk_long=Will the death of Stalin and the rise of Khrushchev mark the beginning of a Détente era between the two blocs? The decision is up to you!\nWhile the USSR faces its first major contestations in the people's republics of Eastern Europe, a new world emerges and refuses to be aligned with any of the blocs. \nIn this global duel, no direct conflict is possible. \n\nThis is a Cold War for the world leadership, made of propagande and subversion, that begins.
+
+title_engrenagevietnamien=THE VIETNAMESE SPIRAL 1963-1965
+description_engrenagevietnamien=The situation is rapidly deteriorating in South Vietnam: the corrupted and impopular government seems incapable of keeping the Vietcong fighters in check.\nFor the U.S. Department of State, it is unthinkable to let another Asian State fell into communism!
+description_engrenagevietnamien_long=The situation is deteriorating rapidly in South Vietnam: the corrupt and unpopular government seems unable to hold Viet-Cong combatants in check. \nFor the US State Department, it is unthinkable to let a new Asian state sink into communism!
+
+eventerm_start_event16=Leonardo da Vinci's Mona Lisa exhibited at the National Gallery of Art in Washington!
+eventerm_start_event17=The Beatles release "Please Please Me" in the United Kingdom
+eventerm_start_event18=Saudi Arabia and the United Kingdom resumed diplomatic relations
