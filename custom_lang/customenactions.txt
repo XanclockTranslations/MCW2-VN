@@ -158,18 +158,18 @@ $particommunistecombattant=Đảng Cộng sản Chiến đấu
 $partimaoistecombattant=Đảng Maoist Chiến đấu
 $pccnom=Đảng Cộng sản Triều Tiên
 
-$prosperitesupprimeopposition=The newfound prosperity has stripped the opposition of its economic arguments.
+$prosperitesupprimeopposition=Sự phồn thịnh mới đây đã làm mất giá trị các luận điệu về kinh tế của phe đối lập.
 
-$protestationaidemil=This country's government strongly protests against this military aid that could destabilise the entire region (relations -1)
+$protestationaidemil=Chính phủ quốc gia này phản đối mạnh mẽ việc viện trợ quân sự của chúng ta, vì nó có thể dẫn đến sự bất ổn trong khu vực (quan hệ -1)
 
+$putchmercenaire=Bè lũ cuồng chiến đã lật đổ chính phủ! \n Một đại úy trẻ tuổi từ Lực lượng Bảo vệ Tổng thống đã lên nắm quyền.\n Được cố vấn bởi những người bạn nước ngoài khó đoán, ông ta hứa sẽ dẫn dắt quốc gia thoát khỏi tình hình hỗn loạn hiện tại.
 
-$putchmercenaire=War hawks have overthrown the government! \n A young captain from the Presidential Guard has taken power.\n Counselled by his unpredictable foreign friends, he promises to lead the country out of its current turmoil.
-$putchreussi=\n\n This country's government was overthrown by a few ambitious young generals! \n They intend to put the nation back on track.
+$putchreussi=\n\n Chính phủ quốc gia này đã bị lật đổ bởi một số tướng lĩnh trẻ đầy tham vọng! \n Họ dự định đưa quốc gia trở lại quỹ đạo vốn có.
 
-$rejointcoalition=this group joins the coalition!
+$rejointcoalition=nhóm này đã tham gia liên minh!
 
-$relationadversaires=relations with 
-$remaniementetatmajor=This country's leeadership has been thoroughly reorganised
+$relationadversaires=quan hệ với
+$remaniementetatmajor=Lãnh đạo quốc gia này đã được tái tổ chức hoàn toàn
 
 $retraitkoree=Our withdrawal from Korea has left it in turmoil, where various factions have immediately organised to seize power by force.
 
