@@ -177,20 +177,20 @@ $retraitarmeerougeeurope=While we were withdrawing from the country, its populat
 
 $retraitpologne=While our troops were leaving Poland, anti-communist soldiers  since the end of World War II have suddenly put an end to their concealment and rallied a crowd of patriots.\nThis crowd of supporters has grown to the size of a formidable army determined to turn our retreat into a opportunity to overthrow the government.
 
-$stability=stability
+$stability=sự ổn định
 
 $radicalisation=This group has now been reduced to a handful of uncontrollable fanatics
 
-$rappelneutralite=This country keeps a strict neutrality
-$rappelnonalign=This country claims to remain non-aligned
-$relation=relation
-$stabiliterate=Your economic aid will help this country to develop
-$stabilitereussi=Your economic aid has helped this country to develop -- its stability rises!
+$rappelneutralite=Quốc gia này giữ vững lập trường trung lập
+$rappelnonalign=Quốc gia này giữ vững lập trường "không liên kết"
+$relation=quan hệ
+$stabiliterate=Viện trợ kinh tế từ phía chúng ta sẽ giúp quốc gia này phát triển
+$stabilitereussi=Viện trợ kinh tế từ phía chúng ta đã giúp quốc gia này phát triển -- sự ổn định của quốc gia đã tăng!
 
-$aidemilreussie=Your military aid has reinforced the armed forces of this country
+$aidemilreussie=Hỗ trợ quân sự từ phía chúng ta đã củng cố lực lượng vũ trang tại quốc gia này
 
-$aidemilrate=Your military assistance made no significant difference.
-$aideguerillareussie=Your aid has reinforced the guerrilla 
+$aidemilrate=Hỗ trợ quân sự từ phía chúng ta không đem lại thay đổi đáng kể nào.
+$aideguerillareussie=Viện trợ từ phía chúng ta đã củng cố lực lượng du kích
 
 $gainparanoia=Suppression has reached unexpected heights as this country's leader sinks into paranoia
 
@@ -369,7 +369,7 @@ $migalley=enemy MiGs dominate the sky and have inflicted high losses! (prestige 
 
 //MAJ CHINE
 
-$vaguehumaine=Renhai Zhanshu!
+$vaguehumaine=Chiến thuật biển người!
 $textevaguehumaine=Our gallant troops throw themselves into the enemy lines, ready to overwhelm them with their number and valour!\n Chinese Volunteers 
 $txtvaguehumaine=massive sending of troops by 
 
