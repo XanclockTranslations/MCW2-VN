@@ -205,7 +205,7 @@ $protestguerilla=This country believes that your irresponsible behaviour will de
 $protestputch= This country protests against your interference in the internal affairs of a sovereign state
 $protestretrait= This country is worried about your withdrawal from the region.
 
-$protestinvasion=This country vigorously protests your invasion!
+$protestinvasion=Quốc gia này phản đối mạnh mẽ cuộc xâm lược của chúng ta!
 
 $putchrate=The planned coup failed miserably, and those involved were arrested.
 $putchraterepression=The coup failed, and merciless suppression struck the political opposition. The government intends to take charge of the country again!
@@ -214,7 +214,7 @@ $reequilibrage= diplomatic rapprochement with
 $relationreussi=Your relations with this country have improved
 
 $retraitdetroupes=Our children are heading back home!
-$retraittroupes=Withdrawing troops
+$retraittroupes=Rút quân
 
 $retraitarmeerougeeuropeindependence=This country's government has taken advantage of our departure to announce its first timid steps toward liberalisation and initiate a political opening to the West (Stalinism -1)
 
@@ -265,7 +265,7 @@ $txtguerillarate2=Attempted creation of an armed movement by
 $infiltrationratee=You failed to infiltrate this group
 $infiltrationreussie=Your agents have infiltrated this group
 
-$txtinvasion=The country has been invaded by 
+$txtinvasion=Quốc gia này đã bị xâm lược bởi
 
 $txtmanifestationrate= opposition struggles to exist
 $txtmanifestationrate2= opposition struggles to exist
@@ -290,9 +290,9 @@ $txttransfococo=This country has decided to completely reform its institutions a
 $txttransfocapitaliste=This country has decided to completely reform its institutions! The market has been opened to foreign trade, and the economy is now privatised!
 $txttransfocapitalisteetat=This country has decided to undertake controlled liberalisation of its economy
 
-$txtinstructeurs=military advisors sent by 
-$txtmenace=Your threatening declarations have caused a serious deplomatic crisis with this country.
-$txtmenacetelex=Country is threatened by 
+$txtinstructeurs=Cố vấn quân sự được gửi bởi 
+$txtmenace=Lời đe dọa từ phía chúng ta đã gây ra khủng hoảng ngoại giao nghiêm trọng với quốc gia này.
+$txtmenacetelex=Quốc gia bị đe dọa bởi
 
 $txtrappelinstructeurs= military advisors are recalled by 
 
@@ -334,12 +334,12 @@ $txtsoutiencause=this group appreciates your support to its cause -- your relati
 
 $txtunitenationale=Facing your threat, a sacrosanct unity is forming around the government
 
-$txtverslecommunisme=collectivisation of the economy
-$txtverslecommunisme2=collectivisation of the economy
-$txtverslecapitalisme=privatisation of the economy
-$txtverslecapitalisme2=privatisation of the economy
-$txtverslecapitalismeetat=government-supervised privatisation of the economy
-$txtverslecapitalismeetat2=government-supervised privatisation of the economy
+$txtverslecommunisme=tập thể hóa nền kinh tế
+$txtverslecommunisme2=tập thể hóa nền kinh tế
+$txtverslecapitalisme=tư hữu hóa nền kinh tế
+$txtverslecapitalisme2=tư hữu hóa nền kinh tế
+$txtverslecapitalismeetat=tư hữu hóa nền kinh tế dưới sự giám sát của nhà nước
+$txtverslecapitalismeetat2=tư hữu hóa nền kinh tế dưới sự giám sát của nhà nước
 
 $vosrelations=Your relations
 $votreprestige=Your prestige
