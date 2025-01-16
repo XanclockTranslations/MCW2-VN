@@ -211,7 +211,7 @@ $putchrate=The planned coup failed miserably, and those involved were arrested.
 $putchraterepression=The coup failed, and merciless suppression struck the political opposition. The government intends to take charge of the country again!
 
 $reequilibrage= diplomatic rapprochement with 
-$relationreussi=Your relations with this country have improved
+$relationreussi=Quan hệ giữa chúng ta và quốc gia này đã được cải thiện
 
 $retraitdetroupes=Our children are heading back home!
 $retraittroupes=Rút quân
@@ -224,8 +224,8 @@ $richessereussi=This country has been blessed with a period of strong economic g
 $rapportanalystes=Intelligence report from our secret services
 $rappelinstructeurs=Call back your Military Advisors
 $lastabilite=Stability
-$txtaccordeco=signs economic treaties with 
-$txtaccorddef=signs military agreements with 
+$txtaccordeco=ký hiệp ước kinh tế với
+$txtaccorddef=ký hiệp ước quốc phòng với 
 $txtaccordbase=installation of a major military base by
 $txtaccordbasemissiles= installation of nuclear ballistic missiles facilities by
 
