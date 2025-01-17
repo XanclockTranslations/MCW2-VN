@@ -200,20 +200,20 @@ $manifestationreussie=Major popular protests shake the government!
 $manifestationrate=The opposition has major difficulties rallying its supporters, and cannot find more than a hundred militants across the entire country to demonstrate...
 $manifestationratedictature=The crazy protestor was sent to a mental hospital...
 
-$protestguerilla=This country believes that your irresponsible behaviour will destabilise the region
+$protestguerilla=Quốc gia này tin rằng hành vi vô trách nhiệm của chúng ta sẽ làm mất ổn định khu vực
 
-$protestputch= This country protests against your interference in the internal affairs of a sovereign state
-$protestretrait= This country is worried about your withdrawal from the region.
+$protestputch=Quốc gia này phản đối sự can thiệp của chúng ta vào công việc nội bộ của một quốc gia có chủ quyền
+$protestretrait=Quốc gia này lo lắng về việc chúng ta rút quân khỏi khu vực.
 
 $protestinvasion=Quốc gia này phản đối mạnh mẽ cuộc xâm lược của chúng ta!
 
-$putchrate=The planned coup failed miserably, and those involved were arrested.
-$putchraterepression=The coup failed, and merciless suppression struck the political opposition. The government intends to take charge of the country again!
+$putchrate=Kế hoạch đảo chính đã thất bại thảm hại, và những người liên quan đã bị bắt giữ.
+$putchraterepression=Cuộc đảo chính đã thất bại, và chính phủ đã đàn áp mạnh mẽ phe đối lập và sẽ một tiếp tục nắm quyền!
 
-$reequilibrage= diplomatic rapprochement with 
+$reequilibrage=thiết lập lại quan hệ ngoại giao với
 $relationreussi=Quan hệ giữa chúng ta và quốc gia này đã được cải thiện
 
-$retraitdetroupes=Our children are heading back home!
+$retraitdetroupes=Những đứa con của chúng ta đang trở về!
 $retraittroupes=Rút quân
 
 $retraitarmeerougeeuropeindependence=This country's government has taken advantage of our departure to announce its first timid steps toward liberalisation and initiate a political opening to the West (Stalinism -1)
@@ -232,9 +232,9 @@ $txtaccordbasemissiles= installation of nuclear ballistic missiles facilities by
 $txtactionfinembargo=This embargo has been lifted, and relations between our two countries should begin on a good footing!
 $txtactiondebutembargo=This nation is now under an embargo -- its economy should slowly sink...
 
-$txtaideeco= an economic aid was granted by 
-$txtaidemil= a military aid was granted by 
-$txtaidemilguerilla= guerrilla was financed by 
+$txtaideeco=một gói viện trợ kinh tế đã được cấp bởi
+$txtaidemil=một gói viện trợ quân sự đã được cấp bởi
+$txtaidemilguerilla=quân du kích được tài trợ bởi
 
 $txtalignement= alignment of diplomatic positions on 
 $txtalignementrate=Our interference in this country's political life has sparked its national pride, and relations between our two nations have considerably soured....
@@ -332,7 +332,7 @@ $texteabsenceaccordeco=We shoud negotiate some economic treaties with this count
 
 $txtsoutiencause=this group appreciates your support to its cause -- your relations improve
 
-$txtunitenationale=Facing your threat, a sacrosanct unity is forming around the government
+$txtunitenationale=Đối diện với sự đe dọa từ phía chúng ta, chính phủ của họ đã hình thành một sự đoàn kết không thể phá vỡ
 
 $txtverslecommunisme=tập thể hóa nền kinh tế
 $txtverslecommunisme2=tập thể hóa nền kinh tế
@@ -394,7 +394,7 @@ $occupartionrhur=Evacuating our occupation zone in Germany is out of the questio
 
 
 
-$txtcreationmilice=A militia has been created --> 
+$txtcreationmilice=Một lực lượng dân quân đã được thành lập --> 
 
 
 // MOD MGS
