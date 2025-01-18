@@ -5781,10 +5781,10 @@ $titre1964e=THE CIVIL RIGHT ACT
 
 $texte1964e=It is time to declare illegal any discrimination based on race, color, origin, and gender in our great nation. \nThe racial segregation and racist 'Jim Crow' laws in the Southern United States must be abolished. \nThe far-right and the Ku Klux Klan will not appreciate this.
 
-$choix11964e=Abolsih segregation!
+$choix11964e=Abolish segregation!
 $choix11964etitle=Decreases civil rights contestation, increases far-right contestation
 
-$choix21964e=Temporise...(Prestige -10)
+$choix21964e=Temporize...(Prestige -10)
 $choix21964etitle=Increases contestation
 
 $titre1964e1=THE CIVIL RIGHT ACT
@@ -6164,21 +6164,20 @@ $aucunrelignement=\n... But we did not succeed in convincing anybody to actively
 $titre1965k2=THE LEADER OF THE THIRD WORLD
 $texte1965k2=We let a golden opportunity pass... \nThe momentum will not present itself again. 
 
+//1966
 
 $titre1966a=GUERRILLA PRIESTS
 
 
-$texte1966a=" [...] I am a [communist] revolutionary as a Colombian, as a sociologist, \nas a Christian, and as a priest. [...] as a Colombian because anti-Communism in my country is best on persecuting the dissatisfied, whether they be Communist or not, who in the main are poor people. \n[...] as a sociologist because the Communist proposals to combat poverty, hunger, illiteracy, and lack of housing and public service are effective and scientific. \n[...] as a Christian because I believe that anti-Communism condemns the whole of Communism, without acknowledging that there is some justice in its cause, as well as injustice. By condemning the whole we condemn the just and the unjust, and this is anti-Christian.  " \nCamilo Torres .  \nIn Latin America, the people's living conditions are miserable and the Catholic clergy takes to heart to restore their dignity. \nSome priests even commit in politics.
-
+$texte1966a=" [...] I am a [communist] revolutionary as a Colombian, as a sociologist, \nas a Christian, and as a priest. [...] as a Colombian because anti-Communism in my country is best on persecuting the dissatisfied, whether they be Communist or not, who in the main are poor people. \n[...] as a sociologist because the Communist proposals to combat poverty, hunger, illiteracy, and lack of housing and public service are effective and scientific. \n[...] as a Christian because I believe that anti-Communism condemns the whole of Communism, without acknowledging that there is some justice in its cause, as well as injustice. By condemning the whole we condemn the just and the unjust, and this is anti-Christian.  " \nCamilo Torres .  \nIn Latin America, the people's living conditions are miserable, and the Catholic clergy take it to heart to restore their dignity. Some priests even become involved in politics.
 
 $choix11966a=Funny mix...
-$choix11966atitle=The USSR gains a bonus to destabilising protests in the countries concerned by the Liberation Theology; the USA gain a bonus to coups
+$choix11966atitle="The USSR gains a bonus to destabilizing protests in countries affected by Liberation Theology, while the USA gains a bonus to coups.
 
 $titre1966a1=GUERRILLA PRIESTS
 
 
-$texte1966a1=Camilo Torres was mortally wounded this morning in San Vincente de Chucuri, shot by several bullets. \nDuring his very first military action... \nNever mind! The guerrilla-priest figure has now been mythologised and made into the right example to follow throughout Latin America.
-
+$texte1966a1=Camilo Torres was mortally wounded this morning in San Vicente de Chucurí, shot by several bullets. During his very first military action... Never mind! \nThe guerrilla-priest figure has now been mythologized and turned into the ideal example to follow throughout Latin America.
 
 
 // EVT B
@@ -6186,70 +6185,60 @@ $texte1966a1=Camilo Torres was mortally wounded this morning in San Vincente de 
 $titre1966b=INTELLECTUALS CROSSING THE LIMITS!
 
 
-$texte1966b=Influent circles within the army and the party are being increasingly alarmed by the moral decadence of our country. \nThere is a moral crisis in the USSR and only a retaking in hand can put an end to this sore situation. \nScientists, artists and even civil servants start signing petitions! \n	The intelligentsia must be reined in through convictions for political offences.
-
-
+$texte1966b=Influential circles within the army and the party are becoming increasingly alarmed by the moral decay of our country. There is a moral crisis in the USSR, and only a firm hand can put an end to this dire situation. \nScientists, artists, and even civil servants are starting to sign petitions! \nThe intelligentsia must be reined in through convictions for political offenses.
 $choix11966b=Let us strike hard! (prestige -25)
 $choix11966btitle=Sharp increase in Stalinism
 
-$choix21966b=Let us act with discretion
+$choix21966b=Act with discretion
 $choix21966btitle=Small increase in Stalinism
 
-$choix31966b=We must give freedom of speech (prestige +25)
+$choix31966b=We must allow freedom of speech (prestige +25)
 $choix31966btitle=Very sharp decrease of Stalinism
 
 
 $titre1966b1=INTELLECTUALS CROSSING THE LIMITS!
 
 
-$texte1966b1=The writer Andrei Sinyavsky and the poet Yuli Daniel have just been sentenced to prison, respectively for a 7-year and a 5-year terms, for their anti-Soviet writings. \nThey additionaly published rags abroad under assumed names, what is an aggravating circumstance and a charge in its own. \nAs the intelligentsia of our country is being retaken in hand, the French poet Louis Aragon signed an opinions page in L'Humanité - the French Communist Party newspaper. \nHe is openly criticising the verdict of the Soviet tribunals and reminds the audience that the French Communist Party chose the transition to socialism through pacific ways, excluding the use of crimes of opinion! \nIt seems our new political line is not shared by everybody...
-
+$texte1966b1=The writer Andrei Sinyavsky and the poet Yuli Daniel have just been sentenced to prison, respectively for 7-year and 5-year terms, for their anti-Soviet writings. \nThey additionally published rags abroad under assumed names, which is an aggravating circumstance and a charge in itself. \nAs the intelligentsia of our country is being reined in, the French poet Louis Aragon signed an opinion piece in L'Humanité – the French Communist Party newspaper. \nHe is openly criticizing the verdict of the Soviet tribunals and reminds the audience that the French Communist Party chose the transition to socialism through peaceful means, excluding the use of crimes of opinion! \nIt seems our new political line is not shared by everybody...
 
 $titre1966b2=INTELLECTUALS CROSSING THE LIMITS!
 
-$texte1966b2=The writer Andrei Sinyavsky and the poet Yuli Daniel have just been sentenced to significant fines for their anti-Soviet writings against a background of general indifference. \nThey additionaly published rags abroad under assumed names, what is an aggravating circumstance and a charge in its own. \nLet us hope the signal will be clear enough for the intelligentsia.
-
+$texte1966b2=The writer Andrei Sinyavsky and the poet Yuli Daniel have just been sentenced to significant fines for their anti-Soviet writings, against a backdrop of general indifference. \nThey additionally published rags abroad under assumed names, which is an aggravating circumstance and a charge in itself. \nLet us hope the signal will be clear enough for the intelligentsia.
 
 $titre1966b3=INTELLECTUALS UNCHAINED!
 
-$texte1966b3=The writer Andrei Sinyavsky and the poet Yuli Daniel achieve a high level of success within the USSR as well as abroad. \nTheir criticisms of the Soviet society is sometimes fierce, particularly when it takes on socialist realism in the arts. This makes some apparatchiks upset but never mind! Through their pieces of work, the Soviet culture continues to win the hearts beyond our motherland. Under the patronage of the French poet Louis Aragon, the new Soviet litterature is published and disseminated across Europe.
-
+$texte1966b3=The writer Andrei Sinyavsky and the poet Yuli Daniel have achieved a high level of success both within the USSR and abroad. \nTheir criticisms of Soviet society are sometimes fierce, particularly when they take on socialist realism in the arts. This upsets some apparatchiks, but never mind! Through their works, Soviet culture continues to win hearts beyond our motherland. \nUnder the patronage of the French poet Louis Aragon, the new Soviet literature is published and disseminated across Europe.
 
 
 // EVT C
 
-$titre1966c=LET US ROLL!
+$titre1966c=ALL ABOARD!
 
 
-$texte1966c=The giant industrial complex "Volga Automobile Plant" will produce cars for the entire Soviet Union and for Europe as well. \nThe new plan for our industry foresees an increase in production from 200,000 units to 800,000. \nThe capitalist savoir-faire would be useful to us and major partnerships are being planned with Western companies. \nShould we make a pact with these capitalists (for the greater good of the Motherland)?
-
+$texte1966c=The giant industrial complex 'Volga Automobile Plant' will produce cars for the entire Soviet Union as well as for Europe. \nThe new plan for our industry foresees an increase in production from 200,000 units to 800,000. \nThe capitalist savoir-faire would be useful to us, and major partnerships are being planned with Western companies. \nShould we make a pact with these capitalists (for the greater good of the Motherland)?
 
 $choix11966c=Let us enter this partnership!
-$choix11966ctitle=Improve your relations with France and Italy and decreases Stalinism.
+$choix11966ctitle=Improves your relations with France and Italy and decreases Stalinism.
 
 $choix21966c=Let us manage this project on our own.
 $choix21966ctitle=No effect
 
-$titre1966c1=LET US ROLL IN FIAT!
+$titre1966c1=DRIVING A FIAT!
 
 
-$texte1966c1=Eventually, the Italian company FIAT was chosen to help us in building the Togliatti complex. \nThis giant factory would be a reproduction of the Mirafiori factory located near Turin. \nFor 8 years, the Italians will help us building the factory and training its employees. \nThanks to this partnership, the Soviet automobile industry will be given a fresh boost!
+$texte1966c1=Eventually, the Italian company FIAT was chosen to help us build the Togliatti complex. \nThis giant factory would be a reproduction of the Mirafiori factory located near Turin. \nFor 8 years, the Italians will help us build the factory and train its employees. \nThanks to this partnership, the Soviet automobile industry will receive a fresh boost!
+
+$titre1966c2=DRIVING WITH THE HANDBRAKE ON
 
 
-$titre1966c2=LET US ROLL HANDBRAKE ACTIVATED!
-
-
-$texte1966c2=The Gorki Automobile Plant will produce a bit less lorries and a bit more cars, that is it! \n
-(What is a car actually? Just a tractor with smaller wheels!)
-
+$texte1966c2=The Gorky Automobile Plant will produce a few fewer lorries and a few more cars, that's it! \n(What is a car, actually? Just a tractor with smaller wheels!)
 
 // EVT D
 
 $titre1966d=COINTELPRO
 
 
-$texte1966d=Our country is at the mercy of subversive groups trying to destabilise it! \nFortuntately, the director of the FBI keeps his weather eye open. \nAccording to him, the Black Panther Party represents the most serious threat to our country and he intends to solve the problem with his counter-insurgency programme "COINTELPRO". \n	Should this man be given carte blanche at the risk of being beyond legal borders?
-
+$texte1966d=Our country is at the mercy of subversive groups trying to destabilize it! \nFortunately, the director of the FBI keeps a weather eye open. \nAccording to him, the Black Panther Party represents the most serious threat to our country, and he intends to solve the problem with his counter-insurgency program 'COINTELPRO.' \nShould this man be given carte blanche at the risk of going beyond legal boundaries?
 
 $choix11966d=Let him do whatever he wants (Prestige -25)
 $choix11966dtitle=Should decrease contestations
@@ -6260,22 +6249,19 @@ $choix21966dtitle=Nothing happens
 $titre1966d1=COINTELPRO
 
 
-$texte1966d1=The FBI agents were ordered to disrupt, discredit and neutralise the radical organisations and their leaders. \nThe suppression must be inclusive: the revolutionary groups are not the only targets. \nThe non-violent civil rights militants also disrupt public order, as do the Native American movements and the Ku Klux Klan. \nWe may have to make up false accusations, even assassinate extremist leaders but the American freedom comes at such price.
-
+$texte1966d1=The FBI agents were ordered to disrupt, discredit, and neutralize the radical organizations and their leaders. \nThe suppression must be comprehensive: the revolutionary groups are not the only targets. \nThe non-violent civil rights militants also disrupt public order, as do the Native American movements and the Ku Klux Klan. \nWe may have to fabricate false accusations, even assassinate extremist leaders, but American freedom comes at such a price.
 
 $titre1966d2=COINTELPRO
 
 
-$texte1966d2=Who knows which sordid methods would the FBI use despite our objections... \nAt least, the director of the FBI will be the sole responsible in case of unpleasant drifts.
-
+$texte1966d2=Who knows what sordid methods the FBI would use despite our objections... \nAt least, the director of the FBI will be solely responsible in case of any unpleasant consequences.
 
 // EVT E
 
 $titre1966e=FREEDOM OF INFORMATION ACT
 
 
-$texte1966e=The public opinion demands a simplified access to the documents of the administration. \nThis ranges from simple documents to very sensitive files. \nShould we let the people get access to such documentation while we are engaged in a war against communism in Vietnam and while pacifist movements are growing?
-
+$texte1966e=Public opinion demands simplified access to government documents. \nThis ranges from basic documents to very sensitive files. \nShould we allow the people access to such documentation while we are engaged in a war against communism in Vietnam and while pacifist movements are growing?
 
 $choix11966e=Certain truths are not to be told
 $choix11966etitle=Will increase pacifist and civil right contestations
@@ -6286,16 +6272,14 @@ $choix21966etitle=Will sharply increase pacifist contestation
 $titre1966e1=FREEDOM OF INFORMATION ACT
 
 
-$texte1966e1=Move along, there is nothing to see here! \nThe request from pacifist and civil rights movement will not be subject to further action... for now.
-
+$texte1966e1=Move along, there is nothing to see here! \nThe requests from the pacifist and civil rights movements will not be subject to further action... for now.
 
 
 
 $titre1966e2=FREEDOM OF INFORMATION ACT
 
 
-$texte1966e2=The law has been passed but it will contain numerous exceptions concerning national security, classified defence, foreign policy, some specific manufactuing processes, medical confidentiality, privacy as well as some geographical information. \nThat is a fair compromise, it is not?
-
+$texte1966e2=The law has been passed, but it will contain numerous exceptions concerning national security, classified defense, foreign policy, some specific manufacturing processes, medical confidentiality, privacy, as well as some geographical information. \nThat is a fair compromise, isn't it?
 
 
 // EVT F
@@ -6303,52 +6287,45 @@ $texte1966e2=The law has been passed but it will contain numerous exceptions con
 $titre1966f=A FAINT-HEARTED ALLY
 
 
-$texte1966f=While the USA are crusading against communism in Asia and particularly in Vietnam, the placidness of the Chinese ally is seriously getting on Washington's nerves. \nA intervention from China in Vietnam could be decisive. \n	The Chinese pointed out that 80% of their units are equipped with armament dating back to the civil war, inadequate when fighting in rough terrain. \nAn important American aid could help them to make their mind up...
-
+$texte1966f=While the USA are crusading against communism in Asia, particularly in Vietnam, the placidness of their Chinese ally is seriously getting on Washington's nerves. \nAn intervention from China in Vietnam could be decisive. \nThe Chinese pointed out that 80% of their units are equipped with armament dating back to the civil war, which is inadequate when fighting in rough terrain. \nSignificant American aid could help them make up their minds...
 
 $choix11966f=We will manage without their help!
 $choix11966ftitle=No effect
 
 $choix21966f=Let us help China to carry its duty($10 then $5 per month)
-$choix21966ftitle=Increase your aid to China, improve your relations with China and triggers its direct intervention
+$choix21966ftitle=Increase your aid to China, improve your relations with China, and trigger its direct intervention.
 
 $titre1966f1=A FAINT-HEARTED ALLY
 
 
-$texte1966f1=The Chinese attitude is regrettable: we will bring peace back in Vietnam without them. \nOur military general staff is convinced that North Vietnam will fall like rape fruit in less than a year.
-
+$texte1966f1=The Chinese attitude is regrettable: we will bring peace back to Vietnam without them. \nOur military general staff is convinced that North Vietnam will fall like ripe fruit in less than a year.
 
 $titre1966f2=A FAINT-HEARTED ALLY
 
 
-$texte1966f2=This morning, some 80,000 Chinese soldiers crossed the border with North Vietnam. \nIn parallel, the U.S. marines landed a large expeditionary corps. \nThe fighting is intense and the People's Army of North Vietnam is fiercely defending each square kilometer of national ground. \nOur adversary, poorly equipped, should ne be capable of holding two fronts for a long time.
-
+$texte1966f2=This morning, some 80,000 Chinese soldiers crossed the border into North Vietnam. \nIn parallel, the U.S. Marines landed a large expeditionary corps. \nThe fighting is intense, and the People's Army of North Vietnam is fiercely defending each square kilometer of national ground. \nOur adversary, poorly equipped, should not be capable of holding two fronts for long.
 
 // EVT G
 
 $titre1966g=A CULTURAL REVOLUTION
 
 
-$texte1966g=Mao Zedong is preparing a draft bill on the "Great Proletarian Cultural Revolution". \n"Our objective is to struggle against and crush those people in authority who are taking the capitalist road, to criticise and repudiate the reactionary bourgeois academic "authorities" and the ideology of the bourgeoisie and all other exploiting classes and to transform education, literature and art, and all other parts of the superstructure that do not correspond to the socialist economic base, so as to facilitate the consolidation and development of the socialist system!". \nThis cultural revolution will allow us to get rid of all the "relics" (costumes, customs, cultures and ideas) dating before communism. \nAll influent party members realise that this is a manoeuvre from Mao to get rid of his enemies, using various pretexts. \nHis offensive actually already started and he obtained the disfavour of his enemy Peng Zhen, the mayor of Beijing.
-
+$texte1966g=Mao Zedong is preparing a draft bill on the 'Great Proletarian Cultural Revolution.' \n'Our objective is to struggle against and crush those people in authority who are taking the capitalist road, to criticize and repudiate the reactionary bourgeois academic "authorities," the ideology of the bourgeoisie, and all other exploiting classes, and to transform education, literature, and art, and all other parts of the superstructure that do not correspond to the socialist economic base, so as to facilitate the consolidation and development of the socialist system!' \nThis cultural revolution will allow us to get rid of all the 'relics' (costumes, customs, cultures, and ideas) dating back to before communism. \nAll influential party members realize that this is a maneuver by Mao to get rid of his enemies, using various pretexts. \nHis offensive has already started, and he has obtained the disfavour of his enemy, Peng Zhen, the mayor of Beijing.
 
 $choix11966g=The Chinese already had their share of troubles
 $choix11966gtitle=Decreases Maoism
 
 $choix21966g=We need a cultural revolution (Prestige +300)
-$choix21966gtitle=Mao returns to power if he had been ousted earlier; Maoism increases and a number of historical event like the Little Red Book are unlocked
+$choix21966gtitle=Mao returns to power after having been ousted earlier; Maoism increases, and a number of historical events, like the Little Red Book, are unlocked.
 
 $titre1966g1=A CULTURAL REVOLUTION
 
-
-$texte1966g1=The party makes a stand against this new law and field marshall Lin Biao who appeared to support Mao's bill eventually rallied the majority point of view.
-
+$texte1966g1=The party takes a stand against this new law, and Field Marshal Lin Biao, who initially appeared to support Mao's bill, eventually rallied to the majority viewpoint.
 
 $titre1966g2=A CULTURAL REVOLUTION
 
 
-$texte1966g2=This revolution should bring a democratic revival in China: complete impunity is guaranteed to students and pupils, who are encouraged to create groupe like the French Paris Commune, to take themselves in hand and get rid of their teachers who are only poisoning their minds (and persecuting them with exams). \nLoudspeakers, articles in the People's Daily, Dazibaos posted on the walls and Mao's speeches trigger an extraordinary enthusiam among the youth who immediately sets to form groups and harass its professors. \n
-
+$texte1966g2=This revolution should bring a democratic revival to China: complete impunity is guaranteed to students and pupils, who are encouraged to create groups like the French Paris Commune, to take matters into their own hands, and to get rid of their teachers who are poisoning their minds (and persecuting them with exams). \nLoudspeakers, articles in the People's Daily, Dazibaos posted on the walls, and Mao's speeches trigger an extraordinary enthusiasm among the youth, who immediately set out to form groups and harass their professors.
 $mao=Mao Zedong
 
 // EVT H
@@ -6356,19 +6333,16 @@ $mao=Mao Zedong
 $titre1966h=THE RED GUARDS
 
 
-$texte1966h=Millions of red guards are flocking at Beijing to listen Chairman Mao's words. \nThese young persons are impassionated by the old Chairman's speeches exhorting them to revolt: « We do not want kindness, we want war! » \nTo the young Song Bin Bin, whose name means "well-mannered", who gives him a red armband, Chairman Mao suggests her: « Be violent! ». \nInspired by this piece of advice, she chooses to rename herself to Yaowu (Will to fight)!
-
-
+$texte1966h=Millions of Red Guards are flocking to Beijing to listen to Chairman Mao's words. \nThese young people are passionate about the old Chairman's speeches exhorting them to revolt: 'We do not want kindness, we want war!' \nTo the young Song Bin Bin, whose name means 'well-mannered,' and who is given a red armband, Chairman Mao advises her: 'Be violent!' \nInspired by this piece of advice, she chooses to rename herself Yaowu (Will to fight)!
 
 
 $choix11966h=« One is always right to revolt! » (-$5/month)
-$choix11966htitle=The unqualifiable mess the red guards are making in China decreases your income by $5 and increase Maoism
+$choix11966htitle=The unqualifiable mess the red guards are making in China decreases your income by $5 and increases Maoism
 
 $titre1966h1=THE RED GUARDS
 
 
-$texte1966h1=Across China, the red guards are moving the socialist reconstruction forward by distributins pamphlets, hunting the deviants in every households and destroying the vestiges of the bourgeois world - like old temples and even sections of the Great Wall of China. \nThe forced self-criticisms and public executions are commonplace and the intellectuals are sent to the countryside for re-education. \nNothing seems to be capable of halting the climate of terror spread by the red guards.
-
+$texte1966h1=Across China, the Red Guards are advancing the socialist reconstruction by distributing pamphlets, hunting the deviants in every household, and destroying the vestiges of the bourgeois world—like old temples and even sections of the Great Wall of China. \nForced self-criticisms and public executions are commonplace, and intellectuals are sent to the countryside for re-education. \nNothing seems capable of halting the climate of terror spread by the Red Guards.
 
 
 // EVT I
@@ -6376,18 +6350,16 @@ $texte1966h1=Across China, the red guards are moving the socialist reconstructio
 $titre1966i=A LITTLE RED BOOK TO ENLIGHTEN THE WORLD
 
 
-$texte1966i=The collection of Chairman Mao's quotes compiled by Lin Biao to to build the morale of Chinese soldiers was such a success that it was decided it should be massively disseminated to the population. \nThis book is destined to become the life guide of every Chinese. \nImmersing oneself in Mao Zedong's thought gives you drive in working and protects you from incorrect thoughts. \nOwning a copy of this little red book and studying it will soon become mandatory; not being able to show it at a red guard's request can result in several years in labour camp. \nChairman Mao's thought will be soon be spread around the world: entire sections of translators are put to work out the translation of his brilliant quotes in over 60 languages. 
-
+$texte1966i=The collection of Chairman Mao's quotes compiled by Lin Biao to build the morale of Chinese soldiers was such a success that it was decided it should be massively disseminated to the population. \nThis book is destined to become the life guide of every Chinese. \nImmersing oneself in Mao Zedong's thought gives you the drive to work and protects you from incorrect thoughts. \nOwning a copy of this little red book and studying it will soon become mandatory; not being able to show it at a Red Guard's request could result in several years in a labor camp. \nChairman Mao's thought will soon be spread around the world: entire teams of translators are put to work translating his brilliant quotes into over 60 languages.
 
 
 $choix11966i=Mao's though enlightens the world (+200 prestige)
-$choix11966ititle=You gain a bonus to creating opposition and increase Maoism by +10
+$choix11966ititle=You gain a bonus to creating opposition and increase Maoism by +10.
 
 $titre1966i1=A SPIRITUAL BOMB
 
 
-$texte1966i1=Lin Biao is sure about it: \n"Once Mao Zedong's thought is grasped by the broad masses, it becomes a source of strength and a spiritual atom bomb of infinite power!"
-
+$texte1966i1=Lin Biao is sure about it: \n'Once Mao Zedong's thought is grasped by the broad masses, it becomes a source of strength and a spiritual atomic bomb of infinite power!
 
 
 
@@ -6396,26 +6368,23 @@ $texte1966i1=Lin Biao is sure about it: \n"Once Mao Zedong's thought is grasped 
 $titre1966j=REBELS VERSUS EXECUTIVES
 
 
-$texte1966j=It is now time to begin the next phase of the Cultural Revolution. \nThe red guards were teenagers, we now need rebels to rein in the party executives tempted by capitalism. \nOrganised in branches and groups like the red guards, these rebels will be able to criticise their executives. \nThe holy alliance between Mao Zedong and Liu Shaoqui is determined to clear out the highest spheres of the party.
-
+$texte1966j=It is now time to begin the next phase of the Cultural Revolution. \nThe Red Guards were teenagers; we now need rebels to rein in the party executives tempted by capitalism. \nOrganized in branches and groups like the Red Guards, these rebels will be able to criticize their executives. \nThe holy alliance between Mao Zedong and Liu Shaoqi is determined to clear out the highest spheres of the party.
 
 $choix11966j=Let us go!
 $choix11966jtitle=Increase Maoism by +10
 
-$choix21966j=Let us calm things down
-$choix21966jtitle=Puts an end to the Cultural Revolution and decrease Maoism by a random amount; you lose the Little Red Book bonus
+$choix21966j=Calm things down
+$choix21966jtitle=Puts an end to the Cultural Revolution and decreases Maoism by a random amount; you lose the Little Red Book bonus
 
-$titre1966j1=REBELS VERSUS EXECUTIVESS
+$titre1966j1=REBELS VERSUS EXECUTIVES
 
 
-$texte1966j1=The first dazibaos appear on factories walls and violent demonstrations are organised here and there. \nWe need to give this young movement the time to grow.
-
+$texte1966j1=The first Dazibaos appear on factory walls, and violent demonstrations are organized here and there. \nWe need to give this young movement time to grow.
 
 $titre1966j2=BRINGING TROUBLE-MAKERS INTO LINE
 
 
-$texte1966j2=Lin Biao eventually ordered the army to end the chaos. \nThe self-criticism sessions led by red guards are used to denounce them as deviants. \nA few public executions of leaders and massive placements in labour camps in the country side brought order in the streets. \nMao Zedong strongly criticised this intervention of the army against the just revolt of the people. \nIt seems the long-lived harmony between Mao and field marshall Lin Biao came to an end. If Mao loses the support of the army, who else can he trust?
-
+$texte1966j2=Lin Biao eventually ordered the army to end the chaos. \nThe self-criticism sessions led by Red Guards were used to denounce them as deviants. \nA few public executions of leaders and massive placements in labor camps in the countryside brought order to the streets. \nMao Zedong strongly criticized this intervention of the army against the just revolt of the people. \nIt seems the long-lived harmony between Mao and Field Marshal Lin Biao has come to an end. \nIf Mao loses the support of the army, who else can he trust?
 
 
 
@@ -6423,25 +6392,21 @@ $texte1966j2=Lin Biao eventually ordered the army to end the chaos. \nThe self-c
 $titre1967a=A SIX-DAY WAR
 
 
-$texte1967a=The tension, which was at its highests for months in Middle-East, eventually broke out in a war! \nReacting to military and nationalist gesticulations of Egypt, Tsahal - the Israeli army - launched a surpise attack that defeated the Egyptian, Jordanian and Syrian armies in a handful of days. \nIsrael's victory is complete and the military aviation of its neighbours has been reduced to ashes. \nWhile the UNO was working to secure a ceasefire, Israel managed to occupy Jerusalem, the Sinai and the Golan heights. \nFor the Arab nations, this is a new humiliation.
-
+$texte1967a=The tension, which had been at its highest for months in the Middle East, eventually broke out into a war! \nReacting to the military and nationalist gestures of Egypt, Tsahal—the Israeli army—launched a surprise attack that defeated the Egyptian, Jordanian, and Syrian armies in just a handful of days. \nIsrael's victory is complete, and the military aviation of its neighbors has been reduced to ashes. \nWhile the UN was working to secure a ceasefire, Israel managed to occupy Jerusalem, the Sinai, and the Golan Heights. \nFor the Arab nations, this is a new humiliation.
 
 $choix11967a=This war will have long-term consequences
-$choix11967atitle=The stability of Syria and Jordan decreases; the armed forces of Iraq, Syria, Egypt and Jordan decrease. The relations of the USA woth Egypt, Yemen, Iraq, Syria and Jordan seriously deteriorate. Egypt abandons its neutrality and draws closer to the USSR.
+$choix11967atitle=The stability of Syria and Jordan decreases; the armed forces of Iraq, Syria, Egypt, and Jordan weaken. The relations of the USA with Egypt, Yemen, Iraq, Syria, and Jordan seriously deteriorate. Egypt abandons its neutrality and draws closer to the USSR.
 
 $titre1967a1=A SIX-DAY WAR
 
-
-$texte1967a1=President Nasser recognised his defeat and announced his resignation. However, faced with the massive support of hundreds of thousands of Egyptians in the streets to support him, he agreed to remain in power. \nThe defeat was explained by the direct intervention of the U.S. Airforce in the conflict; this tall tale unleashed the popular wrath on American embassies and cultural centres which have been targeted and set to fire in several countries. \nThe relations of the USA with the Arab world are now at their lowest and Egypt is turning to the USSR to rebuild its devastated army. \nMiddle-East is in a permanent state of war between Israel and the Arab world while Tsahal is setting for a long time in the occupied areas. \n
-
+$texte1967a1=President Nasser recognized his defeat and announced his resignation. However, faced with the massive support of hundreds of thousands of Egyptians in the streets, he agreed to remain in power. \nThe defeat was explained by the direct intervention of the U.S. Air Force in the conflict; this tall tale unleashed popular wrath on American embassies and cultural centers, which were targeted and set on fire in several countries. \nThe relations of the USA with the Arab world are now at their lowest, and Egypt is turning to the USSR to rebuild its devastated army. \nThe Middle East is in a permanent state of war between Israel and the Arab world, while Tsahal is setting up for a long stay in the occupied areas.
 
 
 // EVT B
 $titre1967b=THE SPIRIT OF GLASSBORO
 
 
-$texte1967b=A summit between the two superpowers met in Glassboro to discuss the situation in Middle-East. \nThe talks are relaxed and lead the obervers to see a "spirit of Glassboro" in them. \nThe Middle-East is undoubtedly important but we could use this opportunity to ask the Soviets to intervene to the North Vietnamese. \nThe country would be split into two parts: a communist "North" and a democratic "South". \nThe success rates of such a mediation are very low but we have to try.
-
+$texte1967b=A summit between the two superpowers was held in Glassboro to discuss the situation in the Middle East. \nThe talks were relaxed and led observers to see a 'spirit of Glassboro' in them. \nThe Middle East is undoubtedly important, but we could use this opportunity to ask the Soviets to intervene with the North Vietnamese. \nThe country would be split into two parts: a communist 'North' and a democratic 'South.' \nThe success rate of such a mediation is very low, but we have to try.
 
 $choix11967b=Let us stick with the Middle-East
 $choix11967btitle=Tension decreases
@@ -6452,22 +6417,19 @@ $choix21967btitle=Tension decreases; there is an tiny chance for peace on Vietna
 $titre1967b1=THE SPIRIT OF GLASSBORO
 
 
-$texte1967b1=The talks with the Soviets on limiting ballistic missiles and the situation in the Middle-East were pleasant but led to nothing concrete. 58% of the American people support a non-interference policy in the conflict between Israel and the Arab nations. \n
-
+$texte1967b1=The talks with the Soviets on limiting ballistic missiles and the situation in the Middle East were pleasant but led to nothing concrete. 58% of the American people support a non-interference policy in the conflict between Israel and the Arab nations.
 
 $titre1967b2=THE SPIRIT OF GLASSBORO
 
 
-$texte1967b2=The talks with the Soviets on limiting ballistic missiles and the situation in the Middle-East were pleasant but led to nothing concrete. \nThe Soviets nonetheless agreed to intervene to the North Vietnamese but they seem absolutely confident in their ultimate victory. \nThe most important thing is that we now have a negotiation channel with the Democratic Republic of Vietnam.--> Chances for Vietnam to agree on a prolonged peace in case of military unsuccesses may have increased (fairly hard to tell) 
-
+$texte1967b2=The talks with the Soviets on limiting ballistic missiles and the situation in the Middle East were pleasant but led to nothing concrete. \nThe Soviets nonetheless agreed to intervene with the North Vietnamese, but they seem absolutely confident in their ultimate victory. \nThe most important thing is that we now have a negotiation channel with the Democratic Republic of Vietnam. --> Chances for Vietnam to agree to a prolonged peace in case of military setbacks may have increased (though it's fairly hard to tell).
 
 // EVT C
 
 $titre1967c=THE SPIRIT OF GLASSBORO
 
 
-$texte1967c=A summit between the two superpowers met in Glassboro to discuss the situation in Middle-East. \nThe talks are relaxed and lead the obervers to see a "spirit of Glassboro" in them. \nThe Americans took advantage of this summit to ask us to intervene to the North Vietnamese. \nThe country would be split into two parts: a communist "North" and a democratic "South". \nThe success rates of such a mediation are very low but we have to try.
-
+$texte1967c=A summit between the two superpowers was held in Glassboro to discuss the situation in the Middle East. \nThe talks were relaxed and led observers to see a 'spirit of Glassboro' in them. \nThe Americans took advantage of this summit to ask us to intervene with the North Vietnamese. \nThe country would be split into two parts: a communist 'North' and a democratic 'South.' \nThe success rate of such a mediation is very low, but we have to try.
 
 $choix11967c=Let us stick with the Middle-East
 $choix11967ctitle=Tension decreases
@@ -6480,32 +6442,24 @@ $choix31967ctitle=Tension increases and chances for peace in Vietnam decrease
 
 
 $titre1967c1=THE SPIRIT OF GLASSBORO
-$texte1967c1=The talks with the Americans on limiting ballistic missiles and the situation in the Middle-East were pleasant but led to nothing concrete. \nThe most important is to keep good contact and discuss in a relaxed way.
-
+$texte1967c1=The talks with the Americans on limiting ballistic missiles and the situation in the Middle East were pleasant but led to nothing concrete. \nThe most important thing is to keep good contact and discuss things in a relaxed way.
 
 $titre1967c2=THE SPIRIT OF GLASSBORO
 
 
-$texte1967c2=
-The talks with the Americans on limiting ballistic missiles and the situation in the Middle-East were pleasant but led to nothing concrete.
- \n
-We accepted to intervene to the North Vietnamese but they seem absolutely confident in their ultimate victory. \n
---> Chances for Vietnam to agree on a prolonged peace in case of military unsuccesses may have increased (fairly hard to tell) 
-
+$texte1967c2=The talks with the Americans on limiting ballistic missiles and the situation in the Middle East were pleasant but led to nothing concrete. \nWe agreed to intervene with the North Vietnamese, but they seem absolutely confident in their ultimate victory. \n--> Chances for Vietnam to agree to a prolonged peace in case of military setbacks may have increased (though it's fairly hard to tell).
 
 $titre1967c3=THE SPIRIT OF GLASSBORO
 
 
-$texte1967c3=Our positions are irreconcilable... \nGlassboro brought the impossibility to discuss with the imperialists in the cold light of day. \nThe weakness and duplicity of the Americans are beyond doubt. \nCapitalism is obviously nearing its final crisis: Vietnam and the alienation of the Arab petroleum-producting countries will precipitate it.
-
+$texte1967c3=Our positions are irreconcilable... \nGlassboro revealed the impossibility of discussing with the imperialists in the cold light of day. \nThe weakness and duplicity of the Americans are beyond doubt. \nCapitalism is obviously nearing its final crisis: Vietnam and the alienation of the Arab petroleum-producing countries will precipitate it.
 
 // EVT D
 
 $titre1967d=THE END OF THE COMECON?
 
 
-$texte1967d=Our own economy and those of the Eastern Europe countries have evolved a lot. \n	Each country led its own reforms at national levels and the plans can no longer be followed, even less achieved. \nThe COMECON compensation mecanisms, including price setting, are not functional anymore. \nThe statistics and economic reports are untrustworthy and no one seems to understand where the country is heading. \nWe operate blindly; the old guard is ready to oust the current ruling team. \nShould we stop the reforms?
-
+$texte1967d=Our own economy and those of the Eastern European countries have evolved a lot. \nEach country has led its own reforms at the national level, and the plans can no longer be followed, much less achieved. \nThe COMECON compensation mechanisms, including price setting, are no longer functional. \nThe statistics and economic reports are untrustworthy, and no one seems to understand where the country is heading. \nWe operate blindly; the old guard is ready to oust the current ruling team. \nShould we stop the reforms?
 $choix11967d=Let us back-pedal
 $choix11967dtitle=Brezhnev retakes control
 
@@ -6515,8 +6469,7 @@ $choix21967dtitle=End of the COMECON, Stalinisme decreases sharply
 $titre1967d1=A RETURN TO REASON
 
 
-$texte1967d1=The situation was becoming out of control: a team of "realists" and orthodox economists will now correct the situation and restore order. \nUnder Leonid Brezhnev and his Politburo allies' patronage, the USSR will calmly work again toward true socialism, free from bourgeois drifts that were corrupting it.
-
+$texte1967d1=The situation was becoming out of control: a team of 'realists' and orthodox economists will now correct the situation and restore order. \nUnder Leonid Brezhnev and his Politburo allies' patronage, the USSR will calmly work again toward true socialism, free from bourgeois drifts that were corrupting it.
 
 
 
@@ -6524,8 +6477,7 @@ $texte1967d1=The situation was becoming out of control: a team of "realists" and
 $titre1967d2=THE END OF THE COMECON?
 
 
-$texte1967d2=The COMECON was too constraining, we had to overhaul it completely! \nWith a surprising ease, its members agreed to kill it and replace it with with a more flexible form a exchanges. \nOur civil servants are working on new calculations methods for our trade balance. \n
-The conservatives are choking on it!  \nWith such methods, we will never achieve true socialism...
+$texte1967d2=The COMECON was too constraining; we had to overhaul it completely! \nWith surprising ease, its members agreed to dismantle it and replace it with a more flexible form of exchanges. \nOur civil servants are working on new calculation methods for our trade balance. \nThe conservatives are choking on it! \nWith such methods, we will never achieve true socialism...
 
 
 $Brezhnev=Leonid Brezhnev
@@ -6536,8 +6488,7 @@ $Brezhnev=Leonid Brezhnev
 $titre1967e=THE PEOPLE'S COMMUNE OF SHANGHAI
 
 
-$texte1967e=The order to overthrow the old world has been taken at face value! \nAfter long weeks of pitched street battles between factions, the workers took control of the city of Shanghai! \nThe message is clear: whoever wants to seize power can! \nThe fight for controlling the country begins in each factory, each local authority and each administration. The rebels are splitting up in an impressive numbers of school of thoughts, "proletarian revolutionaries", "anarchistic revolutionaries"..., each claiming they fight to protect Chairman Mao from his enemies. \nRightist minds could imagine that the country is descending into civil war...
-
+$texte1967e=The order to overthrow the old world has been taken at face value! \nAfter long weeks of pitched street battles between factions, the workers took control of the city of Shanghai! \nThe message is clear: whoever wants to seize power can! \nThe fight for control of the country begins in each factory, each local authority, and each administration. The rebels are splitting into an impressive number of schools of thought—'proletarian revolutionaries,' 'anarchistic revolutionaries,'... each claiming they fight to protect Chairman Mao from his enemies. \nRight-wing minds might imagine that the country is descending into civil war...
 
 
 $choix11967e=Let us destroy the old world and build a new one (-$5/month)
@@ -6546,8 +6497,7 @@ $choix11967etitle=Hakuna Matata as we say in Beijing
 $titre1967e1=THE ARMY JOINS IN
 
 
-$texte1967e1=The situation being particularly worrying, the PLA has been asked to intervene to sort out the "good" revolutionaries from the deviants. \nThe army will in addition protect the critical infrastructures. \nIt will also help the groups that please us to seize power via direct interventions. \nOver 400,000 soldiers are assigned to this internal police duty: situation should soon be back under control.
-
+$texte1967e1=The situation being particularly worrying, the PLA has been asked to intervene to sort out the 'good' revolutionaries from the deviants. \nThe army will also protect critical infrastructure. \nIt will also assist the groups that align with us to seize power via direct interventions. \nOver 400,000 soldiers are assigned to this internal police duty; the situation should soon be back under control.
 
 _______________________________________________________
 
@@ -6559,8 +6509,7 @@ _______________________________________________________
 $titre1968a=THE TET OFFENSIVE
 
 
-$texte1968a=The Vietnamese communists launched a vast offensive against more than 100 towns and cities. \n80,000 soldiers descended upon Saigon! \nThis offensive was a complete surprise for our intelligence services.  \nThe North Vietnamese have been pushed back with heavy casualties but our own public opinion was shocked by their offensive capabability. \n
-
+$texte1968a=The Vietnamese communists launched a vast offensive against more than 100 towns and cities. \n80,000 soldiers descended upon Saigon! \nThis offensive was a complete surprise to our intelligence services. \nThe North Vietnamese have been pushed back with heavy casualties, but our own public opinion was shocked by their offensive capability.
 
 $choix11968a=How far will they go?
 $choix11968atitle=The stability of South Vietnam decreases as well as the strength of the armed forces of North Vietnam. Pacifism inceases in the USA if you have troops in Vietnam
@@ -6568,36 +6517,32 @@ $choix11968atitle=The stability of South Vietnam decreases as well as the streng
 $titre1968a1=THE TET OFFENSIVE
 
 
-$texte1968a1=Generals Wheeler et Westmoreland think we should increase our involvement in Vietnam. \nThe current resources will not be sufficient to protect this country from communism. \nAccording to them, some additional 200,000 soldiers on-site are necessary. \nThis request is rather delicate since the public opinion does not trust us anymore to manage this war.
-
+$texte1968a1=Generals Wheeler and Westmoreland think we should increase our involvement in Vietnam. \nThe current resources will not be sufficient to protect this country from communism. \nAccording to them, an additional 200,000 soldiers on-site are necessary. \nThis request is rather delicate since public opinion no longer trusts us to manage this war.
 
 //EVT B
 
 $titre1968b=THE PRAGUE SPRING
 
 
-$texte1968b=Some reckless reformers came to power in Czechoslovakia! \nDubček reintroduced the freedom of the press as well as freedom of speech and movement. \nHis economic policy seeks to institute a "socialism with a human face" and he ambitions to reform socialism. \nWe demanded them to put an end to these drifts but the Czechoslovaks wants to hear nothing. \nThe Warsaw pact troops are ready to restore order in this country and only await your go-ahead to proceed…
+$texte1968b=Some reckless reformers came to power in Czechoslovakia! \nDubček reintroduced the freedom of the press, as well as freedom of speech and movement. \nHis economic policy seeks to institute a 'socialism with a human face,' and he aims to reform socialism. \nWe demanded that they put an end to these drifts, but the Czechoslovaks want to hear nothing. \nThe Warsaw Pact troops are ready to restore order in this country and are only awaiting your go-ahead to proceed…
 
+$choix11968b=Let them experiment
+$choix11968btitle=Stalin is actually dead... this will undoubtedly have very negative consequences.
 
-$choix11968b=Let us let them experiment
-$choix11968btitle=Stalin is actually dead... this will undoubtedly have very negative consequences
-
-$choix21968b=Let us send in the tanks!(-$50 / prestige: -150)
-$choix21968btitle=Normalisation in Czechoslovakia and sharp increase in Stalinism
+$choix21968b=Send in the tanks!(-$50 / prestige: -150)
+$choix21968btitle=Normalization in Czechoslovakia and a sharp increase in Stalinism.
 
 $titre1968b1=THE PRAGUE SPRING
 
 
-$texte1968b1=The Czechoslovak reforms are carefully monitored in all Eastern Europe. \nThe border has even been open with the West and the country loses a significant part of its intelligensia in a few months. \nThe people is now demanding free and multi-party elections! \nThe Czechoslovak government is now working backwards but it is certainly too late to stop the movement. \n--> The stability collapses in Czechoslovakia \n--> Stalinsm decreases sharply
-
+$texte1968b1=The Czechoslovak reforms are carefully monitored across Eastern Europe. \nThe border has even been opened with the West, and the country loses a significant part of its intelligentsia in a few months. \nThe people are now demanding free and multi-party elections! \nThe Czechoslovak government is now working backwards, but it is certainly too late to stop the movement. \n--> Stability collapses in Czechoslovakia \n--> Stalinism decreases sharply.
 
 $titre1968b2=THE PRAGUE SPRING
 
 
-$texte1968b2=The Red Army quickly brought the deviant country into line, without major frictions as First Secretary Dubček called for no resistance. \nThe international reactions were strong and criticisms even emerged from within the socialist camp. \nIt is obvious to the entire world that communism only lives in Eastern Europe^by the grace of the Red Army's heavy tanks: this is a major ideological defeat for us.
+$texte1968b2=The Red Army quickly brought the deviant country into line, without major friction, as First Secretary Dubček called for no resistance. \nThe international reactions were strong, and criticisms even emerged from within the socialist camp. \nIt is obvious to the entire world that communism only survives in Eastern Europe by the grace of the Red Army's heavy tanks: this is a major ideological defeat for us.
 
-
-$critiquealintervention=Albania: this country denounces the Soviet intervention in Czechoslovakia
+$critiquealintervention=this country denounces the Soviet intervention in Czechoslovakia
 $critiquerointervention=Romania: this country denounces the Soviet intervention in Czechoslovakia
 $critiqueinterventiondetail=Relations with the USSR deteriorate
 
@@ -6606,8 +6551,7 @@ $critiqueinterventiondetail=Relations with the USSR deteriorate
 $titre1968c=THE COSTLIEST OPERATION IN HISTORY
 
 
-$texte1968c=Operation Rolling Thunder dropped as many bombs as during the bombing of Western Europe in World War 2. \nWe lost 922 aeroplanes to this day! \nOur intelligence services reckon the enemy casualties to 52,000 soldiers and 120 aeroplanes. \nThis bombing campaign is impopular and the civilian casualties would be above 180,000 people. \nShould we continue our bombings?
-
+$texte1968c=Operation Rolling Thunder dropped as many bombs as were dropped during the bombing of Western Europe in World War II. \nWe have lost 922 airplanes to this day! \nOur intelligence services estimate enemy casualties at 52,000 soldiers and 120 airplanes. \nThis bombing campaign is unpopular, and civilian casualties are estimated to be over 180,000 people. \nShould we continue our bombings?
 
 $choix11968c=Let us continue
 $choix11968ctitle=They will eventually yield…
@@ -6618,8 +6562,7 @@ $choix21968ctitle=This operation is not cost-effective
 $titre1968c1=THEY SEE YOU ROLLING (THUNDER) AND THEY ARE HATING
 
 
-$texte1968c1=Strategic bombing is a long course work which led to the surrender of Nazi Germany and Imperial Japan, and the Vietnamese communists will yield the same way.
-
+$texte1968c1=Strategic bombing is a long-term effort that led to the surrender of Nazi Germany and Imperial Japan, and the Vietnamese communists will yield the same way.
 
 $titre1968c2=THE COSTLIEST OPERATION IN HISTORY
 
@@ -6632,8 +6575,7 @@ $texte1968c2=There is nothing left to bomb there anyway...
 $titre1968d=THE FEAST IS OVER
 
 
-$texte1968d=Liu Shaoqi, Deng Xiaoping and all the other enemies of Mao have been purged. Some are dead, other in disgrace in remote provinces. \nMao Zedong enjoys his complete authority over the party. \nFormer rebels and red guards alike are deported en masse to the countryside; they vanish from the Chinese political landscape. \n
-
+$texte1968d=Liu Shaoqi, Deng Xiaoping, and all the other enemies of Mao have been purged. Some are dead, others are in disgrace in remote provinces. \nMao Zedong enjoys complete authority over the party. \nFormer rebels and Red Guards alike are deported en masse to the countryside; they vanish from the Chinese political landscape.
 
 $choix11968d=That was a hell of a fun!
 $choix11968dtitle=End of the cultural revolution, Maoism increases and your budget returns to a normal level
@@ -6641,8 +6583,7 @@ $choix11968dtitle=End of the cultural revolution, Maoism increases and your budg
 $titre1968d1=THE FEAST IS OVER
 
 
-$texte1968d1=The new political board is split between 3 factions: the militaries led by Lin Biao, the pragmatists behind Zhou Enlai and the radical revolutionaries following Jiang Qing. \nBy pitting forever these factions against one another, Mao will rule unchallenged.
-
+$texte1968d1=The new political board is split into three factions: the military led by Lin Biao, the pragmatists behind Zhou Enlai, and the radical revolutionaries following Jiang Qing. \nBy constantly pitting these factions against one another, Mao will rule unchallenged.
 
 
 // EVT E
@@ -6650,8 +6591,7 @@ $texte1968d1=The new political board is split between 3 factions: the militaries
 $titre1968e=A HUMANITARIAN MOMENTUM
 
 
-$texte1968e=War is raging in Biafra. \nThe embargo in force weighs heavily upon the civilian populations stuck between the Nigerian forces and the Biafran rebels. \nSeveral million of civilians, refugees and displaced people are trapped in the Biafran pocket where hunger strikes very hard. \nHowever, for the first time, these human beings will not die away from the eyes of the world: the media coverage of this conflict captured shocking images which are deeply moving the international public opinion. \nThe International Red Cross just forced its way through the blockade to give assistance to the helpless populations. \nThis awful civil war awakened the consciences and numerous Non-Governmental Organisations - like Médecins Sans Frontières / Doctors without Borders will be created to make sure the humanitarian aid reach those in need whatever the costs!
-
+$texte1968e=War is raging in Biafra. \nThe embargo in force weighs heavily upon the civilian populations trapped between the Nigerian forces and the Biafran rebels. \nSeveral million civilians, refugees, and displaced people are trapped in the Biafran pocket, where hunger strikes hard. \nHowever, for the first time, these human beings will not die away from the eyes of the world: media coverage of this conflict has captured shocking images that are deeply moving international public opinion. \nThe International Red Cross has just forced its way through the blockade to provide assistance to the helpless populations. \nThis awful civil war awakened consciences, and numerous Non-Governmental Organizations—like Médecins Sans Frontières (Doctors Without Borders)—were created to ensure humanitarian aid reaches those in need, whatever the cost!
 
 $choix11968e=Stop the genocide!
 $choix11968etitle=Dogs in the manger?
@@ -6659,24 +6599,21 @@ $choix11968etitle=Dogs in the manger?
 $titre1968e1=A HUMANITARIAN MOMENTUM
 
 
-$texte1968e1=--> You will have to deal with a new type of stakeholders: the NGOs. They give a bonus to economic aid actions in the countries in which they are present, disturb the governmental counter-insurgency operations and may successfully raise awareness in public opinions to attract the UNO on the conflict zone.
-
+$texte1968e1=--> You will have to deal with a new type of stakeholder: the NGOs. They provide a bonus to economic aid actions in the countries where they are present, disturb governmental counter-insurgency operations, and may successfully raise awareness in public opinion to attract the UN to the conflict zone.
 
 // EVT F
 
 $titre1968f=KING MURDERED!
 
 
-$texte1968f=Today, April 4th, Reverend Martin Luther King, leader of the civil rights mvoement, was murdered in Memphis. \nDr. King was there to support the local black dustmen strike which were not treated equally with their white colleagues. \nThe murdered is still on the run and we do not his identity at the present time. \nPresident Johnson declared a national mourning. \nThis is the first time an Afro-American citizen will receive such an honour. \nDr. King had received over the years numerous death threats for his commitment to civil rights.
-
+$texte1968f=Today, April 4th, Reverend Martin Luther King, leader of the civil rights movement, was murdered in Memphis. \nDr. King was there to support the local black sanitation workers' strike, as they were not treated equally to their white colleagues. \nThe murderer is still on the run, and we do not know his identity at the present time. \nPresident Johnson declared a national mourning period. \nThis is the first time an African-American citizen will receive such an honor. \nDr. King had received numerous death threats over the years for his commitment to civil rights.
 
 $choix11968f=Take My Hand, Precious Lord"
 $choix11968ftitle=The nation mourns MLK --> you lose prestige and civil rights contestation increases
 
 $titre1968f1=RIOT DAYS
 
-$texte1968f1=This cowardly assassination triggered outbreaks of violence and anger in many cities. \nThese riots caused many casualties and necessitated the intervention of the national guard. \nThe strong racial and social tensions in our country were one again the source of chaos.\n--> Prestige -25
-
+$texte1968f1=This cowardly assassination triggered outbreaks of violence and anger in many cities. \nThese riots caused many casualties and necessitated the intervention of the National Guard. \nThe strong racial and social tensions in our country were once again the source of chaos. \n--> Prestige -25
 
 
 // EVT G
@@ -6684,9 +6621,7 @@ $texte1968f1=This cowardly assassination triggered outbreaks of violence and ang
 $titre1968g=THE PRAGUE SPRING
 
 
-$texte1968g=As the Czechoslovak government, supported by the street, were reintroducing the freedom of the press, the Warsaw Pact troops came in to put an end to this experiment of "Socialism with a human face". \nThis invasion is the proof that the East bloc only holds together by the grace of the Red Army. \nCondemnations of this intervention are pouring in and even come from Communist parties from Western Europe but also from Communist countries like Albania or Romania.
-
-
+$texte1968g=As the Czechoslovak government, supported by the streets, was reintroducing the freedom of the press, the Warsaw Pact troops came in to put an end to this experiment of 'Socialism with a human face.' \nThis invasion is proof that the East bloc only holds together by the grace of the Red Army. \nCondemnations of this intervention are pouring in, even from Communist parties in Western Europe, as well as from Communist countries like Albania and Romania.
 
 
 
@@ -6695,8 +6630,7 @@ $texte1968g=As the Czechoslovak government, supported by the street, were reintr
 $titre1968h=O MILAGRE ECONÔMICO BRASILEIRO
 
 
-$texte1968h=The political environment created by the Junta, coupled with economic reforms focused around opening the economy and huge expansions to basic infrastructure implemented in 1964, using huge amounts of American credit, threw the Brazilian economy into overdrive, reaching an incredible 10% GDP growth a year. \nSide by side with the growth of the economy, patriotism skyrockets and has united the once politically divided nation under the Junta. \nHowever, there seems to be no end to the use of American credit, and once the fuel for growth depletes itself, all that will remain is the debt. \nNow the question is, how much longer can Brazil grow off American credit? After that, how is it going to handle it's growing and growing debt? \n\n[i]This event has been created by Victoria Dallena[/i]
-
+$texte1968h=The political environment created by the Junta, coupled with economic reforms focused on opening the economy and massive expansions to basic infrastructure implemented in 1964 using huge amounts of American credit, threw the Brazilian economy into overdrive, reaching an incredible 10% GDP growth per year. \nSide by side with the growth of the economy, patriotism skyrocketed and united the once politically divided nation under the Junta. \nHowever, there seems to be no end to the use of American credit, and once the fuel for growth depletes itself, all that will remain is the debt. \nNow the question is, how much longer can Brazil grow off American credit? After that, how will it handle its growing debt? \n\n[i]This event was created by Victoria Dallena[/i]
 
 
 $choix11968h=Great !
@@ -6704,7 +6638,7 @@ $choix11968htitle=The Brazilian economy is booming
 
 $titre1968h1=O MILAGRE ECONÔMICO BRASILEIRO
 
-$texte1968h1=[i]--> Relationship of Brazil with the USA +2 \n--> Stability of Brazil +2 \n--> Richess of Brazil +1[/i]
+$texte1968h1=[i]--> Relationship of Brazil with the USA +2 \n--> Stability of Brazil +2 \n--> Wealth of Brazil +1[/i]
 
 
 
@@ -6717,10 +6651,9 @@ $texte1968h1=[i]--> Relationship of Brazil with the USA +2 \n--> Stability of Br
 $titre1969a=THE NIXON DOCTRINE
 
 
-$texte1969a=Our engagement in Vietnam has reached its limits and guzzles a significant part of our military budget… \nPresident Richard Nixon is willing to reduce the American military engagement in the world. \nHe intends to take advantage from a speech he will deliver on Guam island to unveil his new doctrine. \nThe United States of America will no longer support the countries threatened by communism with American soldiers but with shipments of military equipment. \nThis doctrine is realist and heralds our upcoming disengagement from Vietnam; however, accepting it would be a recognition of our defeat. \nHow will our allies react to this doctrine?
+$texte1969a=Our engagement in Vietnam has reached its limits and consumes a significant part of our military budget… \nPresident Richard Nixon is willing to reduce American military engagement in the world. \nHe intends to take advantage of a speech he will deliver on Guam Island to unveil his new doctrine. \nThe United States of America will no longer support countries threatened by communism with American soldiers, but with shipments of military equipment. \nThis doctrine is realistic and heralds our upcoming disengagement from Vietnam; however, accepting it would be a recognition of our defeat. \nHow will our allies react to this doctrine?
 
-
-$choix11969a=Let us adopt the Nixon doctrine. (prestige -50)
+$choix11969a=Adopt the Nixon doctrine. (prestige -50)
 $choix11969atitle=The number of troops engaged in Vietnam decreases, Nixon gains the trait Pragmatic and unlocks new events
 
 $choix21969a=We will stay on the frontlines! (prestige +50)
@@ -6735,16 +6668,14 @@ $texte1969a1=« The balance of powers, not peace, is the goal of every statesman
 $titre1969a2=OUR VALUES FIRST!
 
 
-$texte1969a2=Our moral leadership comes at a price and this price is the blood of Americans. However, we cannot flee from this responsibility - this would be an abdication facing the enemies of liberty!
-
+$texte1969a2=Our moral leadership comes at a price, and this price is the blood of Americans. However, we cannot flee from this responsibility — this would be an abdication in the face of the enemies of liberty!
 
 // EVT B
 
 $titre1969b=FED UP OF VIETNAM?
 
 
-$texte1969b=Richard Nixon already publicly announced that people victims of a communist non-nuclear aggression would be left to their own devices. \nThis may be to right time to find our way out of this war… \nWe could initiate secrete talks with the Vietnamese or progressively withdraw ourselves by "vietnamising" this conflict. \n
-
+$texte1969b=Richard Nixon has already publicly announced that people victimized by communist non-nuclear aggression would be left to their own devices. \nThis may be the right time to find our way out of this war… \nWe could initiate secret talks with the Vietnamese or progressively withdraw by 'Vietnamizing' this conflict.
 
 $choix11969b=Let us try to negotiate. (prestige -50)
 $choix11969btitle=A very tiny chance to progress toward peace
@@ -6755,24 +6686,19 @@ $choix21969btitle=Nothing changes
 $titre1969b1=FED UP OF VIETNAM?
 
 
-$texte1969b1=The North Vietnamese agreed to initiate secrete talks but it soon becomes obvious that they are counting on the erosion of our homefront under the influence of our public opinion, increasingly hostile to this war. \nThe issue of the existance of a non-communist Vietnamese government in the south and internationally controlled elections seem to be blocking points in the negotiations. \nOn the battlefield, war is raging and our interlocutor does not seem to be willing to calm things down. \nWhen the North Vietnamese will realise we will hold on despite our public opinion and that the South will never be taken by force, they will end up accepting this peace we are proposing. \n--> You may have progressed toward peace...(fairly hard to tell)
-
-
+$texte1969b1=The North Vietnamese agreed to initiate secret talks, but it soon became obvious that they were counting on the erosion of our home front under the influence of public opinion, which is increasingly hostile to this war. \nThe issue of the existence of a non-communist Vietnamese government in the South and internationally controlled elections seems to be a sticking point in the negotiations. \nOn the battlefield, war is raging, and our interlocutor does not seem willing to calm things down. \nWhen the North Vietnamese realize we will hold on despite our public opinion and that the South will never be taken by force, they will end up accepting the peace we are proposing. \n--> You may have progressed toward peace... (though it's still fairly hard to tell)
 
 $titre1969b2=FED UP OF VIETNAM?
 
-$texte1969b2=The North Vietnamese are counting on the erosion of our homefront under the influence of our public opinion, increasingly hostile to this war. \nWhen they will realise we hold will on despite our public opinion and that the South will never be taken by force, they will end up accepting our peace terms. \nMeanwhile, war is raging...
-
+$texte1969b2=The North Vietnamese are counting on the erosion of our home front under the influence of public opinion, which is increasingly hostile to this war. \nWhen they realize we will hold on despite our public opinion and that the South will never be taken by force, they will end up accepting our peace terms. \nMeanwhile, war is raging...
 
 
 // EVT C
 
 $titre1969c=THE ROCKEFELLER REPORT
 
-$texte1969c=Senator Rockefeller just returned from several official travels in South America and gave us his report on the Alliance for Progress set up under the Kennedy administration. \nAccording to the senator, our efforts largely met their targets and the South American countries enjoyed an important economic development. \nThere are still some left-wing anti-establishment movements left but a solid middle class put down roots in several countries. \nShould we continue our financial effort while we almost reached our goal?
-
-$texte1969c2=Senator Rockefeller just returned from several official travels in South America and gave us his report on the Alliance for Progress set up under the Kennedy administration. \nAccording to the senator, our efforts largely met their targets and the South American countries enjoyed an important economic development. \nHis conclusions on our action are severe: \n« Nationalism is burgeoning in most of the region with strong anti-United States overtones. Increasing frustration is evidenced over political instability, limited educational and economic opportunities, and the incapacity or slowness of existing government structures to solve the people’s problems. [...]  \nChange and the stresses and problems brought about by the processes of change characterize the existing situation in the hemisphere. The momentum of industrialization and modernization has strained the fabric of social and political structures. Political and social instability, increased pressure for radical answers to the problems, and a growing tendency to nationalistic independence from the United States dominate the setting. » \nWhich lessons should be learned from this failure?
-
+$texte1969c=Senator Rockefeller just returned from several official trips to South America and gave us his report on the Alliance for Progress set up under the Kennedy administration. \nAccording to the senator, our efforts largely met their targets, and the South American countries enjoyed significant economic development. \nThere are still some left-wing anti-establishment movements, but a solid middle class has taken root in several countries. \nShould we continue our financial effort now that we have nearly reached our goal?
+$texte1969c2=Senator Rockefeller just returned from several official trips to South America and gave us his report on the Alliance for Progress set up under the Kennedy administration. \nAccording to the senator, our efforts largely met their targets, and the South American countries enjoyed significant economic development. \nHis conclusions on our actions are severe: \n'Nationalism is burgeoning in most of the region with strong anti-United States overtones. Increasing frustration is evidenced over political instability, limited educational and economic opportunities, and the incapacity or slowness of existing government structures to solve the people's problems. [...] \nChange, and the stresses and problems brought about by the processes of change, characterize the existing situation in the hemisphere. The momentum of industrialization and modernization has strained the fabric of social and political structures. Political and social instability, increased pressure for radical answers to the problems, and a growing tendency toward nationalistic independence from the United States dominate the setting.' \nWhich lessons should be learned from this failure?
 
 
 $choix11969c=Let us spare no expenses! ($15 per month)
@@ -6784,8 +6710,7 @@ $choix21969ctitle=And get our precious dollars back
 $titre1969c1=THE ROCKEFELLER REPORT
 
 
-$texte1969c1=This is a true godsend pouring on South American countries! \nNo need to specify that our approval rating to the regional governments is sharply increasing. \nSuspicions of embezzlement and misappropriation of aid by particular interests quickly appear. \nThe fight against communism maybe is at this expense...
-
+$texte1969c1=This is a true godsend for South American countries! \nNo need to specify that our approval rating of the regional governments is sharply increasing. \nSuspicions of embezzlement and misappropriation of aid by particular interests quickly arise. \nThe fight against communism may be at this expense...
 
 $titre1969c2=THE ROCKEFELLER REPORT
 
@@ -6801,35 +6726,31 @@ $contentallianceprogresdetail=Relations improve
 $titre1969d=CRISIS ON THE USSURI RIVER
 
 
-$texte1969d=The Chinese troops ambushed our border guards on the Damanski island on the Ussuri river! \nWe had to use tanks and our artillery to drive out the Chinese from this piece of Soviet land they are unduly claim. \nBoth armies are now standing their ground… What should we do?
-
+$texte1969d=The Chinese troops ambushed our border guards on Damansky Island on the Ussuri River! \nWe had to use tanks and artillery to drive the Chinese out of this piece of Soviet land they are unduly claiming. \nBoth armies are now standing their ground… What should we do?
 
 $choix11969d=Let us stand our ground
 $choix11969dtitle=The situation stabilises, your relations with China badly deteriorate
 
-$choix21969d=Let us threaten China to go further!
+$choix21969d=Threaten China to go further!
 $choix21969dtitle=Do you really wish to engage in a showdown with these raving lunatics? Your relations with China badly deteriorate
 
 $titre1969d1=CRISIS ON THE USSURI RIVER
 
 
-$texte1969d1=The clash on the Ussuri river was rather serious and resulted in several hundreds of deaths... \nThe fight having taken place far from the eyes of any observer, it was diligently minimised and a ceasefire was promptly negotiated. \nThe Chinese wanted to test our resolution; they now know it is unwavering.
-
+$texte1969d1=The clash on the Ussuri River was quite serious and resulted in several hundred deaths... \nThe fight, having taken place far from the eyes of any observer, was diligently minimized, and a ceasefire was promptly negotiated. \nThe Chinese wanted to test our resolve; they now know it is unwavering.
 
 $titre1969d2=CRISIS ON THE USSURI RIVER
 
-$texte1969d2=Our initial communication attempts with the Chinese fail to go past the switchboard - the operators, with amazing outspokenness, answer us back they cannot pass the Chairman a phonecall from these "crooked Soviet revisionists" ! \nA few warlike declarations and massive troop movements later, the Chinese call us back with an extremely obliging tone! \nThere will be no showdown in the end because the enemy chickened out... \nIt seems the Chinese may have underestimated our resolution. \n--> You gain 50 prestige points. \n
-
+$texte1969d2=Our initial communication attempts with the Chinese fail to go past the switchboard—the operators, with amazing outspokenness, answer us back that they cannot pass the Chairman a phone call from these 'crooked Soviet revisionists!' \nA few warlike declarations and massive troop movements later, the Chinese call us back with an extremely obliging tone! \nThere will be no showdown in the end because the enemy chickened out... \nIt seems the Chinese may have underestimated our resolve. \n--> You gain 50 prestige points.
 
 // EVT E
 
 $titre1969e=THE MADMAN THEORY
 
 
-$texte1969e=We must bend North Vietnam to submission. \nPresident Nixon has a brilliant idea: to make everyone believe he is mad and is within an inch to use the atomic bomb! \nThis should make our enemies think and bring them to the negotiating table. \nTo make our deception credible, our nuclear bombers fleet will have to be put on alert and be drilling near the Soviet borders. \n
+$texte1969e=We must bend North Vietnam to submission. \nPresident Nixon has a brilliant idea: to make everyone believe he is mad and on the verge of using the atomic bomb! \nThis should make our enemies think and bring them to the negotiating table. \nTo make our deception credible, our fleet of nuclear bombers will have to be put on alert and conduct drills near the Soviet borders.
 
-
-$choix11969e=Let us do it!
+$choix11969e=Do it!
 $choix11969etitle=Nixon gains the trait Unrpedictable and DEFCON increases
 
 $choix21969e=Why simulate? Let us bomb! (prestige -500)
@@ -6848,8 +6769,7 @@ $texte1969e1="For God's sake, you know Nixon is obsessed about communism. We can
 $titre1969e2=THE MADMAN THEORY
 
 
-$texte1969e2=There is great consternation when the pictures of the huge nuclear mushroom cloud raising over Hanoi is on the front pages of all newspapers across the world. \nThe snapshots taken by a Soviet aeroplane are dreadfully shocking... \nFrom the Republic of South Vietnam - which was not consulted - to Japan, this is a real chorus of opposition raising against Washington. \nThe Capitol's lawns have been spontaneously invaded by an immense crowd demanding President Nixon's resignation. \nThe country is wondering: how was it possible for the atomic bomb to be used oustide of any democratic control? What will the reactions be from Moscow and Beijing?
-
+$texte1969e2=There is great consternation when the pictures of the huge nuclear mushroom cloud rising over Hanoi appear on the front pages of newspapers worldwide. \nThe snapshots taken by a Soviet airplane are dreadfully shocking... \nFrom the Republic of South Vietnam — which was not consulted — to Japan, there is a real chorus of opposition rising against Washington. \nThe Capitol's lawns have been spontaneously invaded by an immense crowd demanding President Nixon's resignation. \nThe country is wondering: how was it possible for the atomic bomb to be used outside of any democratic control? What will the reactions be from Moscow and Beijing?
 
 
 
@@ -6868,8 +6788,7 @@ $protestmadmandetail=Relations with the USA deteriorate significantly
 $titre1969f=CHINA INTERVENES
 
 
-$texte1969f=300,000 Chinese soldiers officially crossed the border with Vietnam to help the Republic of North Vietnam to clear up the ruins of its capital city. \nOur intelligence services let us know their numbers are actually rather between 500,000 and 800,000 and that are heading for the Southern part of the peninsula on forced march... 
-
+$texte1969f=300,000 Chinese soldiers officially crossed the border into Vietnam to help the Democratic Republic of Vietnam clear the ruins of its capital city. \nOur intelligence services informed us that their actual numbers are between 500,000 and 800,000, and that they are heading for the southern part of the peninsula on a forced march...
 
 
 // EVT G
@@ -6877,8 +6796,7 @@ $texte1969f=300,000 Chinese soldiers officially crossed the border with Vietnam 
 $titre1969g=ZHENBAO
 
 
-$texte1969g=Here comes the time to treat ourselves to a cheaply triumph over our Soviet neighbours. \nThe small uninhabited Zhenbao island on the Ussuri river is the perfect place for our victory. \nThis island, claimed by the Soviets, is without a shade of doubt a piece of the Chinese territory. \nAn elite unit is ready to retake Zhenbao island from unprepared Soviet border guards. \nOur action will not be the very first border clash along our 7,000 km of common border but our propaganda will turn it into an exemplary feat!
-
+$texte1969g=Here comes the time to treat ourselves to a cheap triumph over our Soviet neighbors. \nThe small, uninhabited Zhenbao Island on the Ussuri River is the perfect place for our victory. \nThis island, claimed by the Soviets, is without a shadow of a doubt a piece of Chinese territory. \nAn elite unit is ready to retake Zhenbao Island from the unprepared Soviet border guards. \nOur action will not be the very first border clash along our 7,000 km of common border, but our propaganda will turn it into an exemplary feat!
 
 
 $choix11969g=Attack! (Prestige +25)
@@ -6890,13 +6808,11 @@ $choix21969gtitle=DEFCON decreases as do Maoism
 $titre1969g1=ZHENBAO
 
 
-$texte1969g1=We killed many Soviet border guards! \nHowever, the extent of the Soviet reaction took us completely by surprise: a shower of rockets pelted down up to 20km within our borders, transforming the surroundings into a lunar landscape. \nThe Red Army's operations clearly showed an invasion was possible at that time... \nWe were forced to accept a ceasefire. \nOur propaganda effort is nonetheless safe: a Soviet tank that exploded on a landmine will be exhibited to bear witness of our gallantry on the battlefield. \nThis kind of military drill keeps our army in good shape: we will keep testing the Soviet defences during the year.
-
+$texte1969g1=We killed many Soviet border guards! \nHowever, the extent of the Soviet reaction took us completely by surprise: a shower of rockets pelted down up to 20 km within our borders, transforming the surroundings into a lunar landscape. \nThe Red Army's operations clearly showed that an invasion was possible at that time... \nWe were forced to accept a ceasefire. \nOur propaganda effort is nonetheless safe: a Soviet tank that exploded on a landmine will be exhibited to bear witness to our gallantry on the battlefield. \nThis kind of military drill keeps our army in good shape: we will continue testing the Soviet defenses throughout the year.
 
 $titre1969g2=ZHENBAO
 
-$texte1969g2=For the first time in years, our Chairman had a discussion with his Soviet counterpart. \nThe issue of Zhenbao island was tackled and we both decided to discuss it... later in the future. \nWhat is important is that a timid dialogue could resume between our two nations.
-
+$texte1969g2=For the first time in years, our Chairman had a discussion with his Soviet counterpart. \nThe issue of Zhenbao Island was addressed, and we both decided to discuss it... later in the future. \nWhat is important is that a timid dialogue could resume between our two nations.
 
 
 

@@ -626,13 +626,13 @@ It uses torture, abductions, and targeted assassinations as part of its strategy
 
 titretraits=Details of the Traits
 titreterrain=Terrain
-texteterrain=If the terrain is jungle or mountain, fighting guerrilla groups will be more difficult, and the country will defend itself better against invaders. The guerrilla groups that appear in these countries have a higher chance to spawn with certain Traits like \Rural guerrilla\ or \Sanctuary\
+texteterrain=If the terrain is jungle or mountain, fighting guerrilla groups will be more difficult, and the country will defend itself better against invaders. The guerrilla groups that appear in these countries have a higher chance to spawn with certain Traits like "Rural guerrilla" or "Sanctuary"
 
 titrefinlandisation=Finlandisation
 textefinlandisation=This country is in a situation of imposed neutrality (like Finland after WW2): it cannot sign defence agreements.
 
 titrenonalignement=Non-aligned
-textenonalignement=This country refuses to enter the logic of a bipolar world and distrusts both the USA and the USSR. Signing defence agreements with it is possible, but it is extremely difficult (in short, this trait is a less restrictive version of the \Neutral\ Trait. A neutral country can also be Non-aligned, showing a strong will to retain its absolute independence.
+textenonalignement=This country refuses to enter the logic of a bipolar world and distrusts both the USA and the USSR. Signing defence agreements with it is possible, but it is extremely difficult (in short, this trait is a less restrictive version of the "Neutral" Trait. A neutral country can also be Non-aligned, showing a strong will to retain its absolute independence.
 
 titreneutralite=Neutral
 texteneutralite=This country will not sign defence agreements under any circumstances! It will also try to avoid appearing too close to one of the two blocs.
@@ -652,7 +652,7 @@ An ill-intentioned global power or irresponsible politicians can take advantage 
 titreparanoiaque=Paranoia
 texteparanoiaque=The government is so paranoid that creating an opposition or destabilising this country will be almost impossible.
 
-titreong=NGOs
+titreong=NGO
 texteong=NGOs are actively operating in this area. They notably increase the effect of economic aid. They can warn the world about massacres and crimes against humanity in the countries where they operate -- possibly disturbing anti-guerrilla operations as a result.
 
 titreonu=Blue Berets

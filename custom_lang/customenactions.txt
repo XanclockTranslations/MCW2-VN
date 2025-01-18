@@ -162,8 +162,8 @@ $prosperitesupprimeopposition=Sự phồn thịnh mới đây đã làm mất gi
 
 $protestationaidemil=Chính phủ quốc gia này phản đối mạnh mẽ việc viện trợ quân sự của chúng ta, vì nó có thể dẫn đến sự bất ổn trong khu vực (quan hệ -1)
 
-$putchmercenaire=Bè lũ cuồng chiến đã lật đổ chính phủ! \n Một đại úy trẻ tuổi từ Lực lượng Bảo vệ Tổng thống đã lên nắm quyền.\n Được cố vấn bởi những người bạn nước ngoài khó đoán, ông ta hứa sẽ dẫn dắt quốc gia thoát khỏi tình hình hỗn loạn hiện tại.
 
+$putchmercenaire=Bè lũ cuồng chiến đã lật đổ chính phủ! \n Một đại úy trẻ tuổi từ Lực lượng Bảo vệ Tổng thống đã lên nắm quyền.\n Được cố vấn bởi những người bạn nước ngoài khó đoán, ông ta hứa sẽ dẫn dắt quốc gia thoát khỏi tình hình hỗn loạn hiện tại.
 $putchreussi=\n\n Chính phủ quốc gia này đã bị lật đổ bởi một số tướng lĩnh trẻ đầy tham vọng! \n Họ dự định đưa quốc gia trở lại quỹ đạo vốn có.
 
 $rejointcoalition=nhóm này đã tham gia liên minh!

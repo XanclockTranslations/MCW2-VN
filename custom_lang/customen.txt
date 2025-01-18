@@ -337,7 +337,7 @@ mplangola=Movimento Popular de Libertação de Angola
 fnlaangola=Frente Nacional de Libertação de Angola
 vietcong=Viet-Cong
 Fatah=Fatah
-fdlpalestine=Al-Jabha al-Dimuqratiya Li-Tahrir Filastin
+frontlibpalestine=Al-Jabha Li-Tahrir Filastin
 $nomseparatistes=Separatist rebels
 $goneunderground=has gone underground / this guerilla gained the wait and see trait
 $serieattentatsdejouee=A series of terror attacks has been foiled.
@@ -638,3 +638,45 @@ description_engrenagevietnamien_long=The situation is deteriorating rapidly in S
 eventerm_start_event16=Leonardo da Vinci's Mona Lisa exhibited at the National Gallery of Art in Washington!
 eventerm_start_event17=The Beatles release "Please Please Me" in the United Kingdom
 eventerm_start_event18=Saudi Arabia and the United Kingdom resumed diplomatic relations
+
+jeh_tooltip=Maestro made a John Edgar Hoover game covering such events
+biafra=Biafra
+bouganda=Bouganda
+swapo=SWAPO
+araguaia=Guerrilha do Araguaia
+
+Chaebols=Chaebols
+texteChaebols=The economy is in the hands of large, family-owned conglomerates with close ties to the government. This system makes the economy develop naturally over time, but favors corruption. Economic aid has a greater chance of increasing relations.
+
+Keiretsu=Keiretsu
+texteKeiretsu=The economy is in the hands of a network of interconnected companies, centered around major banks. This system makes the economy develop naturally over time, and economic aid will have a greater chance of increasing stability.
+
+AsianDragon=Asian dragon
+texteAsianDragon=The economy is growing fast! Economic aid has a greater effect on stability and economic development.
+
+CulturalRevolutiontrait=Cultural revolution
+texteCulturalRevolutiontrait=This country is in political turmoil. Diplomatic efforts and aid actions are subject to a malus.
+
+naxalites=Naxalites
+ecodev=Economic development
+ecodevtrait=When the economic development score reaches the threshold, wealth will progress. \nThis variable progresses through events or if the country has special traits like "Asian Dragon." \nPlayers can influence this by using economic aid actions, but this process takes years. \nKeep in mind that in this game, economic aid actions are intended primarily to increase relations; any gains in economic development or stability are just low-probability side effects.
+
+peruanism=PERUANISM
+peruanismtext=In Peru, the new junta proclaimed a "Revolutionary Government of the Armed Forces." \nJuan Velasco Alvarado, the new strongman, wants to bring social justice to the poor and the indigenous population by using massive nationalizations and expropriations.\nJust five days into power were enough for the new government to take over the American International Petroleum Company! \nThe agrarian reform planned by the new government is ambitious: replacing large latifundias with production cooperatives owned by peasants. \nBy the end of this process, the president aims to oversee the overcoming of capitalism in Peru.\n\n->Peru is now non-aligned, and its relations with the USA have deteriorated sharply.
+
+peruanismtrait=Peruanism
+texteperuanismtrait=A nationalist and anti-imperialist ideology focused on social justice, land reform, and economic independence through state-led initiatives and the empowerment of the poor and indigenous populations.\nThe USA has a significant penalty to improving its relations with this country and signing agreements with it.
+
+$ira=Óglaigh na hÉireann (IRA)
+khmersrouges=ខ្មែរក្រហម (red Khmers)
+
+fdlpalestine=Al-Jabha al-Dimuqratiya Li-Tahrir Filastin
+npaphilippines=Bagong Hukbong Bayan (NPA)
+ordinenuovo=Ordine Nuovo
+
+$foreignerrule=The government lost all credit, and foreign advisors are said to hold true power.
+$foreignerruledetails=The end is near...
+
+title_doublefront=DOUBLE FRONT 1959-1969
+description_doublefront=Can two wars be fought at the same time?\nThis is the bet the USA made in the 1960s, by fighting poverty at home and communists overseas in Vietnam.\nThe Soviets are progressively discovering that a new enemy, communist this time, will soon have the atomic bomb.
+description_doublefront_long=Can two wars be fought at the same time?\nThis is the bet the USA made in the 1960s, by fighting poverty at home and communists overseas in Vietnam.\nThe Soviets are progressively discovering that a new enemy, communist this time, will soon have the atomic bomb.

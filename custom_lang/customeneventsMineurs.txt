@@ -1367,7 +1367,7 @@ $annee69evt8detail=This country chooses the Socialist way
 $annee69evt9=Argentina: popular insurrection against dictatorship
 $annee69evt9detail=Stability decreases sharply
 
-$annee69evt10=100-hour between Honduras and El Salvador (or the Football War)
+$annee69evt10=100-hours war between Honduras and El Salvador (or the Football War)
 $annee69evt10detail=This war will leaves its scars stability decreases in El Salvador
 
 $annee69evt11=Pakistan: the new government enacts martial law

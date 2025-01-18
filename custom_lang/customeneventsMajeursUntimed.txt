@@ -836,51 +836,33 @@ $texteuntimedah=In Egypt, a free officers movement just overthrew King Farouk I!
 
 // EVT AI
 
-$titreuntimedai="RED DRAGON";
-$texteuntimedai="
-Vietnam is now reunited and is cleansed of imperialism, the reconstruction can start.<br>
-			This is an era of prosperity that begins for this country, outpost of the fight against capitalism in the Orient.<br>
-			
-";
-$choix1untimedai="The East is red !";
-$choix1untimedaititle="The world will never be the same";
+$titreuntimedai=RED DRAGON
+$texteuntimedai=Vietnam is now reunited and is cleansed of imperialism, the reconstruction can start.\nThis is an era of prosperity that begins for this country, outpost of the fight against capitalism in the Orient.\n	
 
-$titreuntimedai1="RED DRAGON";
-$texteuntimedai1="
-<span style=\"font-style:italic;\">
-	==> USSR Prestige + 500 <br>
-	==> Vietnam is united
-</span>
-";
+$choix1untimedai=The East is red !
+$choix1untimedaititle=The world will never be the same
+
+$titreuntimedai1=RED DRAGON
+$texteuntimedai1=--> USSR Prestige + 500 \n--> Vietnam is united
+
 
 // EVT AJ
 
-$titreuntimedaj="A NEW DRAGON";
-$texteuntimedaj="
-Vietnam,now reunited and is cleansed of communism, opens up to Western investments as the reconstruction starts.<br>
-			This is an era of prosperity that begins for this country, outpost of the fight against communism in the Orientt.<br>
-			
-";
-$choix1untimedaj="The East is red !";
-$choix1untimedajtitle="The world will never be the same";
+$titreuntimedaj=A NEW DRAGON
+$texteuntimedaj=Vietnam,now reunited and is cleansed of communism, opens up to Western investments as the reconstruction starts.\nThis is an era of prosperity that begins for this country, outpost of the fight against communism in the Orientt.\n
 
-$titreuntimedaj1="RED DRAGON";
-$texteuntimedaj1="
-<span style=\"font-style:italic;\">
-	==> USA Prestige + 1500 <br>
-	==> Vietnam is united
-</span>
-";
+$choix1untimedaj=The East is freed !
+$choix1untimedajtitle=The world will never be the same
+
+$titreuntimedaj1=RED DRAGON
+$texteuntimedaj1=--> USA Prestige + 1500 \n--> Vietnam is united
+
 
 // EVT AK
 
-$titreuntimedak="THE FALL OF SAIGON";
-$texteuntimedak="
-The troops of North Vietnam and the Provisory government of the Republic of South Vietnam just entered Saigon.<br>
-The impact of this communist victory will leave its mark on the Western bloc.<br>
-Over \"threatened\" 7,000 American and Vietnamese nationals were evacuated by helicopers in urgency.<br>
-An important chapter of History is closing for Asia.
-";
+$titreuntimedak=THE FALL OF SAIGON
+$texteuntimedak=The troops of North Vietnam and the Provisory government of the Republic of South Vietnam just entered Saigon.\nThe impact of this communist victory will leave its mark on the Western bloc.\nOver "threatened" 7,000 American and Vietnamese nationals were evacuated by helicopers in urgency.\nAn important chapter of History is closing for Asia.
+
 
 // EVT AL
 

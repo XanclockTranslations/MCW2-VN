@@ -696,7 +696,7 @@ $titrefinlandisation=Finlandisation
 $textefinlandisation=This country is in a situation of imposed neutrality (like Finland after WW2): it cannot sign defence agreements.
 
 $titrenonalignement=Non-aligned
-$textenonalignement=This country refuses to enter the logic of a bipolar world and distrusts both the USA and the USSR. Signing defence agreements with it is possible, but it is extremely difficult (in short, this trait is a less restrictive version of the "Neutral" Trait. \nA neutral country can also be Non-aligned, showing a strong will to retain its absolute independence.
+$textenonalignement=This country refuses to enter the logic of a bipolar world and distrusts both the USA and the USSR. Signing defence agreements with it is possible, but it is extremely difficult (in short, this trait is a less restrictive version of the Neutral Trait. \nA neutral country can also be Non-aligned, showing a strong will to retain its absolute independence.
 
 $titreneutralite=Neutral
 $texteneutralite=This country will not sign defence agreements under any circumstances! It will also try to avoid appearing too close to one of the two blocs.
