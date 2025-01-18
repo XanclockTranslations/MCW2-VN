@@ -680,3 +680,6 @@ $foreignerruledetails=The end is near...
 title_doublefront=DOUBLE FRONT 1959-1969
 description_doublefront=Can two wars be fought at the same time?\nThis is the bet the USA made in the 1960s, by fighting poverty at home and communists overseas in Vietnam.\nThe Soviets are progressively discovering that a new enemy, communist this time, will soon have the atomic bomb.
 description_doublefront_long=Can two wars be fought at the same time?\nThis is the bet the USA made in the 1960s, by fighting poverty at home and communists overseas in Vietnam.\nThe Soviets are progressively discovering that a new enemy, communist this time, will soon have the atomic bomb.
+
+$borneonord=Sarawak
+$constitutionalistes=Constitutionalists
