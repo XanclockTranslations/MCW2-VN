@@ -1411,7 +1411,7 @@ $annee70evt2detail=An urban guerrilla appears
 $annee70evt3=Argentina: the consul of Paraguay has been kidnapped by a new revolutionary movement
 $annee70evt3detail=An urban guerrilla appears
 
-$annee70evt4=Boliva: the new government implements a nationalisation policy
+$annee70evt4=Bolivia: The new government implements a nationalization policy.
 $annee70evt4detail=The relations with the USA deteriorate sharply
 
 $annee70evt5=Chile: Salvador Allende elected President!
@@ -1423,7 +1423,7 @@ $annee70evt6detail=The relations with the USA improve, the relations with the US
 $annee70evt7=Japan: bloody riots in Koza against the American presence
 $annee70evt7detail=The relations with the USA deteriorate, the Japanese stability decreases
 
-$annee70evt8=Iraq: the Kurdish rebels could lay their weapons down.
+$annee70evt8=Iraq: the Kurdish rebels may lay their weapons down.
 $annee70evt8detail=The Iraqi stability increases and negotiations begins with the Kurdish rebels
 
 $annee70evt9=North Yemen: toward the end of the civil war?
@@ -1493,7 +1493,7 @@ $annee71evt12detail=The independence of Bangladesh is at stakes
 $annee71evt13=Egypt: Recovery revolution
 $annee71evt13detail=The Egyptian stability increase and the goverment is purged of some its elements that were the most favourable to Moscow (relations deteriorate)
 
-$annee71evt14=Iran: magnificent celebrations for the 2500th anniversary if the Iranian monarchy
+$annee71evt14=Iran: magnificent celebrations for the 2500th anniversary of the Iranian monarchy
 $annee71evt14detail=This kind of dynasty is rock-solid! (stability +2, even if certain sourpusses condemn the showcase of splendour!)
 
 $annee71evt15=United Kingdom: growth of violence in Northern Ireland
@@ -1529,7 +1529,7 @@ $zair=Zaïre
 
 
 
-$annee72evt1=Tunisia: student revolt
+$annee72evt1=Tunisia: students riot
 $annee72evt1detail=Stability decreases
 
 $annee72evt2=Congo: the mutineers go into hiding
@@ -1541,7 +1541,7 @@ $annee72evt3detail=The guerrillas gain the trait Negotiations, the country gains
 $annee72evt4=Madagascar: general strike
 $annee72evt4detail=Stability decreases
 
-$annee72evt5=Sahelian droughr
+$annee72evt5=Sahelian drought
 $annee72evt5detail=Stability decreases in the Sahelian countries
 
 $annee72evt6=Proclamation of the Republic of Southern Rhodesia

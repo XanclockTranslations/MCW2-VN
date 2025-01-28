@@ -6825,27 +6825,27 @@ __________________________________________________________________
 $titre1970a=THE INVASION OF CAMBODIA
 
 
-$texte1970a=If the United States are to withdraw from Vietnam one, this must be with heads high. \nThe North Vietnamese are using Cambodia as their rear base and training area. \nThis situation is not new but, as long as it lasts, there is a risk that the enemy will use this path to turn our retreat into a debacle. \nWe must militarily intervene in Cambodia to let Vietnam catch its breath. \nHowever, our public opinion is tired of war and will be reluctant to accept such an operation.
+$texte1970a=If the United States is to withdraw from Vietnam, it must do so with heads held high. \nThe North Vietnamese are using Cambodia as their rear base and training area. \nThis situation is not new, but as long as it persists, there is a risk that the enemy will use this path to turn our retreat into a debacle. \nWe must militarily intervene in Cambodia to give Vietnam a chance to catch its breath. \nHowever, our public opinion is tired of war and will be reluctant to accept such an operation.
 
 
 $choix11970a=Let us intervene in Cambodia ($5)
-$choix11970atitle=Will dispatch American troops to Cambodia, disturb the Ho Chi Minh trail and increase pacifist contestation.
+$choix11970atitle=Dispatching American troops to Cambodia will disturb the Ho Chi Minh trail and increase pacifist opposition.
+
 
 $choix21970a=Let us do nothing
-$choix21970atitle=The enemy activity in Cambodia increases
+$choix21970atitle=Enemy activity in Cambodia is increasing.
 
 $titre1970a1=THE INVASION OF CAMBODIA
 
 
-$texte1970a1=
-Our intervention was decisive! \nThe Vietnamese are evacuating Cambodia in emergency, chased by our troops and bombarded by our aviation. \nPrince Sihanouk, from his Chinese exile in Beijing, proclaimed a National United Front of Kampuchea (Front National Uni du Kampuchéa). He officialised this way his choice of an alliance between the monarchy, the Khmers Rouges, the Pathet Lao and the Vietnamese communists. \nLuckily for us, the actual influence of this political weathercock is limited.
+$texte1970a1=Our intervention was decisive! \nThe Vietnamese are evacuating Cambodia in an emergency, chased by our troops and bombarded by our aviation. \nPrince Sihanouk, from his Chinese exile in Beijing, proclaimed a National United Front of Kampuchea (Front National Uni du Kampuchéa). He officially formalized his choice of an alliance between the monarchy, the Khmer Rouge, the Pathet Lao, and the Vietnamese communists. \nLuckily for us, the actual influence of this political weathercock is limited.
 
 
 
 $titre1970a2=THE INVASION OF CAMBODIA
 
 
-$texte1970a2=While the Vietminh bases are multiplying and reinforcing in Cambodia, Prince Sihanouk, from his Chinese exile in Beijing, proclaimed a National United Front of Kampuchea (Front National Uni du Kampuchéa). He officialised this way his choice of an alliance between the monarchy, the Khmers Rouges, the Pathet Lao and the Vietnamese communists. \nLuckily for us, the actual influence of this political weathercock is limited.
+$texte1970a2=While the Vietminh bases are multiplying and reinforcing in Cambodia, Prince Sihanouk, from his Chinese exile in Beijing, proclaimed a National United Front of Kampuchea (Front National Uni du Kampuchéa). He officially formalized his choice of an alliance between the monarchy, the Khmer Rouge, the Pathet Lao, and the Vietnamese communists. \nLuckily for us, the actual influence of this political weathercock is limited.
 
 
 
@@ -6854,54 +6854,55 @@ $texte1970a2=While the Vietminh bases are multiplying and reinforcing in Cambodi
 $titre1970b=MISSILES FOR EGYPT
 
 
-$texte1970b=Israel launched a bombing and attrition war against Egypt. \nThe Egyptian people stands united behind his leader who came to Moscow to ask for our help. \nA massive delivery of our latest ground-to-air ballistic missiles could very well calm things down in this part of the world by holding the Israeli aviation back. \nSuch a delivery would however unveil the real capabilities of our weapons to the Westerners, but that seems worthwhile.
+$texte1970b=Israel launched a bombing and attrition war against Egypt. \nThe Egyptian people stand united behind their leader, who came to Moscow to ask for our help. \nA massive delivery of our latest ground-to-air ballistic missiles could very well calm things down in this part of the world by holding the Israeli aviation back. \nSuch a delivery would, however, unveil the real capabilities of our weapons to the Westerners, but that seems worthwhile.
 
 
 $choix11970b=Let us give them missiles.(-$50)
-$choix11970btitle=Will increase tension, will increase the military capability and stability of Egypt which loses the Non-aligned trait.
+$choix11970btitle=It will increase tension, enhance the military capability and stability of Egypt, which will lose the Non-aligned trait.
 
 $choix21970b=Let them handle this on their own!
-$choix21970btitle=Will decrease tension, your relations with Egypt will deteriorate while the American relations with Egypt will increase
+$choix21970btitle=It will decrease tension, your relations with Egypt will deteriorate, while American relations with Egypt will increase.
 
 $titre1970b1=OPERATION CAUCASUS
 
 
-$texte1970b1=18 SA-3 missiles battery were just delivered to Egypt. \nThese weapons are so secrete they had never ever been deployed outside the USSR before. For good measure, 80 MiG fighter jets will also be sent to complete the Egyptian aviation. \nShould a new war break out, Israel would surely not enjoy air supremacy...
+$texte1970b1=18 SA-3 missile batteries were just delivered to Egypt. \nThese weapons are so secret that they had never been deployed outside the USSR before. For good measure, 80 MiG fighter jets will also be sent to complete the Egyptian aviation. \nShould a new war break out, Israel would surely not enjoy air supremacy...
 
 
 
 $titre1970b2=NO MISSILES FOR EGYPT
 
 
-$texte1970b2=Equipping Egypt with weapons would boils down to support its leader warmongering position, we were wise enough not to grant him his requests. \nHowever, the Egyptian territory is still regularly bombed and our reserved attitude in this case surprised our allies across the world. \nThe American diplomats are going out of their way to multiply contacts with the Egyptians, at all levels, but their demands and uncompromising stand prevent their nefarious influence to ruin our relations with this country.
-
+$texte1970b2=Equipping Egypt with weapons would boil down to supporting its leader's warmongering position; we were wise enough not to grant him his requests. \nHowever, the Egyptian territory is still regularly bombed, and our reserved attitude in this case has surprised our allies across the world. \nAmerican diplomats are going out of their way to multiply contacts with the Egyptians at all levels, but their demands and uncompromising stance prevent their nefarious influence from ruining our relations with this country.
 
 
 // EVT C
 
-$titre1970c=AEROPLANES FOR ISRAEL?
+$titre1970c=AIRLANES FOR ISRAEL?
 
 
-$texte1970c=Israel launched a bombing and attrition war against Egypt. \nThe Egyptian people stands united behind his leader who came to Moscow to ask for Soviet help. \nThe Soviets responded favourably to his requests and the Israeli raids could be restrained as a result. \nOn the one hand, an attrition war on both sides of the Suez canal, which is used by ships from around the world, is not in our best interest. \nOn the other hand, we cannot let the regional ratio of power tilt too much toward one side… \nThe Israelis asked for more aeroplanes. \nIf we agree to their request, we may very well precipitate a war…
+$texte1970c=Israel launched a bombing and attrition war against Egypt. \nThe Egyptian people stand united behind their leader, who came to Moscow to ask for Soviet help. \nThe Soviets responded favorably to his requests, and the Israeli raids could be restrained as a result. \nOn the one hand, an attrition war on both sides of the Suez Canal, which is used by ships from around the world, is not in our best interest. \nOn the other hand, we cannot let the regional balance of power tilt too much toward one side… \nThe Israelis asked for more airplanes. \nIf we agree to their request, we may very well precipitate a war…
 
 
-$choix11970c=Let us give them these aeroplanes (-$50)
-$choix11970ctitle=Will increase tension and both the military cabaility and stability of Israel, (risking to trigger a war.)
+$choix11970c=Let us give them these airplanes. (-$50)
+
+$choix11970ctitle=It will increase tension and both the military capability and stability of Israel, risking triggering a war.
+
 
 $choix21970c=Let them handle this on their own!
-$choix21970ctitle=Your relations with Israel will deteriorate and tension will decreases
-
-$titre1970c1=AEROPLANES FOR ISRAEL
+$choix21970ctitle=Your relations with Israel will deteriorate, and tension will decrease.
 
 
-$texte1970c1=Our aeroplanes were rapidly put to good use! \nThe Israeli air raids along the Suez canals are multiplying. \nHowever, the first incoming reports are worrying: the Egyptians are now capable of defending themselves. \nOur experts disagree on the real causes for the loss of 3 Israeli planes last week: these missiles delivered by the Soviets, they cannot be this efficient, can they?
+$titre1970c1=AIRPLANES FOR ISRAEL
 
 
+$texte1970c1=Our airplanes were rapidly put to good use! \nThe Israeli air raids along the Suez Canal are multiplying. \nHowever, the first incoming reports are worrying: the Egyptians are now capable of defending themselves. \nOur experts disagree on the real causes for the loss of 3 Israeli planes last week: these missiles delivered by the Soviets can't be that efficient, can they?
 
-$titre1970c2=NO AEROPLANES FOR ISRAEL
+
+$titre1970c2=NO AIRPLANES FOR ISRAEL
 
 
-$texte1970c2=The Israelis are extremely disappointed and started to turn to other partners like the French. \nOur interlocutors in the region do appreciate that we restrained from adding fuel to the fire by fuelling this conflict.
+$texte1970c2=The Israelis are extremely disappointed and have started turning to other partners, like the French. \nOur interlocutors in the region appreciate that we refrained from adding fuel to the fire by fueling this conflict.
 
 
 
@@ -6910,7 +6911,7 @@ $texte1970c2=The Israelis are extremely disappointed and started to turn to othe
 $titre1970d=WAR IT IS!
 
 
-$texte1970d=Israel preferred not to wait for Egypt to reinforce even more its armed forces:  \na great offensive was launched against the Egyptian positions. \nAccording to the first battle reports, the Egyptian forces seem to hold their ground! \nIn the North, in the Golan Heights, the Syrian army just joined the party. \nWill Israel be able to get out of this new war she seems to have started with haste?
+$texte1970d=Israel preferred not to wait for Egypt to reinforce its armed forces even further: \na major offensive was launched against the Egyptian positions. \nAccording to the first battle reports, the Egyptian forces seem to be holding their ground! \nIn the North, in the Golan Heights, the Syrian army has just joined the party. \nWill Israel be able to get out of this new war it seems to have started in haste?
 
 
 
@@ -6920,46 +6921,48 @@ $texte1970d=Israel preferred not to wait for Egypt to reinforce even more its ar
 $titre1970e=THE ROGERS MISSION
 
 
-$texte1970e=The situation is still tensed in the Sinai desert between Egypt and Israel. \nWhile Egypt is reinforcing its anti-air defences, Israel is committed to an attrition and bombing war along the Suez canal. \n	There is a risk that this vital artery for international trade would be cut again because of a conflict. \nWilliam P. Rogers had already proposed a plan for peace, we must continue in this direction. \nIf we were to restore peace in this region, the benefits in terms of prestige would be tremendous for us. \nThis approach however fails to win everyone's support and some in the Department of State believe we should instead push Israel to pressure the Egyptian to the point where they understand we are the ones holding the keys for peace in the Middle-East (and, incidentally, make them break their relations with the Soviets).
+$texte1970e=The situation is still tense in the Sinai Desert between Egypt and Israel. \nWhile Egypt is reinforcing its anti-air defenses, Israel is committed to an attrition and bombing war along the Suez Canal. \nThere is a risk that this vital artery for international trade could be cut off again due to the conflict. \nWilliam P. Rogers had already proposed a peace plan; we must continue in this direction. \nIf we were to restore peace in this region, the benefits in terms of prestige would be tremendous for us. \nThis approach, however, fails to win everyone's support, and some in the Department of State believe we should instead push Israel to pressure the Egyptians to the point where they understand we are the ones holding the keys to peace in the Middle East (and, incidentally, make them break their relations with the Soviets).
 
 $choix11970e=Let us send the diplomats! (prestige +25)
 $choix11970etitle=Will decrease tension
 
 $choix21970e=Let us add fuel to the fire
-$choix21970etitle=Will increase tension (with a risk of random positive or negative effects)
+$choix21970etitle=It will increase tension (with a risk of random positive or negative effects).
 
 $choix31970e=Let us not meddle in this!
+
 $choix31970etitle=No effect
 
 $titre1970e1=THE ROGERS MISSION
 
 
-$texte1970e1=Our efforts paid off! \nA ceasefire was concluded between Egypt and Israel. \nThis is a true victory for our diplomats.
-But how long will it last? \nLittle time if you listen to the less optimisitc experts: the Egyptians are already busy installing AA missiles sites in the "forbidden" area defined in the accords.
+$texte1970e1=Our efforts paid off! \nA ceasefire was concluded between Egypt and Israel. \nThis is a true victory for our diplomats. \nBut how long will it last? \nNot long, if you listen to the less optimistic experts: the Egyptians are already busy installing AA missile sites in the "forbidden" area defined in the accords.
 
 
 $titre1970e2=THE ROGERS MISSION
 
 
-$texte1970e2=The Rogers mission is a pitiful failure while the shells are raining on both sides of the canal. \n
+$texte1970e2=The Rogers mission is a pitiful failure, while shells are raining on both sides of the canal.
 
-$israelpieddeguerre=\n\nOur analysts think the Israelis may have misinterpreted our encouragements: signs of a shift to offensive in their army are coming more and more numerous as time passes.
+$israelpieddeguerre=Our analysts think the Israelis may have misinterpreted our encouragements: signs of a shift to an offensive in their army are becoming more numerous as time passes.
 
-$egypterenforce=\nGetting the measure of the tension in this area, the USSR just agreed to deliver more military equipment to Egypt to meet the pressing requests of Cairo. \n
-
-
-$mecontentementarabe=\nThe Arab world lost the last illusions it may have been entertaining on our regional policy and our popularity is in free fall among the countries in the Middle East.
+$egypterenforce=\nGetting a measure of the tension in this area, the USSR has just agreed to deliver more military equipment to Egypt to meet the pressing requests of Cairo.
 
 
-$arabvener=this country blames the USA for seeking war in Middle East
-$arabvenertitle=The relations of this country with the USA deteriorate (-1)
+$mecontentementarabe=\nThe Arab world has lost the last illusions it may have been entertaining about our regional policy, and our popularity is in free fall among the countries in the Middle East.
 
-$egypterealigne=\nEgypt begins to understand that, to get out of this crisis, it must distantiate itself from the USSR. \nA first visible sign of tension between Cairo and Moscow was the recall of Soviet military experts back to Russia.
+
+$arabvener=this country blames the USA for seeking war in the Middle East.
+
+$arabvenertitle=The relations of this country with the USA are deteriorating (-1).
+
+
+$egypterealigne=\nEgypt begins to understand that, to get out of this crisis, it must distance itself from the USSR. \nA first visible sign of tension between Cairo and Moscow was the recall of Soviet military experts back to Russia.
 
 $titre1970e3=LA MISSION ROGERS
 
 
-$texte1970e3=Meanwhile, in Cairo... \nIn general indifference, the shells keep falling in the canal area. \nThis is nothing more but nationalist gesticulations aimed at pleasing the people. The real risks of actual war are very in low in the end.
+$texte1970e3=Meanwhile, in Cairo... \nIn general indifference, the shells keep falling in the canal area. \nThis is nothing more than nationalist gesticulations aimed at pleasing the people. The real risks of actual war are very low in the end.
 
 
 // EVT F
@@ -6967,22 +6970,23 @@ $texte1970e3=Meanwhile, in Cairo... \nIn general indifference, the shells keep f
 $titre1970f=OSTPOLITIK
 
 
-$texte1970f=The West German chancellor Willy Brandt extends the hand of friendship to the Soviet bloc. \nHe intends to normalise the relations of the FRG with the GDR and Poland, and to resume economic exchanges. \nA treaty recognising the statu quo in Europe and the borders resulting from WW2 has been drafted. \nThis treaty will reaffirm our grip on Eastern Europe!
+$texte1970f=The West German chancellor Willy Brandt extends the hand of friendship to the Soviet bloc. \nHe intends to normalize the relations of the FRG with the GDR and Poland, and to resume economic exchanges. \nA treaty recognizing the status quo in Europe and the borders resulting from WWII has been drafted. \nThis treaty will reaffirm our grip on Eastern Europe!
 
 $choix11970f=Let us sign this treaty! (prestige +100)
-$choix11970ftitle=Will decrease tension, will increase the stability of the GDR and Poland and will regularly triggers random events.
+$choix11970ftitle=It will decrease tension, increase the stability of the GDR and Poland, and will regularly trigger random events.
 
 $choix21970f=We shall not accept the hand of friendship!
+
 $choix21970ftitle=Increase Stalinism
 
 $titre1970f1=OSTPOLITIK
 
-$texte1970f1=This is a complete series of bilateral treaties between the FRG and the Eastern countries that will be signed. Larger agreements are concluded between the West and the East on European security, nuclear weapons and Berlin. \nThis Neue Ostpolitik also and especially marks the return of Germany to the diplomatic front stage, after years of low profile, hiding in the shadows from the crimes of the 3rd Reich and its defeat.
+$texte1970f1=This is a complete series of bilateral treaties between the FRG and the Eastern countries that will be signed. Larger agreements are concluded between the West and the East on European security, nuclear weapons, and Berlin. \nThis Neue Ostpolitik also, and especially, marks the return of Germany to the diplomatic stage, after years of maintaining a low profile, hiding in the shadows from the crimes of the Third Reich and its defeat.
 
 
 $titre1970f2=OSTPOLITIK
 
-$texte1970f2=We made ourselves very clear to the West Germans: they have only one interlocutor and this is us! \nThese attempts to set up bilateral agreements with the Eastern countries are nothing more than a clumsy manoeuvre to plant the seeds of division in the socialist camp.
+$texte1970f2=We made ourselves very clear to the West Germans: they have only one interlocutor, and that is us! \nThese attempts to set up bilateral agreements with the Eastern countries are nothing more than a clumsy maneuver to plant the seeds of division in the socialist camp.
 
 
 //EVT G
@@ -6990,11 +6994,7 @@ $texte1970f2=We made ourselves very clear to the West Germans: they have only on
 $titre1970g=BLACK SEPTEMBER
 
 
-$texte1970g=The Palestinian groups located in Jordan eventually built a real State within the State. \nWhile the king is looking for peace with his Israeli neighbour, the Palestinians are openly calling for the fall of the monarchy. \n« All what we want is to fight Israel and nothing else. But the Jordanian regime consider that our sole presence in the country represents a danger (...) For us, King Hussein is a reactionary leader, leader of a reactionary State and, as such, an obstacle. To succeed with our revolution, we must remove this obstacle ». \n[i]George Habash.[/i] \nToday, the Palestinians just blew 3 hijacked planes up in front of the international press. \nThis is the final straw that broke the camel's back for the monarchy which just ordered the army to attack the Palestinian camps. 
-
-
-
-
+$texte1970g=The Palestinian groups located in Jordan eventually built a real state within the state. \nWhile the king is looking for peace with his Israeli neighbor, the Palestinians are openly calling for the fall of the monarchy. \n"All we want is to fight Israel and nothing else. But the Jordanian regime considers that our sole presence in the country represents a danger (...) For us, King Hussein is a reactionary leader, leader of a reactionary state and, as such, an obstacle. To succeed with our revolution, we must remove this obstacle." \n[i]George Habash.[/i] \nToday, the Palestinians just blew up 3 hijacked planes in front of the international press. \nThis is the final straw that broke the camel's back for the monarchy, which has just ordered the army to attack the Palestinian camps.
 
 $choix11970g=Things are getting bloody in Jordan!
 $choix11970gtitle=Will the monarchy survive ?
@@ -7003,61 +7003,56 @@ $choix11970gtitle=Will the monarchy survive ?
 $titre1970g1=BLACK SEPTEMBER
 
 
-$texte1970g1=After 10 days of bombing by the Jordanian army, the fedayeens are eventually driven out of the country. \nArmoured vehicles of the Syrian army attempted to support the rebels byt were destroyed by the Jordanian airforces. \nThe surviving Palestinians took shelter in Lebanon. \nThe Jordanian monarchy, supported by the tribes, emerged strengthened from this showdown. 
+$texte1970g1=After 10 days of bombing by the Jordanian army, the fedayeen were eventually driven out of the country. \nArmored vehicles of the Syrian army attempted to support the rebels but were destroyed by the Jordanian air forces. \nThe surviving Palestinians took shelter in Lebanon. \nThe Jordanian monarchy, supported by the tribes, emerged strengthened from this showdown.
 
 
 //EVT H
 
 $titre1970h=THE TANZAM
 
-$texte1970h=Africa is a land of promises. This continent is currently shaking the yoke of colonialism and imperialism. \nThis is a land where we can spread our vision. \nTanzania is waiting with gratitude for our aid to build the Tanzania-Zambia railway.  \nThis would be the largest Chinese project abroad, and a showcase for our know-how.
+$texte1970h=Africa is a land of promise. This continent is currently shaking off the yoke of colonialism and imperialism. \nThis is a land where we can spread our vision. \nTanzania is waiting with gratitude for our aid to build the Tanzania-Zambia railway. \nThis would be the largest Chinese project abroad, and a showcase for our know-how.
 
 
 $choix11970h=Let us build the TANZAM! (-$25 / Prestige +50)
-$choix11970htitle=Will improve your relations with Tanzania
+$choix11970htitle=It will improve your relations with Tanzania.
 
-$choix21970h=Let us pleasantly discuss other forms of cooperation
-$choix21970htitle=The country draws closer to the USSR
+$choix21970h=Let us discuss other forms of cooperation in a pleasant manner.
+$choix21970htitle=The country is drawing closer to the USSR.
+
 
 $titre1970h1=THE TANZAM
 
-$texte1970h1=Construction should take at least 5 years. \nThe railway line will depart fromde Dar es Salaam, run through Tanzania to connect to the Zambian railway network in Kapiri Mposhi. \nThis construction work is only the first step of our commitment in Africa.
+$texte1970h1=Construction should take at least 5 years. \nThe railway line will depart from Dar es Salaam, run through Tanzania, and connect to the Zambian railway network in Kapiri Mposhi. \nThis construction work is only the first step of our commitment in Africa.
 
 
 $titre1970h2=THE TANZAM
 
-$texte1970h2=Our embassy in Tanzania was copiously fed with books and poems of Mao Zedong, which are generously distributed to the Tanzanians that ask for them. \nOur honeymoon with Africa just begins! \nHowever, the Tanzanian government seems to get closer to Moscow to fund the construction of a railway network in the country.
+$texte1970h2=Our embassy in Tanzania was copiously supplied with books and poems by Mao Zedong, which are generously distributed to Tanzanians who ask for them. \nOur honeymoon with Africa has just begun! \nHowever, the Tanzanian government seems to be getting closer to Moscow to fund the construction of a railway network in the country.
 
 
-
-
-
-
+//1971
 
 
 $titre1971a=PING-PONG DIPLOMACY
 
 
-$texte1971a=It is now time to play the diplomacy card with Beijing! \nLast April, the U.S. Table Tennis team has been received by Chairman Mao. \nWe could continue pursuing this opening to China by sending our National Security Advisor to this country. \nThis visit would be a secret one and would have to prepare the ground for a number of case files: Taiwan, Vietnam, the membership of the People's Republic of China in the UNO… \nAnd what about an official visite of the President of the United States of America to China? \n
+$texte1971a=It is now time to play the diplomacy card with Beijing! \nLast April, the U.S. Table Tennis team was received by Chairman Mao. \nWe could continue pursuing this opening to China by sending our National Security Advisor to the country. \nThis visit would be secret and would have to prepare the ground for a number of case files: Taiwan, Vietnam, the membership of the People's Republic of China in the UN... \nAnd what about an official visit by the President of the United States of America to China?
 
 
-$choix11971a=Let us open a secret dialogue
-$choix11971atitle=Will improve your relations with China and prepare an official visit
+$choix11971a=Let us initiate a secret dialogue.
+$choix11971atitle=It will improve your relations with China and prepare for an official visit.
+
 
 $choix21971a=China is an enemy country
-$choix21971atitle=Will improve your relations with Taiwan if this country is not in the socialist camp
+$choix21971atitle=It will improve your relations with Taiwan, provided that this country is not in the socialist camp.
 
 $titre1971a1=PING-PONG DIPLOMACY
 
-
-$texte1971a1=Henry Kissinger managed to meet the Chinese on several occassions and established the principles of a visit of the U.S. President in China. \nWe have a concern in common with the Chinese - the fear of the Soviets - along numerous topics to tackle, like the situation in Vietnam. \nThrough dialogue, we could find a modus vivendi with the China in Asia.
-
-
+$texte1971a1=Henry Kissinger managed to meet the Chinese on several occasions and established the principles for a visit of the U.S. President to China. \nWe share a common concern with the Chinese—the fear of the Soviets—along with numerous topics to tackle, like the situation in Vietnam. \nThrough dialogue, we could find a modus vivendi with China in Asia.
 
 $titre1971a2=PING PONG DIPLOMACY
 
-
-$texte1971a2=The Chinese diplomats are running away faced with a simple attempt of approach by a Westerner: How could they ever imagine that normalising relations with this paranoid regime would even be possible?
+$texte1971a2=The Chinese diplomats are running away at the mere attempt of an approach by a Westerner: How could they ever imagine that normalizing relations with this paranoid regime would even be possible?
 
 
 
@@ -7066,25 +7061,22 @@ $texte1971a2=The Chinese diplomats are running away faced with a simple attempt 
 $titre1971b=PING-PONG DIPLOMACY
 
 
-$texte1971b=Last April, the U.S. Table Tennis team has been welcomed by Chairman Mao, and the U.S. President is not hiding his willingness to improve the relations between the USA and China. \nIf our enemies are now starting to get along against us, our situation will become more and more risky. \nWe will have to increase our military spendings to be ready to fight on several fronts. \nThought it is too soon to worry about a Washingont-Beijing axis,  we cannot ignore these timid gestures of rapprochement any longer.
+$texte1971b=Last April, the U.S. Table Tennis team was welcomed by Chairman Mao, and the U.S. President is not hiding his willingness to improve relations between the USA and China. \nIf our enemies are now starting to get along against us, our situation will become more and more risky. \nWe will have to increase our military spending to be ready to fight on several fronts. \nThough it is too soon to worry about a Washington-Beijing axis, we cannot ignore these timid gestures of rapprochement any longer.
 
 
 $choix11971b=Let us calm down the situation (but prepare for the worst)
-$choix11971btitle=Decrease tension and your military spendings, the relations between China and the United States improve
+$choix11971btitle=Decrease tension,  increase your military spendings, the relations between China and the United States improve
 
 $choix21971b=Si vis pacem, para bellum ('If you want peace, prepare for war')
-$choix21971btitle=Increase tension and your military spendings, the relations between China and the United States improve
+$choix21971btitle=Increase tension and your military spending, and the relations between China and the United States will improve.
 
 $titre1971b1=PING-PONG DIPLOMACY
 
-
-$texte1971b1=The chairman of the Council of Ministers managed to travel discreetly to Beijing to meet Zhou Enlai. \nThere is still tension between our two countries but the risk of a war seems to have moved away. \nThe Red Army has been massively redeployed along the Chinese border for the past two years; 25 divisions plus 1,200 aeroplanes cast their deterring shadow over our troublesome neighbour. \nThere should be no more border incident anytime soon... 
-
+$texte1971b1=The chairman of the Council of Ministers managed to travel discreetly to Beijing to meet Zhou Enlai. \nThere is still tension between our two countries, but the risk of war seems to have moved away. \nThe Red Army has been massively redeployed along the Chinese border for the past two years; 25 divisions plus 1,200 airplanes cast their deterring shadow over our troublesome neighbor. \nThere should be no more border incidents anytime soon...
 
 $titre1971b2=PING-PONG DIPLOMACY
 
-
-$texte1971b2=We must remind the Chinese that Beijing is a couple of weeks away for our tanks. \nThe Red Army has been massively redeployed along the Chinese border for the past two years; 25 divisions plus 1,200 aeroplanes cast their deterring shadow over our troublesome neighbour. \nThere should be no more border incident anytime soon... 
+$texte1971b2=We must remind the Chinese that Beijing is just a couple of weeks away for our tanks. \nThe Red Army has been massively redeployed along the Chinese border for the past two years; 25 divisions plus 1,200 airplanes cast their deterring shadow over our troublesome neighbor. \nThere should be no more border incidents anytime soon...
 
 
 // EVT C
@@ -7092,70 +7084,66 @@ $texte1971b2=We must remind the Chinese that Beijing is a couple of weeks away f
 $titre1971c=THE END OF THE BRETTON WOODS SYSTEM?
 
 
-$texte1971c=Ever since the Bretton Woods agreements (July 1944), the international monetary system revolves around the US dollar, which is itself tied to gold. \nThe world economy (and inflation) are thus dependent on the dollar. \nThe space race and the Vietnam war provoked a strong inflation in dollars that spreaded to the entire world via the dollar-holding countries. \nThe Federal Republic of Germany decided today to claim the reimbursement of its dollars in gold. \nIf this example was to be followed, it would lead to guaranteed disappearance of our gold reserves and, as a result, the collapse of the world economy. \nWe should take action and suspend the convertibility of the US dollar to gold. \nOur prestige will take a hit but certainely less than our budget!
+$texte1971c=Ever since the Bretton Woods agreements (July 1944), the international monetary system has revolved around the US dollar, which is itself tied to gold. \nThe world economy (and inflation) is thus dependent on the dollar. \nThe space race and the Vietnam War provoked strong inflation in dollars that spread to the entire world via dollar-holding countries. \nThe Federal Republic of Germany decided today to claim the reimbursement of its dollars in gold. \nIf this example were to be followed, it would lead to the guaranteed disappearance of our gold reserves and, as a result, the collapse of the world economy. \nWe should take action and suspend the convertibility of the US dollar to gold. \nOur prestige will take a hit, but certainly less than our budget!
 
 
 
 $choix11971c=Let us suspend the convertibility to gold!(prestige - 500)
 $choix11971ctitle=You lose prestige and the world economy becomes instable
 
-$choix21971c=Let us maintain the convertibility to gold.(monthly budget -$25)
-$choix21971ctitle=Your budget decreases significantly
+$choix21971c=Let us maintain the convertibility to gold. (monthly budget -$25)
+$choix21971ctitle=Your budget decreases significantly.
+
 
 $titre1971c1=THE END OF THE BRETTON WOODS SYSTEM
 
-
-$texte1971c1=The President of the USA took cognisance of the steady disaggregation of the world monetary system, pressured by the less and less well-contained inflation. \nThe central banks have serious difficulties coping with fluctuations of the dollar. It was about time to throw in the towel. \nThe President announced this way the end of the convertibility of dollar to gold, a tax on imports and a prices & wages freeze. \n
-This spectacular announcement plunged the world into uncertainty.
+$texte1971c1=The President of the USA took cognizance of the steady disaggregation of the world monetary system, pressured by the increasingly uncontrollable inflation. \nThe central banks have serious difficulties coping with fluctuations in the dollar. It was about time to throw in the towel. \nThe President announced the end of the convertibility of the dollar to gold, a tax on imports, and a price and wage freeze. \nThis spectacular announcement plunged the world into uncertainty.
 
 
 $titre1971c2=BRETTON WOODS FOREVER
 
 
-$texte1971c2=America must honour its engagements, even if the mission turns our to be a burden. \nThis way, they will all know they can always trust us.
+$texte1971c2=America must honor its engagements, even if the mission turns out to be a burden. \nThis way, they will all know they can always trust us.
 
 
 // EVT D
 
 $titre1971d=HIPPIES IN TALLINN!
 
-$texte1971d=The East bloc is becoming more and more sensitive to Western influences. \nWhile the young Soviet dissenters are communicating more and more easily with the West, jeans and Western music are washing over in the East and corrupting our youth. \nHippies have even been spotted in Estonia! \nIt is time to start a preventive suppression campaign. 
+$texte1971d=The East bloc is becoming more and more sensitive to Western influences. \nWhile the young Soviet dissenters are communicating more easily with the West, jeans and Western music are washing over the East and corrupting our youth. \nHippies have even been spotted in Estonia! \nIt is time to start a preventive suppression campaign.
 
 
-$choix11971d=This is not being decadent but simply being young!
-$choix11971dtitle=Shapr decrease in Stalinism
+$choix11971d=This is not decadence, but simply being young!
+$choix11971dtitle=Sharp decrease in Stalinism.
 
 $choix21971d=Let us intimidate the deviants! (prestige -25)
-$choix21971dtitle=Decrease in Stalinism, but less painful
+$choix21971dtitle=Decrease in Stalinism, but with less pain.
 
 $titre1971d1=HIPPIES IN TALLINN!
 
-$texte1971d1=We may have been slightly too tolerant... \nThe basement of the Tallinn University of Technology is being squatted by psychedelic rock bands and, at the greatest dismay of the KGB, a Hare Krishna movement even developped in Estonia. \n
+$texte1971d1=We may have been slightly too tolerant... \nThe basement of the Tallinn University of Technology is being squatted by psychedelic rock bands and, to the great dismay of the KGB, a Hare Krishna movement has even developed in Estonia.
 
 
 $titre1971d2=HIPPIES IN TALLINN!
 
-$texte1971d2=The long-haired young people contaminated by the Western decay are sent to psychiatric hospitals. \nSurely, their ailment must have some sort of treatment... \nThe KGB makes sure that these activities do not degenrate into pointless criticism of the Soviet society (all deviance are possible when on drugs) and the rock bands are either censored or disbanded.
+$texte1971d2=The long-haired young people contaminated by Western decay are sent to psychiatric hospitals. \nSurely, their ailment must have some sort of treatment... \nThe KGB makes sure that these activities do not degenerate into pointless criticism of Soviet society (all deviance is possible when on drugs), and the rock bands are either censored or disbanded.
 
 
 // EVT E
 
 $titre1971e=PING-PONG DIPLOMACY
 
-$texte1971e=An American citizen go onto the bus carrying the Chinese team to the World Table Tennis Championships taking place in Japan! \nDuring over 15 minutes, our champion Zhuang Zedong discussed with him and exchanged presents. \nAll of these rare instants were captured by the press! \nWhen interviewed by a journalist, the American player, Glenn Cowan, expressed his desire to visit China. \nLess than 15 Americans set foot in China for the past 10 years: this would surely be an event. \nMany members of the Central Politburo condemn this visit but this could be a one-time opportunity to shine on the international stage.
-
+$texte1971e=An American citizen boarded the bus carrying the Chinese team to the World Table Tennis Championships taking place in Japan! \nFor over 15 minutes, our champion Zhuang Zedong spoke with him and exchanged gifts. \nAll of these rare moments were captured by the press! \nWhen interviewed by a journalist, the American player, Glenn Cowan, expressed his desire to visit China. \nFewer than 15 Americans have set foot in China in the past 10 years: this would surely be an event. \nMany members of the Central Politburo condemn this visit, but it could be a one-time opportunity to shine on the international stage.
 
 $choix11971e=Let us get closer to the Americans (prestige +25)
 $choix11971etitle=I mean, why not?
 
-$choix21971e=No arrangement with the imperialists!
+$choix21971e=No arrangements with the imperialists!
 $choix21971etitle=Increase Maoism
 
 $titre1971e1=PING-PONG DIPLOMACY
 
-$texte1971e1=This is a first step: the US team has officially been invited to play exhition matches in China. \nThe Americans enjoyed a full tour: visit of the Great Wall of China, the Summer Palace... \nJournalists from around the world could take lovely pictures and everybody separated in a happy mood! \n
-
-
+$texte1971e1=This is a first step: the US team has officially been invited to play exhibition matches in China. \nThe Americans enjoyed a full tour: a visit to the Great Wall of China, the Summer Palace... \nJournalists from around the world were able to take lovely pictures, and everyone left in a happy mood!
 
 $titre1971e2=PING-PONG DIPLOMACY
 
@@ -7166,7 +7154,7 @@ $texte1971e2=The ridiculous demand of the US team was promptly dismissed. \n
 
 $titre1971f=KISSINGER IN CHINA
 
-$texte1971f=This visit of American table tennis players had undreamt of effects: \nthe Americans asked to meet us and secret visits in China of Henry Kissinger have been organised to prepare the ground for a potential visit of the President of the USA in our country. \nThe least one can say is that the Americans really bent over when they came to us! Among their presents are:\n- A seat at the UN Security Council,\n- A disengagement of the USA from Asia,\nThey did not even asked for us to alleviating our criticisms of the American policy as a counterpart! \n
+$texte1971f=This visit by the American table tennis players had unexpected effects: \nThe Americans asked to meet with us, and secret visits to China by Henry Kissinger were organized to prepare the ground for a potential visit by the President of the USA to our country. \nThe least one can say is that the Americans really bent over backward when they came to us! Among their presents are:\n- A seat at the UN Security Council,\n- A disengagement of the USA from Asia. \nThey didn’t even ask us to alleviate our criticisms of American policy in return!
 
 
 
@@ -7174,29 +7162,28 @@ $texte1971f=This visit of American table tennis players had undreamt of effects:
 
 $titre1971g=WE ARE CHINA
 
-$texte1971g=The People's Republic of China was eventually admitted in the UNO by 76 favourable votes. \n(We know who the 35 'against' and the 17 abstentions are.). We will take the Republic of China's (Taiwan) permanent seat in the Security Council! \nThe world finally acknowledges as the official China! \nWe will now be able to use this tribune to condemn the imperialist policies of the USA and USSR![i]==> Prestige +500[/i] \n
+$texte1971g=The People's Republic of China was finally admitted to the UN by 76 favorable votes. \n(We know who the 35 'against' and the 17 abstentions are.) We will take the Republic of China's (Taiwan) permanent seat in the Security Council! \nThe world finally acknowledges us as the official China! \nWe will now be able to use this platform to condemn the imperialist policies of the USA and USSR! [i]==> Prestige +500[/i]
 
 // EVT H
 
 $titre1971h=DIVIDE AND RULE
 
-$texte1971h=The political faction game within the Chinese power circles is loosing its balance: the pragmaticists are left on the sidelines, the moment of glory of the Gang of Four around Mao's last wide Jiang Qing is over but Lin Biao's clique is scoring points. \nLin Biao enjoys full support from the army and is powerful enough to slow down any reform that could limit his power. \nChen Boda, one of Lin's supporters, just proposed to reestablish the position of President of the People's Republic of China: Lin Biao would logically take this position. \nIt is time to put things back in order.
+$texte1971h=The political faction game within the Chinese power circles is losing its balance: the pragmatists are left on the sidelines, the moment of glory of the Gang of Four around Mao's last wife Jiang Qing is over, but Lin Biao's clique is scoring points. \nLin Biao enjoys full support from the army and is powerful enough to slow down any reform that could limit his power. \nChen Boda, one of Lin's supporters, has just proposed reestablishing the position of President of the People's Republic of China: Lin Biao would logically take this position. \nIt is time to put things back in order.
 
 
-$choix11971h=Let us get done with Lin Biao
-$choix11971htitle=Maoism increases and Lin Biao will never be able to become Chairman again
+$choix11971h=Let us be done with Lin Biao.
+$choix11971htitle=Maoism is on the rise, and Lin Biao will never be able to become Chairman again.
 
-$choix21971h=Let us let Lin Biao move his pawns
-$choix21971htitle=Lin Biao takes power, he is close to the USSR and will reorganise the People's Liberation Army on the Red Army model
+$choix21971h=Let us allow Lin Biao to move his pawns.
+$choix21971htitle=Lin Biao takes power; he is close to the USSR and will reorganize the People's Liberation Army along the Red Army model.
 
 $titre1971h1=DIVIDE AND RULE
 
-$texte1971h1=Lin Biao's close friends are being kept out of power one by one and he is himself being accused of conspiracy against Chairman Maoo. \nLin Biao's own daughter revealed the plot, forcing the traitor and his family to flee to the USSR, begging for the protection of his masters. \nHis plane crashed in Mongolia, putting an end to this pitiful story.
-
+$texte1971h1=Lin Biao's close friends are being kept out of power one by one, and he himself is being accused of conspiring against Chairman Mao. \nLin Biao's own daughter revealed the plot, forcing the traitor and his family to flee to the USSR, begging for the protection of his masters. \nHis plane crashed in Mongolia, putting an end to this pitiful story.
 
 $titre1971h2=CHAIRMAN LIN BIAO
 
-$texte1971h2=Little by little, Lin Biao seized all of the Chinese power leverages. \nThe Army, the Politburo, the presidency... \nThe technocrats, with their slavish pragmaticism, got behind him but very few will escape the upcoming purges. \nKey trends are already appearing: \n- A hand is stretched to the USSR on the borders issue \n- The PLA is modernised following the Soviet model. \n[i]==> Lin Biao is now Chairman \n==> Superpower score +5 \n==> DEFCON +1 \n==> the Sino-Soviet split is cancelled \n==> the Ping-pong diplomacy is cancelled [/i]
+$texte1971h2=Little by little, Lin Biao seized all of the Chinese power levers. \nThe Army, the Politburo, the presidency... \nThe technocrats, with their slavish pragmatism, got behind him, but very few will escape the upcoming purges. \nKey trends are already appearing: \n- A hand is stretched to the USSR on the border issue \n- The PLA is modernized following the Soviet model. \n[i]==> Lin Biao is now Chairman \n==> Superpower score +5 \n==> DEFCON +1 \n==> The Sino-Soviet split is cancelled \n==> Ping-pong diplomacy is cancelled [/i]
 
 
 $linbiao=Lin Biao
@@ -7205,36 +7192,27 @@ $linbiao=Lin Biao
 
 $titre1971i=A LIBERATION WAR FOR BANGLADESH
 
-$texte1971i=The Indian public opinion could no longer tolerate the abuses of the Pakistanis in Bangladesh. \nDespite threats coming from Pakistan, Indian decide to intervene in this conflict where no less than the indpendence of Bangladesh is at stakes.
-
-
-
-
-
-
-
+$texte1971i=The Indian public opinion could no longer tolerate the abuses of the Pakistanis in Bangladesh. \nDespite threats from Pakistan, India decided to intervene in this conflict, where no less than the independence of Bangladesh is at stake.
 
 $titre1972a=A PRESIDENT IN CHINA
 
 
-$texte1972a="There is no place on this small planet for a billion of its potentially most able people to live in angry isolation." \nPresident Nixon plans to visit China and meet Chairman Mao. \nThere are many topics to be discussed with the Chinese, including the issue of Taiwan vis-a-vis China. \nA rapprochement with Beijing would further isolate the Soviets and force them to a thaw. \n
+$texte1972a="There is no place on this small planet for a billion of its potentially most able people to live in angry isolation." \nPresident Nixon plans to visit China and meet Chairman Mao. \nThere are many topics to be discussed with the Chinese, including the issue of Taiwan vis-à-vis China. \nA rapprochement with Beijing would further isolate the Soviets and force them into a thaw.
 
 
 $choix11972a=Nixon in Beijing!
-$choix11972atitle=Improve your relations with China, your relations with Taiwan deteiorate and tension decreases
+$choix11972atitle=Improve your relations with China, your relations with Taiwan deteriorate, and tension decreases.
 
 $choix21972a=This is too early for such a rapprochement
 $choix21972atitle=Nothing happens
 
 $titre1972a1=A PRESIDENT IN CHINA
 
-$texte1972a1=The presidential visit was a rousing success! \nThe Chinese accepted the fact that the Taiwan issue must be solved peacefully. \nBeyond this issue, President Nixon successfully laid the basis for long-term relations between our two peoples. \nAs the President puts it: \n"This was the week that changed the world, as what we have said in that Communique is not nearly as important as what we will do in the years ahead to build a bridge across 16,000 miles and 22 years of hostilities which have divided us in the past. And what we have said today is that we shall build that bridge."
-
-
+$texte1972a1=The presidential visit was a rousing success! \nThe Chinese accepted the fact that the Taiwan issue must be solved peacefully. \nBeyond this issue, President Nixon successfully laid the foundation for long-term relations between our two peoples. \nAs the President puts it: \n"This was the week that changed the world, as what we have said in that communiqué is not nearly as important as what we will do in the years ahead to build a bridge across 16,000 miles and 22 years of hostilities that have divided us in the past. And what we have said today is that we shall build that bridge."
 
 $titre1972a2=TOO EARLY TO MOVE
 
-$texte1972a2=Our public opinion would not understand that our President reconnects with a country which, as soon as it entered the UN Security Council, used it as a tribune to give our foreign policy both barrels. 
+$texte1972a2=Our public opinion would not understand that our President reconnects with a country which, as soon as it entered the UN Security Council, used it as a platform to criticize our foreign policy.
 
 
 //EVT B
@@ -7242,25 +7220,22 @@ $texte1972a2=Our public opinion would not understand that our President reconnec
 $titre1972b=SALT I
 
 
-$texte1972b=The time has come to proclaim a new era of "Peaceful coexistence". \nThe President of the Unites States is expected in Moscow to discuss nuclear strategic arms limitation. \nAn agreement ("SALT I") is foreseen to limit anti-ballistic missiles and the production of strategic arms as well as the installation of launching ramps. \nThis agreement will significantly contribute to decreasee tension between the two superpowers and slow the arms race down. \nBut is the right moment to drop our guard?
+$texte1972b=The time has come to proclaim a new era of "Peaceful coexistence." \nThe President of the United States is expected in Moscow to discuss nuclear strategic arms limitation. \nAn agreement ("SALT I") is foreseen to limit anti-ballistic missiles and the production of strategic arms, as well as the installation of launching ramps. \nThis agreement will significantly contribute to decreasing tension between the two superpowers and slow the arms race down. \nBut is this the right moment to drop our guard?
 
 
 $choix11972b=Let us sign this treaty!
 $choix11972btitle=The tension decreases sharply.
 
-$choix21972b=Let remain standing at the ready.
-$choix21972btitle=Your military spendings increase
+$choix21972b=Let us remain standing at the ready.
+$choix21972btitle=Both your military spending and your opponent's military spending increase
 
 $titre1972b1=SALT I
 
-$texte1972b1=This is a historical moment which marks a drift in the nuclear arms race. \nFor the next 5 years, the production of strategic arms and the installation of launching ramps will be limited, as well as the anti-ballistic missiles. \nSome bitter minds points out budgetary considerations as the reason behind this agreement rather than a real wish for peace.
-
-
+$texte1972b1=This is a historical moment that marks a shift in the nuclear arms race. \nFor the next 5 years, the production of strategic arms and the installation of launching ramps will be limited, as well as anti-ballistic missiles. \nSome bitter minds point out budgetary considerations as the reason behind this agreement, rather than a real wish for peace.
 
 $titre1972b2=SALT I
 
-$texte1972b2=The effective control of such an agreement would be a real conundrum and no one in our general staff would actually trust our opponents. \nEven is this arms race is a burden for our budget, we cannot be the first ones to throw in the towel!
-
+$texte1972b2=The effective control of such an agreement would be a real conundrum, and no one in our general staff would actually trust our opponents. \nEven if this arms race is a burden on our budget, we cannot be the first ones to throw in the towel!
 
 
 // EVT C
@@ -7268,35 +7243,30 @@ $texte1972b2=The effective control of such an agreement would be a real conundru
 $titre1972c=GAME OF THE CENTURY
 
 
-$texte1972c=The American Bobby Fisher managed to beat the Soviets on their own turf! \nDuring a memorable chess game, Fisher was finally done with Boris Spassky in Reykjavik, Iceland. \nAmerica is back! \n==>[i]The USA gain 10 prestige points[/i]
+$texte1972c=The American Bobby Fischer managed to beat the Soviets on their own turf! \nDuring a memorable chess game, Fischer finally defeated Boris Spassky in Reykjavik, Iceland. \nAmerica is back! \n-->[i]The USA gains 10 prestige points[/i]
 
 
 // EVT D
 
 $titre1972d=SOMETHING IS ROTTEN IN THE SOVIET STATE
 
-$texte1972d=The absence of reliable statistics and the lax control over civil servants make any steering of the Soviet economy impossible. \nNobody is able to tell which prices should be implemented and the circulating masses of money fail to find a single good to buy. \nA single consumer goods production is affected by general shortages: vodka. \nAlcoholism is making significant advances among the population. \nA second, parallel economy is thriving in the shadow of the official planned economy. \nCorruption is the norm to access rare resources which access is the hands of clans. \nOne must say that the example is given by the highest spheres of power…
-				
+$texte1972d=The absence of reliable statistics and the lax control over civil servants make steering the Soviet economy impossible. \nNobody is able to tell which prices should be implemented, and the circulating masses of money fail to find a single good to buy. \nA single consumer good production is affected by general shortages: vodka. \nAlcoholism is making significant advances among the population. \nA second, parallel economy is thriving in the shadow of the official planned economy. \nCorruption is the norm for accessing rare resources, which are in the hands of clans. \nOne must say that the example is set by the highest spheres of power…
 
 $choix11972d=That is the way it is… (monthly budget -$10)
-$choix11972dtitle=Corruption is at the heart of the State
+$choix11972dtitle=Corruption lies at the heart of the State.
 
-
-$choix21972d=Let us engage in a merciless fight against corruption! (monthly budget +\- ?)
-$choix21972dtitle=Increase Stalinism, a showdown will take place with the Brezhnev clan. If they win, they seize power. Should they lose, corruption will remain limited to $
-
-
+$choix21972d=Let us engage in a merciless fight against corruption! (monthly budget ± ?)
+$choix21972dtitle=Increase Stalinism, and a showdown will take place with the Brezhnev clan. If they win, they will seize power. Should they lose, corruption will remain limited to $
 
 $titre1972d1=SOMETHING IS ROTTEN IN THE SOVIET STATE
 
-$texte1972d1=In Georgia, the Party leader, Vasili Mjavanadze, organised a corruption system that spreads throughout the republic: bribes, fur coats, dachas, diamonds... \nHis abuses and his spouse's are becoming blatant. \nThe party leadership wisely decided to have him replaced by Eduard Shevardnadze. \nA small change for no change.
+$texte1972d1=In Georgia, the Party leader, Vasili Mjavanadze, organized a corruption system that spread throughout the republic: bribes, fur coats, dachas, diamonds... \nHis abuses, as well as those of his spouse, are becoming blatant. \nThe party leadership wisely decided to have him replaced by Eduard Shevardnadze. \nA small change for no change.
 
 $titre1972d2=SOMETHING IS ROTTEN IN THE SOVIET STATE
 
-$texte1972d2=In Georgia, the Party leader, Vasili Mjavanadze, organised a corruption system that spreads throughout the republic: bribes, fur coats, dachas, diamonds... \nThis intolerable situation intolérable forced "Thomas Code .$_SESSION['urss']['nomleader']." to act. \nThe grand anticorruption programme will however not go any further than lip service. \nAccused of using corruption as a pretext to gain power over its comrades who are loyal to the party, "Thomas Code .$_SESSION['urss']['nomleader']." became politically isolated and replaced by the Brezhnevian clique after a stormy session of the Politburo.
+$texte1972d2=In Georgia, the Party leader, Vasili Mjavanadze, organized a corruption system that spread throughout the republic: bribes, fur coats, dachas, diamonds... \nThis intolerable situation forced [Leader_USSR] to act. \nThe grand anticorruption program, however, will not go any further than lip service. \nAccused of using corruption as a pretext to gain power over comrades loyal to the party, [Leader_USSR] became politically isolated and was replaced by the Brezhnevian clique after a stormy session of the Politburo.
 
-
-$victoiresurcorruption=In Georgia, the Party leader, Vasili Mjavanadze, organised a corruption system that spreads throughout the republic: bribes, fur coats, dachas, diamonds... \nHis abuses and his spouse's were so blatant that there was no other option for the entire Politburo than to unanimously endorse (even though reluctantly) the anticorruption programme. \nEduard Shevardnadze was tasked to bring Georgia to heel but this is only the first step: the eradication of the corruption plague just began.
+$victoiresurcorruption=In Georgia, the Party leader, Vasili Mjavanadze, organized a corruption system that spread throughout the republic: bribes, fur coats, dachas, diamonds... \nThis intolerable situation forced [Leader_USSR] to act. \nThe grand anticorruption program, however, will not go any further than lip service. \nAccused of using corruption as a pretext to gain power over comrades loyal to the party, [Leader_USSR] became politically isolated and was replaced by the Brezhnevian clique after a stormy session of the Politburo.
 
 
 // EVT E
@@ -7304,41 +7274,31 @@ $victoiresurcorruption=In Georgia, the Party leader, Vasili Mjavanadze, organise
 $titre1972e=NIXON IN CHINA
 
 
-$texte1972e="There is no place on this small planet for a billion of its potentially most able people to live in angry isolation." \nPresident Nixon plans to visit China and meet Chairman Mao. \nThere are many topics to be discussed with the Americans, including the issue of Taiwan vis-a-vis China. \nA rapprochement with Washington would further isolate the Soviets and force them to a thaw.  \n\n
+$texte1972e="There is no place on this small planet for a billion of its potentially most able people to live in angry isolation." \nPresident Nixon plans to visit China and meet Chairman Mao. \nThere are many topics to be discussed with the Americans, including the issue of Taiwan vis-à-vis China. \nA rapprochement with Washington would further isolate the Soviets and force them into a thaw.
 
 
 $choix11972e=Nixon in Beijing!
-$choix11972etitle=the relations of the USA with Taiwan deteriorate (if this country exists) and tension decreases
+$choix11972etitle=The relations of the USA with Taiwan deteriorate (if this country exists), and tension decreases.
 
 $choix21972e=This is too early for such a rapprochement
-$choix21972etitle=Rien ne se passe
+$choix21972etitle=Nothing happens
 
 $titre1972e1=NIXON EN CHINE
 
-$texte1972e1=The presidential visit was a rousing success! \nWe accepted the fact that the Taiwan issue must be solved peacefully. \nBeyond this issue, we successfully laid the basis for long-term relations between our two peoples. \nAs their President puts it: \n"This was the week that changed the world, as what we have said in that Communique is not nearly as important as what we will do in the years ahead to build a bridge across 16,000 miles and 22 years of hostilities which have divided us in the past. And what we have said today is that we shall build that bridge."
-
-
-
+$texte1972e1=The presidential visit was a rousing success! \nWe accepted the fact that the Taiwan issue must be solved peacefully. \nBeyond this issue, we successfully laid the foundation for long-term relations between our two peoples. \nAs their President puts it: \n"This was the week that changed the world, as what we have said in that communiqué is not nearly as important as what we will do in the years ahead to build a bridge across 16,000 miles and 22 years of hostilities that have divided us in the past. And what we have said today is that we shall build that bridge."
 
 $titre1972e2=TOO EARLY TO MOVE
 
-$texte1972e2=Imperialists remain imperialists! 
-
-
-
-
-
-
-
+$texte1972e2=Imperialists will be imperialists! 
 
 $titre1973a=SAVING PRIVATE ALLENDE
 
 
-$texte1973a=Chile has come closer to the socialist world. \nThis country nationalised a significant share of its economy and is actually targeted by subversive schemes from the American government and industrial groups like ITT. \nA lorry drivers strike paralysed the country and President Allende is forced to govern via decrees. \nChile asked for our help but the President refuses to strengthen his socialist policy. \nKGB deems that Allende is too weak to be saved. \nShould we nonetheless grant a large aid to this country?
+$texte1973a=Chile has come closer to the socialist world. \nThis country nationalized a significant share of its economy and is currently targeted by subversive schemes from the American government and industrial groups like ITT. \nA lorry drivers' strike paralyzed the country, and President Allende is forced to govern via decrees. \nChile has asked for our help, but the President refuses to strengthen his socialist policy. \nThe KGB deems that Allende is too weak to be saved. \nShould we nonetheless grant large aid to this country?
 
 
 $choix11973a=Let us help them! (-$50)
-$choix11973atitle=Increases Chile's stability and your relations improve
+$choix11973atitle=It increases Chile's stability, and your relations improve.
 
 $choix21973a=Let them handle this on their own!
 $choix21973atitle=Nothing happens
@@ -7346,98 +7306,80 @@ $choix21973atitle=Nothing happens
 $titre1973a1=SAVING PRIVATE ALLENDE
 
 
-$texte1973a1=A $30 million aid has been granted to Chile but our secret services doubt it will be efficient. \nAs long as President Allende refuses to take full control of the Chilean state by force, his opponents will be stronger than he is.
+$texte1973a1=A $30 million aid package has been granted to Chile, but our secret services doubt it will be effective. \nAs long as President Allende refuses to take full control of the Chilean state by force, his opponents will be stronger than he is.
 
 
 $titre1973a2=ALLENDE IS TOO WEAK
 
-
-$texte1973a2=Chile's adherence to socialism is not radical enough to win a showdown and President Allende refuses to take full control of the State apparatus. \nHow could you possibly save a dying person who does not want to live? \nLet us see how long he survives.
+$texte1973a2=Chile's adherence to socialism is not radical enough to win a showdown, and President Allende refuses to take full control of the state apparatus. \nHow could you possibly save a dying person who does not want to live? \nLet us see how long he survives.
 
 
 // EVT B
 
 $titre1973b=WE MUST OVERTHROW ALLENDE
 
-
-$texte1973b=Chile has come closer to the socialist world. \nThis country nationalised a significant share of its economy and is actually targeted by subversive schemes from our agencies and industrial groups like ITT. \nA lorry drivers strike paralysed the country and President Allende is forced to govern via decrees. \nThe ITT company and the CIA are encouraging turmoil across the country. \nThe idea is to prepare the ground for a coup. \nThe Allende government has however been democratically elected… What should we do?
-
+$texte1973b=Chile has come closer to the socialist world. \nThis country nationalized a significant share of its economy and is currently targeted by subversive schemes from our agencies and industrial groups like ITT. \nA lorry drivers' strike paralyzed the country, and President Allende is forced to govern via decrees. \nThe ITT company and the CIA are encouraging turmoil across the country. \nThe idea is to prepare the ground for a coup. \nThe Allende government has, however, been democratically elected… What should we do?
 
 $choix11973b=No interference: let us put an end to these schemes
-$choix11973btitle=Increases Chile's stability, cancels the Dulles doctrine
+$choix11973btitle=Increase Chile's stability and cancels the Dulles doctrine.
 
 $choix21973b=This government must fall! (-$10)
-$choix21973btitle=Chile will keep being destabilised
+$choix21973btitle=The destabilization of Chile will continue.
 
 $titre1973b1=WE MUST OVERTHROW ALLENDE
 
-$texte1973b1=The Allende government is so clumsy that it will eventually fall without our intervention anyway.
-
-
+$texte1973b1=The Allende government is so clumsy that it will eventually fall without our intervention, anyway.
 
 $titre1973b2=WE MUST OVERTHROW ALLENDE
 
-$texte1973b2=The CIA is currently preparing scenarios to make the communist threat appear more important and justify a coup. \nMeanwhile, President Allende struggles to find a solution to political crisis which is immobilising the country. \n	The militaries have been invited to participate in the government, which brings them closer to political power without calming the situation. \nThe government is reshuffled and clumsily attempts to find solution to the national economic situation. \nThe fruit will soon be mature: the CIA will only have to pick it.
-
-
+$texte1973b2=The CIA is currently preparing scenarios to make the communist threat appear more significant and justify a coup. \nMeanwhile, President Allende struggles to find a solution to the political crisis that is immobilizing the country. \nThe military has been invited to participate in the government, which brings them closer to political power without calming the situation. \nThe government is reshuffled and clumsily attempts to find a solution to the national economic situation. \nThe fruit will soon be ripe: the CIA will only have to pick it.
 
 
 // EVT C
 
 $titre1973c=COUP IN CHILE
 
-
-$texte1973c=The Chilean government has just been overthrown by a coup. \nPresident Allende died in the Moneda palace sieged by a part of the armed forces. \nThe junta in power immediately decreed a curfew and ordered the dissolutin of not only the National Congress but also the city councils, trade unions and political parties.  \nOpponents are arrested en masse and the first auto-da-fé of socialist litterature are organised throughout the country. \nThis coup was not even a surprise given how much the political and economic situation was blocked in Chile.
-
+$texte1973c=The Chilean government has just been overthrown by a coup. \nPresident Allende died in the Moneda Palace, besieged by part of the armed forces. \nThe junta in power immediately decreed a curfew and ordered the dissolution of not only the National Congress but also the city councils, trade unions, and political parties. \nOpponents are arrested en masse, and the first auto-da-fé of socialist literature is organized throughout the country. \nThis coup was not even a surprise, given how much the political and economic situation was blocked in Chile.
 
 $choix11973c=The junta will now begin an internal war
 $choix11973ctitle=A big turn toward the right
 
 $titre1973c1=COUP IN CHILE
 
-
-$texte1973c1=General Augusto Pinochet, who took the lead of the junta, intends to fight an internal war against the left-wing opposition. \n[i]==>Chile is strongly realigned on the USA. \n==>The oppositions disappear [/i]
+$texte1973c1=General Augusto Pinochet, who took the lead of the junta, intends to fight an internal war against the left-wing opposition. \n[i]-->Chile is strongly realigned with the USA. \n-->The opposition disappears [/i]
 
 
 //EVT D
 
 $titre1973d=THE NATIONAL STADIUM
 
-$texte1973d=In Chile, the junta's war against its internal enemies is getting our of proportions: torture and summary executions are multiplying and dead corpses are scattered across the streets of Santiago de Chile. \nThe prisons are so full of "left-wingers" that the stadiums are now requisitioned to pen opponents. \nThe world is horrified by the extent of this witch hunt and nobody is a fool: "the hand of Washington is behind this coup". \n[i]==>-100 Prestige for the USA \n[/i]
-
+$texte1973d=In Chile, the junta's war against its internal enemies is getting out of proportion: torture and summary executions are multiplying, and dead bodies are scattered across the streets of Santiago de Chile. \nThe prisons are so full of "left-wingers" that the stadiums are now requisitioned to pen opponents. \nThe world is horrified by the extent of this witch hunt, and nobody is a fool: "the hand of Washington is behind this coup." \n[i]-->-100 Prestige for the USA \n[/i]
 
 // EVT E
 
 $titre1973e=THE PARIS PEACE ACCORDS
-
-
-$texte1973e=Our engagement in Vietnam reached its limits and gobbled a sizeable chunk of our military budget… \nBack home link on the front lines, nobody believes anymore in this war and the time has come to put an end to this conflict. \nPeace accords are being negotiated in Paris. \n
+$texte1973e=Our engagement in Vietnam reached its limits and consumed a sizable chunk of our military budget… \nBack home, linked to the front lines, nobody believes in this war anymore, and the time has come to put an end to this conflict. \nPeace accords are being negotiated in Paris.
 
 
 $choix11973e=Let us fiercely negotiate!
 $choix11973etitle=A very low chance for peace
 
 $choix21973e=Let us sign and evacuate Vietnam. (prestige -100)
-$choix21973etitle=End ot the war and return of our boys: the pacifist contestation calms down. The 'sudden death' mode is deactived for Vietnam.
+$choix21973etitle=End of the war and return of our boys: the pacifist protest calms down. The 'sudden death' mode is deactivated for Vietnam.
 
 $titre1973e1=THE PARIS PEACE ACCORDS
-
-$texte1973e1=These negotiations promise to last for months. \nIronically, the Vietnamese conflict is not considered a war by international law. \nThere is a need first to agree on the protagonists to the upcoming peace accords. \nThe president of South Vietnam understands that our withdrawal means the fall of his regime in the short term and is logically opposed to this peace. \nOne would be ill-advised to think that we are negotiating in a position of weakness: the communists have more interest that we do in this peace! \nWe dealt them redoubtable blows during their previous great offensives and our aviation prevents them from planning any future ambitious offensive like they did. \nIn these negotiations, we will not give in!
-
-
+$texte1973e1=These negotiations promise to last for months. \nIronically, the Vietnamese conflict is not considered a war by international law. \nThere is a need, first, to agree on the protagonists for the upcoming peace accords. \nThe president of South Vietnam understands that our withdrawal means the fall of his regime in the short term and is logically opposed to this peace. \nOne would be ill-advised to think that we are negotiating from a position of weakness: the communists have more interest than we do in this peace! \nWe dealt them formidable blows during their previous great offensives, and our aviation prevents them from planning any future ambitious offensive like they did. \nIn these negotiations, we will not give in!
 
 $titre1973e2=THE PARIS PEACE ACCORDS
 
-$texte1973e2=Ironically, the Vietnamese conflict is not considered a war by international law. \nThere was a need first to agree on the protagonists to the upcoming peace accords. \nThe president of South Vietnam, understanding that our withdrawal would mean the fall of his regime in the short term, logically opposed to this peace until we gave him sufficient guarantees. \nThe peace was eventually signed between us, the Democratic Republic of Vietnam, the Republic of Vietnam and the Provisional Revolutionary Government of the Republic of South Vietnam. \nWe withdraw our troops and our prisonners will be released.
+$texte1973e2=Ironically, the Vietnamese conflict is not considered a war by international law. \nThere was a need, first, to agree on the protagonists for the upcoming peace accords. \nThe president of South Vietnam, understanding that our withdrawal would mean the fall of his regime in the short term, logically opposed this peace until we gave him sufficient guarantees. \nThe peace was eventually signed between us, the Democratic Republic of Vietnam, the Republic of Vietnam, and the Provisional Revolutionary Government of the Republic of South Vietnam. \nWe withdraw our troops, and our prisoners will be released.
 
 
 // EVT F
 
 $titre1973f=YOM KIPPUR
 
-
-$texte1973f=The war resumed between the Arab States and Israel. \nThis time, Egypt had the initiative and launched a surprise attack. \nThe evolution of technologies and equipment worked against the Israelis who are suffuring heavy casulaties. \nThe Egyptian anti-tank and anti-air missiles are devastating. \nIf we do not intervene, the vey survival of Israel is threatened! \nOur strategists suggest to launch Operation "Nickel Grass" to supply Israel in emergency with heavy equipment.
-
+$texte1973f=The war resumed between the Arab States and Israel. \nThis time, Egypt took the initiative and launched a surprise attack. \nThe evolution of technologies and equipment worked against the Israelis, who are suffering heavy casualties. \nThe Egyptian anti-tank and anti-air missiles are devastating. \nIf we do not intervene, the very survival of Israel is threatened! \nOur strategists suggest launching Operation "Nickel Grass" to supply Israel urgently with heavy equipment.
 
 $choix11973f=Let us launch Nickel Grass! (-$50)
 $choix11973ftitle=Increase the Israeli forces by 2 and the country's stability by 1
@@ -7447,13 +7389,11 @@ $choix21973ftitle=Your relations with Israel deteriorate sharply
 
 $titre1973f1=NICKEL GRASS
 
-$texte1973f1=Several thousands of tons of heavy equipment, including tanks, ammunations and materials are delivered to Israel starting today. \nThis toing and froing of American C-141 Starlifters and C-5 Galaxies seem to be capable of inflecting the course of this war. \nThis intervention will however come at a cost: the resentment of the Arab wolrd to our foreign policy has never been this high.
-
-
+$texte1973f1=Several thousand tons of heavy equipment, including tanks, ammunition, and materials, are being delivered to Israel starting today. \nThis toing and froing of American C-141 Starlifters and C-5 Galaxies seems to be capable of influencing the course of this war. \nThis intervention will, however, come at a cost: the resentment of the Arab world toward our foreign policy has never been this high.
 
 $titre1973f2=YOM KIPPUR
 
-$texte1973f2=On the Golan heights and in the Sinai desert, the Arab forces got the upper hand on the Israelis. Trounced by an enemy hungry for revenge which seems to have learn a lot from its previous defeat, Israel is preparing for its "third destruction of the Temple". \n
+$texte1973f2=On the Golan Heights and in the Sinai Desert, the Arab forces gained the upper hand over the Israelis. Trounced by an enemy hungry for revenge, which seems to have learned a lot from its previous defeat, Israel is preparing for its "third destruction of the Temple."
 
 
 
@@ -7462,16 +7402,14 @@ $texte1973f2=On the Golan heights and in the Sinai desert, the Arab forces got t
 
 $titre1973g=YOM KIPPUR PART 2
 
-
-$texte1973g=Operation "Nickel Grass" was a success! \nThe Israelis successfully got the upper hand in the fights and prevail over Syrians and Egyptians. \nThey were successful to the point where the Soviets threatened them with direct intervention if a ceasefire was not signed immediately. \nShould we take the Soviets seriously and join them to impose peace or should we rather engage them in a showdown?
-
-
+$texte1973g=Operation "Nickel Grass" was a success! \nThe Israelis successfully gained the upper hand in the fighting and prevailed over the Syrians and Egyptians. \nThey were successful to the point where the Soviets threatened them with direct intervention if a ceasefire was not signed immediately. \nShould we take the Soviets seriously and join them to impose peace, or should we rather engage them in a showdown?
 
 $choix11973g=Let us threaten the Soviets with nuclear fire!
 $choix11973gtitle=And the extremists, who should all be shot!
 
 $choix21973g=Let us impose together a ceasefire (USA and USRR prestige +50)
-$choix21973gtitle=End of the war and the Soviets and the Americans gain 50 prestige points each.
+$choix21973gtitle=End of the war, and the Soviets and the Americans each gain 50 prestige points.
+
 
 $titre1973g1=YOM KIPPUR PART 2
 
@@ -7481,17 +7419,13 @@ $texte1973g1=Tension is at its highest in Middle-East!
 
 $titre1973g2=A CEASEFIRE
 
-$texte1973g2=The main sponsors of the warring countries coming to an agreement, a ceasefire was eventually imposed by the UNO. \nWe however gained more than the Soviets. \nThe 3rd Egyptian army, encircled by Tzahal and out of supply, narrowly escaped total obliteration thanks to this cessation of hostilities. \nThis was a tit-for-tat and Egypt distanced itself from the USSR. 
-
+$texte1973g2=With the main sponsors of the warring countries coming to an agreement, a ceasefire was eventually imposed by the UN. \nWe, however, gained more than the Soviets. \nThe 3rd Egyptian army, encircled by Tzahal and out of supply, narrowly escaped total obliteration thanks to this cessation of hostilities. \nThis was a tit-for-tat, and Egypt distanced itself from the USSR.
 
 // EVT H
 
 $titre1973h=YOM KIPPUR
 
-
-$texte1973h=
-The war resumed between the Arab States and Israel. \nThis time, Egypt had the initiative and launched a surprise attack. \nThe evolution of technologies and equipment worked against the Israelis who are suffuring heavy casulaties from the modern antitank and anti-air missiles used by the Arab forces. \nThe Americans organised an airlift to supply Israel in emergency, which eventually regained ground. \nThe Israelis are now capable of anihilating an entire Egyptian army they encircled. \nThe time may have come to intervene?
-
+$texte1973h=The war resumed between the Arab States and Israel. \nThis time, Egypt took the initiative and launched a surprise attack. \nThe evolution of technologies and equipment worked against the Israelis, who are suffering heavy casualties from the modern anti-tank and anti-air missiles used by the Arab forces. \nThe Americans organized an airlift to supply Israel in an emergency, which eventually regained ground. \nThe Israelis are now capable of annihilating an entire Egyptian army they have encircled. \nHas the time come to intervene?
 
 $choix11973h=Let us threaten them with direct intervention
 $choix11973htitle=Who knows what will come out of this decision…
@@ -7504,13 +7438,11 @@ $titre1973h1=YOM KIPPOUR
 $texte1973h1=The tension is at its highest in Middle-East.
 
 
-$finyomkippoururss=The USA joined us to impose peace between Israel and Egypt. \nThe imperialist support to Israel highly displeased the Arab world and the OPEC decided to increase the price of a barrel of oil in retaliation. \nSaudi Arabia even decided to suspend its deliveries to the USA and Western Europe. \nDeprived of its cheap oil, the fragile capitalist economic system should eventually collapse. \nOur prestige in the Arab world has never been this high. \nWe are winning the Cold War![i]==>Your relations with Egypt, Syria, Jordan, Iraq and Lybia improve. \n[/i]
-
-
+$finyomkippoururss=The USA joined us to impose peace between Israel and Egypt. \nThe imperialist support for Israel highly displeased the Arab world, and OPEC decided to increase the price of a barrel of oil in retaliation. \nSaudi Arabia even decided to suspend its deliveries to the USA and Western Europe. \nDeprived of its cheap oil, the fragile capitalist economic system should eventually collapse. \nOur prestige in the Arab world has never been this high. \nWe are winning the Cold War! [i]==> Your relations with Egypt, Syria, Jordan, Iraq, and Libya improve. \n[/i]
 
 $titre1973h2=YOM KIPPUR
 
-$texte1973h2=The fighting continues fiercely, Tzahal endeavouring to methodically obliterate the Arab armies. \nHowever, this war is far from being over, and the current severe Arab defeats in the Sinai desert and on the Golan heights should not conceal the fact that Israel, despite the American aid, would struggle to survive through a protracted war. \nThe Arab world also has some convincing arguments: the OPEC decided to increase the price of a barrel of oil and Saudi Arabia even decided to suspend its deliveries to the USA and Western Europe. \nThis should be enough to make the imperialists think twice about their support to Israel. \n
+$texte1973h2=The fighting continues fiercely, with Tzahal endeavoring to methodically obliterate the Arab armies. \nHowever, this war is far from being over, and the current severe Arab defeats in the Sinai Desert and on the Golan Heights should not conceal the fact that Israel, despite American aid, would struggle to survive through a protracted war. \nThe Arab world also has some convincing arguments: OPEC decided to increase the price of a barrel of oil, and Saudi Arabia even decided to suspend its deliveries to the USA and Western Europe. \nThis should be enough to make the imperialists think twice about their support for Israel.
 
 
 //EVT I
@@ -7518,15 +7450,14 @@ $texte1973h2=The fighting continues fiercely, Tzahal endeavouring to methodicall
 $titre1973i=THE FIRST OIL CRISIS
 
 
-$texte1973i=Outraged by the Western support to Israel, the Arab world and the OPEC decided to increase the price of a barrel of oil last October. \nudi Arabia even suspended its deliveries to the USA and Western Europe. \nThis situation seems set to continue and the Western governments are seriously considering the use of rationing tickets. \nDeprived of their cheap oil, the Western economies will likely meet a serious crisis. \nThis is the end of an era!
+$texte1973i=Outraged by the Western support for Israel, the Arab world and OPEC decided to increase the price of a barrel of oil last October. \nSaudi Arabia even suspended its deliveries to the USA and Western Europe. \nThis situation seems set to continue, and the Western governments are seriously considering the use of rationing tickets. \nDeprived of their cheap oil, the Western economies will likely face a serious crisis. \nThis is the end of an era!
 
-
-$choix11973i=The world will never ever be like it used to
-$choix11973ititle=The stability of the European countries decreases and they are more likely to be impacted by the effects of the economic crisis in the future
+$choix11973i=The world will never be the way it used to be.
+$choix11973ititle=The stability of the European countries decreases, and they are more likely to be impacted by the effects of the economic crisis in the future.
 
 $titre1973i1=THE FIRST OIL CRISIS
 
-$texte1973i1=Once past hysteria (Henry Kissinger having even declared the USA were ready to militarily intervene in the Arabic peninsula to take control of the main oil fields), the world is now organising itself. \nThe affected are massively turning to alternatives to petroleum. \nThe usa of gas, coal and nuclear energy is developing for heating and electricity production.
+$texte1973i1=Once past the hysteria (Henry Kissinger even declared that the USA was ready to militarily intervene in the Arabian Peninsula to take control of the main oil fields), the world is now organizing itself. \nThe affected are massively turning to alternatives to petroleum. \nThe use of gas, coal, and nuclear energy is developing for heating and electricity production.
 
 
 // EVT J
@@ -7534,7 +7465,7 @@ $texte1973i1=Once past hysteria (Henry Kissinger having even declared the USA we
 $titre1973j=PETROSELYTISM
 
 
-$texte1973j=Saudi Arabia found a good way to invest its oil wealth: promoting its own version of Islam. \nBillions of dollars are poured into spreading Wahhabism. \nIslamic schools and mosques are built, scholarships are granted and Islamic centres funded across the world. \nSuch an effort will eventually bear fruits.
+$texte1973j=Saudi Arabia found a good way to invest its oil wealth: promoting its own version of Islam. \nBillions of dollars are poured into spreading Wahhabism. \nIslamic schools and mosques are built, scholarships are granted, and Islamic centers are funded across the world. \nSuch an effort will eventually bear fruit.
 
 
 ________________________________________________________________
@@ -7543,26 +7474,22 @@ ________________________________________________________________
 $titre1974a=THE VLADIVOSTOK SUMMIT MEETING ON ARMS CONTROL
 
 
-$texte1974a=Negotiations on strategic arms are ongoing and President Ford is expected in Vladivostok to define a framework agreement. \nNuclear armaments will be limited for the next five years. \nThis is an era of Peaceful coexistence that begins. \nHowever, there are voices raising to contest what has been negotiated: technologies and doctrines have evolved and the risk of a disarming first strike from one of the two superpowers appears very real… \n
+$texte1974a=Negotiations on strategic arms are ongoing, and President Ford is expected in Vladivostok to define a framework agreement. \nNuclear armaments will be limited for the next five years. \nThis is an era of Peaceful Coexistence that is beginning. \nHowever, there are voices rising to contest what has been negotiated: technologies and doctrines have evolved, and the risk of a disarming first strike from one of the two superpowers appears very real…
 
 
 $choix11974a=Let us sign this treaty! (USA and USSR prestige +150)
-$choix11974atitle=Tension decreases and both superpowers gain prestige
+$choix11974atitle=Tension decreases, and both superpowers gain prestige.
 
 $choix21974a=We can win this arms race! (monthly budget -$5 / prestige -25)
-$choix21974atitle=The two superpower's military spendings increase
+$choix21974atitle=The two superpowers' military spending increases.
 
 $titre1974a1=THE VLADIVOSTOK SUMMIT MEETING ON ARMS CONTROL
 
-
-$texte1974a1=This meeting is an all-time high in the thaw between East and West. \nAnd, for once, the two sides are entirely satisfied with the agreement! \nHowever, in the shadows, some important strategic projects keep being developed, like the American B1 bomber or the deployment of heavy ICBM on the Soviet side...
-
-
+$texte1974a1=This meeting marks an all-time high in the thaw between East and West. \nAnd, for once, the two sides are entirely satisfied with the agreement! \nHowever, in the shadows, some important strategic projects continue to be developed, such as the American B1 bomber or the deployment of heavy ICBMs on the Soviet side...
 
 $titre1974a2=NEGOTIATIONS GET BOGGED DOWN
 
-
-$texte1974a2=The distrust from both side as well as the warhawks' schemes behind the scene defeated this attempt of agreement. \nThe USA will keep developing new generations of bombers and submarines while the Soviets will keep deploying more and more ballistic missiles... \n
+$texte1974a2=The distrust from both sides, as well as the warhawks' schemes behind the scenes, defeated this attempt at an agreement. \nThe USA will continue developing new generations of bombers and submarines, while the Soviets will keep deploying more and more ballistic missiles...
 
 
 // EVT B
@@ -7570,7 +7497,7 @@ $texte1974a2=The distrust from both side as well as the warhawks' schemes behind
 $titre1974b=NIXON RESIGNED!
 
 
-$texte1974b=Cornered by the House Judiciary Committee which charged him with obstructing justice and misuse of power, President Nixon desperately attempted to cling to power. \nWho would have thought that the arrest of burglars in the Democratic National Committee's headquarters in the Watergate complex in Washington two years ago would lead to such a national scandal in the USA? \nCommanded by the Supreme Court to give the recordings collected by the White House's tape-recording system, President Nixon rather chose to resign. \nThe first decision of his successor, Gerald Ford, was to grant him a presidential pardon, starting his mandate with a controversy. \n\n[i]<b>The USA lose 100 prestige points</b>[/i]
+$texte1974b=Cornered by the House Judiciary Committee, which charged him with obstructing justice and misuse of power, President Nixon desperately attempted to cling to power. \nWho would have thought that the arrest of burglars at the Democratic National Committee's headquarters in the Watergate complex in Washington two years ago would lead to such a national scandal in the USA? \nCommanded by the Supreme Court to turn over the recordings collected by the White House's tape-recording system, President Nixon instead chose to resign. \nThe first decision of his successor, Gerald Ford, was to grant him a presidential pardon, starting his mandate with controversy. \n\n[i]-->The USA lose 100 prestige points[/i]
 
 
 // EVT C
@@ -7578,72 +7505,62 @@ $texte1974b=Cornered by the House Judiciary Committee which charged him with obs
 $titre1974c=THE IMBALANCE OF TERROR
 
 
-$texte1974c=Negotiations on strategic arms are getting bogged downLes négociations. \nTechnology and doctrines evolved and strategists from both sides believe a nuclear war could be won. \nThe ballistic missiles can be "MIRVed" to host several nuclear warheads having each a specific target. \nA preventive attack against the enemy facilities is now easier to plan ahead. \nWe can stay idle waiting for the next nuclear war. \n
+$texte1974c=Negotiations on strategic arms are getting bogged down. \nTechnology and doctrines have evolved, and strategists from both sides believe a nuclear war could be won. \nBallistic missiles can be "MIRVed" to host several nuclear warheads, each with a specific target. \nA preventive attack against enemy facilities is now easier to plan. \nWe can stay idle, waiting for the next nuclear war.
 
-
-$choix11974c=Let us revitalise the negotiations.
+$choix11974c=Let us revitalize the negotiations.
 $choix11974ctitle=Tension decreases
 
-$choix21974c=Let us prepare for the next nuclear war (monthly budget -$5)
+$choix21974c=Let us prepare for the next nuclear war. (monthly budget -$5)
 $choix21974ctitle=The two superpower's military spendings increase and tension increases too
 
 $titre1974c1=A SUMMIT MEETING IN NOVEMBER?
 
-$texte1974c1=Discussions must go on and we are working to prepare an agreement. \nA summit will be organised before the end of the year to agree on a strategic nuclear arms limitations agreement.
+$texte1974c1=Discussions must go on, and we are working to prepare an agreement. \nA summit will be organized before the end of the year to agree on a strategic nuclear arms limitation agreement.
 
 
 $titre1974c2=THE IMBALANCE OF TERROR
 
-$texte1974c2=An imbalance of terror you say? \nThe conclusion is plain and simple: we must work harder to make sure we are on the right side of the balance!
+$texte1974c2=An imbalance of terror, you say? \nThe conclusion is plain and simple: we must work harder to make sure we are on the right side of the balance!
 
 
 // EVT D
 
 $titre1974d=THE GULAG ARCHIPELAGO
 
+$texte1974d=For years, Aleksandr Solzhenitsyn has been working in secret on a book describing life in Soviet gulags. \nDissenters managed to pass the manuscript on to Paris, where it was edited! \nThis book is incredibly detailed and provides many insights into the entirety of our prison-camp system in a very critical manner. \nWe arrested the traitor and stripped him of his Soviet citizenship. \nUnfortunately, the horse is already out of the barn, and this book will continue to circulate covertly. \nWhat should we do with Solzhenitsyn now?
 
-$texte1974d=For years, Aleksandr Solzhenitsyn has been working in secret on a book describing the life in Soviet gulags. \nDissenters managed to pass the manuscript on to Paris where it has been edited! \nThis book is awfully complete and give lots of details on the entirety of our prison-camps system in a very critical manner. \nWe arrested the traitor and stripped him of his Soviet citizenship. \nUnfortunately, the horse is already out of the barn and this book will keep circulating covertly. \nWhat should be do with Solzhenitsyn now?
 
-
-$choix11974d=Let him go back to gulag! (prestige -200)
+$choix11974d=Send him back to gulag! (prestige -200)
 $choix11974dtitle=He will enjoy the (dis)comfort of the Royal Suite (Stalinism decreases)
 
-$choix21974d=Let us force him into exile to the West! (prestige -100)
+$choix21974d=Force him into exile in the West! (prestige -100)
 $choix21974dtitle=Stalinism decreases sharply
 
 $titre1974d1=THE GULAG ARCHIPELAGO
 
 
-$texte1974d1=The book had a destabilisng effect on the Central European Communist parties. \nThe reactionary style and the pro-Nazi sympathies of its author are vehemently denounced but the fact that Solzhenitsyn's whereabouts are unknown strongly supports the detractors of Soviet society. \nIn the URSS, the book is circulated as a samizdat (clandestine book), and who knows which devastating effects it will generate.
-
-
+$texte1974d1=The book had a destabilizing effect on the Central European Communist parties. \nThe reactionary style and the pro-Nazi sympathies of its author are vehemently denounced, but the fact that Solzhenitsyn's whereabouts are unknown strongly supports the detractors of Soviet society. \nIn the USSR, the book is circulated as a samizdat (clandestine book), and who knows what devastating effects it will generate.
 
 $titre1974d2=THE GULAG ARCHIPELAGO
-
-
-$texte1974d2=From his exile in Zurich, Solzhenitsyn has become a figurehead of Soviet dissidence. \nHow, he is far from being a winnning asset for the West. \nCritical against the Soviet system as much as he is against Western materialism, the author remains first and foremost a free thinker and a genuine Orthodox conservative!
+$texte1974d2=From his exile in Zurich, Solzhenitsyn has become a figurehead of Soviet dissidence. \nHowever, he is far from being a winning asset for the West. \nCritical of the Soviet system as much as he is of Western materialism, the author remains first and foremost a free thinker and a genuine Orthodox conservative!
 
 
 // EVT E
 
 $titre1974e=OIL ON OUR BREAD
 
-
-$texte1974e=The large Soviet investments in the field of energy and the recent oil crisis made a big difference for Moscow: \nforeign currencies are flocking to the USSR's treasury and give the Motherland more room for manoeuvre. \nThe country will be able to import the consummer goods it lacks in exchange for oil money. \n[i] \n==> USSR budget +$25 \n==> URSS imports +$10[/i]
-
-
+$texte1974e=The large Soviet investments in the field of energy and the recent oil crisis made a big difference for Moscow: \nForeign currencies are flocking to the USSR's treasury, giving the Motherland more room for maneuver. \nThe country will be able to import the consumer goods it lacks in exchange for oil money. \n[i] \n--> USSR budget +$25 \n--> USSR imports +$10 [/i]
 
 
 // EVT F
 
 $titre1974f=OPERATION CONDOR
 
+$texte1974f=The South American dictatorships decided to collaborate to eradicate the leftist vermin. \nTorture and the physical elimination of protesters will cleanse the continent of dissenters. \nCooperation between the secret services will enable the hunting of opponents as far as Europe and the USA. \nThe CIA informed us about this "Dictatorships International." \nThe question is: should we support this initiative?
 
-$texte1974f=The South American dictatorships decided to collaborate to eradicate the leftist vermin. \nTorture and physical elimination of protesters will clean the continent of dissenters. \nA cooperation between the secret services will enable the hunt of opponents as far as in Europe and in the USA. \nThe CIA informed us about this "Dictatorships International". \nThe question is: should we support this initiative? \n
 
-
-$choix11974f=Let us discreetly help these men of virture (prestige -100)
-$choix11974ftitle=Your relations with the dictatorships in Central and South America improve, their stability strongly increases and the pro-USSR oppositions are eliminated
+$choix11974f=Let us discreetly help these men of virtue (prestige -100)
+$choix11974ftitle=Your relations with the dictatorships in Central and South America improve, their stability strongly increases, and the pro-USSR opposition is eliminated.
 
 $choix21974f=Let us not get our hands dirty
 $choix21974ftitle=The pro-USSR oppositions are eliminated from the South American dictatorships
@@ -7651,43 +7568,37 @@ $choix21974ftitle=The pro-USSR oppositions are eliminated from the South America
 $titre1974f1=OPERATION CONDOR
 
 
-$texte1974f1=The dictatorships implement this "national security" doctrine with zeal, and prove to be really creative: dropping drugged but alive dissenters over the Atlantic ocean is just an example. \nSuppression does restain itself to proven opponents: there is a need to target "better too much than not enough". \nDeath squads are hunting down the exiled leftists as far as Europe. \nThis continent is being retaken in hand!
+$texte1974f1=The dictatorships implement this "national security" doctrine with zeal and prove to be really creative: dropping drugged but alive dissenters over the Atlantic Ocean is just one example. \nSuppression does not restrain itself to proven opponents: there is a need to target "better too much than not enough." \nDeath squads are hunting down the exiled leftists as far as Europe. \nThis continent is being retaken in hand!
 
 
 $titre1974f2=OPERATION CONDOR
 
 
-$texte1974f2=The dictatorships implement this "national security" doctrine with zeal, and prove to be really creative: dropping drugged but alive dissenters over the Atlantic ocean is just an example. \nSuppression does restain itself to proven opponents: there is a need to target "better too much than not enough". \nDeath squads are hunting down the exiled leftists as far as Europe. \nOf course, we condemn these horrific acts besmirching human rights and democracy.
-
-
-
-
-
-
-
+$texte1974f2=The dictatorships implement this "national security" doctrine with zeal and prove to be really creative: dropping drugged but alive dissenters over the Atlantic Ocean is just one example. \nSuppression does not restrain itself to proven opponents: there is a need to target "better too much than not enough." \nDeath squads are hunting down exiled leftists as far as Europe. \nOf course, we condemn these horrific acts that besmirch human rights and democracy.
 
 
 $titre1975a=THE SCRAMBLE!
 
 
-$texte1975a=The North-Vietnamese are decided to get done with it and launched a general offensive against the South. \nThe US Congress is opposed to any supply of exceptional aid to Saigon and the US Presidency, stained by the Watergate scandal, has lost all credit on this issue. \nThe South will have to face the communist wave on its own: how long will it survive?
+$texte1975a=The North Vietnamese are determined to end it and launched a general offensive against the South. \nThe US Congress is opposed to any supply of exceptional aid to Saigon, and the US Presidency, stained by the Watergate scandal, has lost all credibility on this issue. \nThe South will have to face the communist wave on its own: how long will it survive?
 
 
 // EVT B
 
 $titre1975b=THE ANGOLAN CIVIL WAR
 
-$texte1975b=The Portuguese revolution opens vast development opportunities in Africa. \nThe thaw does not concern the Third World and Africa is mature enough to joint the socialist camp. \nRoles have already been allocated:	<ul>
+$texte1975b=The Portuguese revolution opens vast development opportunities in Africa. \nThe thaw does not concern the Third World, and Africa is mature enough to join the socialist camp. A war is raging in Angola between the Marxist MPLA and two other movements, UNITA and FLNA. \nIf South Africa or the USA were to get involved in this conflict, we would create a giant powder keg. \nRoles have already been allocated: \n- The Eastern countries will send security experts, \n- We will provide advisors, logistics, and weapons.
 
-$texte1975ba=The Cubans will provide men,</li>		
+
+$texte1975ba=\n-The Cubans will provide men	
 	
-$texte1975bb=<li>the Eastern countries will send security experts,</li><li>we will provide advisors, logistics and weapons.</li></ul>A war is raging in Angola between the Marxist MPLA and two other movements, the UNITA and the FLNA. \n	If South Africa or the USA were to get involved in this conflict, we would create a giant powder keg. \n
+$texte1975bb=\n- The Eastern countries will send security experts,\n- We will provide advisors, logistics, and weapons.\n\nA war is raging in Angola between the Marxist MPLA and two other movements, UNITA and FLNA. \nIf South Africa or the USA were to get involved in this conflict, we would create a giant powder keg. \n
 
 $choix11975b=Let us not bother with Angola
 $choix11975btitle=No effect?
 
 $choix21975b=Let us massively support the MPLA. ($50)
-$choix21975btitle=Angola enters your sphere of influence + Cubans arrive in Angola (they are on your side of course) and the MPLA receive a substantial aid + tension increases
+$choix21975btitle=Angola enters your sphere of influence + Cubans arrive in Angola (they are on your side, of course) and the MPLA receives substantial aid + tension increases.
 
 $choix31975b=Let us let Cuba go there ($10)
 $choix31975btitle=Cubans in Angola.
@@ -7695,17 +7606,17 @@ $choix31975btitle=Cubans in Angola.
 
 $titre1975b1=THE ANGOLAN CIVIL WAR
 
-$texte1975b1=This conflict ticks all the characteristics of a boggy mess capable of lasting over ten years. Better not dip a toe!
+$texte1975b1=This conflict ticks all the characteristics of a boggy mess capable of lasting over ten years. Better not dip a toe in!
 
 
 $titre1975b2=THE ANGOLAN CIVIL WAR
 
-$texte1975b2=Africa is a fertile ground for the fight against colonialism and imperialism! \nWe will stand by our Angolan brothers in all their fights.
+$texte1975b2=Africa is a fertile ground for the fight against colonialism and imperialism! \nWe will stand by our Angolan brothers in all their struggles.
 
 
 $titre1975b3=THE ANGOLAN CIVIL WAR
 
-$texte1975b3=The Cubans have been pushing us to intervene and we did not feel like curbing their revolutionary zeal. \nThe Cubans are experienced in guerrilla combat tactics: this war in Angola should be over in no time.
+$texte1975b3=The Cubans have been pushing us to intervene, and we did not feel like curbing their revolutionary zeal. \nThe Cubans are experienced in guerrilla combat tactics: this war in Angola should be over in no time.
 
 
 
@@ -7713,34 +7624,31 @@ $texte1975b3=The Cubans have been pushing us to intervene and we did not feel li
 
 $titre1975c=THE ANGOLAN CIVIL WAR
 
-$texte1975c=The Portuguese revolution opens vast development opportunities in Africa. \nIt seems that Moscow does not see the thaw as applying to the Third World. \nThe CIA is pressing us to intervene in Angola where a civil war rages between the Marxist MPLA and two other movements, the UNITA and the FLNA. \nWe would not want to see a country rich of natural resources falling into the socialist camp, would we?
+$texte1975c=The Portuguese revolution opens vast development opportunities in Africa. \nIt seems that Moscow does not see the thaw as applying to the Third World. \nThe CIA is pressing us to intervene in Angola, where a civil war rages between the Marxist MPLA and two other movements, UNITA and FLNA. \nWe would not want to see a country rich in natural resources falling into the socialist camp, would we?
 
 $choix11975c=Let us not bother with Angola
-$choix11975ctitle=The Angolan guerrilla groups will dive into traffickings of all kind and gain the trait Maffia
+$choix11975ctitle=The Angolan guerrilla groups will dive into trafficking of all kinds and gain the trait Mafia.
 
 $choix21975c=Let us massively support the UNITA and the FLNA. ($50)
 $choix21975ctitle=The guerrilla will be strongly supported and tension will increase
 
 $titre1975c1=THE ANGOLAN CIVIL WAR
 
-$texte1975c1=This conflict ticks all the characteristics of a boggy mess capable of lasting over ten years. Better not dip a toe! \n
-Deprived of American funding, the UNITA turns to the lucrative diamonds and ivory traffickings.
+$texte1975c1=This conflict ticks all the characteristics of a boggy mess capable of lasting over ten years. Better not dip a toe in! \nDeprived of American funding, UNITA turns to the lucrative diamond and ivory trafficking.
 
 
 $titre1975c2=THE ANGOLAN CIVIL WAR
 
-$texte1975c2=The leaders of these guerrillas groups demonstrate a great potential: they realigned their speech on our positions and are ready to fight communism in Angola! 
+$texte1975c2=The leaders of these guerrilla groups demonstrate great potential: they realigned their rhetoric with our positions and are ready to fight communism in Angola!
 
 
 // EVT D
 
 $titre1975d=NO BREAD AND NO GAMES
 
-$texte1975d=Our agriculature cannot cope with the national demand… \nThe bad harvests are coming one after another and we will have to get our supplies from the international markets. \n
+$texte1975db=Our agriculture cannot cope with the national demand… \nThe bad harvests are coming one after another, and we will have to get our supplies from the international markets. \nIt seems we are paying today for the irreparable mistakes of the Khrushchev era. \n[b]--> Imports +$15[/b]
 
-$texte1975db=It seems we are paying today for the unreclaimable mistakes of the Krushchev era. \n	<b>==> Imports +$15</b>
-
-$texte1975dc=It seems we are paying today for the unreclaimable mistakes of the Krushchev era. \n	<b>==> Imports +$5</b>
+$texte1975dc=Our agriculture cannot cope with the national demand… \nThe bad harvests are coming one after another, and we will have to get our supplies from the international markets. \n[b]--> Imports +$5[/b]
 
 
 
@@ -7748,13 +7656,13 @@ $texte1975dc=It seems we are paying today for the unreclaimable mistakes of the 
 
 $titre1975e=THE MUMMY
 
-$texte1975e=Leonird Brezhnev's health is deteriorating; he suffered a stroke earlier this year. \nHis physicians declared he is no longer capable of working full time. \nActually, he spends his days watching the television and, sometimes, cannot stand up without help. \nHe should completely stop working… \nHowever, the bonhomie of this leader and his imaginationless personality are seen by many as a stability factor for the regime: we would not want to see reckless reformers come to power, would we? \n
+$texte1975e=Leonid Brezhnev's health is deteriorating; he suffered a stroke earlier this year. \nHis physicians declared he is no longer capable of working full time. \nActually, he spends his days watching television and, sometimes, cannot stand up without help. \nHe should completely stop working… \nHowever, the bonhomie of this leader and his unimaginative personality are seen by many as a stability factor for the regime: we would not want to see reckless reformers come to power, would we?
 
 $choix11975e=Let us keep and celebrate Brezhnev
-$choix11975etitle=Your leader is impotent, but the system (despite being plunger in formalin) will keep functioning
+$choix11975etitle=Your leader is impotent, but the system (despite being plunged in formalin) will keep functioning.
 
 $choix21975e=Let him step down in favour of Andropov
-$choix21975etitle=Make way for the young! ^^: the master of KGB will come to power, tension and Stalinism will increase and the Brezhnevian well-being will come to an end
+$choix21975etitle=Make way for the young! ^^ The master of the KGB will come to power, tension and Stalinism will increase, and the Brezhnevian well-being will come to an end.
 
 $andropov=Yuri Andropov
 
@@ -7764,19 +7672,14 @@ $texte1975e1=As long as Brezhnev is capable of standing up and saluting at the a
 
 $titre1975e2=MAKE WAY FOR THE YOUNG!
 
-$texte1975e2=The inner circle's keeper and master of KGB Yuri Andropov is tasked to meet the big challenges of the country. \nIn the West, the chancelleries are already getting worried about a return of the "hardliners" in Kremlin... \n
-
-
-
-
-
+$texte1975e2=The inner circle's keeper and master of the KGB, Yuri Andropov, is tasked with meeting the big challenges of the country. \nIn the West, the chancelleries are already getting worried about a return of the "hardliners" in the Kremlin...
 
 //STEPINTIME MADE EVENTS
 
 // EVTS MAJEURS 1975f
 
 $titre1975f="Chengdu J-9 is stalling!
-$texte1975f="only by the power of the gun that the working class and the laboring masses can defeat the armed bourgeoisie and landlords. in this sense we may say that only with guns can the whole world be transformed." \nProblems arise for the Peoples Liberation Army Airfroces! The Chengdu J-9 fighter which has been in development since 1966 is still far from completion,  it was supposed to be flying by 1969.  \nThe current political situation caused confusion and objectives have changed almost daily. Now the Chengdu Aircraft Design Institute is once again asking for more support in order to add four PL air to air missiles to model. They argue these missiles are needed for the J-9 to be a true air superiority fighter that can match Soviet and American airforces. Can we be sure additional funding will even finish this problematic project? \n\n[i]An event proposed by Stepintime.[/i]
+$texte1975f="Only by the power of the gun can the working class and the laboring masses defeat the armed bourgeoisie and landlords. In this sense, we may say that only with guns can the whole world be transformed." \nProblems arise for the People's Liberation Army Air Forces! The Chengdu J-9 fighter, which has been in development since 1966, is still far from completion; it was supposed to be flying by 1969. \nThe current political situation has caused confusion, and objectives have changed almost daily. Now, the Chengdu Aircraft Design Institute is once again asking for more support in order to add four PL air-to-air missiles to the model. They argue these missiles are needed for the J-9 to be a true air superiority fighter that can match Soviet and American air forces. Can we be sure additional funding will even finish this problematic project? \n\n[i]An event proposed by Stepintime.[/i]
 
 $choix11975f=We must modernize at any cost
 $choix11975ftitle=Defcon -1, Arms race +5$, superpower score +3, Maosim +1
@@ -7786,7 +7689,7 @@ $choix21975ftitle=Prestige -25, superpower score -5
 
 $titre1975f1=Feeding the industrial complex
 
-$texte1975f1=To reach the challenge of the Americans and the Soviets, the Peoples Liberation Army Airforce must be ready to face the coming air assaults of tomorrow.  \nNever again will we permit our cities to be firebombed without resistance! No matter the cost, China will pay any price for security and respect as the third superpower ... \nliberator of earth's oppressed peoples! Ace of the anti-imperialist skies![i]==>Defcon -1 \n==>Arms Race budget +5$ \n==>Superpower score +3 \n==>Maosism +1[/i]
+$texte1975f1=To meet the challenge of the Americans and the Soviets, the People's Liberation Army Air Force must be ready to face the coming air assaults of tomorrow. \nNever again will we permit our cities to be firebombed without resistance! No matter the cost, China will pay any price for security and respect as the third superpower... \nLiberator of Earth's oppressed peoples! Ace of the anti-imperialist skies! [i]==>Defcon -1 \n==>Arms Race budget +$5 \n==>Superpower score +3 \n==>Maoism +1[/i]
 
 
 
@@ -7794,11 +7697,10 @@ $titre1975f2=The J-9 is scrapped!
 $texte1975f2=With massive construction across the country, we  can ill afford to contribute to a project that is already pathetically behind schedule. Whatever funds that are left should be transfered to the nuclear program, not to incompetent committees. The superpowers notice China's lack of development in modern military equipment and training.[i]==>Prestige -25 \n==>Superpower score -5[/i]
 
 
-
 // EVT G
-/*
-$titre1975g="Peoples Victory in Haicheng
-$texte1975g="In the freezing air a million creatures compete for freedom. \nIn this immensity \nI ask the huge greenblue earth, \nwho is master of nature?" \n-Mao Zedong  \n\nIn Haicheng, Liaoning province our revolutionary scientists made a first for humanity this week by successfully predicting the coming 7.5 earthquakes. Projected to have a 150,000 death toll otherwise the timely prediction has saved the city. By utilizing the productive forces of the people, several warnings including ground deformation, strange animal behavior and foreshocks were detected. We have accomplished a scientific milestone never thought possible by our Imperialist critics. Unfortunately, some naysayers (counterrevolutionaries) doubt that our prediction is a model for the future but isn't this the time to celebrate our system to the people at an hour when they are in need of hope?Haven't we arrived at a milestone where mobilization of resources can overcome any environmental obstacle?
+
+$titre1975g=Peoples Victory in Haicheng
+$texte1975g="In the freezing air, a million creatures compete for freedom. \nIn this immensity, \nI ask the huge green-blue earth, \nwho is master of nature?" \n– Mao Zedong \n\nIn Haicheng, Liaoning province, our revolutionary scientists made a first for humanity this week by successfully predicting the coming 7.5 earthquake. Projected to have a 150,000 death toll, otherwise, the timely prediction has saved the city. By utilizing the productive forces of the people, several warnings—including ground deformation, strange animal behavior, and foreshocks—were detected. We have accomplished a scientific milestone never thought possible by our imperialist critics. Unfortunately, some naysayers (counterrevolutionaries) doubt that our prediction is a model for the future, but isn't this the time to celebrate our system with the people at an hour when they are in need of hope? Haven't we arrived at a milestone where mobilization of resources can overcome any environmental obstacle?
 
 $choix11975g=Let us celebrate our victory over nature! (Prestige +150)
 $choix11975ftitleB=Prestige +150, progression of current R&D projects -10, maoism +3 
@@ -7808,18 +7710,17 @@ $choix21975gtitle=Rightist talk!
 
 $titre1975g1=Celebrating victories over nature!
 
-$texte1975g1=While acknowledging success today no regime can become overconfident regarding natural disasters. Public Education is important and that's why earthquakes require more research. If we are to seek truth from experience then the history of China shows that nature does not behave in perfect patterns. We cannot be sure that we can always perfectly gauge the world we live in, but with scientific knowledge and reforms (using less-flammable materials, strong building materials, ect) loss of life from future catastrophes can be also be reduced in the future. [i]==>Prestige +150 \n==>Maoism +3 \n==>Current R&D projects -10 (propaganda seems more important that seriousness)[/i]
-
+$texte1975g1=While acknowledging success today, no regime can become overconfident regarding natural disasters. Public education is important, and that's why earthquakes require more research. If we are to seek truth from experience, then the history of China shows that nature does not behave in perfect patterns. We cannot be sure that we can always perfectly gauge the world we live in, but with scientific knowledge and reforms (using less-flammable materials, strong building materials, etc.), loss of life from future catastrophes can also be reduced. [i]==>Prestige +150 \n==>Maoism +3 \n==>Current R&D projects -10 (propaganda seems more important than seriousness)[/i]
 
 $titre1975g2=Bitter struggles set new standards
-$texte1975g2="While acknowledging success today no regime can become overconfident regarding natural disasters. Public Education is important and that's why earthquakes require more research. If we are to seek truth from experience then the history of China shows that nature does not behave in perfect patterns We cannot be sure that we can always perfectly gauge the world we live in, but with scientific knowledge and reforms (using less-flammable materials, strong building materials, ect) loss of life from future catastrophes can be also be reduced in the future.
+$texte1975g2="While acknowledging success today, no regime can become overconfident regarding natural disasters. Public education is important, and that's why earthquakes require more research. If we are to seek truth from experience, then the history of China shows that nature does not behave in perfect patterns. We cannot be sure that we can always perfectly gauge the world we live in, but with scientific knowledge and reforms (using less-flammable materials, strong building materials, etc.), loss of life from future catastrophes can also be reduced."
 
 
-
+//1976
 
 $titre1976a=EUROCOMMUNISMS
 
-$texte1976a=The main European communist parties' leaders have lost their mind! \nEnrico Berlinguer, from the Italian Communist Party, demanded a 'pluralist' socialist system in front of the participants of the 25th Congress of the Communist Party! \nGeorges Marchais, from the French Communist Party, not being outdone, publicly renounced to the dictatorship of the proletariat. \nThe European communist parties, tired of being kept away from power, are looking for alliances and rapprochements with socialist parties. \nOne day, we may see communists in Western European governments elected by citizens. \nBut what about the revolution in all of this? \nThese parties should not forget what they owe us, nor where there funds come from.
+$texte1976a=The leaders of the main European communist parties have lost their minds! \nEnrico Berlinguer, from the Italian Communist Party, demanded a 'pluralist' socialist system in front of the participants of the 25th Congress of the Communist Party! \nGeorges Marchais, from the French Communist Party, not to be outdone, publicly renounced the dictatorship of the proletariat. \nThe European communist parties, tired of being kept away from power, are looking for alliances and rapprochements with socialist parties. \nOne day, we may see communists in Western European governments, elected by citizens. \nBut what about the revolution in all of this? \nThese parties should not forget what they owe us, nor where their funds come from.
 
 $choix11976a=Let us call these parties to order!
 $choix11976atitle=Stalinism will slightly increase
@@ -7829,7 +7730,7 @@ $choix21976atitle=Stalinism will slightly decrease, tension will decrease
 
 $titre1976a1=EUROCOMMUNISMS
 
-$texte1976a1=These parties will quickly get back on the right track when they will realise that their new 'friends' want to get hold of their electorate. \nBy relying on the true bolsheviks who are left in these parties and by being carefully when distributing funds, we should be able to halt this despicable drift.
+$texte1976a1=These parties will quickly get back on the right track when they realize that their new 'friends' want to get hold of their electorate. \nBy relying on the true Bolsheviks who are left in these parties and by being careful when distributing funds, we should be able to halt this despicable drift.
 
 $titre1976a2=EUROCOMMUNISMS
 

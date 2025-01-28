@@ -683,3 +683,63 @@ description_doublefront_long=Can two wars be fought at the same time?\nThis is t
 
 $borneonord=Sarawak
 $constitutionalistes=Constitutionalists
+
+prestige_label=Prestige value
+
+coin_expert=COIN experts
+coin_expert_details=Counterinsurgency techniques are mastered by many around the world.\nSubversion and influence actions on guerrillas also receive a bonus.\nSmall guerrillas will have a higher chance of being eliminated and will be reduced more quickly by governments.\n(Do not dream too loudly, as 'more quickly' may still require years.)
+
+perou68scandal=Peru: political scandal, the government lost all credibility
+perou68scandaleffets=Stability decreased sharply!
+
+peroudevaluation=Peru: currency devaluation and social unrest
+peroudevaluationeffets=The stability decreased
+
+operationcondor=The regime consolidates its power as violence, torture, and the disappearance of opponents intensify.
+operationcondoreffets=Soviet opposition disappear
+operationcondoreffetsheavy=Soviet opposition disappear, stability and relation with the USA increase.
+
+$geraldford=Gerald Ford
+$montoneros=Montoneros
+$erpargentina=Ejército Revolucionario del Pueblo
+$falargentine=Fuerzas Armadas de Liberación
+araportugal=Ação Revolucionária Armada
+rafallemagne=Rote Armee Fraktion
+brigadesrouges=Brigate Rosse
+monima=Madagasikara otronin ny Malagasy
+orpa=Organización Revolucionaria del Pueblo en Armas
+jvp=Janatha Vimukthi Peramuna
+muktibahini=Mukti Bahini
+ulsterda=Ulster Defence Association
+m22=Mouvement du 22 février
+zipra=Zimbabwe Peoples Revolutionary Army
+zanla=Zimbabwe African National Liberation Army
+egpguate=Ejército Guerrillero de los Pobres
+polisario=Frente Polisario
+triplea=Alianza Anticomunista Argentina
+kurdes74=Partiya Demokrat a Kurdistanê
+escadronportugal=brigadas negras
+escadronrouge=exército do povo subterrâneo
+m19=Movimiento 19 de Abril
+ChineseRedGuards=Red Guards
+
+Redguardsagainstrevisionism=China: The Red Guards on their way to overthrow the revisionist government
+Redguardsagainstrevisionismeffets=A large guerilla appears in the country
+falintil=Forças Armadas da Libertação Nacional de Timor Leste
+assaiqa=As-Sa iqa
+amal=afwâju l-muqâwamati l-lubnâniya
+pnliban=Noumour al-Ahrar
+frapespagne=Frente Revolucionario Antifascista y Patriota
+tigray75=hizbāwī weyānē ḥārinet tigrāy
+
+tempsdiplomatestitle=THE DAYS OF DIPLOMATS 1969-1975
+tempsdiplomatestext=Whether in Korea, in Europe or along the Suez Canal, the world seems to be divided into two camps that observe each other without being able to take the advantage.\nMeanwhile. as the United States of America is stuck in Vietnam, the balance of power shifts, turning the Cold War into a three-way struggle with China is an arbitrator.\nWhere bombers have become powerless, diplomats must act.
+
+vietnamwartitle=VIETNAM WAR 1963-1975
+vietnamwartexte=This scenario covers the entire period of the Vietnam War. \nIt is of course more interesting to play with the Americans. \nCan you get out of the Vietnamese quagmire?\nIt's up to you!
+
+$titretutoriels="SUDDEN DEATH-VIETNAM";
+$textetutoriels=\n\n\n[b]SUDDEN DEATH-VIETNAM[/b]\nThis scenario as a sudden-death condition :\nLose Vietnam and you lose the game !
+
+$mortsubitevietnamtitle=[b]Saigon Fell![/b]
+$mortsubitevietnamtexte=\nAs North Vietnamese troops surrounded the city, Westerners and their allies were evacuated in a panic by U.S. Navy helicopters.
